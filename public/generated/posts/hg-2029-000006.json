@@ -1,0 +1,64 @@
+{
+  "id": "hg-2029-000006",
+  "displayNo": 640688,
+  "timestamp": "2029-07-11T16:25:49+09:00",
+  "year": 2029,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "현장 끝나고 샤워 두번했다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "흙이 어디서 계속 나오는지 모르겠음",
+  "attachments": [],
+  "stats": {
+    "views": 9452,
+    "recommend": 23
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2029-000006-001",
+      "parentId": null,
+      "timestamp": "2029-07-11T16:32:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "왜 이런글이 정보글보다 댓글 잘달림ㅋㅋ ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000006-002",
+      "parentId": "nat-2029-000006-001",
+      "timestamp": "2029-07-11T16:34:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "본문 세줄 댓글 오십개가 커뮤지 / 내생각은 그럼",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

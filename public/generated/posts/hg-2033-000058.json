@@ -1,0 +1,328 @@
+{
+  "id": "hg-2033-000058",
+  "displayNo": 1466174,
+  "timestamp": "2033-03-05T18:22:05+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마법계 둘 넣었을때 좋은점 나쁜점",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "112.171"
+  },
+  "content": "화력은 빠른데 소모량 관리 못하면 후반이 빡셈",
+  "attachments": [],
+  "stats": {
+    "views": 5280,
+    "recommend": 42
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000058-001",
+      "parentId": null,
+      "timestamp": "2033-03-05T18:23:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-002",
+      "parentId": null,
+      "timestamp": "2033-03-05T18:30:41+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "별거 아닌 팁이 사고 한번 나면 평생 기억남. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-003",
+      "parentId": null,
+      "timestamp": "2033-03-05T18:39:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 ㅋㅋ 인터넷에서 말하는거랑 체감 꽤 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-004",
+      "parentId": null,
+      "timestamp": "2033-03-05T18:48:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 ㅋㅋ 입구부터 꼬여서 하루 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-005",
+      "parentId": null,
+      "timestamp": "2033-03-05T18:58:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-006",
+      "parentId": null,
+      "timestamp": "2033-03-05T19:05:42+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "장비보다 사람 합이 먼저라는 말 괜히 나오는게 아님. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-007",
+      "parentId": null,
+      "timestamp": "2033-03-05T19:11:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "댓글 구경하러 왔다 ㅋㅋ 작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-008",
+      "parentId": "nat-2033-000058-004",
+      "timestamp": "2033-03-05T19:12:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "진짜 헛소리도 당당하게 하네 근데 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-009",
+      "parentId": null,
+      "timestamp": "2033-03-05T19:20:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "이거 커뮤발인지 기사발인지부터 말해 근데 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-010",
+      "parentId": "nat-2033-000058-001",
+      "timestamp": "2033-03-05T19:25:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "와",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-011",
+      "parentId": "nat-2033-000058-005",
+      "timestamp": "2033-03-05T19:27:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "정보글 보러왔다가 원숭이 싸움 구경중. 오늘도 평화롭다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-012",
+      "parentId": "nat-2033-000058-009",
+      "timestamp": "2033-03-05T19:27:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "작년에 비슷한 조건으로 한번 갔는데 지금도 그 얘기하면 욕함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-013",
+      "parentId": "nat-2033-000058-006",
+      "timestamp": "2033-03-05T19:31:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "뭐임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-014",
+      "parentId": "nat-2033-000058-005",
+      "timestamp": "2033-03-05T19:32:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "병신아 그건 다른 얘기임 / 그래서 근거가 뭔데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-015",
+      "parentId": "nat-2033-000058-001",
+      "timestamp": "2033-03-05T19:38:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "현장 만능론 또 나왔네. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-016",
+      "parentId": null,
+      "timestamp": "2033-03-05T19:47:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "오피셜 캡처 말고 링크 줘. 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-017",
+      "parentId": null,
+      "timestamp": "2033-03-05T19:48:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "현장 보조 몇번 해봤는데. 인터넷에서 말하는거랑 체감 꽤 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-018",
+      "parentId": null,
+      "timestamp": "2033-03-05T19:50:26+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 근데 한번 데이고 생각 바뀜",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-019",
+      "parentId": null,
+      "timestamp": "2033-03-05T19:54:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "장비보다 사람 합이 먼저라는 말 괜히 나오는게 아님. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-020",
+      "parentId": null,
+      "timestamp": "2033-03-05T20:01:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "글쓴이 그 뒤에 후기 없음?\n검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-021",
+      "parentId": null,
+      "timestamp": "2033-03-05T20:08:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-022",
+      "parentId": "nat-2033-000058-021",
+      "timestamp": "2033-03-05T20:11:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "니들 둘 다 진정해라 / 둘다 그만해. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-023",
+      "parentId": null,
+      "timestamp": "2033-03-05T20:11:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "다 떠나서 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 괜히 엮이지마. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000058-024",
+      "parentId": null,
+      "timestamp": "2033-03-05T20:19:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "좆문가 또 왔네. 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

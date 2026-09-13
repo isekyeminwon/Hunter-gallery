@@ -1,0 +1,196 @@
+{
+  "id": "hg-2026-000024",
+  "displayNo": 424387,
+  "timestamp": "2026-12-14T10:22:47+09:00",
+  "year": 2026,
+  "era": "FORMATION",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "면허 빌려주면 처벌받는거 맞지?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "58.29"
+  },
+  "content": "구인방에서 돈 준다고 빌려달라는 놈 봤는데 미친거 아님",
+  "attachments": [],
+  "stats": {
+    "views": 12334,
+    "recommend": 23
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2026-000024-001",
+      "parentId": null,
+      "timestamp": "2026-12-14T10:29:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "애초에 면허 관련해서 기사마다 말 조금씩 다른게 문제임 괜히 엮이지마. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-002",
+      "parentId": null,
+      "timestamp": "2026-12-14T10:31:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "오늘 비오는데 장비 말리기 개귀찮음 근데 누가 메뉴 하나만 골라줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-003",
+      "parentId": null,
+      "timestamp": "2026-12-14T10:40:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "이거 지역마다 차이남? ㅋㅋ 최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-004",
+      "parentId": null,
+      "timestamp": "2026-12-14T10:47:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "진짜 헛소리도 당당하게 하네 / 말을 해도 꼭 저렇게 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-005",
+      "parentId": null,
+      "timestamp": "2026-12-14T10:57:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "이거 지역마다 차이남? / 검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-006",
+      "parentId": null,
+      "timestamp": "2026-12-14T10:58:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "이거 읽다가 버스 지나침 ㅋㅋ 작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-007",
+      "parentId": "nat-2026-000024-004",
+      "timestamp": "2026-12-14T11:02:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "내일 검사인데 이런 글 왜 클릭했지 근데 퇴근이나 시켜줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-008",
+      "parentId": null,
+      "timestamp": "2026-12-14T11:04:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "애매하면 안하는게 맞음 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-009",
+      "parentId": null,
+      "timestamp": "2026-12-14T11:06:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "나도 비슷한 일 한번 겪었는데. 그때 이후로 무조건 두번 확인함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-010",
+      "parentId": "nat-2026-000024-001",
+      "timestamp": "2026-12-14T11:07:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "진짜 헛소리도 당당하게 하네. 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-011",
+      "parentId": null,
+      "timestamp": "2026-12-14T11:10:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "뭔 자신감으로 확정짓냐 / ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-012",
+      "parentId": null,
+      "timestamp": "2026-12-14T11:13:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "댓글 믿고 움직였다가 걸리면 아무도 책임 안짐. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000024-013",
+      "parentId": null,
+      "timestamp": "2026-12-14T11:20:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "면허 관련해서 협회에 물어본 사람? ㅋㅋ 최근글이 잘 안나옴",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

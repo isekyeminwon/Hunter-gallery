@@ -1,0 +1,64 @@
+{
+  "id": "hg-2028-000023",
+  "displayNo": 580283,
+  "timestamp": "2028-12-04T22:56:49+09:00",
+  "year": 2028,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석값 오르면 전기요금 내려가냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "아무도 대답 못하는데 매번 궁금함",
+  "attachments": [],
+  "stats": {
+    "views": 27579,
+    "recommend": 175
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2028-000023-001",
+      "parentId": null,
+      "timestamp": "2028-12-04T22:59:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "이런날도 있어야 게시판이 굴러가지 ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000023-002",
+      "parentId": null,
+      "timestamp": "2028-12-04T23:04:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이거 보험 처리도 똑같음?. 아는척 말고 해본사람만",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

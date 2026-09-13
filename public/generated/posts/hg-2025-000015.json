@@ -1,0 +1,640 @@
+{
+  "id": "hg-2025-000015",
+  "displayNo": 313146,
+  "timestamp": "2025-06-24T01:16:00+09:00",
+  "year": 2025,
+  "era": "FORMATION",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "KANG_MUHYEOK_S",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "강무혁 인터뷰 생각보다 말없네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "220.79"
+  },
+  "content": "질문 열개 받아도 답 세줄함\n댓글에서 벌써 캐릭터 잡힘 ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 26568,
+    "recommend": 693
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2025-000015-001",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:16:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "댓글에서 영업하는 애들 진짜 빠름 / 아님말고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-002",
+      "parentId": "nat-2025-000015-001",
+      "timestamp": "2025-06-24T01:17:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "댓글 구경하러 왔다. 작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-003",
+      "parentId": "nat-2025-000015-002",
+      "timestamp": "2025-06-24T01:19:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "없으면 확정처럼 말하지마. 조건 하나만 달라도 얘기 완전 달라짐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-004",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:20:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "흠",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-005",
+      "parentId": "nat-2025-000015-004",
+      "timestamp": "2025-06-24T01:22:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "이런 글에서 안싸우면 헌갤 망함. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-006",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:24:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "본문보다 작성자 말투가 더 킹받음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-007",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:25:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "작년에 비슷한 조건으로 한번 갔는데 근데 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-008",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:27:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "인터뷰 말수 적다고 짤 돌아다니던 것도 이때였지\n댓글만 봐도 당시 혼란이 느껴짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-009",
+      "parentId": "nat-2025-000015-006",
+      "timestamp": "2025-06-24T01:28:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-010",
+      "parentId": "nat-2025-000015-001",
+      "timestamp": "2025-06-24T01:30:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "글쓴이 도망갔는데 댓글끼리 3차전중 / 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-011",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:32:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "S급이면 총 맞아도 되냐는 질문은 지금봐도 개웃김 ㅋㅋ 이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-012",
+      "parentId": "nat-2025-000015-001",
+      "timestamp": "2025-06-24T01:34:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "근데 거기서 결론이 왜 그렇게 감. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-013",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:36:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "뭔 개소리야 근데 웃겨서 화도 안남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-014",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:39:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "엥",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-015",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:41:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "여기서 핵심은 강무혁 하나 보고 업계 전체 결론내는건 너무 감 좀 에바임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-016",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:42:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "친구가 저쪽 일하는데 근데 그때 이후로 무조건 두번 확인함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-017",
+      "parentId": "nat-2025-000015-015",
+      "timestamp": "2025-06-24T01:44:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "둘이 서로 다른 얘기하고 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-018",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:46:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "짤 하나 잘못 잘리면 하루종일 해명글 올라옴 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-019",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:48:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "이거 커뮤발인지 기사발인지부터 말해 근데 오늘 카더라 너무 많이 돎",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-020",
+      "parentId": "nat-2025-000015-004",
+      "timestamp": "2025-06-24T01:49:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "에반데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-021",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:49:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "웃긴게 강무혁 얘기만 나오면 갑자기 다들 현장 전문가 됨 이건 좀 더 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-022",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:50:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "모르면 가만히라도 있어라 근데 말을 해도 꼭 저렇게 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-023",
+      "parentId": "nat-2025-000015-004",
+      "timestamp": "2025-06-24T01:51:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌? ㅋㅋ 오늘도 평화롭다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-024",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:52:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "근데 점심 뭐먹냐. 아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-025",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:54:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "개소리를 정성스럽게도 썼네 ㅋㅋ 아무말이나 던지고 튀네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-026",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:56:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "뭐임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-027",
+      "parentId": null,
+      "timestamp": "2025-06-24T01:58:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "헌터가 뉴스 스타 취급받기 시작한 시점이 이때쯤인듯. 이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-028",
+      "parentId": "nat-2025-000015-024",
+      "timestamp": "2025-06-24T02:00:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "그럴수도",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-029",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:01:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-030",
+      "parentId": "nat-2025-000015-022",
+      "timestamp": "2025-06-24T02:04:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "모르면 가만히라도 있어라. 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-031",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:04:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "짤만 던지지 말고 원본 좀. 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-032",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:05:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "그냥 내 생각인데 한명 경험담을 전체 룰로 만드는게 제일 위험함 이상함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-033",
+      "parentId": "nat-2025-000015-029",
+      "timestamp": "2025-06-24T02:06:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "작성자 IP 왤케 낯익냐 ㅋㅋ 답글 달지마 이제 못봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-034",
+      "parentId": "nat-2025-000015-029",
+      "timestamp": "2025-06-24T02:07:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "이런 글에서 안싸우면 헌갤 망함. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-035",
+      "parentId": "nat-2025-000015-024",
+      "timestamp": "2025-06-24T02:07:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "갑자기 왜 화냄ㅋㅋ / 둘다 그만해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-036",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:08:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "병신아 그건 다른 얘기임 / 댓글 더 달수록 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-037",
+      "parentId": "nat-2025-000015-032",
+      "timestamp": "2025-06-24T02:09:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "그 말이면 세상 모든 질문 끝남ㅋㅋ. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-038",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:11:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "팬 아니어도 이 영상은 볼만하네 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-039",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:12:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "확인된 내용만 적어줘. 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-040",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:14:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "일단 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 그냥 그렇다고. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-041",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:15:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "둘 다 개소리중임 근데 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-042",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:17:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "S급이면 총 맞아도 되냐는 질문은 지금봐도 개웃김\n근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-043",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:19:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "으음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-044",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:20:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "그건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-045",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:20:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "야구 보다가 여기까지 왔다. 누가 메뉴 하나만 골라줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-046",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:22:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "기사 링크부터 가져와 근데 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-047",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:23:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "개인적으로 강무혁 하나 보고 업계 전체 결론내는건 너무 감 이건 맞는말임. 인터넷 말보다 계약서 한줄이 더 셈.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-048",
+      "parentId": "nat-2025-000015-043",
+      "timestamp": "2025-06-24T02:25:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "작성자 IP 왤케 낯익냐\n이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-049",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:27:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "내 장비 배송 아직도 안옴 ㅋㅋ 퇴근이나 시켜줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000015-050",
+      "parentId": null,
+      "timestamp": "2025-06-24T02:29:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "다 떠나서 강무혁는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 이건 경험자 말 들어봐야됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

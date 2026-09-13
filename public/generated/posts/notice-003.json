@@ -1,0 +1,39 @@
+{
+  "id": "notice-003",
+  "displayNo": 9900003,
+  "timestamp": "2042-04-21T14:15:00+09:00",
+  "year": 2042,
+  "era": "CURRENT",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "공략대·짐꾼 구인글 사기 주의",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "선입금·과도한 장비 보증금·신분증 원본 요구하는 구인은 특히 주의하세요.\n계약 조건과 게이트 정보는 출발 전에 다시 확인하시기 바랍니다.",
+  "attachments": [],
+  "stats": {
+    "views": 1652098,
+    "recommend": 0
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

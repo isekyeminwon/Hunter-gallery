@@ -1,0 +1,40 @@
+{
+  "id": "hg-2023-000004",
+  "displayNo": 219902,
+  "displayNoLabel": "외부기록",
+  "timestamp": "2023-05-12T22:49:00+09:00",
+  "year": 2023,
+  "era": "LEGACY",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "FIRST_AWAKENINGS",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "능력 생긴 친구 인증 올린다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.7"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 1942,
+    "recommend": 74
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "POLICY_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

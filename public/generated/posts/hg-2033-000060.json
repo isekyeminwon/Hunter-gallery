@@ -1,0 +1,292 @@
+{
+  "id": "hg-2033-000060",
+  "displayNo": 1472489,
+  "timestamp": "2033-01-17T12:14:47+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마법계 둘 넣었을때 좋은점 나쁜점 후기",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "화력은 빠른데 소모량 관리 못하면 후반이 빡셈",
+  "attachments": [],
+  "stats": {
+    "views": 7518,
+    "recommend": 52
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000060-001",
+      "parentId": null,
+      "timestamp": "2033-01-17T12:17:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "헌갤 평균 IQ 측정 들어갑니다 ㅋㅋ 내일까지 싸워줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-002",
+      "parentId": "nat-2033-000060-001",
+      "timestamp": "2033-01-17T12:26:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "우리 파티는 저런 상황 오면 ㅋㅋ 별거 아닌 실수가 제일 오래감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-003",
+      "parentId": "nat-2033-000060-002",
+      "timestamp": "2033-01-17T12:27:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐 근데 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-004",
+      "parentId": null,
+      "timestamp": "2033-01-17T12:29:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "현장 관련해서 협회에 물어본 사람? / 댓글 싸우지말고 답만좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-005",
+      "parentId": null,
+      "timestamp": "2033-01-17T12:33:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "웃긴게 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 아닌가. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-006",
+      "parentId": null,
+      "timestamp": "2033-01-17T12:34:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "작성자 말대로면 내 고양이도 A급임 / 제발 계속해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-007",
+      "parentId": null,
+      "timestamp": "2033-01-17T12:38:21+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "초보가 제일 먼저 확인할거 뭐임?. 댓글 싸우지말고 답만좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-008",
+      "parentId": null,
+      "timestamp": "2033-01-17T12:40:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "근데 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이건 경험자 말 들어봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-009",
+      "parentId": null,
+      "timestamp": "2033-01-17T12:42:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-010",
+      "parentId": "nat-2033-000060-002",
+      "timestamp": "2033-01-17T12:50:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "이걸로 싸우는게 더 웃김 / 둘다 그만해. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-011",
+      "parentId": null,
+      "timestamp": "2033-01-17T12:57:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "으음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-012",
+      "parentId": null,
+      "timestamp": "2033-01-17T13:00:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-013",
+      "parentId": "nat-2033-000060-009",
+      "timestamp": "2033-01-17T13:02:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "글쓴이 그 뒤에 후기 없음? / 최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-014",
+      "parentId": null,
+      "timestamp": "2033-01-17T13:08:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "지금 나온 것만 보면 현장 하나 보고 업계 전체 결론내는건 너무 감 이상함. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-015",
+      "parentId": null,
+      "timestamp": "2033-01-17T13:14:15+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "솔직히 현장 하나 보고 업계 전체 결론내는건 너무 감 난 저렇게는 안봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-016",
+      "parentId": "nat-2033-000060-012",
+      "timestamp": "2033-01-17T13:14:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데 ㅋㅋ 한번 데이고 생각 바뀜",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-017",
+      "parentId": "nat-2033-000060-012",
+      "timestamp": "2033-01-17T13:22:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "원글 세줄인데 토론회가 열림 / 팝콘 부족함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-018",
+      "parentId": null,
+      "timestamp": "2033-01-17T13:27:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "글쓴이 그 뒤에 후기 없음?. 댓글 싸우지말고 답만좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-019",
+      "parentId": null,
+      "timestamp": "2033-01-17T13:31:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "현장 보조 몇번 해봤는데 ㅋㅋ 그때 이후로 무조건 두번 확인함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-020",
+      "parentId": "nat-2033-000060-002",
+      "timestamp": "2033-01-17T13:32:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "그건 별개 문제지. 다시 읽어봐. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000060-021",
+      "parentId": "nat-2033-000060-004",
+      "timestamp": "2033-01-17T13:38:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "그건 좀 아닌듯. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

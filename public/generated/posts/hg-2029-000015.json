@@ -1,0 +1,244 @@
+{
+  "id": "hg-2029-000015",
+  "displayNo": 672670,
+  "timestamp": "2029-04-13T21:28:41+09:00",
+  "year": 2029,
+  "era": "INDUSTRY",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "C급이면 길드 취업 어디부터 봄?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.235"
+  },
+  "content": "중소길드부터 경력 쌓는게 나은지 바로 큰데 넣어보는게 나은지 궁금",
+  "attachments": [],
+  "stats": {
+    "views": 6339,
+    "recommend": 44
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2029-000015-001",
+      "parentId": null,
+      "timestamp": "2029-04-13T21:33:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐. 그래서 근거가 뭔데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-002",
+      "parentId": "nat-2029-000015-001",
+      "timestamp": "2029-04-13T21:38:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "모르면 가만히라도 있어라 근데 ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-003",
+      "parentId": "nat-2029-000015-001",
+      "timestamp": "2029-04-13T21:41:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "C급 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-004",
+      "parentId": "nat-2029-000015-001",
+      "timestamp": "2029-04-13T21:44:02+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "근데 거기서 결론이 왜 그렇게 감. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-005",
+      "parentId": "nat-2029-000015-004",
+      "timestamp": "2029-04-13T21:50:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "C급 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-006",
+      "parentId": "nat-2029-000015-005",
+      "timestamp": "2029-04-13T21:53:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "둘이 서로 다른 얘기하고 있음ㅋㅋ ㅋㅋ. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-007",
+      "parentId": null,
+      "timestamp": "2029-04-13T21:58:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "친구가 저쪽 일하는데 ㅋㅋ 사람마다 말 다른 이유는 알겠더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-008",
+      "parentId": null,
+      "timestamp": "2029-04-13T22:08:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "아이고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-009",
+      "parentId": "nat-2029-000015-003",
+      "timestamp": "2029-04-13T22:11:06+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "모르겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-010",
+      "parentId": "nat-2029-000015-007",
+      "timestamp": "2029-04-13T22:14:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "C급 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-011",
+      "parentId": null,
+      "timestamp": "2029-04-13T22:23:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "C급 관련해서 협회에 물어본 사람? / 검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-012",
+      "parentId": null,
+      "timestamp": "2029-04-13T22:25:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "검색해도 안나오는데 어디서 봄 ㅋㅋ 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-013",
+      "parentId": null,
+      "timestamp": "2029-04-13T22:30:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "뉴비 질문에 왜 다들 이렇게 화나있냐. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-014",
+      "parentId": "nat-2029-000015-010",
+      "timestamp": "2029-04-13T22:40:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "니가 직접 봤냐고 근데 진짜로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-015",
+      "parentId": null,
+      "timestamp": "2029-04-13T22:44:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "등급표 들고 계산기 두드리는 애 또 나옴\nㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-016",
+      "parentId": null,
+      "timestamp": "2029-04-13T22:45:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "팀장한테 비슷한거 물어봤는데. 지금도 그 얘기하면 욕함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000015-017",
+      "parentId": "nat-2029-000015-012",
+      "timestamp": "2029-04-13T22:47:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "이거 읽다가 버스 지나침. 답글 달지마 이제 못봄",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

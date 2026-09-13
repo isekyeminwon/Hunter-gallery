@@ -1,0 +1,40 @@
+{
+  "id": "hg-2023-000005",
+  "displayNo": 225238,
+  "displayNoLabel": "캡처본",
+  "timestamp": "2023-05-13T02:31:00+09:00",
+  "year": 2023,
+  "era": "LEGACY",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "FIRST_AWAKENINGS",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "병원에서 이상한 검사 받았다는 사람 있음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 11052,
+    "recommend": 258
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "AUTHOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

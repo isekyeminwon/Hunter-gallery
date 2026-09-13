@@ -1,0 +1,472 @@
+{
+  "id": "hg-2027-000009",
+  "displayNo": 460414,
+  "timestamp": "2027-02-17T03:10:00+09:00",
+  "year": 2027,
+  "era": "FORMATION",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "MANDATORY_REGISTRATION",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "재검 신청하면 수치 바뀌기도 함?",
+  "author": {
+    "type": "fixed",
+    "name": "서류지옥",
+    "ip": null
+  },
+  "content": "친구가 기계 오류 같다고 다시 받는다는데 의미 있음?",
+  "attachments": [],
+  "stats": {
+    "views": 5224,
+    "recommend": 110
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2027-000009-001",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:11:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "팀장한테 비슷한거 물어봤는데 우리는 바로 철수 얘기부터 꺼냄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-002",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:11:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "회사에서 검사결과 내라는걸로 한동안 말 많았지 ㅋㅋ 댓글만 봐도 당시 혼란이 느껴짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-003",
+      "parentId": "nat-2027-000009-001",
+      "timestamp": "2027-02-17T03:14:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "아 배고파 ㅋㅋ 왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-004",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:15:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "여기서 핵심은 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이건 좀 더 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-005",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:16:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "광고가 본문보다 눈에 들어오네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-006",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:18:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "진짜 헛소리도 당당하게 하네 근데 진짜로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-007",
+      "parentId": "nat-2027-000009-004",
+      "timestamp": "2027-02-17T03:19:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "팀장한테 비슷한거 물어봤는데. 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-008",
+      "parentId": "nat-2027-000009-005",
+      "timestamp": "2027-02-17T03:20:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "현장마다 다르면 보통 뭘 기준으로 봄? / 댓글 싸우지말고 답만좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-009",
+      "parentId": "nat-2027-000009-006",
+      "timestamp": "2027-02-17T03:22:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "없으면 확정처럼 말하지마. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-010",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:23:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "재검하면 인생역전할줄 아는 사람 매년 나옴\n한시간 뒤 글이랑 내용 또 달라졌던 기억남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-011",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:25:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "모르면 가만히라도 있어라 / 그래서 근거가 뭔데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-012",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:27:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "작성자 존나 급하네 / 댓글 더 달수록 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-013",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:29:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "내가 보기엔 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 그래서 난 아직 보류. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-014",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:29:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "지금 나온 것만 보면 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 나중에 결과 보면 알겠지. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-015",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:30:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "내가 잘못 아는거 아니면 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 말은 된다. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-016",
+      "parentId": "nat-2027-000009-013",
+      "timestamp": "2027-02-17T03:30:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "",
+      "deleted": true
+    },
+    {
+      "id": "nat-2027-000009-017",
+      "parentId": "nat-2027-000009-006",
+      "timestamp": "2027-02-17T03:31:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이거 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-018",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:31:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "대충 봐도 이거 얘기만 나오면 갑자기 다들 현장 전문가 됨 난 저렇게는 안봄. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-019",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:32:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "일단 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 확정짓긴 이른듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-020",
+      "parentId": "nat-2027-000009-012",
+      "timestamp": "2027-02-17T03:32:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "오늘 비오는데 장비 말리기 개귀찮음. 작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-021",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:33:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "검사 안받으면 어쩌냐는 질문 하루에 열개씩 올라왔음 ㅋㅋ 작성자도 뒤에 정정했으면 좋았을듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-022",
+      "parentId": "nat-2027-000009-012",
+      "timestamp": "2027-02-17T03:35:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "그럼 반대로 생각해봐 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-023",
+      "parentId": "nat-2027-000009-021",
+      "timestamp": "2027-02-17T03:38:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "미친",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-024",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:40:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데 사람마다 말 다른 이유는 알겠더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-025",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:42:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "협회 직원 댓글에만 지금 42명 있음 / 이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-026",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:44:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "모르겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-027",
+      "parentId": "nat-2027-000009-006",
+      "timestamp": "2027-02-17T03:46:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "케바케임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-028",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:48:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "댓글 하나에 왜 이렇게 긁힘 / 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-029",
+      "parentId": "nat-2027-000009-019",
+      "timestamp": "2027-02-17T03:49:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "댓글 잘못 단거 아님?. 진짜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-030",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:51:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "예전에 처음 갔을땐 나도. 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-031",
+      "parentId": "nat-2027-000009-023",
+      "timestamp": "2027-02-17T03:52:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "내일 검사인데 이런 글 왜 클릭했지\n나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-032",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:53:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-033",
+      "parentId": "nat-2027-000009-028",
+      "timestamp": "2027-02-17T03:55:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "그래서 계약서 보라는거잖아. 인터넷 말보다 계약서 한줄이 더 셈.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-034",
+      "parentId": "nat-2027-000009-025",
+      "timestamp": "2027-02-17T03:57:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐 ㅋㅋ 그건 니 파티 얘기고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-035",
+      "parentId": null,
+      "timestamp": "2027-02-17T03:58:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "공식 공지 뜬거 맞음? ㅋㅋ 오늘 카더라 너무 많이 돎",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000009-036",
+      "parentId": null,
+      "timestamp": "2027-02-17T04:00:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "질문자 패지말고 틀린 부분만 말해주면 되잖아 / 아님말고",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

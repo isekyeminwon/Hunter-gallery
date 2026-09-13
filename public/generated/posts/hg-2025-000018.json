@@ -1,0 +1,64 @@
+{
+  "id": "hg-2025-000018",
+  "displayNo": 321928,
+  "timestamp": "2025-08-05T08:11:07+09:00",
+  "year": 2025,
+  "era": "FORMATION",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "회사 회식에서 S급 얘기만 두시간함",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "부장님이 자기가 스무살이었으면 각성했을거라는데 누가 좀 말려라",
+  "attachments": [],
+  "stats": {
+    "views": 3373,
+    "recommend": 22
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2025-000018-001",
+      "parentId": null,
+      "timestamp": "2025-08-05T08:11:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "본문 세줄 댓글 오십개가 커뮤지 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000018-002",
+      "parentId": null,
+      "timestamp": "2025-08-05T08:16:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 한번 데이고 생각 바뀜",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

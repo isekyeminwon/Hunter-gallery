@@ -1,0 +1,176 @@
+[
+  {
+    "id": "hg-2022-000006",
+    "displayNo": 190331,
+    "displayNoLabel": "외부기록",
+    "timestamp": "2022-12-24T23:38:09+09:00",
+    "year": 2022,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "크리스마스인데 치킨집 문닫음",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 1984,
+      "recommend": 2
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 7,
+    "popularityScore": 11
+  },
+  {
+    "id": "hg-2022-000005",
+    "displayNo": 177244,
+    "displayNoLabel": "캡처본",
+    "timestamp": "2022-11-19T19:54:27+09:00",
+    "year": 2022,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "게이트 오래 놔둔 쪽 사진 봤냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 73902,
+      "recommend": 286
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 33,
+    "popularityScore": 605
+  },
+  {
+    "id": "hg-2022-000004",
+    "displayNo": 141782,
+    "displayNoLabel": "외부기록",
+    "timestamp": "2022-07-28T13:11:03+09:00",
+    "year": 2022,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "요즘 뉴스에서 말하는 게이트가 그냥 저거 말하는거임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.234"
+    },
+    "stats": {
+      "views": 10388,
+      "recommend": 7
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 19,
+    "popularityScore": 33
+  },
+  {
+    "id": "hg-2022-000003",
+    "displayNo": 119304,
+    "displayNoLabel": "외부기록",
+    "timestamp": "2022-04-03T22:07:16+09:00",
+    "year": 2022,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "정보",
+    "title": "통제선 안쪽 갔다왔다 질문받는다",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "175.223"
+    },
+    "stats": {
+      "views": 58421,
+      "recommend": 311
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": true,
+      "locked": false
+    },
+    "deletedStatus": "AUTHOR_DELETED",
+    "commentCount": 0,
+    "popularityScore": 622
+  },
+  {
+    "id": "hg-2022-000002",
+    "displayNo": 102917,
+    "displayNoLabel": "외부기록",
+    "timestamp": "2022-02-12T09:18:44+09:00",
+    "year": 2022,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "어제 그 검은거 아직도 있음?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.37"
+    },
+    "stats": {
+      "views": 31172,
+      "recommend": 18
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 26,
+    "popularityScore": 62
+  },
+  {
+    "id": "hg-2022-000001",
+    "displayNo": 102483,
+    "displayNoLabel": "외부기록",
+    "timestamp": "2022-02-11T16:42:18+09:00",
+    "year": 2022,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "하늘에 저 검은거 뭐냐?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.38"
+    },
+    "stats": {
+      "views": 186320,
+      "recommend": 94
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 25,
+    "popularityScore": 213
+  }
+]

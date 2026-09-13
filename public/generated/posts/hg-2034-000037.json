@@ -1,0 +1,160 @@
+{
+  "id": "hg-2034-000037",
+  "displayNo": 1648008,
+  "timestamp": "2034-06-25T10:27:23+09:00",
+  "year": 2034,
+  "era": "SS_ERA",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석 정산 세금 처리 어떻게함?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "125.180"
+  },
+  "content": "개인으로 받은 소액도 신고해야되는지 모르겠음",
+  "attachments": [],
+  "stats": {
+    "views": 15436,
+    "recommend": 64
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2034-000037-001",
+      "parentId": null,
+      "timestamp": "2034-06-25T10:32:57+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "마석 이거 실제 해본 사람 있음\n최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000037-002",
+      "parentId": "nat-2034-000037-001",
+      "timestamp": "2034-06-25T10:38:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "그건 팀마다 다름. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000037-003",
+      "parentId": null,
+      "timestamp": "2034-06-25T10:45:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000037-004",
+      "parentId": null,
+      "timestamp": "2034-06-25T10:50:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "아 배고파\n작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000037-005",
+      "parentId": null,
+      "timestamp": "2034-06-25T10:55:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000037-006",
+      "parentId": null,
+      "timestamp": "2034-06-25T11:02:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "처음이면 헷갈릴만한데 답을 좀 해줘라. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000037-007",
+      "parentId": null,
+      "timestamp": "2034-06-25T11:04:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "뉴비 질문에 왜 다들 이렇게 화나있냐 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000037-008",
+      "parentId": "nat-2034-000037-007",
+      "timestamp": "2034-06-25T11:12:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "마석 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000037-009",
+      "parentId": "nat-2034-000037-001",
+      "timestamp": "2034-06-25T11:14:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이 글 보다가 라면 불었다. 본문이랑 상관없긴 한데 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000037-010",
+      "parentId": null,
+      "timestamp": "2034-06-25T11:21:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "원문 어디냐 ㅋㅋ 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

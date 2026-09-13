@@ -1,0 +1,316 @@
+{
+  "id": "hg-2032-000004",
+  "displayNo": 1114461,
+  "timestamp": "2032-05-08T12:32:00+09:00",
+  "year": 2032,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "KIM_CHAEYEON_S",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "서리여왕 별명 누가 처음 붙였냐ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "공식 명칭도 아닌데 하루만에 다 그렇게 부름",
+  "attachments": [],
+  "stats": {
+    "views": 104911,
+    "recommend": 576
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2032-000004-001",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:34:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "작성자 IP 왤케 낯익냐 ㅋㅋ 나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-002",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:35:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "현장 기준으론 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 이건 좀 더 봐야됨. 지금 정보량으로는 누구도 장담 못함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-003",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:35:41+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "인터뷰 차갑다고 성격까지 멋대로 정하는게 더 웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-004",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:36:09+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "확인된 내용만 적어줘 근데 출처 없이 퍼지는 속도만 존나 빠름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-005",
+      "parentId": "nat-2032-000004-001",
+      "timestamp": "2032-05-08T12:38:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "나 내일 출근인데 왜 이거 보고있냐. 퇴근이나 시켜줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-006",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:41:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "왜 이런글이 정보글보다 댓글 잘달림ㅋㅋ ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-007",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:42:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "광역기 범위 픽셀로 재는 글 올라온게 레전드. 실시간으로 본 사람들은 더 정신없었을듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-008",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:44:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "제일 중요한건 한명 경험담을 전체 룰로 만드는게 제일 위험함 반박시 니말맞음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-009",
+      "parentId": "nat-2032-000004-001",
+      "timestamp": "2032-05-08T12:46:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "직접 해봄?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-010",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:49:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "이런 쓸데없는 글이 은근 오래 살아남음. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-011",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:49:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 ㅋㅋ 인터넷에서 말하는거랑 체감 꽤 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-012",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:52:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "아무 의미 없는 글에 다들 진심이네. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-013",
+      "parentId": "nat-2032-000004-006",
+      "timestamp": "2032-05-08T12:54:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "뭔 자신감으로 확정짓냐 ㅋㅋ 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-014",
+      "parentId": "nat-2032-000004-010",
+      "timestamp": "2032-05-08T12:56:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "갑자기 왜 화냄ㅋㅋ. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-015",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:58:29+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 ㅋㅋ 막상 가면 매뉴얼 찾게 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-016",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:58:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "진짜 헛소리도 당당하게 하네. 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-017",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:59:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데 그때 이후로 무조건 두번 확인함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-018",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:59:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "김채연 광역기 영상은 짧은데 임팩트가 너무 셌음\n실시간으로 본 사람들은 더 정신없었을듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-019",
+      "parentId": null,
+      "timestamp": "2032-05-08T13:02:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "글쓴이는 이미 갔는데 댓글끼리 싸우는중ㅋㅋ. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-020",
+      "parentId": null,
+      "timestamp": "2032-05-08T13:02:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "내가 잘못 아는거 아니면 이 글 하나 보고 업계 전체 결론내는건 너무 감 말은 된다. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-021",
+      "parentId": "nat-2032-000004-001",
+      "timestamp": "2032-05-08T13:03:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "그래서 계약서 보라는거잖아. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-022",
+      "parentId": "nat-2032-000004-001",
+      "timestamp": "2032-05-08T13:06:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "그럴수도",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000004-023",
+      "parentId": null,
+      "timestamp": "2032-05-08T13:08:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "작년에 비슷한 조건으로 한번 갔는데 근데 그때 이후로 무조건 두번 확인함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

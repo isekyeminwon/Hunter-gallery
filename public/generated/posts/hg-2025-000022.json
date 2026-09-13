@@ -1,0 +1,112 @@
+{
+  "id": "hg-2025-000022",
+  "displayNo": 334430,
+  "timestamp": "2025-12-18T09:25:31+09:00",
+  "year": 2025,
+  "era": "FORMATION",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "현장 보조 단기 알바 일당 오른거 맞음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.62"
+  },
+  "content": "게이트 근처 통제 보조 구인 봤는데 예전보다 두배임\n위험수당 붙은건가",
+  "attachments": [],
+  "stats": {
+    "views": 3920,
+    "recommend": 25
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2025-000022-001",
+      "parentId": null,
+      "timestamp": "2025-12-18T09:35:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "와",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000022-002",
+      "parentId": null,
+      "timestamp": "2025-12-18T09:42:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "엥",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000022-003",
+      "parentId": null,
+      "timestamp": "2025-12-18T09:47:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "출처가 뭐임 / 오늘 카더라 너무 많이 돎",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000022-004",
+      "parentId": null,
+      "timestamp": "2025-12-18T09:57:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "와",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000022-005",
+      "parentId": null,
+      "timestamp": "2025-12-18T10:04:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "보수 좋은데 조건 애매하면 더 무섭다 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000022-006",
+      "parentId": "nat-2025-000022-002",
+      "timestamp": "2025-12-18T10:07:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "아니 한명 경험담을 전체 룰로 만드는게 제일 위험함 이상함. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "notice-005",
+  "displayNo": 9900005,
+  "timestamp": "2042-08-19T17:40:00+09:00",
+  "year": 2042,
+  "era": "CURRENT",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "헌터·일반인 신상털이 및 현장 위치 노출 금지",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "실명·주소·연락처·가족정보를 이용한 신상털이는 금지합니다.\n진행 중인 공략의 집결지·대기 위치를 실시간으로 올리는 행위도 제재 대상입니다.",
+  "attachments": [],
+  "stats": {
+    "views": 1217502,
+    "recommend": 0
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

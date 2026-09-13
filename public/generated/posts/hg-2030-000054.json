@@ -1,0 +1,244 @@
+{
+  "id": "hg-2030-000054",
+  "displayNo": 933638,
+  "timestamp": "2030-07-01T19:57:35+09:00",
+  "year": 2030,
+  "era": "INDUSTRY",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "소형 언데드 게이트 다녀온 후기",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "정화계 없어서 시간 오래걸렸고\n소모품 진짜 많이씀",
+  "attachments": [],
+  "stats": {
+    "views": 16304,
+    "recommend": 50
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2030-000054-001",
+      "parentId": null,
+      "timestamp": "2030-07-01T19:58:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "작년에 비슷한 조건으로 한번 갔는데. 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-002",
+      "parentId": "nat-2030-000054-001",
+      "timestamp": "2030-07-01T20:03:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "게이트 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-003",
+      "parentId": null,
+      "timestamp": "2030-07-01T20:05:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "장비보다 사람 합이 먼저라는 말 괜히 나오는게 아님 ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-004",
+      "parentId": null,
+      "timestamp": "2030-07-01T20:14:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "오늘 비오는데 장비 말리기 개귀찮음\n작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-005",
+      "parentId": "nat-2030-000054-003",
+      "timestamp": "2030-07-01T20:21:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "게이트 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-006",
+      "parentId": "nat-2030-000054-001",
+      "timestamp": "2030-07-01T20:32:01+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "이 글 왜 개념감ㅋㅋ ㅋㅋ 답글 달지마 이제 못봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-007",
+      "parentId": null,
+      "timestamp": "2030-07-01T20:40:47+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "니가 직접 봤냐고 / 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-008",
+      "parentId": null,
+      "timestamp": "2030-07-01T20:46:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "개인적으로 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 그냥 그렇다고. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-009",
+      "parentId": "nat-2030-000054-008",
+      "timestamp": "2030-07-01T20:49:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐 / 아무말이나 던지고 튀네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-010",
+      "parentId": null,
+      "timestamp": "2030-07-01T20:57:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "장비보다 사람 합이 먼저라는 말 괜히 나오는게 아님. 인터넷 말보다 계약서 한줄이 더 셈.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-011",
+      "parentId": null,
+      "timestamp": "2030-07-01T21:03:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "아 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-012",
+      "parentId": null,
+      "timestamp": "2030-07-01T21:05:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "동기 하나가 저거 때문에 한동안 고생했는데 ㅋㅋ 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-013",
+      "parentId": null,
+      "timestamp": "2030-07-01T21:10:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "아",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-014",
+      "parentId": "nat-2030-000054-012",
+      "timestamp": "2030-07-01T21:14:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "게이트 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-015",
+      "parentId": null,
+      "timestamp": "2030-07-01T21:20:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "오피셜 캡처 말고 링크 줘 ㅋㅋ 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-016",
+      "parentId": null,
+      "timestamp": "2030-07-01T21:21:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "좆문가 또 왔네 ㅋㅋ 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000054-017",
+      "parentId": null,
+      "timestamp": "2030-07-01T21:23:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌?. 관리자도 보고 웃겠다",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

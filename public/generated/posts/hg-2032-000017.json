@@ -1,0 +1,388 @@
+{
+  "id": "hg-2032-000017",
+  "displayNo": 1162977,
+  "timestamp": "2032-05-15T12:42:00+09:00",
+  "year": 2032,
+  "era": "INDUSTRY",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "KIM_CHAEYEON_S",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "광역기 멋있다고 가까이 가려는 사람 뭐냐",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "훈련인데도 안전선 넘으려다 끌려나간 사람 있다네",
+  "attachments": [],
+  "stats": {
+    "views": 72028,
+    "recommend": 382
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2032-000017-001",
+      "parentId": null,
+      "timestamp": "2032-05-15T12:44:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이 댓글창만 게이트 닫으면 안되냐 ㅋㅋ 누가 말리냐 계속해봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-002",
+      "parentId": null,
+      "timestamp": "2032-05-15T12:46:36+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "병신아 그건 다른 얘기임. 진짜로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-003",
+      "parentId": null,
+      "timestamp": "2032-05-15T12:49:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "문제는 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 그냥 그렇다고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-004",
+      "parentId": null,
+      "timestamp": "2032-05-15T12:51:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "병신아 그건 다른 얘기임 ㅋㅋ 반박은 내용으로 해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-005",
+      "parentId": "nat-2032-000017-002",
+      "timestamp": "2032-05-15T12:54:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "마법계 장비업체들은 이날 진짜 웃었을듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-006",
+      "parentId": "nat-2032-000017-002",
+      "timestamp": "2032-05-15T12:57:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "아니 시발 뭔 결론이 그렇게 감. 댓글 더 달수록 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-007",
+      "parentId": null,
+      "timestamp": "2032-05-15T12:59:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "헐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-008",
+      "parentId": "nat-2032-000017-005",
+      "timestamp": "2032-05-15T13:00:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "댓글이 본문보다 위험등급 높음 / 팝콘 부족함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-009",
+      "parentId": "nat-2032-000017-001",
+      "timestamp": "2032-05-15T13:00:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "김채연 광역기 영상은 짧은데 임팩트가 너무 셌음\n근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-010",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:03:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "마법계 장비업체들은 이날 진짜 웃었을듯 ㅋㅋ 이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-011",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:05:39+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면. 인터넷에서 말하는거랑 체감 꽤 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-012",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:06:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "마법계 장비업체들은 이날 진짜 웃었을듯\n한시간 뒤 글이랑 내용 또 달라졌던 기억남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-013",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:08:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "애매하면 안하는게 맞음 ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-014",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:10:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함 ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-015",
+      "parentId": "nat-2032-000017-010",
+      "timestamp": "2032-05-15T13:12:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "케바케임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-016",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:14:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "예전에 처음 갔을땐 나도 근데 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-017",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:15:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "아니ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-018",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:17:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "훈련장 안전요원 걱정하는 댓글 은근 많았음ㅋㅋ. 한시간 뒤 글이랑 내용 또 달라졌던 기억남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-019",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:19:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "다 떠나서 이 규정 자체보다 조건이 뭐였는지부터 봐야됨 결론 내리기 애매함. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-020",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:20:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "마법계 장비업체들은 이날 진짜 웃었을듯\n작성자도 뒤에 정정했으면 좋았을듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-021",
+      "parentId": "nat-2032-000017-002",
+      "timestamp": "2032-05-15T13:22:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "없으면 확정처럼 말하지마. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-022",
+      "parentId": "nat-2032-000017-012",
+      "timestamp": "2032-05-15T13:23:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "현장에서는 다름. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-023",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:25:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "법 얘기는 댓글 믿지말고 공지 원문 봐라 제발 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-024",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:27:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "기사 세줄도 안읽고 댓글부터 쓰냐 / 아무말이나 던지고 튀네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-025",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:28:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "그래서 저녁 추천좀. 답글 달지마 이제 못봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-026",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:28:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "내 주변은 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 같음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-027",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:31:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "기사만 보면 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 좀 에바임. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-028",
+      "parentId": "nat-2032-000017-020",
+      "timestamp": "2032-05-15T13:34:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이 규정 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000017-029",
+      "parentId": null,
+      "timestamp": "2032-05-15T13:34:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "댓글 보니까 이 규정는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 좀 에바임. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

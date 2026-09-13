@@ -1,0 +1,305 @@
+{
+  "id": "hg-2023-000001",
+  "displayNo": 207331,
+  "displayNoLabel": "캡처본",
+  "timestamp": "2023-05-12T10:29:00+09:00",
+  "year": 2023,
+  "era": "LEGACY",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "FIRST_AWAKENINGS",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "각성이라는 말 누가 처음 쓰기 시작한거냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "뉴스 댓글 보면 다들 각성자라고 부르던데\n정부에서 정한 말임 아니면 인터넷 용어임?",
+  "attachments": [],
+  "stats": {
+    "views": 9504,
+    "recommend": 196
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2023-000001-001",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:29:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-002",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:31:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "근데 점심 뭐먹냐. 퇴근이나 시켜줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-003",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:32:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "벽 부쉈다는 기사 하나로 초능력자니 사기꾼이니 난리났었음\n한시간 뒤 글이랑 내용 또 달라졌던 기억남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-004",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:34:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "우리 파티는 저런 상황 오면 괜히 싸게 하려다 돈 더들었음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-005",
+      "parentId": "nat-2023-000001-003",
+      "timestamp": "2023-05-12T10:35:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "그 말이면 세상 모든 질문 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-006",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:37:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이거 보고 우리팀 막내 또 아는척할까봐 무섭다 / 이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-007",
+      "parentId": "nat-2023-000001-004",
+      "timestamp": "2023-05-12T10:38:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "댓글이 본문보다 위험등급 높음 ㅋㅋ ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-008",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:40:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "개빡세네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-009",
+      "parentId": "nat-2023-000001-008",
+      "timestamp": "2023-05-12T10:43:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "예외 하나 들고와서 전체가 틀렸다고 하면 어떡함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-010",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:44:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "검색하면 옛날글이랑 최신글 내용 달라서 더 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-011",
+      "parentId": "nat-2023-000001-003",
+      "timestamp": "2023-05-12T10:46:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "근거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-012",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:48:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "병원도 뭘 측정해야 되는지 몰라서 우왕좌왕했다더라 ㅋㅋ 근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-013",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:49:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "벽 부쉈다는 기사 하나로 초능력자니 사기꾼이니 난리났었음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-014",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:52:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "문제는 각성 얘기만 나오면 갑자기 다들 현장 전문가 됨 이라 봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-015",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:53:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "진짜 헛소리도 당당하게 하네 / ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-016",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:54:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "내일 검사인데 이런 글 왜 클릭했지\n퇴근이나 시켜줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-017",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:55:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "질문자 패지말고 틀린 부분만 말해주면 되잖아",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-018",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:55:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "이거 보험 처리도 똑같음?\n초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-019",
+      "parentId": "nat-2023-000001-009",
+      "timestamp": "2023-05-12T10:57:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "그래서 저녁 추천좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-020",
+      "parentId": null,
+      "timestamp": "2023-05-12T10:57:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "각성 이거 실제 해본 사람 있음 / 최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-021",
+      "parentId": null,
+      "timestamp": "2023-05-12T11:00:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "진짜 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 나중에 결과 보면 알겠지",
+      "deleted": false
+    },
+    {
+      "id": "nat-2023-000001-022",
+      "parentId": "nat-2023-000001-021",
+      "timestamp": "2023-05-12T11:01:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "이거 읽다가 버스 지나침 ㅋㅋ 왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

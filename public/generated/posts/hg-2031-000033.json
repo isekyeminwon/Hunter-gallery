@@ -1,0 +1,64 @@
+{
+  "id": "hg-2031-000033",
+  "displayNo": 1067064,
+  "timestamp": "2031-10-01T17:26:05+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "가족이 헌터면 명절 질문 폭탄임 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "58.29"
+  },
+  "content": "사촌들한테 능력 한번 보여달라는 말 백번 들음",
+  "attachments": [],
+  "stats": {
+    "views": 5391,
+    "recommend": 51
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000033-001",
+      "parentId": null,
+      "timestamp": "2031-10-01T17:35:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "협회 직원 댓글에만 지금 42명 있음\n팝콘 부족함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000033-002",
+      "parentId": "nat-2031-000033-001",
+      "timestamp": "2031-10-01T17:43:22+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "기사 다시 읽어봐. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

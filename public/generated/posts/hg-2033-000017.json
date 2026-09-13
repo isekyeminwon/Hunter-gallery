@@ -1,0 +1,448 @@
+{
+  "id": "hg-2033-000017",
+  "displayNo": 1328636,
+  "timestamp": "2033-09-16T17:25:00+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "LEE_SIYUL_SS",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "SS급 장비는 기존 규격으로 되나",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "14.32"
+  },
+  "content": "출력 감당하려면 전용장비 새로 짜야하는거 아님?",
+  "attachments": [],
+  "stats": {
+    "views": 209237,
+    "recommend": 602
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000017-001",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:26:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "문제는 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 난 저렇게는 안봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-002",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:28:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "나도 비슷한 일 한번 겪었는데 ㅋㅋ 막상 가면 매뉴얼 찾게 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-003",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:30:27+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "SS급 관련해서 협회에 물어본 사람?. 진짜 궁금해서 물음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-004",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:33:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "이거 최초 출처 누군데 / 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-005",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:34:01+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데 한번 데이고 생각 바뀜",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-006",
+      "parentId": "nat-2033-000017-003",
+      "timestamp": "2033-09-16T17:35:47+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "너 기사 잘못본듯. 지금 정보량으로는 누구도 장담 못함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-007",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:37:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "아",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-008",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:38:58+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "SS급 경험자 있으면 체감 좀 알려줘. 검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-009",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:40:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이거 최초 출처 누군데 근데 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-010",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:43:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "다 떠나서 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 아무튼 조심해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-011",
+      "parentId": "nat-2033-000017-003",
+      "timestamp": "2033-09-16T17:45:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "SS급 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-012",
+      "parentId": "nat-2033-000017-009",
+      "timestamp": "2033-09-16T17:47:54+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐 ㅋㅋ ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-013",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:50:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "일단 SS급 자체보다 조건이 뭐였는지부터 봐야됨 말은 된다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-014",
+      "parentId": "nat-2033-000017-010",
+      "timestamp": "2033-09-16T17:51:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "너 기사 잘못본듯. 본문보다 대댓글이 더 길어질 각이다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-015",
+      "parentId": "nat-2033-000017-010",
+      "timestamp": "2033-09-16T17:53:39+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "좆문가 또 왔네 / 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-016",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:55:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "기자 이름이라도 알려줘 근데 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-017",
+      "parentId": "nat-2033-000017-012",
+      "timestamp": "2033-09-16T17:57:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "오늘 비오는데 장비 말리기 개귀찮음\n아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-018",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:00:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "원글 세줄인데 토론회가 열림 ㅋㅋ 제발 계속해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-019",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:01:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "댓글이 본문보다 위험등급 높음. 내일까지 싸워줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-020",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:02:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "나도 처음엔 별거 아니라고 봤는데. 입구부터 꼬여서 하루 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-021",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:05:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "현장 보조 몇번 해봤는데. 입구부터 꼬여서 하루 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-022",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:06:41+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "글을 읽은거냐 제목만 본거냐 근데 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-023",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:08:26+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "애초에 SS급 하나 보고 업계 전체 결론내는건 너무 감 결론 내리기 애매함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-024",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:09:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "웃긴게 SS급 하나 보고 업계 전체 결론내는건 너무 감 이건 경험자 말 들어봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-025",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:11:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이거 최초 출처 누군데 ㅋㅋ 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-026",
+      "parentId": "nat-2033-000017-010",
+      "timestamp": "2033-09-16T18:13:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "진짜 헛소리도 당당하게 하네 근데 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-027",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:15:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "본문보다 작성자 말투가 더 킹받음\n왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-028",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:16:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "초보가 제일 먼저 확인할거 뭐임? ㅋㅋ 검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-029",
+      "parentId": "nat-2033-000017-021",
+      "timestamp": "2033-09-16T18:17:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "공식 뜨기 전엔 모름. 지금 정보량으로는 누구도 장담 못함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-030",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:18:11+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "아 배고파. 나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-031",
+      "parentId": "nat-2033-000017-022",
+      "timestamp": "2033-09-16T18:20:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "ㄱㅅ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-032",
+      "parentId": "nat-2033-000017-024",
+      "timestamp": "2033-09-16T18:22:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "SS급 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-033",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:24:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "지금 나온 것만 보면 SS급 얘기만 나오면 갑자기 다들 현장 전문가 됨 존나 웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000017-034",
+      "parentId": "nat-2033-000017-024",
+      "timestamp": "2033-09-16T18:26:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "왜 싸우냐ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

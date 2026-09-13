@@ -1,0 +1,160 @@
+{
+  "id": "hg-2025-000006",
+  "displayNo": 286225,
+  "timestamp": "2025-02-11T21:32:35+09:00",
+  "year": 2025,
+  "era": "FORMATION",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "정보",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "능력자 사고치면 일반 경찰이 잡음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "요즘 뉴스 보니까 대응 지침 만든다는데\n현장에서는 아직 케바케인듯",
+  "attachments": [],
+  "stats": {
+    "views": 5644,
+    "recommend": 5
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2025-000006-001",
+      "parentId": null,
+      "timestamp": "2025-02-11T21:42:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000006-002",
+      "parentId": null,
+      "timestamp": "2025-02-11T21:47:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "커뮤 판례 만들지말고 공식문서 봐라 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000006-003",
+      "parentId": null,
+      "timestamp": "2025-02-11T21:51:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "좆문가 또 왔네 근데 댓글 더 달수록 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000006-004",
+      "parentId": null,
+      "timestamp": "2025-02-11T21:55:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "나도 비슷한 일 한번 겪었는데 근데 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000006-005",
+      "parentId": "nat-2025-000006-004",
+      "timestamp": "2025-02-11T21:58:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "글쓴이 도망갔는데 댓글끼리 3차전중. 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000006-006",
+      "parentId": null,
+      "timestamp": "2025-02-11T22:08:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "작년에 비슷한 조건으로 한번 갔는데 사람마다 말 다른 이유는 알겠더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000006-007",
+      "parentId": null,
+      "timestamp": "2025-02-11T22:11:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "애매하면 안하는게 맞음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000006-008",
+      "parentId": null,
+      "timestamp": "2025-02-11T22:17:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "병신아 그건 다른 얘기임. 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000006-009",
+      "parentId": null,
+      "timestamp": "2025-02-11T22:27:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "이거 커뮤발인지 기사발인지부터 말해 ㅋㅋ 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000006-010",
+      "parentId": null,
+      "timestamp": "2025-02-11T22:34:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "댓글 믿고 움직였다가 걸리면 아무도 책임 안짐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

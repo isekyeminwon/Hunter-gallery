@@ -1,0 +1,76 @@
+{
+  "id": "hg-2030-000048",
+  "displayNo": 910878,
+  "timestamp": "2030-01-17T23:43:31+09:00",
+  "year": 2030,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘도 길드 갈드컵 보다가 시간 다감 어케봄",
+  "author": {
+    "type": "fixed",
+    "name": "하나팬임",
+    "ip": null
+  },
+  "content": "정작 난 아무 길드도 아님",
+  "attachments": [],
+  "stats": {
+    "views": 19675,
+    "recommend": 88
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2030-000048-001",
+      "parentId": null,
+      "timestamp": "2030-01-17T23:47:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "기사 세줄도 안읽고 댓글부터 쓰냐. 반박은 내용으로 해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000048-002",
+      "parentId": "nat-2030-000048-001",
+      "timestamp": "2030-01-17T23:49:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "이 글 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000048-003",
+      "parentId": null,
+      "timestamp": "2030-01-17T23:58:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "원글 세줄인데 토론회가 열림. 진짜 가지가지한다",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

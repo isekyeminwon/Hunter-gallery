@@ -1,0 +1,76 @@
+{
+  "id": "hg-2031-000028",
+  "displayNo": 1050315,
+  "timestamp": "2031-09-23T16:10:09+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "가족이 헌터면 명절 질문 폭탄임",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.7"
+  },
+  "content": "사촌들한테 능력 한번 보여달라는 말 백번 들음",
+  "attachments": [],
+  "stats": {
+    "views": 22101,
+    "recommend": 196
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000028-001",
+      "parentId": null,
+      "timestamp": "2031-09-23T16:14:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "이런 쓸데없는 글이 은근 오래 살아남음 ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000028-002",
+      "parentId": "nat-2031-000028-001",
+      "timestamp": "2031-09-23T16:16:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "모르면 가만히라도 있어라 근데 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000028-003",
+      "parentId": null,
+      "timestamp": "2031-09-23T16:19:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "ㄱㅅ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

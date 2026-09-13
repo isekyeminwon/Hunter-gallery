@@ -1,0 +1,39 @@
+{
+  "id": "hg-2027-000005",
+  "displayNo": 440542,
+  "timestamp": "2027-02-16T01:47:00+09:00",
+  "year": 2027,
+  "era": "FORMATION",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "MANDATORY_REGISTRATION",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "측정결과 명단 돌아다니는거 이거 뭐냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 44188,
+    "recommend": 182
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "MODERATOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

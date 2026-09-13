@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ad-2042-001",
+    "slot": ["header-banner", "right-sidebar"],
+    "brand": "대영손해보험",
+    "headline": "게이트는 예고 없이 열립니다.",
+    "subline": "헌터·지원인력 위험직군 보장 상담",
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ad-2042-002",
+    "slot": ["post-inline"],
+    "brand": "한빛장비",
+    "headline": "공략 전 점검, 살아서 돌아오는 습관.",
+    "subline": "마석식 보호장비 정기점검 예약",
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ad-2042-003",
+    "slot": ["right-sidebar"],
+    "brand": "온길통신",
+    "headline": "지상에서는 끊기지 않게.",
+    "subline": "2042 가을 데이터 요금제",
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ad-2042-004",
+    "slot": ["header-banner"],
+    "brand": "새벽치킨",
+    "headline": "공략 끝나고도 열려 있습니다.",
+    "subline": "새벽 3시까지 배달",
+    "image": null,
+    "active": true
+  }
+]

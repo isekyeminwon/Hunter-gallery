@@ -1,0 +1,39 @@
+{
+  "id": "hg-2025-000004",
+  "displayNo": 281661,
+  "timestamp": "2025-06-21T23:25:00+09:00",
+  "year": 2025,
+  "era": "FORMATION",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "KANG_MUHYEOK_S",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "강무혁 현장 가까이서 찍은거",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 26100,
+    "recommend": 146
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "MODERATOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

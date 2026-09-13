@@ -1,0 +1,136 @@
+{
+  "id": "hg-2031-000042",
+  "displayNo": 1099371,
+  "timestamp": "2031-07-03T12:00:46+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "현장 사진에 일반인 얼굴 나오면 내려야됨?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "14.32"
+  },
+  "content": "통제선 밖에서 찍은건데 신상 보일 정도는 아님",
+  "attachments": [],
+  "stats": {
+    "views": 19143,
+    "recommend": 55
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000042-001",
+      "parentId": null,
+      "timestamp": "2031-07-03T12:01:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "웃긴게 이 규정 하나 보고 업계 전체 결론내는건 너무 감 결론 내리기 애매함. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000042-002",
+      "parentId": null,
+      "timestamp": "2031-07-03T12:11:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "확인된 내용만 적어줘 근데 그거 어제 올라온 가짜랑 비슷한데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000042-003",
+      "parentId": null,
+      "timestamp": "2031-07-03T12:20:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "이거 보험 처리도 똑같음? ㅋㅋ 진짜 궁금해서 물음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000042-004",
+      "parentId": null,
+      "timestamp": "2031-07-03T12:27:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "아 배고파",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000042-005",
+      "parentId": null,
+      "timestamp": "2031-07-03T12:28:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "댓글 구경하러 왔다 근데 작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000042-006",
+      "parentId": null,
+      "timestamp": "2031-07-03T12:34:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "기사 링크부터 가져와 근데 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000042-007",
+      "parentId": null,
+      "timestamp": "2031-07-03T12:37:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000042-008",
+      "parentId": null,
+      "timestamp": "2031-07-03T12:45:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "나도 처음엔 별거 아니라고 봤는데 근데 인터넷에서 말하는거랑 체감 꽤 다름",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

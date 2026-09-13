@@ -1,0 +1,592 @@
+{
+  "id": "hg-2033-000035",
+  "displayNo": 1394105,
+  "timestamp": "2033-09-20T01:03:00+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "LEE_SIYUL_SS",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "SS급 하나 있다고 모든 게이트 혼자 돌수있냐",
+  "author": {
+    "type": "fixed",
+    "name": "마탑첩자",
+    "ip": null
+  },
+  "content": "상성이나 구조 때문에 그런 단순문제는 아닌거지?",
+  "attachments": [],
+  "stats": {
+    "views": 91186,
+    "recommend": 462
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000035-001",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:04:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "일단 한명 경험담을 전체 룰로 만드는게 제일 위험함 나중에 결과 보면 알겠지. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-002",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:07:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "확인된 내용만 적어줘. 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-003",
+      "parentId": "nat-2033-000035-002",
+      "timestamp": "2033-09-20T01:08:45+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "원글 세줄인데 토론회가 열림. 이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-004",
+      "parentId": "nat-2033-000035-001",
+      "timestamp": "2033-09-20T01:09:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "뇌피셜을 왜 사실처럼 씀 근데 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-005",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:12:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "에반데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-006",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:14:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "검색해도 안나오는데 어디서 봄 근데 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-007",
+      "parentId": "nat-2033-000035-001",
+      "timestamp": "2033-09-20T01:15:45+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "이런 글에서 안싸우면 헌갤 망함. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-008",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:16:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "이런 상황에서 보통 누가 결정함? / 초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-009",
+      "parentId": "nat-2033-000035-004",
+      "timestamp": "2033-09-20T01:18:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "둘이 서로 다른 얘기하고 있음ㅋㅋ / 둘다 그만해. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-010",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:21:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "이거 보험 처리도 똑같음? ㅋㅋ 검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-011",
+      "parentId": "nat-2033-000035-007",
+      "timestamp": "2033-09-20T01:23:17+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "개빡세네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-012",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:23:55+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "이 경우에도 같은 기준 적용됨? / 초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-013",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:24:20+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "몰?루",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-014",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:26:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "검색하면 옛날글이랑 최신글 내용 달라서 더 헷갈림. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-015",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:27:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "현장 보조 몇번 해봤는데. 사람마다 말 다른 이유는 알겠더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-016",
+      "parentId": "nat-2033-000035-013",
+      "timestamp": "2033-09-20T01:28:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "아니 시발 뭔 결론이 그렇게 감. 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-017",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:30:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "SS급 이거 실제 해본 사람 있음. 아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-018",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:31:57+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "다 떠나서 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 그냥 그렇다고. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-019",
+      "parentId": "nat-2033-000035-015",
+      "timestamp": "2033-09-20T01:32:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "좆문가 또 왔네. 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-020",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:34:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "공식 공지 뜬거 맞음? / 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-021",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:36:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "그래서 저녁 추천좀 ㅋㅋ 답글 달지마 이제 못봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-022",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:36:38+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "검색하면 옛날글이랑 최신글 내용 달라서 더 헷갈림 ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-023",
+      "parentId": "nat-2033-000035-010",
+      "timestamp": "2033-09-20T01:39:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "문맥 좀 읽어라 / 둘다 그만해. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-024",
+      "parentId": "nat-2033-000035-018",
+      "timestamp": "2033-09-20T01:42:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "아니 같은 기사 맞음. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-025",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:42:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "예전에 처음 갔을땐 나도 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-026",
+      "parentId": "nat-2033-000035-006",
+      "timestamp": "2033-09-20T01:45:07+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "닉 보고 내용 까먹음. 아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-027",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:46:56+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ 근데 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-028",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:49:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "개소리를 정성스럽게도 썼네 ㅋㅋ ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-029",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:52:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "본인등판 없냐 팝콘 다먹음 / ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-030",
+      "parentId": "nat-2033-000035-014",
+      "timestamp": "2033-09-20T01:52:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "작성자 말대로면 내 고양이도 A급임\n제발 계속해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-031",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:55:00+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "SS급 경험자 있으면 체감 좀 알려줘. 옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-032",
+      "parentId": "nat-2033-000035-012",
+      "timestamp": "2033-09-20T01:55:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "둘 다 개소리중임. 반박은 내용으로 해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-033",
+      "parentId": "nat-2033-000035-026",
+      "timestamp": "2033-09-20T01:55:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "SS 하나가 S 몇명분이냐는 질문부터가 답이 없는 질문임ㅋㅋ ㅋㅋ 댓글만 봐도 당시 혼란이 느껴짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-034",
+      "parentId": null,
+      "timestamp": "2033-09-20T01:58:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임. 본문보다 대댓글이 더 길어질 각이다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-035",
+      "parentId": "nat-2033-000035-026",
+      "timestamp": "2033-09-20T01:58:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "현장 기준으론 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이건 좀 더 봐야됨. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-036",
+      "parentId": null,
+      "timestamp": "2033-09-20T02:00:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "SS급 관련해서 협회에 물어본 사람?. 이거만 확인하고싶음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-037",
+      "parentId": null,
+      "timestamp": "2033-09-20T02:02:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "",
+      "deleted": true
+    },
+    {
+      "id": "nat-2033-000035-038",
+      "parentId": "nat-2033-000035-027",
+      "timestamp": "2033-09-20T02:04:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ 근데 그건 니 파티 얘기고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-039",
+      "parentId": null,
+      "timestamp": "2033-09-20T02:05:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "기사 링크부터 가져와. 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-040",
+      "parentId": null,
+      "timestamp": "2033-09-20T02:06:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "다 떠나서 한명 경험담을 전체 룰로 만드는게 제일 위험함 확정짓긴 이른듯. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-041",
+      "parentId": null,
+      "timestamp": "2033-09-20T02:07:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "본인등판 없냐 팝콘 다먹음 ㅋㅋ 관리자도 보고 웃겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-042",
+      "parentId": null,
+      "timestamp": "2033-09-20T02:09:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "이거 최초 출처 누군데. 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-043",
+      "parentId": null,
+      "timestamp": "2033-09-20T02:10:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "S 위에 뭐 만들거냐던 농담이 진짜 돼버림ㅋㅋ. 근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-044",
+      "parentId": "nat-2033-000035-032",
+      "timestamp": "2033-09-20T02:11:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "갑자기 왜 화냄ㅋㅋ. 진짜.. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-045",
+      "parentId": "nat-2033-000035-037",
+      "timestamp": "2033-09-20T02:11:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "SS 표기 자체가 낯설어서 오타인줄 안 사람도 있었음 ㅋㅋ 지금 보면 웃긴데 당시엔 진지했겠지",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000035-046",
+      "parentId": null,
+      "timestamp": "2033-09-20T02:13:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "SS 등급을 사람 한명 때문에 새로 만든다는게 제일 미친 부분임 ㅋㅋ 실시간으로 본 사람들은 더 정신없었을듯",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

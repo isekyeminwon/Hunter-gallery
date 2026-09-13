@@ -1,0 +1,39 @@
+{
+  "id": "hg-2025-000001",
+  "displayNo": 271288,
+  "timestamp": "2025-06-21T08:45:00+09:00",
+  "year": 2025,
+  "era": "FORMATION",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "KANG_MUHYEOK_S",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "강무혁 현장 가까이서 찍은거",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.7"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 15852,
+    "recommend": 183
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "MISSING",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

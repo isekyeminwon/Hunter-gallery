@@ -1,0 +1,436 @@
+{
+  "id": "hg-2026-000013",
+  "displayNo": 384883,
+  "timestamp": "2026-06-21T11:15:47+09:00",
+  "year": 2026,
+  "era": "FORMATION",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "면허 생겼으니 이제 등급싸움 더 심해지겠네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "220.79"
+  },
+  "content": "벌써 누가 진짜 A냐 이런 글만 보임",
+  "attachments": [],
+  "stats": {
+    "views": 5237,
+    "recommend": 15
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2026-000013-001",
+      "parentId": null,
+      "timestamp": "2026-06-21T11:22:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이 경우에도 같은 기준 적용됨? ㅋㅋ 이거만 확인하고싶음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-002",
+      "parentId": null,
+      "timestamp": "2026-06-21T11:23:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "개인적으로 한명 경험담을 전체 룰로 만드는게 제일 위험함 말은 된다. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-003",
+      "parentId": "nat-2026-000013-002",
+      "timestamp": "2026-06-21T11:26:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "맞긴 한데 여기서는 그 얘기 아니지. 다시 읽어봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-004",
+      "parentId": "nat-2026-000013-002",
+      "timestamp": "2026-06-21T11:28:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "진짜 헛소리도 당당하게 하네 / 댓글 더 달수록 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-005",
+      "parentId": null,
+      "timestamp": "2026-06-21T11:30:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "팬심 빼자더니 제일 팬심 가득한 놈들만 모임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-006",
+      "parentId": "nat-2026-000013-005",
+      "timestamp": "2026-06-21T11:39:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "이 글 보다가 라면 불었다\n답글 달지마 이제 못봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-007",
+      "parentId": null,
+      "timestamp": "2026-06-21T11:44:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "왜 아무도 말 안하냐 면허 관련해서 기사마다 말 조금씩 다른게 문제임 이건 경험자 말 들어봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-008",
+      "parentId": null,
+      "timestamp": "2026-06-21T11:47:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "같은 등급 안에서도 차이 큼 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-009",
+      "parentId": null,
+      "timestamp": "2026-06-21T11:52:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-010",
+      "parentId": null,
+      "timestamp": "2026-06-21T11:59:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "또 줄세우기 시작했네ㅋㅋ. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-011",
+      "parentId": "nat-2026-000013-001",
+      "timestamp": "2026-06-21T12:02:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "문맥 좀 읽어라 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-012",
+      "parentId": null,
+      "timestamp": "2026-06-21T12:03:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "이 경우에도 같은 기준 적용됨? ㅋㅋ 옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-013",
+      "parentId": null,
+      "timestamp": "2026-06-21T12:11:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 ㅋㅋ 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-014",
+      "parentId": null,
+      "timestamp": "2026-06-21T12:12:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "댓글 보니까 면허 자체보다 조건이 뭐였는지부터 봐야됨 괜히 엮이지마. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-015",
+      "parentId": null,
+      "timestamp": "2026-06-21T12:19:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "헌갤 평균 IQ 측정 들어갑니다. 팝콘 부족함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-016",
+      "parentId": "nat-2026-000013-002",
+      "timestamp": "2026-06-21T12:23:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "면허 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-017",
+      "parentId": "nat-2026-000013-004",
+      "timestamp": "2026-06-21T12:29:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "문맥 좀 읽어라 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-018",
+      "parentId": null,
+      "timestamp": "2026-06-21T12:30:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "팬심 빼자더니 제일 팬심 가득한 놈들만 모임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-019",
+      "parentId": null,
+      "timestamp": "2026-06-21T12:35:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "글쓴이 그 뒤에 후기 없음? ㅋㅋ 아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-020",
+      "parentId": "nat-2026-000013-014",
+      "timestamp": "2026-06-21T12:43:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "작성자 말대로면 내 고양이도 A급임 ㅋㅋ 내일까지 싸워줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-021",
+      "parentId": "nat-2026-000013-020",
+      "timestamp": "2026-06-21T12:47:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "등급표 들고 계산기 두드리는 애 또 나옴 ㅋㅋ 아무도 안물어봤는데 다들 진심임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-022",
+      "parentId": null,
+      "timestamp": "2026-06-21T12:56:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "또 줄세우기 시작했네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-023",
+      "parentId": "nat-2026-000013-001",
+      "timestamp": "2026-06-21T13:02:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ ㅋㅋ 아무말이나 던지고 튀네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-024",
+      "parentId": null,
+      "timestamp": "2026-06-21T13:02:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-025",
+      "parentId": null,
+      "timestamp": "2026-06-21T13:11:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "기사 링크부터 가져와. 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-026",
+      "parentId": "nat-2026-000013-021",
+      "timestamp": "2026-06-21T13:15:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "조건 하나 빠졌잖아. 다시 읽어봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-027",
+      "parentId": null,
+      "timestamp": "2026-06-21T13:20:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "오피셜 캡처 말고 링크 줘 ㅋㅋ 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-028",
+      "parentId": null,
+      "timestamp": "2026-06-21T13:27:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "면허 경험자 있으면 체감 좀 알려줘\n최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-029",
+      "parentId": null,
+      "timestamp": "2026-06-21T13:30:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "모르면 가만히라도 있어라. 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-030",
+      "parentId": null,
+      "timestamp": "2026-06-21T13:36:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "면허 이거 실제 해본 사람 있음\n초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-031",
+      "parentId": null,
+      "timestamp": "2026-06-21T13:40:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "본인등판 없냐 팝콘 다먹음. ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000013-032",
+      "parentId": "nat-2026-000013-027",
+      "timestamp": "2026-06-21T13:42:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "",
+      "deleted": true
+    },
+    {
+      "id": "nat-2026-000013-033",
+      "parentId": null,
+      "timestamp": "2026-06-21T13:52:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

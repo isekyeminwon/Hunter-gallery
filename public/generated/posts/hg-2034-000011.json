@@ -1,0 +1,496 @@
+{
+  "id": "hg-2034-000011",
+  "displayNo": 1559264,
+  "timestamp": "2034-03-13T16:59:00+09:00",
+  "year": 2034,
+  "era": "SS_ERA",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "POST_SS_HANSUNG_RANKING",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "한성 합동공략에서 B급 역할이 의외로 큼",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "이시율만 보다가 영상 다시보면 지원조가 엄청 바쁨",
+  "attachments": [],
+  "stats": {
+    "views": 52115,
+    "recommend": 303
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2034-000011-001",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:00:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "출처가 뭐임. 출처 없이 퍼지는 속도만 존나 빠름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-002",
+      "parentId": "nat-2034-000011-001",
+      "timestamp": "2034-03-13T17:01:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "근데 거기서 결론이 왜 그렇게 감. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-003",
+      "parentId": "nat-2034-000011-002",
+      "timestamp": "2034-03-13T17:01:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-004",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:04:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "원글 세줄인데 토론회가 열림 ㅋㅋ 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-005",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:06:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "대충 봐도 이시율 얘기만 나오면 갑자기 다들 현장 전문가 됨 말은 된다. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-006",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:07:52+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "확인된 내용만 적어줘 ㅋㅋ 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-007",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:10:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-008",
+      "parentId": "nat-2034-000011-005",
+      "timestamp": "2034-03-13T17:12:20+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "기사 세줄도 안읽고 댓글부터 쓰냐 근데 진짜로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-009",
+      "parentId": "nat-2034-000011-006",
+      "timestamp": "2034-03-13T17:12:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "뭔 자신감으로 확정짓냐 / 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-010",
+      "parentId": "nat-2034-000011-004",
+      "timestamp": "2034-03-13T17:14:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "한명만 더 화내면 개념글 확정. 오늘도 평화롭다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-011",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:16:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "작성자 말대로면 내 고양이도 A급임 ㅋㅋ 와중에 추천은 누르고감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-012",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:17:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "한명만 더 화내면 개념글 확정\n제발 계속해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-013",
+      "parentId": "nat-2034-000011-004",
+      "timestamp": "2034-03-13T17:18:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "그럼 반대로 생각해봐 ㅋㅋ. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-014",
+      "parentId": "nat-2034-000011-007",
+      "timestamp": "2034-03-13T17:20:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이시율 얘기하는데 왜 갑자기 딴소리함. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-015",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:21:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "정산은 들어가기 전에 기준 정해라. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-016",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:23:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "나도 비슷한 일 한번 겪었는데. 입구부터 꼬여서 하루 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-017",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:26:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "병신아 그건 다른 얘기임 / ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-018",
+      "parentId": "nat-2034-000011-005",
+      "timestamp": "2034-03-13T17:28:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "한명만 더 화내면 개념글 확정 ㅋㅋ 진짜 가지가지한다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-019",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:30:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "한성 들어가면 A도 묻힌다는건 좀 과장임\n근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-020",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:30:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "정보글 보러왔다가 원숭이 싸움 구경중. 내일까지 싸워줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-021",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:32:39+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "정산은 들어가기 전에 기준 정해라. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-022",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:34:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이시율 경험자 있으면 체감 좀 알려줘 ㅋㅋ 진짜 궁금해서 물음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-023",
+      "parentId": "nat-2034-000011-006",
+      "timestamp": "2034-03-13T17:37:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "흠",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-024",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:38:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-025",
+      "parentId": "nat-2034-000011-008",
+      "timestamp": "2034-03-13T17:39:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "윗댓 말도 틀린건 아닌데 표현이 개같음. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-026",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:41:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "그냥 내 생각인데 한명 경험담을 전체 룰로 만드는게 제일 위험함 이상함. 조건 하나만 달라도 얘기 완전 달라짐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-027",
+      "parentId": "nat-2034-000011-017",
+      "timestamp": "2034-03-13T17:41:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "읽었는데 니 해석이 더 이상함. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-028",
+      "parentId": "nat-2034-000011-011",
+      "timestamp": "2034-03-13T17:42:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "니 말대로면 앞댓글이랑 충돌함. 다시 읽어봐. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-029",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:45:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "정산은 들어가기 전에 기준 정해라. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-030",
+      "parentId": "nat-2034-000011-018",
+      "timestamp": "2034-03-13T17:45:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "영상은 보고 말함?. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-031",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:48:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "내 주변은 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 그냥 그렇다고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-032",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:49:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-033",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:50:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "니가 직접 봤냐고. ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-034",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:50:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "그건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-035",
+      "parentId": "nat-2034-000011-034",
+      "timestamp": "2034-03-13T17:51:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "개소리를 정성스럽게도 썼네. 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-036",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:53:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "SS 보유 한성을 다른 길드랑 단순비교하는게 맞냐는 말도 많았음. 지금 보면 웃긴데 당시엔 진지했겠지",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-037",
+      "parentId": null,
+      "timestamp": "2034-03-13T17:54:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "현장 기준으론 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 좀 에바임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000011-038",
+      "parentId": "nat-2034-000011-033",
+      "timestamp": "2034-03-13T17:54:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "없으면 확정처럼 말하지마. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

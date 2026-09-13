@@ -1,0 +1,268 @@
+{
+  "id": "hg-2031-000038",
+  "displayNo": 1083694,
+  "timestamp": "2031-11-05T03:16:36+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "철수할때 인원체크 두번해 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "175.223"
+  },
+  "content": "너무 당연한 말인데 사고는 이런데서 남",
+  "attachments": [],
+  "stats": {
+    "views": 4874,
+    "recommend": 17
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000038-001",
+      "parentId": null,
+      "timestamp": "2031-11-05T03:24:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "이 글 보다가 라면 불었다 근데 퇴근이나 시켜줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-002",
+      "parentId": "nat-2031-000038-001",
+      "timestamp": "2031-11-05T03:25:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "그건 팀마다 다름. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-003",
+      "parentId": null,
+      "timestamp": "2031-11-05T03:28:15+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "뭐임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-004",
+      "parentId": null,
+      "timestamp": "2031-11-05T03:31:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "장비보다 사람 합이 먼저라는 말 괜히 나오는게 아님 ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-005",
+      "parentId": null,
+      "timestamp": "2031-11-05T03:37:06+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "별거 아닌 팁이 사고 한번 나면 평생 기억남. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-006",
+      "parentId": "nat-2031-000038-001",
+      "timestamp": "2031-11-05T03:42:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "조건 하나 빠졌잖아. 조건 하나만 달라도 얘기 완전 달라짐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-007",
+      "parentId": null,
+      "timestamp": "2031-11-05T03:45:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데. 우리는 바로 철수 얘기부터 꺼냄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-008",
+      "parentId": null,
+      "timestamp": "2031-11-05T03:47:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "내가 보기엔 현장 하나 보고 업계 전체 결론내는건 너무 감 괜히 엮이지마. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-009",
+      "parentId": null,
+      "timestamp": "2031-11-05T03:54:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-010",
+      "parentId": null,
+      "timestamp": "2031-11-05T04:00:42+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "와 이걸 그렇게 이해함? ㅋㅋ 반박은 내용으로 해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-011",
+      "parentId": "nat-2031-000038-007",
+      "timestamp": "2031-11-05T04:06:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "아",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-012",
+      "parentId": "nat-2031-000038-007",
+      "timestamp": "2031-11-05T04:09:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "뭔 자신감으로 확정짓냐 / 말을 해도 꼭 저렇게 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-013",
+      "parentId": null,
+      "timestamp": "2031-11-05T04:19:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "팀장한테 비슷한거 물어봤는데 ㅋㅋ 한번 데이고 생각 바뀜",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-014",
+      "parentId": "nat-2031-000038-008",
+      "timestamp": "2031-11-05T04:24:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "뭔 개소리야 근데 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-015",
+      "parentId": "nat-2031-000038-004",
+      "timestamp": "2031-11-05T04:25:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "누가 여기다 국회 열었냐 / 누가 말리냐 계속해봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-016",
+      "parentId": null,
+      "timestamp": "2031-11-05T04:27:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "내가 협회면 이 댓글창부터 통제함. ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-017",
+      "parentId": null,
+      "timestamp": "2031-11-05T04:31:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-018",
+      "parentId": null,
+      "timestamp": "2031-11-05T04:38:42+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "제일 중요한건 현장는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 그래서 난 아직 보류",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000038-019",
+      "parentId": null,
+      "timestamp": "2031-11-05T04:46:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "지금 나온 것만 보면 현장 자체보다 조건이 뭐였는지부터 봐야됨 이건 좀 더 봐야됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

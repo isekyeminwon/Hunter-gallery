@@ -1,0 +1,532 @@
+{
+  "id": "hg-2031-000017",
+  "displayNo": 1011424,
+  "timestamp": "2031-08-20T21:28:00+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "INTERNATIONAL_S_POWER",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "나라별 S급 숫자 정리표 또 떴네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "출처 확실한 것만 적었다는데\n댓글에서 숫자 가지고 또 싸움",
+  "attachments": [],
+  "stats": {
+    "views": 12789,
+    "recommend": 89
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000017-001",
+      "parentId": null,
+      "timestamp": "2031-08-20T21:29:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "진짜 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 나중에 결과 보면 알겠지. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-002",
+      "parentId": null,
+      "timestamp": "2031-08-20T21:32:09+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "글을 읽은거냐 제목만 본거냐. 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-003",
+      "parentId": null,
+      "timestamp": "2031-08-20T21:33:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데. 사람마다 말 다른 이유는 알겠더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-004",
+      "parentId": null,
+      "timestamp": "2031-08-20T21:36:02+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "외국 길드가 한국 A 노린다는 썰은 해마다 새로 나옴 ㅋㅋ 이래서 원문 날짜 확인이 중요함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-005",
+      "parentId": "nat-2031-000017-004",
+      "timestamp": "2031-08-20T21:36:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "개인적으로 S급 자체보다 조건이 뭐였는지부터 봐야됨 좀 에바임. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-006",
+      "parentId": "nat-2031-000017-001",
+      "timestamp": "2031-08-20T21:38:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "그 말이면 세상 모든 질문 끝남ㅋㅋ. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-007",
+      "parentId": null,
+      "timestamp": "2031-08-20T21:40:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "그냥 내 생각인데 S급 얘기만 나오면 갑자기 다들 현장 전문가 됨 이건 경험자 말 들어봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-008",
+      "parentId": "nat-2031-000017-001",
+      "timestamp": "2031-08-20T21:43:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "말투만 보면 둘이 원수임ㅋㅋ / 둘다 그만해. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-009",
+      "parentId": null,
+      "timestamp": "2031-08-20T21:45:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "개인적으로 S급 얘기만 나오면 갑자기 다들 현장 전문가 됨 아무튼 조심해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-010",
+      "parentId": null,
+      "timestamp": "2031-08-20T21:46:55+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "친구가 저쪽 일하는데 ㅋㅋ 한번 데이고 생각 바뀜",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-011",
+      "parentId": "nat-2031-000017-010",
+      "timestamp": "2031-08-20T21:47:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "아니 윗댓은 그말이 아니잖아 ㅋㅋ. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-012",
+      "parentId": "nat-2031-000017-003",
+      "timestamp": "2031-08-20T21:49:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "읽었는데 니 해석이 더 이상함. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-013",
+      "parentId": "nat-2031-000017-004",
+      "timestamp": "2031-08-20T21:52:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "갑자기 왜 화냄ㅋㅋ. 이러다 제목만 바꿔서 또 싸울듯.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-014",
+      "parentId": null,
+      "timestamp": "2031-08-20T21:53:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "지금 나온 것만 보면 S급 관련해서 기사마다 말 조금씩 다른게 문제임 괜히 엮이지마. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-015",
+      "parentId": "nat-2031-000017-004",
+      "timestamp": "2031-08-20T21:53:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-016",
+      "parentId": "nat-2031-000017-014",
+      "timestamp": "2031-08-20T21:56:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "그 말이면 세상 모든 질문 끝남ㅋㅋ. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-017",
+      "parentId": null,
+      "timestamp": "2031-08-20T21:57:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "뭔 개소리야 ㅋㅋ 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-018",
+      "parentId": "nat-2031-000017-014",
+      "timestamp": "2031-08-20T21:58:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "개소리를 정성스럽게도 썼네. 아무말이나 던지고 튀네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-019",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:00:57+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "팬심 빼자더니 제일 팬심 가득한 놈들만 모임. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-020",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:03:47+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "영상 몇개 보고 순위 정하는게 제일 재밌긴 함ㅋㅋ. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-021",
+      "parentId": "nat-2031-000017-010",
+      "timestamp": "2031-08-20T22:05:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "댓글 하나에 왜 이렇게 긁힘 / 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-022",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:07:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "우리 파티는 저런 상황 오면. 그때 이후로 무조건 두번 확인함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-023",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:10:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "내가 잘못 아는거 아니면 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 존나 웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-024",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:12:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "기자 이름이라도 알려줘. 그거 어제 올라온 가짜랑 비슷한데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-025",
+      "parentId": "nat-2031-000017-014",
+      "timestamp": "2031-08-20T22:14:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌? / 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-026",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:15:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "외국 길드가 한국 A 노린다는 썰은 해마다 새로 나옴 ㅋㅋ 댓글만 봐도 당시 혼란이 느껴짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-027",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:17:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "이거 커뮤발인지 기사발인지부터 말해 / 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-028",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:18:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "뭐 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 이라 봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-029",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:18:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "오피셜 캡처 말고 링크 줘 / 그거 어제 올라온 가짜랑 비슷한데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-030",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:21:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "등급표 들고 계산기 두드리는 애 또 나옴. 이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-031",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:23:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "작년에 비슷한 조건으로 한번 갔는데 ㅋㅋ 지금도 그 얘기하면 욕함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-032",
+      "parentId": "nat-2031-000017-014",
+      "timestamp": "2031-08-20T22:25:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "뭔 자신감으로 확정짓냐 ㅋㅋ 아무말이나 던지고 튀네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-033",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:26:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "글쓴이 그 뒤에 후기 없음? ㅋㅋ 초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-034",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:28:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "외국 길드가 한국 A 노린다는 썰은 해마다 새로 나옴 ㅋㅋ 이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-035",
+      "parentId": "nat-2031-000017-024",
+      "timestamp": "2031-08-20T22:30:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "아 배고파",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-036",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:30:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "같은 등급 안에서도 차이 큼 / 아님말고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-037",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:30:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "영상 몇개 보고 순위 정하는게 제일 재밌긴 함ㅋㅋ. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-038",
+      "parentId": "nat-2031-000017-020",
+      "timestamp": "2031-08-20T22:30:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "댓글이 본문보다 위험등급 높음\nㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-039",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:31:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "아는척 지랄 좀 그만해라. 그건 니 파티 얘기고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-040",
+      "parentId": null,
+      "timestamp": "2031-08-20T22:33:02+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "기사 링크부터 가져와 / 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000017-041",
+      "parentId": "nat-2031-000017-024",
+      "timestamp": "2031-08-20T22:34:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "댓글 하나에 왜 이렇게 긁힘 근데 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

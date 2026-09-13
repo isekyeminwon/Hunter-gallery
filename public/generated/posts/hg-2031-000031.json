@@ -1,0 +1,100 @@
+{
+  "id": "hg-2031-000031",
+  "displayNo": 1059238,
+  "timestamp": "2031-12-15T02:27:32+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "현장 끝나고 샤워 두번했다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "61.79"
+  },
+  "content": "흙이 어디서 계속 나오는지 모르겠음",
+  "attachments": [],
+  "stats": {
+    "views": 7628,
+    "recommend": 49
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000031-001",
+      "parentId": null,
+      "timestamp": "2031-12-15T02:29:24+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "본인등판 없냐 팝콘 다먹음\n이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000031-002",
+      "parentId": null,
+      "timestamp": "2031-12-15T02:38:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "내 장비 배송 아직도 안옴. 아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000031-003",
+      "parentId": null,
+      "timestamp": "2031-12-15T02:39:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "왜 이런글이 정보글보다 댓글 잘달림ㅋㅋ ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000031-004",
+      "parentId": null,
+      "timestamp": "2031-12-15T02:44:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "이런 쓸데없는 글이 은근 오래 살아남음. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000031-005",
+      "parentId": null,
+      "timestamp": "2031-12-15T02:47:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "이런날도 있어야 게시판이 굴러가지 / 아님말고",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "hg-2032-000042",
+  "displayNo": 1250338,
+  "timestamp": "2032-07-15T10:24:50+09:00",
+  "year": 2032,
+  "era": "INDUSTRY",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드 이적할때 위약금 보통 있음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "계약기간 남았는데 제안 온 경우 아는사람",
+  "attachments": [],
+  "stats": {
+    "views": 14925,
+    "recommend": 62
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2032-000042-001",
+      "parentId": null,
+      "timestamp": "2032-07-15T10:28:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "뭐임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-002",
+      "parentId": "nat-2032-000042-001",
+      "timestamp": "2032-07-15T10:37:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "이 글 보다가 라면 불었다. 본문이랑 상관없긴 한데 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-003",
+      "parentId": null,
+      "timestamp": "2032-07-15T10:47:25+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "글쓴이 그 뒤에 후기 없음?\n최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-004",
+      "parentId": null,
+      "timestamp": "2032-07-15T10:51:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "나도 처음엔 여기서 막혔음. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-005",
+      "parentId": null,
+      "timestamp": "2032-07-15T10:59:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "야구 보다가 여기까지 왔다. 본문이랑 상관없긴 한데 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-006",
+      "parentId": null,
+      "timestamp": "2032-07-15T11:04:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "오피셜 캡처 말고 링크 줘. 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-007",
+      "parentId": null,
+      "timestamp": "2032-07-15T11:11:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "공식 공지 뜬거 맞음? / 오늘 카더라 너무 많이 돎",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-008",
+      "parentId": null,
+      "timestamp": "2032-07-15T11:17:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "둘 다 개소리중임 ㅋㅋ 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-009",
+      "parentId": null,
+      "timestamp": "2032-07-15T11:19:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ. 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-010",
+      "parentId": "nat-2032-000042-003",
+      "timestamp": "2032-07-15T11:23:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000042-011",
+      "parentId": null,
+      "timestamp": "2032-07-15T11:29:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "최근 기준 달라진거 있음?\n이거만 확인하고싶음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

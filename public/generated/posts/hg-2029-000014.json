@@ -1,0 +1,292 @@
+{
+  "id": "hg-2029-000014",
+  "displayNo": 668049,
+  "timestamp": "2029-11-07T20:22:37+09:00",
+  "year": 2029,
+  "era": "INDUSTRY",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석 정산 세금 처리 어떻게함?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.246"
+  },
+  "content": "개인으로 받은 소액도 신고해야되는지 모르겠음",
+  "attachments": [],
+  "stats": {
+    "views": 15136,
+    "recommend": 114
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2029-000014-001",
+      "parentId": null,
+      "timestamp": "2029-11-07T20:30:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "예전에 처음 갔을땐 나도. 괜히 싸게 하려다 돈 더들었음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-002",
+      "parentId": null,
+      "timestamp": "2029-11-07T20:34:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-003",
+      "parentId": "nat-2029-000014-002",
+      "timestamp": "2029-11-07T20:35:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "마석 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-004",
+      "parentId": "nat-2029-000014-001",
+      "timestamp": "2029-11-07T20:40:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "뇌피셜을 왜 사실처럼 씀. 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-005",
+      "parentId": "nat-2029-000014-001",
+      "timestamp": "2029-11-07T20:44:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "이거 읽다가 버스 지나침. 본문이랑 상관없긴 한데 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-006",
+      "parentId": null,
+      "timestamp": "2029-11-07T20:52:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "작성자 IP 왤케 낯익냐 ㅋㅋ 누가 메뉴 하나만 골라줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-007",
+      "parentId": null,
+      "timestamp": "2029-11-07T20:52:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "예전에 처음 갔을땐 나도 근데 괜히 싸게 하려다 돈 더들었음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-008",
+      "parentId": null,
+      "timestamp": "2029-11-07T20:57:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "일단 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 개빡셈. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-009",
+      "parentId": null,
+      "timestamp": "2029-11-07T21:06:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-010",
+      "parentId": null,
+      "timestamp": "2029-11-07T21:13:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "나도 처음엔 여기서 막혔음. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-011",
+      "parentId": "nat-2029-000014-006",
+      "timestamp": "2029-11-07T21:23:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "작성자 IP 왤케 낯익냐 ㅋㅋ 본문이랑 상관없긴 한데 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-012",
+      "parentId": null,
+      "timestamp": "2029-11-07T21:29:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-013",
+      "parentId": null,
+      "timestamp": "2029-11-07T21:32:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "글을 읽은거냐 제목만 본거냐 / 진짜로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-014",
+      "parentId": "nat-2029-000014-002",
+      "timestamp": "2029-11-07T21:41:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "뭔 개소리야. 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-015",
+      "parentId": null,
+      "timestamp": "2029-11-07T21:42:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "그냥 내 생각인데 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 확정짓긴 이른듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-016",
+      "parentId": null,
+      "timestamp": "2029-11-07T21:48:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "마석 관련해서 협회에 물어본 사람?. 진짜 궁금해서 물음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-017",
+      "parentId": "nat-2029-000014-010",
+      "timestamp": "2029-11-07T21:49:30+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "댓글 잘못 단거 아님?. 진짜.. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-018",
+      "parentId": "nat-2029-000014-015",
+      "timestamp": "2029-11-07T21:53:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "마석 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-019",
+      "parentId": "nat-2029-000014-008",
+      "timestamp": "2029-11-07T22:03:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "둘이 서로 다른 얘기하고 있음ㅋㅋ / 둘다 그만해. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-020",
+      "parentId": null,
+      "timestamp": "2029-11-07T22:08:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "이거 커뮤발인지 기사발인지부터 말해 ㅋㅋ 출처 없이 퍼지는 속도만 존나 빠름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000014-021",
+      "parentId": null,
+      "timestamp": "2029-11-07T22:16:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "원문 어디냐. 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

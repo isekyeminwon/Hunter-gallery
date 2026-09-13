@@ -1,0 +1,400 @@
+{
+  "id": "hg-2030-000011",
+  "displayNo": 774705,
+  "timestamp": "2030-04-22T19:32:00+09:00",
+  "year": 2030,
+  "era": "INDUSTRY",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "KANG_JUA_S",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "강주아 첫 공식 훈련 공개",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.36"
+  },
+  "content": "협회 채널에 풀영상 올라옴\n사람들 프레임 단위로 뜯는중",
+  "attachments": [],
+  "stats": {
+    "views": 77085,
+    "recommend": 673
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2030-000011-001",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:34:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "장비 협찬 붙는 속도가 기사보다 빠른 느낌이었음 ㅋㅋ 실시간으로 본 사람들은 더 정신없었을듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-002",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:36:44+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "좆문가 또 왔네 / 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-003",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:37:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "아이고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-004",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:39:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "강주아 관련해서 협회에 물어본 사람? / 댓글 싸우지말고 답만좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-005",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:40:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "팬 아니어도 이 영상은 볼만하네. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-006",
+      "parentId": "nat-2030-000011-002",
+      "timestamp": "2030-04-22T19:41:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "한명만 더 화내면 개념글 확정 / 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-007",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:43:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐 / 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-008",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:46:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "초보가 제일 먼저 확인할거 뭐임?\n아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-009",
+      "parentId": "nat-2030-000011-002",
+      "timestamp": "2030-04-22T19:47:04+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "근거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-010",
+      "parentId": "nat-2030-000011-008",
+      "timestamp": "2030-04-22T19:47:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "갑자기 왜 화냄ㅋㅋ. 진짜.. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-011",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:49:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "오히려 강주아 하나 보고 업계 전체 결론내는건 너무 감 이건 맞는말임. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-012",
+      "parentId": "nat-2030-000011-011",
+      "timestamp": "2030-04-22T19:52:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "말투만 보면 둘이 원수임ㅋㅋ / 둘다 그만해. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-013",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:53:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이거 보험 처리도 똑같음?\n아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-014",
+      "parentId": "nat-2030-000011-006",
+      "timestamp": "2030-04-22T19:55:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "없으면 확정처럼 말하지마. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-015",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:57:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "아는척 지랄 좀 그만해라 / 웃겨서 화도 안남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-016",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:58:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌?. 이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-017",
+      "parentId": null,
+      "timestamp": "2030-04-22T19:59:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "흠",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-018",
+      "parentId": "nat-2030-000011-017",
+      "timestamp": "2030-04-22T20:00:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "예외 하나 들고와서 전체가 틀렸다고 하면 어떡함. 내말 틀림?. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-019",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:01:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "몰?루",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-020",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:01:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "글을 읽은거냐 제목만 본거냐 근데 반박은 내용으로 해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-021",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:03:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "댓글에서 영업하는 애들 진짜 빠름. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-022",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:05:58+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "계약 능력이라는 단어 하나로 뇌피셜 백개 생산됨. 댓글만 봐도 당시 혼란이 느껴짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-023",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:06:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "강주아 이거 실제 해본 사람 있음 ㅋㅋ 진짜 궁금해서 물음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-024",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:07:24+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "나도 비슷한 일 한번 겪었는데. 우리는 바로 철수 얘기부터 꺼냄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-025",
+      "parentId": "nat-2030-000011-023",
+      "timestamp": "2030-04-22T20:08:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "뭘 보고 위험하다는건데. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-026",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:08:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이 경우에도 같은 기준 적용됨? ㅋㅋ 아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-027",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:10:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "강주아 경험자 있으면 체감 좀 알려줘. 댓글 싸우지말고 답만좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-028",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:10:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "원본보다 2차짤이 더 유명해지는거 순식간임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000011-029",
+      "parentId": "nat-2030-000011-024",
+      "timestamp": "2030-04-22T20:12:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "",
+      "deleted": true
+    },
+    {
+      "id": "nat-2030-000011-030",
+      "parentId": null,
+      "timestamp": "2030-04-22T20:13:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "왜 아무도 말 안하냐 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 반박시 니말맞음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

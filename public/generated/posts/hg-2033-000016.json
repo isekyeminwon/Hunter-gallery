@@ -1,0 +1,340 @@
+{
+  "id": "hg-2033-000016",
+  "displayNo": 1324212,
+  "timestamp": "2033-09-16T17:46:00+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "시장·구인",
+  "displayCategory": "정보",
+  "event": {
+    "tag": "LEE_SIYUL_SS",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "한성 몸값 미쳤겠네",
+  "author": {
+    "type": "fixed",
+    "name": "틀헌터",
+    "ip": null
+  },
+  "content": "스폰서랑 장비업체 전부 줄섰을듯",
+  "attachments": [],
+  "stats": {
+    "views": 57146,
+    "recommend": 585
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000016-001",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:46:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "애초에 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 말은 된다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-002",
+      "parentId": "nat-2033-000016-001",
+      "timestamp": "2033-09-16T17:49:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "한성 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-003",
+      "parentId": "nat-2033-000016-001",
+      "timestamp": "2033-09-16T17:50:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "작성자 존나 급하네 ㅋㅋ 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-004",
+      "parentId": "nat-2033-000016-001",
+      "timestamp": "2033-09-16T17:52:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "아니ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-005",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:54:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "중요한 조건 빼놓는 구인글은 일단 거름 ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-006",
+      "parentId": null,
+      "timestamp": "2033-09-16T17:56:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "병신아 그건 다른 얘기임 ㅋㅋ 댓글 더 달수록 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-007",
+      "parentId": "nat-2033-000016-005",
+      "timestamp": "2033-09-16T17:58:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "말투만 보면 둘이 원수임ㅋㅋ. 진짜.. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-008",
+      "parentId": "nat-2033-000016-006",
+      "timestamp": "2033-09-16T17:59:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "한성 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-009",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:02:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "등급표 들고 계산기 두드리는 애 또 나옴\n제발 계속해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-010",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:04:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "뭐 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 결론 내리기 애매함. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-011",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:07:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "짤만 던지지 말고 원본 좀 ㅋㅋ 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-012",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:09:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "SS 등급을 사람 한명 때문에 새로 만든다는게 제일 미친 부분임 ㅋㅋ 근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-013",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:11:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "아니 한성 하나 보고 업계 전체 결론내는건 너무 감 이상함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-014",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:12:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "한성 관련해서 협회에 물어본 사람?. 초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-015",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:15:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "나 내일 출근인데 왜 이거 보고있냐 ㅋㅋ 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-016",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:16:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "내 주변은 한성 관련해서 기사마다 말 조금씩 다른게 문제임 개빡셈. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-017",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:19:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데 지금도 그 얘기하면 욕함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-018",
+      "parentId": "nat-2033-000016-016",
+      "timestamp": "2033-09-16T18:19:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "개무섭네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-019",
+      "parentId": "nat-2033-000016-009",
+      "timestamp": "2033-09-16T18:21:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "한성 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-020",
+      "parentId": "nat-2033-000016-001",
+      "timestamp": "2033-09-16T18:23:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "진짜 헛소리도 당당하게 하네 근데 그건 니 파티 얘기고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-021",
+      "parentId": "nat-2033-000016-016",
+      "timestamp": "2033-09-16T18:24:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "본문보다 작성자 말투가 더 킹받음 ㅋㅋ 작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-022",
+      "parentId": "nat-2033-000016-010",
+      "timestamp": "2033-09-16T18:26:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "아는척 지랄 좀 그만해라 ㅋㅋ 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-023",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:28:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "오히려 한성는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 좀 에바임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-024",
+      "parentId": "nat-2033-000016-003",
+      "timestamp": "2033-09-16T18:30:47+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "아는척 지랄 좀 그만해라 근데 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000016-025",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:32:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "내가 잘못 아는거 아니면 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 나중에 결과 보면 알겠지. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

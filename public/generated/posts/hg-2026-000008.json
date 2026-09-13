@@ -1,0 +1,148 @@
+{
+  "id": "hg-2026-000008",
+  "displayNo": 367037,
+  "timestamp": "2026-01-13T22:44:45+09:00",
+  "year": 2026,
+  "era": "FORMATION",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회 직원 사칭 문자 조심해라",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "등록비 추가입금하라고 링크 보내는 문자 돌고있음",
+  "attachments": [],
+  "stats": {
+    "views": 11597,
+    "recommend": 46
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2026-000008-001",
+      "parentId": null,
+      "timestamp": "2026-01-13T22:48:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "일단 협회 자체보다 조건이 뭐였는지부터 봐야됨 반박시 니말맞음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000008-002",
+      "parentId": null,
+      "timestamp": "2026-01-13T22:53:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "애초에 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 그냥 그렇다고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000008-003",
+      "parentId": null,
+      "timestamp": "2026-01-13T22:57:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "아니ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000008-004",
+      "parentId": null,
+      "timestamp": "2026-01-13T23:05:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "뇌피셜을 왜 사실처럼 씀. ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000008-005",
+      "parentId": null,
+      "timestamp": "2026-01-13T23:06:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "아 배고파",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000008-006",
+      "parentId": null,
+      "timestamp": "2026-01-13T23:15:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "커뮤 판례 만들지말고 공식문서 봐라 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000008-007",
+      "parentId": null,
+      "timestamp": "2026-01-13T23:25:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "뭐 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이건 좀 더 봐야됨. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000008-008",
+      "parentId": null,
+      "timestamp": "2026-01-13T23:33:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "웃긴게 협회 얘기만 나오면 갑자기 다들 현장 전문가 됨 그냥 그렇다고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000008-009",
+      "parentId": null,
+      "timestamp": "2026-01-13T23:35:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "협회 이거 실제 해본 사람 있음 ㅋㅋ 진짜 궁금해서 물음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

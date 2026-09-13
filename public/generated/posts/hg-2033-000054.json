@@ -1,0 +1,136 @@
+{
+  "id": "hg-2033-000054",
+  "displayNo": 1452744,
+  "timestamp": "2033-07-07T05:16:54+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "가족이 헌터면 명절 질문 폭탄임 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "175.223"
+  },
+  "content": "사촌들한테 능력 한번 보여달라는 말 백번 들음",
+  "attachments": [],
+  "stats": {
+    "views": 9941,
+    "recommend": 38
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000054-001",
+      "parentId": null,
+      "timestamp": "2033-07-07T05:20:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐 근데 웃겨서 화도 안남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000054-002",
+      "parentId": "nat-2033-000054-001",
+      "timestamp": "2033-07-07T05:28:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "아니 시발 뭔 결론이 그렇게 감 ㅋㅋ 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000054-003",
+      "parentId": null,
+      "timestamp": "2033-07-07T05:34:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "아무 의미 없는 글에 다들 진심이네 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000054-004",
+      "parentId": null,
+      "timestamp": "2033-07-07T05:42:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "아무 의미 없는 글에 다들 진심이네 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000054-005",
+      "parentId": null,
+      "timestamp": "2033-07-07T05:47:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "현장 보조 몇번 해봤는데. 우리는 바로 철수 얘기부터 꺼냄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000054-006",
+      "parentId": null,
+      "timestamp": "2033-07-07T05:54:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "이런날도 있어야 게시판이 굴러가지. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000054-007",
+      "parentId": null,
+      "timestamp": "2033-07-07T06:02:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "닉 보고 내용 까먹음. 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000054-008",
+      "parentId": null,
+      "timestamp": "2033-07-07T06:02:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "병신아 그건 다른 얘기임 / 그래서 근거가 뭔데",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,568 @@
+{
+  "id": "hg-2031-000006",
+  "displayNo": 972795,
+  "timestamp": "2031-06-14T22:46:00+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "XIAO_LONG_S",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "해외 S급 측정 기준도 우리랑 같음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.38"
+  },
+  "content": "등급 명칭은 비슷한데 측정장비나 기준 차이 없는지 궁금",
+  "attachments": [],
+  "stats": {
+    "views": 21499,
+    "recommend": 76
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000006-001",
+      "parentId": null,
+      "timestamp": "2031-06-14T22:47:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데 ㅋㅋ 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-002",
+      "parentId": null,
+      "timestamp": "2031-06-14T22:48:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "본문보다 작성자 말투가 더 킹받음\n왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-003",
+      "parentId": null,
+      "timestamp": "2031-06-14T22:48:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "대충 봐도 측정 얘기만 나오면 갑자기 다들 현장 전문가 됨 이건 경험자 말 들어봐야됨. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-004",
+      "parentId": null,
+      "timestamp": "2031-06-14T22:50:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "뭐 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 아무튼 조심해라. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-005",
+      "parentId": null,
+      "timestamp": "2031-06-14T22:52:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "헐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-006",
+      "parentId": null,
+      "timestamp": "2031-06-14T22:55:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "S 하나 뜨면 바로 국가전력 얘기로 넘어가는거 웃김\n이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-007",
+      "parentId": null,
+      "timestamp": "2031-06-14T22:56:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "장비회사 광고 붙는 속도는 국경이 없더라ㅋㅋ ㅋㅋ 작성자도 뒤에 정정했으면 좋았을듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-008",
+      "parentId": null,
+      "timestamp": "2031-06-14T22:56:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "이 댓글창만 게이트 닫으면 안되냐. 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-009",
+      "parentId": null,
+      "timestamp": "2031-06-14T22:58:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "여기서 핵심은 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 이건 좀 더 봐야됨. 지금 정보량으로는 누구도 장담 못함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-010",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:00:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "댓글 구경하러 왔다 ㅋㅋ 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-011",
+      "parentId": "nat-2031-000006-001",
+      "timestamp": "2031-06-14T23:03:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "너무 과장한다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-012",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:05:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "누가 여기다 국회 열었냐. 아무도 안물어봤는데 다들 진심임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-013",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:07:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "오피셜 캡처 말고 링크 줘 / 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-014",
+      "parentId": "nat-2031-000006-010",
+      "timestamp": "2031-06-14T23:08:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "니가 틀림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-015",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:10:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "가짜 전투영상 하루만에 몇개씩 돌았던걸로 기억함\n이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-016",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:13:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "애초에 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 좀 에바임. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-017",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:15:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "정보글 보러왔다가 원숭이 싸움 구경중 / ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-018",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:15:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "번역기 돌린 중국 기사 오피셜처럼 퍼오던 놈들 많았음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-019",
+      "parentId": "nat-2031-000006-013",
+      "timestamp": "2031-06-14T23:16:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "뭔 자신감으로 확정짓냐 ㅋㅋ ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-020",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:16:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "오히려 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 반박시 니말맞음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-021",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:17:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "글을 읽은거냐 제목만 본거냐. 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-022",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:20:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "이런 상황에서 보통 누가 결정함?\n아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-023",
+      "parentId": "nat-2031-000006-016",
+      "timestamp": "2031-06-14T23:22:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "없으면 확정처럼 말하지마. 이러다 제목만 바꿔서 또 싸울듯.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-024",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:24:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "이거 최초 출처 누군데 근데 그거 어제 올라온 가짜랑 비슷한데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-025",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:25:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "근데 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 반박시 니말맞음. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-026",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:25:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "확인된 내용만 적어줘 근데 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-027",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:26:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-028",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:28:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐 ㅋㅋ 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-029",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:29:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "댓글 보니까 측정 하나 보고 업계 전체 결론내는건 너무 감 난 저렇게는 안봄. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-030",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:31:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "웃긴게 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 그래서 난 아직 보류",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-031",
+      "parentId": "nat-2031-000006-030",
+      "timestamp": "2031-06-14T23:33:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "어디서부터 꼬인거냐 이 대화. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-032",
+      "parentId": "nat-2031-000006-022",
+      "timestamp": "2031-06-14T23:35:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "이거 읽다가 버스 지나침 근데 왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-033",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:36:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "S 하나 뜨면 바로 국가전력 얘기로 넘어가는거 웃김 ㅋㅋ 한시간 뒤 글이랑 내용 또 달라졌던 기억남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-034",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:39:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "검색하면 옛날글이랑 최신글 내용 달라서 더 헷갈림. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-035",
+      "parentId": "nat-2031-000006-020",
+      "timestamp": "2031-06-14T23:42:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "측정 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-036",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:44:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "본인등판 없냐 팝콘 다먹음 ㅋㅋ 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-037",
+      "parentId": "nat-2031-000006-033",
+      "timestamp": "2031-06-14T23:45:52+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "ㅇㅇ 해보고 하는말임. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-038",
+      "parentId": "nat-2031-000006-030",
+      "timestamp": "2031-06-14T23:48:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "이 글 보다가 라면 불었다 근데 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-039",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:50:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "일단 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 이상함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-040",
+      "parentId": "nat-2031-000006-025",
+      "timestamp": "2031-06-14T23:50:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "개판이네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-041",
+      "parentId": "nat-2031-000006-034",
+      "timestamp": "2031-06-14T23:53:29+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "헌갤 평균 IQ 측정 들어갑니다 ㅋㅋ 오늘도 평화롭다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-042",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:56:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-043",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:56:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "글쓴이 그 뒤에 후기 없음? ㅋㅋ 초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000006-044",
+      "parentId": null,
+      "timestamp": "2031-06-14T23:56:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "제일 중요한건 측정 얘기만 나오면 갑자기 다들 현장 전문가 됨 이건 맞는말임. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

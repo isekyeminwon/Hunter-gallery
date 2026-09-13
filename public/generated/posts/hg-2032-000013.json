@@ -1,0 +1,436 @@
+{
+  "id": "hg-2032-000013",
+  "displayNo": 1149800,
+  "timestamp": "2032-05-11T09:45:00+09:00",
+  "year": 2032,
+  "era": "INDUSTRY",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "KIM_CHAEYEON_S",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "김채연 팬계정 하루만에 몇개 생긴거냐",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "클립 편집 속도 무섭다",
+  "attachments": [],
+  "stats": {
+    "views": 49192,
+    "recommend": 277
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2032-000013-001",
+      "parentId": null,
+      "timestamp": "2032-05-11T09:47:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "예전에 처음 갔을땐 나도 ㅋㅋ 별거 아닌 실수가 제일 오래감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-002",
+      "parentId": null,
+      "timestamp": "2032-05-11T09:49:46+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "초보가 제일 먼저 확인할거 뭐임? / 아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-003",
+      "parentId": "nat-2032-000013-001",
+      "timestamp": "2032-05-11T09:52:29+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "닉 보고 내용 까먹음\n작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-004",
+      "parentId": null,
+      "timestamp": "2032-05-11T09:53:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 사람마다 말 다른 이유는 알겠더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-005",
+      "parentId": null,
+      "timestamp": "2032-05-11T09:55:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "강주아랑 김채연 붙이는 글은 발표 당일부터 시작됐네ㅋㅋ\n이래서 원문 날짜 확인이 중요함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-006",
+      "parentId": "nat-2032-000013-001",
+      "timestamp": "2032-05-11T09:55:56+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "반박을 하라고 선언하지 말고ㅋㅋ. 지금 정보량으로는 누구도 장담 못함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-007",
+      "parentId": "nat-2032-000013-004",
+      "timestamp": "2032-05-11T09:57:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㅇㅇ 해보고 하는말임. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-008",
+      "parentId": null,
+      "timestamp": "2032-05-11T09:58:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "헌갤 평균 IQ 측정 들어갑니다\n이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-009",
+      "parentId": "nat-2032-000013-004",
+      "timestamp": "2032-05-11T09:59:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "그건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-010",
+      "parentId": "nat-2032-000013-004",
+      "timestamp": "2032-05-11T10:02:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "근데 거기서 결론이 왜 그렇게 감. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-011",
+      "parentId": "nat-2032-000013-008",
+      "timestamp": "2032-05-11T10:04:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "니가 직접 봤냐고 / ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-012",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:07:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "영상보다 썸네일 가지고 더 오래 싸우는중 / 아님말고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-013",
+      "parentId": "nat-2032-000013-006",
+      "timestamp": "2032-05-11T10:10:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ ㅋㅋ 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-014",
+      "parentId": "nat-2032-000013-001",
+      "timestamp": "2032-05-11T10:11:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "직접 해봄?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-015",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:12:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "나 내일 출근인데 왜 이거 보고있냐 근데 나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-016",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:13:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "진짜냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-017",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:14:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "김채연 관련해서 협회에 물어본 사람?. 옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-018",
+      "parentId": "nat-2032-000013-001",
+      "timestamp": "2032-05-11T10:14:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "기사 다시 읽어봐. 인터넷 말보다 계약서 한줄이 더 셈.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-019",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:15:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "지금 나온 것만 보면 김채연 자체보다 조건이 뭐였는지부터 봐야됨 확정짓긴 이른듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-020",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:16:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "아니 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 그럴수도 있긴 함. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-021",
+      "parentId": "nat-2032-000013-005",
+      "timestamp": "2032-05-11T10:19:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "팬 아니어도 이 영상은 볼만하네 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-022",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:20:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "공식 공지 뜬거 맞음? 근데 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-023",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:22:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이거 읽다가 버스 지나침 근데 아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-024",
+      "parentId": "nat-2032-000013-004",
+      "timestamp": "2032-05-11T10:23:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "댓글 잘못 단거 아님?. 진짜.. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-025",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:23:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "팬 아니어도 이 영상은 볼만하네. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-026",
+      "parentId": "nat-2032-000013-004",
+      "timestamp": "2032-05-11T10:25:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ 근데 그건 니 파티 얘기고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-027",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:27:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "인터뷰 차갑다고 성격까지 멋대로 정하는게 더 웃김 ㅋㅋ 댓글만 봐도 당시 혼란이 느껴짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-028",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:30:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌? ㅋㅋ ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-029",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:31:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "진짜 헛소리도 당당하게 하네 ㅋㅋ 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-030",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:34:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "강주아랑 김채연 붙이는 글은 발표 당일부터 시작됐네ㅋㅋ\n근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-031",
+      "parentId": "nat-2032-000013-027",
+      "timestamp": "2032-05-11T10:37:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "작성자 IP 왤케 낯익냐 ㅋㅋ 나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-032",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:39:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "그래서 저녁 추천좀. 아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000013-033",
+      "parentId": null,
+      "timestamp": "2032-05-11T10:42:21+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "원문 어디냐. 출처 없이 퍼지는 속도만 존나 빠름",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

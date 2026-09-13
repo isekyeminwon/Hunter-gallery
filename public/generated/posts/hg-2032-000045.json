@@ -1,0 +1,280 @@
+{
+  "id": "hg-2032-000045",
+  "displayNo": 1260895,
+  "timestamp": "2032-10-07T11:43:47+09:00",
+  "year": 2032,
+  "era": "INDUSTRY",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드순위 전투력만 보는거 의미있음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "돈 장비 인력까지 다 넣어야되는거 아님",
+  "attachments": [],
+  "stats": {
+    "views": 25334,
+    "recommend": 87
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2032-000045-001",
+      "parentId": null,
+      "timestamp": "2032-10-07T11:47:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "팀장한테 비슷한거 물어봤는데. 사람마다 말 다른 이유는 알겠더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-002",
+      "parentId": "nat-2032-000045-001",
+      "timestamp": "2032-10-07T11:54:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐 ㅋㅋ 댓글 더 달수록 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-003",
+      "parentId": null,
+      "timestamp": "2032-10-07T12:02:40+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "같은 등급 안에서도 차이 큼 ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-004",
+      "parentId": null,
+      "timestamp": "2032-10-07T12:05:05+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "이 글 결론 안나고 다음주에 제목 바꿔서 또 올라옴 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-005",
+      "parentId": "nat-2032-000045-002",
+      "timestamp": "2032-10-07T12:06:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "뭘 보고 위험하다는건데. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-006",
+      "parentId": "nat-2032-000045-001",
+      "timestamp": "2032-10-07T12:14:04+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "여기서 우승하면 협회장 시켜줌?\n팝콘 부족함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-007",
+      "parentId": null,
+      "timestamp": "2032-10-07T12:15:29+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "기사 링크부터 가져와 / 출처 없이 퍼지는 속도만 존나 빠름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-008",
+      "parentId": null,
+      "timestamp": "2032-10-07T12:16:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "검색해도 안나오는데 어디서 봄. 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-009",
+      "parentId": null,
+      "timestamp": "2032-10-07T12:18:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "내일 검사인데 이런 글 왜 클릭했지\n아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-010",
+      "parentId": null,
+      "timestamp": "2032-10-07T12:18:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "좆문가 또 왔네 ㅋㅋ 그건 니 파티 얘기고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-011",
+      "parentId": "nat-2032-000045-001",
+      "timestamp": "2032-10-07T12:23:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "말투만 보면 둘이 원수임ㅋㅋ / 둘다 그만해. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-012",
+      "parentId": null,
+      "timestamp": "2032-10-07T12:30:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "나도 비슷한 일 한번 겪었는데. 별거 아닌 실수가 제일 오래감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-013",
+      "parentId": "nat-2032-000045-003",
+      "timestamp": "2032-10-07T12:38:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "아니ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-014",
+      "parentId": "nat-2032-000045-009",
+      "timestamp": "2032-10-07T12:42:47+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "ㅇㅇ 해보고 하는말임. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-015",
+      "parentId": null,
+      "timestamp": "2032-10-07T12:44:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "이 비교 관련해서 협회에 물어본 사람? / 최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-016",
+      "parentId": null,
+      "timestamp": "2032-10-07T12:45:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "이 경우에도 같은 기준 적용됨? / 이거만 확인하고싶음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-017",
+      "parentId": "nat-2032-000045-015",
+      "timestamp": "2032-10-07T12:56:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "진짜 헛소리도 당당하게 하네 근데 반박은 내용으로 해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-018",
+      "parentId": "nat-2032-000045-001",
+      "timestamp": "2032-10-07T13:05:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "조건 하나 빠졌잖아. 내말 틀림?. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-019",
+      "parentId": "nat-2032-000045-015",
+      "timestamp": "2032-10-07T13:14:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "말투만 보면 둘이 원수임ㅋㅋ / 둘다 그만해. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000045-020",
+      "parentId": null,
+      "timestamp": "2032-10-07T13:15:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "애초에 이 비교 하나 보고 업계 전체 결론내는건 너무 감 난 저렇게는 안봄. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

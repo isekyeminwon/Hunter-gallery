@@ -1,0 +1,136 @@
+{
+  "id": "hg-2032-000036",
+  "displayNo": 1229636,
+  "timestamp": "2032-01-05T04:29:32+09:00",
+  "year": 2032,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "헌터 보험 광고 멘트 누가 쓰냐",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "살아서 돌아오십시오 이런거 보면 밥먹다 체함",
+  "attachments": [],
+  "stats": {
+    "views": 34301,
+    "recommend": 395
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2032-000036-001",
+      "parentId": null,
+      "timestamp": "2032-01-05T04:31:58+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "공식 공지 뜬거 맞음?. 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000036-002",
+      "parentId": null,
+      "timestamp": "2032-01-05T04:40:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "니가 직접 봤냐고 ㅋㅋ 말을 해도 꼭 저렇게 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000036-003",
+      "parentId": null,
+      "timestamp": "2032-01-05T04:44:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "개인적으로 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 좀 에바임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000036-004",
+      "parentId": "nat-2032-000036-001",
+      "timestamp": "2032-01-05T04:53:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "아무 의미 없는 글에 다들 진심이네. 이러다 제목만 바꿔서 또 싸울듯.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000036-005",
+      "parentId": null,
+      "timestamp": "2032-01-05T05:01:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "왜 이런글이 정보글보다 댓글 잘달림ㅋㅋ. 조건 하나만 달라도 얘기 완전 달라짐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000036-006",
+      "parentId": "nat-2032-000036-001",
+      "timestamp": "2032-01-05T05:02:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "작성자 IP 왤케 낯익냐 근데 아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000036-007",
+      "parentId": "nat-2032-000036-005",
+      "timestamp": "2032-01-05T05:09:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "ㅇㅇ 해보고 하는말임. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000036-008",
+      "parentId": null,
+      "timestamp": "2032-01-05T05:19:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "초보가 제일 먼저 확인할거 뭐임?. 진짜 궁금해서 물음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

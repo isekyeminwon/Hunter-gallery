@@ -1,0 +1,580 @@
+{
+  "id": "hg-2031-000004",
+  "displayNo": 965759,
+  "timestamp": "2031-06-12T17:21:00+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "XIAO_LONG_S",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "중국 S급 또 나오면 아시아 판도 바뀌냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "국가별로 S 숫자 세는 글 또 늘겠네",
+  "attachments": [],
+  "stats": {
+    "views": 65713,
+    "recommend": 244
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000004-001",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:21:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-002",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:24:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 근데 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-003",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:25:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "나도 비슷한 일 한번 겪었는데 ㅋㅋ 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-004",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:26:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "S 하나 뜨면 바로 국가전력 얘기로 넘어가는거 웃김. 댓글만 봐도 당시 혼란이 느껴짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-005",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:28:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "댓글 하나에 왜 이렇게 긁힘. 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-006",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:29:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "이 댓글창만 게이트 닫으면 안되냐 / 오늘도 평화롭다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-007",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:29:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-008",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:30:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "니가 직접 봤냐고. 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-009",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:31:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐. 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-010",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:33:46+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "샤오룽 영상 뜨자마자 국적 가지고 싸우는거 진짜 헌갤다웠음\n근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-011",
+      "parentId": "nat-2031-000004-001",
+      "timestamp": "2031-06-12T17:35:44+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "지금 나온 것만 보면 S급 얘기만 나오면 갑자기 다들 현장 전문가 됨 반박시 니말맞음. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-012",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:37:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "오늘 비오는데 장비 말리기 개귀찮음 ㅋㅋ 나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-013",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:37:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "닉 보고 내용 까먹음 근데 퇴근이나 시켜줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-014",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:38:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "장비회사 광고 붙는 속도는 국경이 없더라ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-015",
+      "parentId": "nat-2031-000004-005",
+      "timestamp": "2031-06-12T17:40:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "S급 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-016",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:40:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "으음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-017",
+      "parentId": "nat-2031-000004-015",
+      "timestamp": "2031-06-12T17:43:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "나도 비슷한 일 한번 겪었는데 ㅋㅋ 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-018",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:43:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "와",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-019",
+      "parentId": "nat-2031-000004-003",
+      "timestamp": "2031-06-12T17:45:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "반박을 하라고 선언하지 말고ㅋㅋ. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-020",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:47:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "이거 최초 출처 누군데 ㅋㅋ 출처 없이 퍼지는 속도만 존나 빠름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-021",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:50:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "아 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-022",
+      "parentId": "nat-2031-000004-021",
+      "timestamp": "2031-06-12T17:51:34+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "글쓴이 도망갔는데 댓글끼리 3차전중\nㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-023",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:51:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "또 줄세우기 시작했네ㅋㅋ / 아님말고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-024",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:54:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "이건 좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-025",
+      "parentId": "nat-2031-000004-006",
+      "timestamp": "2031-06-12T17:56:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "내일 검사인데 이런 글 왜 클릭했지 근데 갑자기 생각나서 적음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-026",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:58:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "S급 경험자 있으면 체감 좀 알려줘\n이거만 확인하고싶음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-027",
+      "parentId": null,
+      "timestamp": "2031-06-12T17:59:26+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "병신아 그건 다른 얘기임. 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-028",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:02:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "샤오룽 영상 뜨자마자 국적 가지고 싸우는거 진짜 헌갤다웠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-029",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:04:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "본인등판 없냐 팝콘 다먹음. ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-030",
+      "parentId": "nat-2031-000004-014",
+      "timestamp": "2031-06-12T18:06:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "니들 둘 다 진정해라. 이러다 제목만 바꿔서 또 싸울듯.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-031",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:08:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "샤오룽 영상 뜨자마자 국적 가지고 싸우는거 진짜 헌갤다웠음\n댓글만 봐도 당시 혼란이 느껴짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-032",
+      "parentId": "nat-2031-000004-016",
+      "timestamp": "2031-06-12T18:10:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "여기서 핵심은 S급 하나 보고 업계 전체 결론내는건 너무 감 그래서 난 아직 보류",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-033",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:13:00+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "최근 기준 달라진거 있음?. 옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-034",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:14:18+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "영상 몇개 보고 순위 정하는게 제일 재밌긴 함ㅋㅋ ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-035",
+      "parentId": "nat-2031-000004-028",
+      "timestamp": "2031-06-12T18:14:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "말투만 보면 둘이 원수임ㅋㅋ. 진짜.. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-036",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:15:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "다 떠나서 S급 관련해서 기사마다 말 조금씩 다른게 문제임 이라 봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-037",
+      "parentId": "nat-2031-000004-028",
+      "timestamp": "2031-06-12T18:17:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "등급표 들고 계산기 두드리는 애 또 나옴 ㅋㅋ 와중에 추천은 누르고감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-038",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:19:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "둘 다 개소리중임 / 웃겨서 화도 안남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-039",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:21:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ ㅋㅋ 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-040",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:23:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "번역기 돌린 중국 기사 오피셜처럼 퍼오던 놈들 많았음. 확인 안된 얘기가 너무 빨리 돌았음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-041",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:26:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "아니 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 아닌가. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-042",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:28:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "확인된 내용만 적어줘 근데 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-043",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:31:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이런 상황에서 보통 누가 결정함?\n옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-044",
+      "parentId": null,
+      "timestamp": "2031-06-12T18:32:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "현장 보조 몇번 해봤는데 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000004-045",
+      "parentId": "nat-2031-000004-034",
+      "timestamp": "2031-06-12T18:35:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ 근데 현장가서 그렇게 말해봐라",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "hg-2027-000013",
+  "displayNo": 473531,
+  "timestamp": "2027-08-03T17:47:13+09:00",
+  "year": 2027,
+  "era": "FORMATION",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "신규 C급 현장 동행 구인 왜 이렇게 많음",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "경력 없어서 처음 몇번 같이 가는 자리 찾는데 경쟁 심하네",
+  "attachments": [],
+  "stats": {
+    "views": 16952,
+    "recommend": 20
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2027-000013-001",
+      "parentId": null,
+      "timestamp": "2027-08-03T17:55:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 근데 지금도 그 얘기하면 욕함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-002",
+      "parentId": null,
+      "timestamp": "2027-08-03T18:05:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "중요한 조건 빼놓는 구인글은 일단 거름. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-003",
+      "parentId": "nat-2027-000013-002",
+      "timestamp": "2027-08-03T18:07:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "니가 직접 봤냐고 ㅋㅋ 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-004",
+      "parentId": null,
+      "timestamp": "2027-08-03T18:12:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "기사 링크부터 가져와 근데 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-005",
+      "parentId": "nat-2027-000013-002",
+      "timestamp": "2027-08-03T18:22:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "누가 여기다 국회 열었냐. 내일까지 싸워줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-006",
+      "parentId": null,
+      "timestamp": "2027-08-03T18:28:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "이거 최초 출처 누군데 ㅋㅋ 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-007",
+      "parentId": "nat-2027-000013-002",
+      "timestamp": "2027-08-03T18:33:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "기사만 보면 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 난 저렇게는 안봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-008",
+      "parentId": null,
+      "timestamp": "2027-08-03T18:42:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "엥",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-009",
+      "parentId": null,
+      "timestamp": "2027-08-03T18:45:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "금액만 보고 가지말고 보험이랑 계약주체부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-010",
+      "parentId": null,
+      "timestamp": "2027-08-03T18:49:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면. 입구부터 꼬여서 하루 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000013-011",
+      "parentId": "nat-2027-000013-002",
+      "timestamp": "2027-08-03T18:56:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "근데 거기서 결론이 왜 그렇게 감. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

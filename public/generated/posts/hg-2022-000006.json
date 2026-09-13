@@ -1,0 +1,125 @@
+{
+  "id": "hg-2022-000006",
+  "displayNo": 190331,
+  "displayNoLabel": "외부기록",
+  "timestamp": "2022-12-24T23:38:09+09:00",
+  "year": 2022,
+  "era": "LEGACY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "크리스마스인데 치킨집 문닫음",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.7"
+  },
+  "content": "배달 70분 기다렸는데 취소당함\n\n편의점 간다",
+  "attachments": [],
+  "stats": {
+    "views": 1984,
+    "recommend": 2
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2022-000006-001",
+      "parentId": null,
+      "timestamp": "2022-12-24T23:48:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "이거 커뮤발인지 기사발인지부터 말해 근데 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2022-000006-002",
+      "parentId": null,
+      "timestamp": "2022-12-24T23:51:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이런 쓸데없는 글이 은근 오래 살아남음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2022-000006-003",
+      "parentId": "nat-2022-000006-001",
+      "timestamp": "2022-12-24T23:57:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌? / 와중에 추천은 누르고감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2022-000006-004",
+      "parentId": null,
+      "timestamp": "2022-12-25T00:06:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "아",
+      "deleted": false
+    },
+    {
+      "id": "nat-2022-000006-005",
+      "parentId": null,
+      "timestamp": "2022-12-25T00:16:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "누가 여기다 국회 열었냐 ㅋㅋ 누가 말리냐 계속해봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2022-000006-006",
+      "parentId": null,
+      "timestamp": "2022-12-25T00:22:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "이거 커뮤발인지 기사발인지부터 말해 / 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2022-000006-007",
+      "parentId": null,
+      "timestamp": "2022-12-25T00:26:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "친구가 저쪽 일하는데 ㅋㅋ 입구부터 꼬여서 하루 날림",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

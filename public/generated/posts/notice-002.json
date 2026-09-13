@@ -1,0 +1,39 @@
+{
+  "id": "notice-002",
+  "displayNo": 9900002,
+  "timestamp": "2042-03-02T10:30:00+09:00",
+  "year": 2042,
+  "era": "CURRENT",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "정보",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "각성검사·등록 관련 반복 질문 안내",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "검사 일정·재방문·등록증 관련 질문은 먼저 공식 안내를 확인해 주세요.\n개인 등록번호나 측정 서류 원본을 사진으로 올리는 글은 삭제합니다.",
+  "attachments": [],
+  "stats": {
+    "views": 1438804,
+    "recommend": 0
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

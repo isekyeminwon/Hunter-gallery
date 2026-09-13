@@ -1,0 +1,39 @@
+{
+  "id": "hg-2033-000027",
+  "displayNo": 1362840,
+  "timestamp": "2033-09-17T03:15:00+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "LEE_SIYUL_SS",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "[공지] 이시율·SS급 중복글 정리 안내",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "동일 기사·동일 영상·출처 없는 목격담 도배를 정리합니다.\n신상정보 추적 게시물은 삭제합니다.",
+  "attachments": [],
+  "stats": {
+    "views": 77524,
+    "recommend": 0
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

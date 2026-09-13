@@ -1,0 +1,136 @@
+{
+  "id": "hg-2034-000030",
+  "displayNo": 1625005,
+  "timestamp": "2034-07-09T16:42:52+09:00",
+  "year": 2034,
+  "era": "SS_ERA",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "등급 물어보는 친척 좀 막아줘",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "58.29"
+  },
+  "content": "명절마다 같은 질문함",
+  "attachments": [],
+  "stats": {
+    "views": 31008,
+    "recommend": 306
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2034-000030-001",
+      "parentId": null,
+      "timestamp": "2034-07-09T16:48:02+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "본문 세줄 댓글 오십개가 커뮤지. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000030-002",
+      "parentId": null,
+      "timestamp": "2034-07-09T16:49:36+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "이런 쓸데없는 글이 은근 오래 살아남음. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000030-003",
+      "parentId": "nat-2034-000030-002",
+      "timestamp": "2034-07-09T16:58:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "글을 읽은거냐 제목만 본거냐 / 댓글 더 달수록 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000030-004",
+      "parentId": "nat-2034-000030-003",
+      "timestamp": "2034-07-09T17:02:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "ㅇㅇ 해보고 하는말임. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000030-005",
+      "parentId": null,
+      "timestamp": "2034-07-09T17:10:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "이거 지역마다 차이남?\n이거만 확인하고싶음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000030-006",
+      "parentId": null,
+      "timestamp": "2034-07-09T17:16:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "이거 지역마다 차이남?. 옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000030-007",
+      "parentId": null,
+      "timestamp": "2034-07-09T17:21:58+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "아 배고파. 누가 메뉴 하나만 골라줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000030-008",
+      "parentId": null,
+      "timestamp": "2034-07-09T17:28:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "솔직히 이 글는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 이건 경험자 말 들어봐야됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

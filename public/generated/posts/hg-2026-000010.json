@@ -1,0 +1,352 @@
+{
+  "id": "hg-2026-000010",
+  "displayNo": 377636,
+  "timestamp": "2026-04-07T09:07:00+09:00",
+  "year": 2026,
+  "era": "FORMATION",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "HUNTER_ASSOCIATION_LAUNCH",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "이제 게이트 아무나 못들어간다네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "175.223"
+  },
+  "content": "출입 관리 공식화된다고 함\n현장마다 제각각이던 거 좀 정리되려나",
+  "attachments": [],
+  "stats": {
+    "views": 84006,
+    "recommend": 376
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": true,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2026-000010-001",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:08:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "근데 점심 뭐먹냐\n아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-002",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:08:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "원글 세줄인데 토론회가 열림\n팝콘 부족함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-003",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:10:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "짤만 던지지 말고 원본 좀 / 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-004",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:13:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "협회 첫해는 창구마다 답변 달라서 진짜 답답했음 ㅋㅋ 이래서 원문 날짜 확인이 중요함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-005",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:15:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "저때 협회 사칭문자 미친듯이 돌았음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-006",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:17:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "개빡세네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-007",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:18:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "개인적으로 게이트 얘기만 나오면 갑자기 다들 현장 전문가 됨 이상함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-008",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:20:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "현장 근처면 커뮤말고 안내방송부터 들어라 / 아님말고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-009",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:23:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "등록번호 받으면 괜히 직업 하나 생긴 기분 들었음 ㅋㅋ 지금 보면 웃긴데 당시엔 진지했겠지",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-010",
+      "parentId": "nat-2026-000010-001",
+      "timestamp": "2026-04-07T09:25:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "글을 읽은거냐 제목만 본거냐 ㅋㅋ 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-011",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:25:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "흠",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-012",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:28:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "저때 협회 사칭문자 미친듯이 돌았음\n근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-013",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:28:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "저때 협회 사칭문자 미친듯이 돌았음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-014",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:31:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "둘 다 개소리중임 / 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-015",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:31:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "뭔 개소리야",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-016",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:31:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "초보가 제일 먼저 확인할거 뭐임?. 초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-017",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:33:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이런날 카더라가 공식보다 세배 빨리 돎 ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-018",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:33:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "게이트 관련해서 협회에 물어본 사람?. 옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-019",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:35:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "헐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-020",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:36:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "좆문가 또 왔네 / 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-021",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:37:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "기사 링크부터 가져와. 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-022",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:38:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-023",
+      "parentId": "nat-2026-000010-020",
+      "timestamp": "2026-04-07T09:38:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "개무섭네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-f01",
+      "parentId": null,
+      "timestamp": "2038-10-20T23:20:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-f02",
+      "parentId": null,
+      "timestamp": "2038-10-20T23:22:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "몇년전 댓글에 답글달면 알림가냐ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000010-f03",
+      "parentId": "nat-2026-000010-020",
+      "timestamp": "2038-10-20T23:39:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "게이트 검색하다가 여기까지 내려옴",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

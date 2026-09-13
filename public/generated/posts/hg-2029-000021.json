@@ -1,0 +1,39 @@
+{
+  "id": "hg-2029-000021",
+  "displayNo": 690543,
+  "timestamp": "2029-10-23T22:41:23+09:00",
+  "year": 2029,
+  "era": "INDUSTRY",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "공략대 사고사진 원본",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 10476,
+    "recommend": 59
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "AUTHOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

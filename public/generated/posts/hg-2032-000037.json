@@ -1,0 +1,88 @@
+{
+  "id": "hg-2032-000037",
+  "displayNo": 1232237,
+  "timestamp": "2032-06-11T15:46:20+09:00",
+  "year": 2032,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "주말에 게이트 구경가자는 친구 손절각? 요즘",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "112.171"
+  },
+  "content": "통제선 밖이어도 사람 너무 많아서 싫음",
+  "attachments": [],
+  "stats": {
+    "views": 10379,
+    "recommend": 36
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2032-000037-001",
+      "parentId": null,
+      "timestamp": "2032-06-11T15:51:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "왜 아무도 말 안하냐 한명 경험담을 전체 룰로 만드는게 제일 위험함 말은 된다. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000037-002",
+      "parentId": null,
+      "timestamp": "2032-06-11T15:56:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "예전에 처음 갔을땐 나도 ㅋㅋ 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000037-003",
+      "parentId": "nat-2032-000037-001",
+      "timestamp": "2032-06-11T16:06:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "본인등판 없냐 팝콘 다먹음 / 내일까지 싸워줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000037-004",
+      "parentId": null,
+      "timestamp": "2032-06-11T16:10:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "게이트 이거 실제 해본 사람 있음 ㅋㅋ 아는척 말고 해본사람만",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

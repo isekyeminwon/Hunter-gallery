@@ -1,0 +1,112 @@
+{
+  "id": "hg-2024-000010",
+  "displayNo": 260687,
+  "timestamp": "2024-08-18T19:18:09+09:00",
+  "year": 2024,
+  "era": "FORMATION",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "친구 생일인데 능력 생겼냐고만 물어봄",
+  "author": {
+    "type": "fixed",
+    "name": "스무살대기중",
+    "ip": null
+  },
+  "content": "케이크보다 마나 얘기를 더 많이 들었다더라 ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 1462,
+    "recommend": 4
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2024-000010-001",
+      "parentId": null,
+      "timestamp": "2024-08-18T19:24:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이런날도 있어야 게시판이 굴러가지 ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2024-000010-002",
+      "parentId": null,
+      "timestamp": "2024-08-18T19:34:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "이런날도 있어야 게시판이 굴러가지 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2024-000010-003",
+      "parentId": null,
+      "timestamp": "2024-08-18T19:35:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "글쓴이는 이미 갔는데 댓글끼리 싸우는중ㅋㅋ / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2024-000010-004",
+      "parentId": null,
+      "timestamp": "2024-08-18T19:37:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "????",
+      "deleted": false
+    },
+    {
+      "id": "nat-2024-000010-005",
+      "parentId": null,
+      "timestamp": "2024-08-18T19:39:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "웃긴게 이 글는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 그래서 난 아직 보류. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2024-000010-006",
+      "parentId": null,
+      "timestamp": "2024-08-18T19:45:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "이런 상황에서 보통 누가 결정함?\n이거만 확인하고싶음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

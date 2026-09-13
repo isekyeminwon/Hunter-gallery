@@ -1,0 +1,388 @@
+{
+  "id": "hg-2031-000007",
+  "displayNo": 977925,
+  "timestamp": "2031-06-14T10:25:00+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "XIAO_LONG_S",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "샤오룽 인터뷰 번역본 본 사람",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "말투 되게 담백하네\n기자가 한국 S급 물어보기도 함",
+  "attachments": [],
+  "stats": {
+    "views": 118932,
+    "recommend": 1247
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000007-001",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:27:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "S 하나 뜨면 바로 국가전력 얘기로 넘어가는거 웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-002",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:29:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "영상보다 썸네일 가지고 더 오래 싸우는중. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-003",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:31:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "오히려 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 그냥 그렇다고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-004",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:32:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "작성자 존나 급하네 근데 그래서 근거가 뭔데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-005",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:33:57+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "병신아 그건 다른 얘기임 근데 ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-006",
+      "parentId": "nat-2031-000007-004",
+      "timestamp": "2031-06-14T10:34:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "샤오룽 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-007",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:36:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "샤오룽 이거 실제 해본 사람 있음 ㅋㅋ 옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-008",
+      "parentId": "nat-2031-000007-003",
+      "timestamp": "2031-06-14T10:38:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "내가 보기엔 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 이라 봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-009",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:39:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "아는척 지랄 좀 그만해라 / 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-010",
+      "parentId": "nat-2031-000007-002",
+      "timestamp": "2031-06-14T10:41:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "닉 보고 내용 까먹음. 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-011",
+      "parentId": "nat-2031-000007-007",
+      "timestamp": "2031-06-14T10:44:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "팬이랑 안티 동시에 몰려와서 댓글창 개판남ㅋㅋ. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-012",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:45:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "초보가 제일 먼저 확인할거 뭐임?. 초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-013",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:45:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "나도 처음엔 별거 아니라고 봤는데 근데 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-014",
+      "parentId": "nat-2031-000007-012",
+      "timestamp": "2031-06-14T10:47:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "둘이 서로 다른 얘기하고 있음ㅋㅋ. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-015",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:49:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "댓글 구경하러 왔다. 누가 메뉴 하나만 골라줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-016",
+      "parentId": "nat-2031-000007-012",
+      "timestamp": "2031-06-14T10:52:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "기사 세줄도 안읽고 댓글부터 쓰냐 근데 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-017",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:54:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "샤오룽 경험자 있으면 체감 좀 알려줘. 검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-018",
+      "parentId": null,
+      "timestamp": "2031-06-14T10:57:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "짤 하나 잘못 잘리면 하루종일 해명글 올라옴 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-019",
+      "parentId": "nat-2031-000007-016",
+      "timestamp": "2031-06-14T11:00:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "ㅇㅇ 해보고 하는말임. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-020",
+      "parentId": null,
+      "timestamp": "2031-06-14T11:00:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "해외 등급 기준 우리랑 같냐는 질문 이때 엄청 많았음\n한시간 뒤 글이랑 내용 또 달라졌던 기억남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-021",
+      "parentId": "nat-2031-000007-018",
+      "timestamp": "2031-06-14T11:01:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "말투만 보면 둘이 원수임ㅋㅋ / 둘다 그만해. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-022",
+      "parentId": "nat-2031-000007-005",
+      "timestamp": "2031-06-14T11:03:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "으음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-023",
+      "parentId": "nat-2031-000007-017",
+      "timestamp": "2031-06-14T11:06:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "야구 보다가 여기까지 왔다\n아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-024",
+      "parentId": "nat-2031-000007-004",
+      "timestamp": "2031-06-14T11:08:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "뇌피셜을 왜 사실처럼 씀. 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-025",
+      "parentId": "nat-2031-000007-003",
+      "timestamp": "2031-06-14T11:11:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "공식 뜨기 전엔 모름. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-026",
+      "parentId": "nat-2031-000007-013",
+      "timestamp": "2031-06-14T11:13:45+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "작성자 IP 왤케 낯익냐. 나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-027",
+      "parentId": "nat-2031-000007-016",
+      "timestamp": "2031-06-14T11:14:45+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "닉 보고 내용 까먹음\n왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-028",
+      "parentId": "nat-2031-000007-015",
+      "timestamp": "2031-06-14T11:17:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "샤오룽 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000007-029",
+      "parentId": null,
+      "timestamp": "2031-06-14T11:19:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "야구 보다가 여기까지 왔다. 아무튼 난 밥먹으러감",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

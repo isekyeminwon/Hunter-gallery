@@ -1,0 +1,316 @@
+{
+  "id": "hg-2030-000052",
+  "displayNo": 926286,
+  "timestamp": "2030-09-15T16:19:19+09:00",
+  "year": 2030,
+  "era": "INDUSTRY",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회 재측정 받아본사람",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "기계차이 때문에 수치 조금 변한다는 말 진짜임?",
+  "attachments": [],
+  "stats": {
+    "views": 9247,
+    "recommend": 64
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2030-000052-001",
+      "parentId": null,
+      "timestamp": "2030-09-15T16:22:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "둘 다 개소리중임. 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-002",
+      "parentId": null,
+      "timestamp": "2030-09-15T16:27:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "이거 최초 출처 누군데. 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-003",
+      "parentId": null,
+      "timestamp": "2030-09-15T16:32:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "아이고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-004",
+      "parentId": "nat-2030-000052-003",
+      "timestamp": "2030-09-15T16:39:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "예외 하나 들고와서 전체가 틀렸다고 하면 어떡함. 내말 틀림?. 본문보다 대댓글이 더 길어질 각이다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-005",
+      "parentId": null,
+      "timestamp": "2030-09-15T16:39:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "나도 처음엔 여기서 막혔음. 이러다 제목만 바꿔서 또 싸울듯.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-006",
+      "parentId": null,
+      "timestamp": "2030-09-15T16:48:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "아 배고파 근데 퇴근이나 시켜줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-007",
+      "parentId": null,
+      "timestamp": "2030-09-15T16:53:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "내일 검사인데 이런 글 왜 클릭했지. 본문이랑 상관없긴 한데 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-008",
+      "parentId": "nat-2030-000052-002",
+      "timestamp": "2030-09-15T17:00:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ ㅋㅋ 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-009",
+      "parentId": "nat-2030-000052-005",
+      "timestamp": "2030-09-15T17:07:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "현장에서는 다름. 이러다 제목만 바꿔서 또 싸울듯.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-010",
+      "parentId": null,
+      "timestamp": "2030-09-15T17:11:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "웃긴게 한명 경험담을 전체 룰로 만드는게 제일 위험함 결론 내리기 애매함. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-011",
+      "parentId": null,
+      "timestamp": "2030-09-15T17:15:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "질문자 패지말고 틀린 부분만 말해주면 되잖아. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-012",
+      "parentId": "nat-2030-000052-005",
+      "timestamp": "2030-09-15T17:18:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데 괜히 싸게 하려다 돈 더들었음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-013",
+      "parentId": "nat-2030-000052-007",
+      "timestamp": "2030-09-15T17:19:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "뭔 자신감으로 확정짓냐 ㅋㅋ 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-014",
+      "parentId": null,
+      "timestamp": "2030-09-15T17:21:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "댓글이 본문보다 위험등급 높음 ㅋㅋ 팝콘 부족함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-015",
+      "parentId": "nat-2030-000052-010",
+      "timestamp": "2030-09-15T17:22:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "협회 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?. 이러다 제목만 바꿔서 또 싸울듯.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-016",
+      "parentId": "nat-2030-000052-008",
+      "timestamp": "2030-09-15T17:31:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "그러니까 확정처럼 쓰지 말라고. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-017",
+      "parentId": null,
+      "timestamp": "2030-09-15T17:41:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "확인된 내용만 적어줘. 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-018",
+      "parentId": null,
+      "timestamp": "2030-09-15T17:50:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "검색하면 옛날글이랑 최신글 내용 달라서 더 헷갈림 ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-019",
+      "parentId": null,
+      "timestamp": "2030-09-15T17:53:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "친구가 저쪽 일하는데. 지금도 그 얘기하면 욕함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-020",
+      "parentId": "nat-2030-000052-010",
+      "timestamp": "2030-09-15T18:01:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "이런 글에서 안싸우면 헌갤 망함. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-021",
+      "parentId": "nat-2030-000052-002",
+      "timestamp": "2030-09-15T18:07:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "그 말이면 세상 모든 질문 끝남ㅋㅋ. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-022",
+      "parentId": "nat-2030-000052-010",
+      "timestamp": "2030-09-15T18:11:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "그건 좀 아닌듯. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000052-023",
+      "parentId": "nat-2030-000052-015",
+      "timestamp": "2030-09-15T18:17:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "닉 보고 내용 까먹음. 작성자 책임져라 시간 날림",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

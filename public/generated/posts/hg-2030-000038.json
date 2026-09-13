@@ -1,0 +1,39 @@
+{
+  "id": "hg-2030-000038",
+  "displayNo": 870880,
+  "timestamp": "2030-11-10T15:31:00+09:00",
+  "year": 2030,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "BYULHANA_STAGE_DISASTER",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "공연장 내부 영상 원본",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 64784,
+    "recommend": 527
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "POLICY_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

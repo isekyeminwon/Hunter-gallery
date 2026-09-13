@@ -1,0 +1,40 @@
+{
+  "id": "hg-2022-000003",
+  "displayNo": 119304,
+  "displayNoLabel": "외부기록",
+  "timestamp": "2022-04-03T22:07:16+09:00",
+  "year": 2022,
+  "era": "LEGACY",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "정보",
+  "event": {
+    "tag": "GATE_YEAR_ZERO",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "통제선 안쪽 갔다왔다 질문받는다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "175.223"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 58421,
+    "recommend": 311
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "AUTHOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

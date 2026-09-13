@@ -1,0 +1,76 @@
+{
+  "id": "hg-2027-000014",
+  "displayNo": 477101,
+  "timestamp": "2027-10-07T09:54:22+09:00",
+  "year": 2027,
+  "era": "FORMATION",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "검사날 엄마가 미역국 해줌",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "각성 생일이라고 부르지마 제발",
+  "attachments": [],
+  "stats": {
+    "views": 10892,
+    "recommend": 33
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2027-000014-001",
+      "parentId": null,
+      "timestamp": "2027-10-07T10:03:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "근데 각성 자체보다 조건이 뭐였는지부터 봐야됨 결론 내리기 애매함. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000014-002",
+      "parentId": null,
+      "timestamp": "2027-10-07T10:05:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "현장마다 다르면 보통 뭘 기준으로 봄?\n댓글 싸우지말고 답만좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000014-003",
+      "parentId": null,
+      "timestamp": "2027-10-07T10:08:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "협회 직원 댓글에만 지금 42명 있음. ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

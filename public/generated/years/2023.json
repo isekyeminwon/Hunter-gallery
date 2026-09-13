@@ -1,0 +1,176 @@
+[
+  {
+    "id": "hg-2023-000006",
+    "displayNo": 228017,
+    "displayNoLabel": "캡처본",
+    "timestamp": "2023-12-11T20:29:40+09:00",
+    "year": 2023,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "게이트 때문에 출근길 또 막힘",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "175.223"
+    },
+    "stats": {
+      "views": 5304,
+      "recommend": 17
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 4,
+    "popularityScore": 38
+  },
+  {
+    "id": "hg-2023-000005",
+    "displayNo": 225238,
+    "displayNoLabel": "캡처본",
+    "timestamp": "2023-05-13T02:31:00+09:00",
+    "year": 2023,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "병원에서 이상한 검사 받았다는 사람 있음?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.101"
+    },
+    "stats": {
+      "views": 11052,
+      "recommend": 258
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": true,
+      "locked": false
+    },
+    "deletedStatus": "AUTHOR_DELETED",
+    "commentCount": 0,
+    "popularityScore": 516
+  },
+  {
+    "id": "hg-2023-000004",
+    "displayNo": 219902,
+    "displayNoLabel": "외부기록",
+    "timestamp": "2023-05-12T22:49:00+09:00",
+    "year": 2023,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "능력 생긴 친구 인증 올린다",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 1942,
+      "recommend": 74
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": true,
+      "locked": false
+    },
+    "deletedStatus": "POLICY_DELETED",
+    "commentCount": 0,
+    "popularityScore": 148
+  },
+  {
+    "id": "hg-2023-000003",
+    "displayNo": 216816,
+    "displayNoLabel": "외부기록",
+    "timestamp": "2023-05-12T20:56:00+09:00",
+    "year": 2023,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "스무살 대학생이 벽 부쉈다는 기사 봄?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.101"
+    },
+    "stats": {
+      "views": 63776,
+      "recommend": 397
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 53,
+    "popularityScore": 847
+  },
+  {
+    "id": "hg-2023-000002",
+    "displayNo": 212467,
+    "displayNoLabel": "외부기록",
+    "timestamp": "2023-05-12T14:23:00+09:00",
+    "year": 2023,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "스무살만 저런다는거 진짜임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "58.29"
+    },
+    "stats": {
+      "views": 46144,
+      "recommend": 217
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 30,
+    "popularityScore": 464
+  },
+  {
+    "id": "hg-2023-000001",
+    "displayNo": 207331,
+    "displayNoLabel": "캡처본",
+    "timestamp": "2023-05-12T10:29:00+09:00",
+    "year": 2023,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "각성이라는 말 누가 처음 쓰기 시작한거냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "121.140"
+    },
+    "stats": {
+      "views": 9504,
+      "recommend": 196
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 22,
+    "popularityScore": 414
+  }
+]

@@ -1,0 +1,196 @@
+{
+  "id": "hg-2034-000039",
+  "displayNo": 1655588,
+  "timestamp": "2034-04-11T22:20:19+09:00",
+  "year": 2034,
+  "era": "SS_ERA",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마법계 둘 넣었을때 좋은점 나쁜점",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "125.180"
+  },
+  "content": "화력은 빠른데 소모량 관리 못하면 후반이 빡셈",
+  "attachments": [],
+  "stats": {
+    "views": 25094,
+    "recommend": 169
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2034-000039-001",
+      "parentId": null,
+      "timestamp": "2034-04-11T22:30:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌?. 관리자도 보고 웃겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-002",
+      "parentId": null,
+      "timestamp": "2034-04-11T22:37:09+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "진짜 헛소리도 당당하게 하네. 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-003",
+      "parentId": null,
+      "timestamp": "2034-04-11T22:46:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "여기서 핵심은 한명 경험담을 전체 룰로 만드는게 제일 위험함 개빡셈. 이러다 제목만 바꿔서 또 싸울듯.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-004",
+      "parentId": null,
+      "timestamp": "2034-04-11T22:53:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "우리 파티는 저런 상황 오면 지금도 그 얘기하면 욕함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-005",
+      "parentId": null,
+      "timestamp": "2034-04-11T23:00:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이 경우에도 같은 기준 적용됨? / 옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-006",
+      "parentId": null,
+      "timestamp": "2034-04-11T23:03:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-007",
+      "parentId": null,
+      "timestamp": "2034-04-11T23:05:17+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "이 글 왜 개념감ㅋㅋ. 답글 달지마 이제 못봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-008",
+      "parentId": null,
+      "timestamp": "2034-04-11T23:08:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "좆문가 또 왔네. 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-009",
+      "parentId": null,
+      "timestamp": "2034-04-11T23:11:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨. 본문보다 대댓글이 더 길어질 각이다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-010",
+      "parentId": "nat-2034-000039-005",
+      "timestamp": "2034-04-11T23:18:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "좆문가 또 왔네 근데 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-011",
+      "parentId": null,
+      "timestamp": "2034-04-11T23:26:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "내 폰 배터리 3퍼다\n작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-012",
+      "parentId": null,
+      "timestamp": "2034-04-11T23:27:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "내일 검사인데 이런 글 왜 클릭했지 근데 나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000039-013",
+      "parentId": null,
+      "timestamp": "2034-04-11T23:28:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "나도 처음엔 별거 아니라고 봤는데 인터넷에서 말하는거랑 체감 꽤 다름",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

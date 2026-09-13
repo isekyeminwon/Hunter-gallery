@@ -1,0 +1,208 @@
+{
+  "id": "hg-2030-000060",
+  "displayNo": 953325,
+  "timestamp": "2030-01-11T01:49:29+09:00",
+  "year": 2030,
+  "era": "INDUSTRY",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "수도권 C급 게이트 입구 통제중",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.38"
+  },
+  "content": "장비차량 문제라는데 큰 사고는 아닌듯",
+  "attachments": [],
+  "stats": {
+    "views": 18505,
+    "recommend": 141
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2030-000060-001",
+      "parentId": null,
+      "timestamp": "2030-01-11T01:53:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "댓글이 본문보다 위험등급 높음\n내일까지 싸워줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-002",
+      "parentId": null,
+      "timestamp": "2030-01-11T01:57:45+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "현장 근처면 커뮤말고 안내방송부터 들어라. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-003",
+      "parentId": null,
+      "timestamp": "2030-01-11T02:02:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "진짜 헛소리도 당당하게 하네. 반박은 내용으로 해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-004",
+      "parentId": null,
+      "timestamp": "2030-01-11T02:03:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "C급 경험자 있으면 체감 좀 알려줘\n최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-005",
+      "parentId": "nat-2030-000060-004",
+      "timestamp": "2030-01-11T02:09:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "그래서 저녁 추천좀. 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-006",
+      "parentId": null,
+      "timestamp": "2030-01-11T02:11:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이런날 카더라가 공식보다 세배 빨리 돎. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-007",
+      "parentId": null,
+      "timestamp": "2030-01-11T02:19:07+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "이거 지역마다 차이남?\n아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-008",
+      "parentId": "nat-2030-000060-005",
+      "timestamp": "2030-01-11T02:27:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "아 배고파 ㅋㅋ 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-009",
+      "parentId": null,
+      "timestamp": "2030-01-11T02:29:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "아니 C급 자체보다 조건이 뭐였는지부터 봐야됨 존나 웃김. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-010",
+      "parentId": null,
+      "timestamp": "2030-01-11T02:33:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "C급 관련해서 협회에 물어본 사람? ㅋㅋ 최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-011",
+      "parentId": "nat-2030-000060-001",
+      "timestamp": "2030-01-11T02:38:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "C급 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-012",
+      "parentId": null,
+      "timestamp": "2030-01-11T02:48:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "현장 근처면 커뮤말고 안내방송부터 들어라 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-013",
+      "parentId": "nat-2030-000060-007",
+      "timestamp": "2030-01-11T02:55:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "내 장비 배송 아직도 안옴\n답글 달지마 이제 못봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2030-000060-014",
+      "parentId": null,
+      "timestamp": "2030-01-11T03:02:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "나도 비슷한 일 한번 겪었는데 ㅋㅋ 별거 아닌 실수가 제일 오래감",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

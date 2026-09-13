@@ -1,0 +1,124 @@
+{
+  "id": "hg-2027-000007",
+  "displayNo": 449953,
+  "timestamp": "2027-01-12T23:12:43+09:00",
+  "year": 2027,
+  "era": "FORMATION",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "정보",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "검사결과 위조해서 취업하려다 걸린놈 기사남",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "125.180"
+  },
+  "content": "이걸 왜 위조하냐 진짜",
+  "attachments": [],
+  "stats": {
+    "views": 16855,
+    "recommend": 76
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2027-000007-001",
+      "parentId": null,
+      "timestamp": "2027-01-12T23:19:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000007-002",
+      "parentId": null,
+      "timestamp": "2027-01-12T23:22:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "뭔 자신감으로 확정짓냐 근데 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000007-003",
+      "parentId": null,
+      "timestamp": "2027-01-12T23:30:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000007-004",
+      "parentId": null,
+      "timestamp": "2027-01-12T23:30:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "공식 공지 뜬거 맞음? 근데 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000007-005",
+      "parentId": null,
+      "timestamp": "2027-01-12T23:31:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "작성자 존나 급하네 근데 진짜로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000007-006",
+      "parentId": null,
+      "timestamp": "2027-01-12T23:34:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "이 댓글창만 게이트 닫으면 안되냐. 제발 계속해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000007-007",
+      "parentId": null,
+      "timestamp": "2027-01-12T23:43:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "이거 보험 처리도 똑같음? / 검색하면 말이 다 다름",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

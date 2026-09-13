@@ -1,0 +1,268 @@
+{
+  "id": "hg-2029-000022",
+  "displayNo": 695076,
+  "timestamp": "2029-03-03T18:32:04+09:00",
+  "year": 2029,
+  "era": "INDUSTRY",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 파손 체크 사진 찍어놔라",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "나중에 책임소재 가지고 싸우는거 방지됨",
+  "attachments": [],
+  "stats": {
+    "views": 12547,
+    "recommend": 25
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2029-000022-001",
+      "parentId": null,
+      "timestamp": "2029-03-03T18:32:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "정산은 들어가기 전에 기준 정해라 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-002",
+      "parentId": null,
+      "timestamp": "2029-03-03T18:36:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "정산은 들어가기 전에 기준 정해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-003",
+      "parentId": null,
+      "timestamp": "2029-03-03T18:41:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "확인된 내용만 적어줘 ㅋㅋ 원문 보면 뉘앙스 다른 경우 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-004",
+      "parentId": "nat-2029-000022-003",
+      "timestamp": "2029-03-03T18:44:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌?. 제발 계속해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-005",
+      "parentId": null,
+      "timestamp": "2029-03-03T18:52:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "이런 상황에서 보통 누가 결정함?. 초보라 감이 안옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-006",
+      "parentId": null,
+      "timestamp": "2029-03-03T18:56:11+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨 ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-007",
+      "parentId": "nat-2029-000022-003",
+      "timestamp": "2029-03-03T19:04:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "이 글 읽고 장비점 사장 싱글벙글\n와중에 추천은 누르고감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-008",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:10:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "검색해도 안나오는데 어디서 봄. 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-009",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:20:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "현장 관련해서 협회에 물어본 사람?\n아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-010",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:23:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "댓글 다읽은 내가 제일 병신임\n나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-011",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:33:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "애초에 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 아무튼 조심해라. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-012",
+      "parentId": "nat-2029-000022-009",
+      "timestamp": "2029-03-03T19:37:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "케바케임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-013",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:39:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "내가 협회면 이 댓글창부터 통제함\n진짜 가지가지한다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-014",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:46:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "진짜 헛소리도 당당하게 하네. ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-015",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:51:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌? / 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-016",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:54:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다 / 아님말고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-017",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:57:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "팀장한테 비슷한거 물어봤는데 ㅋㅋ 한번 데이고 생각 바뀜",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-018",
+      "parentId": null,
+      "timestamp": "2029-03-03T19:59:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "이 글 왜 개념감ㅋㅋ. 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000022-019",
+      "parentId": "nat-2029-000022-006",
+      "timestamp": "2029-03-03T20:05:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "현장 이거 실제 해본 사람 있음\n이거만 확인하고싶음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

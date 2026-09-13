@@ -1,0 +1,400 @@
+{
+  "id": "hg-2033-000029",
+  "displayNo": 1370203,
+  "timestamp": "2033-09-16T01:50:00+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "LEE_SIYUL_SS",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "이시율 영상 프레임 분석하다 눈아프다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.246"
+  },
+  "content": "한 프레임에 있던 사람이 다음 프레임에 없어짐",
+  "attachments": [],
+  "stats": {
+    "views": 87985,
+    "recommend": 963
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000029-001",
+      "parentId": null,
+      "timestamp": "2033-09-16T01:50:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "내 폰 배터리 3퍼다 근데 나만 이 생각했냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-002",
+      "parentId": "nat-2033-000029-001",
+      "timestamp": "2033-09-16T01:51:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "니 말대로면 앞댓글이랑 충돌함. 내말 틀림?. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-003",
+      "parentId": "nat-2033-000029-002",
+      "timestamp": "2033-09-16T01:52:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이거 보고 우리팀 막내 또 아는척할까봐 무섭다 / 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-004",
+      "parentId": null,
+      "timestamp": "2033-09-16T01:54:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "검신 이름 직관적이라고 놀리다가 영상 뜨고 조용해짐 ㅋㅋ 이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-005",
+      "parentId": null,
+      "timestamp": "2033-09-16T01:55:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "장비보다 사람 합이 먼저라는 말 괜히 나오는게 아님. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-006",
+      "parentId": null,
+      "timestamp": "2033-09-16T01:57:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "검신 이름 직관적이라고 놀리다가 영상 뜨고 조용해짐. 근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-007",
+      "parentId": "nat-2033-000029-003",
+      "timestamp": "2033-09-16T01:59:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "모르면 가만히라도 있어라 ㅋㅋ 그래서 근거가 뭔데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-008",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:00:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다. 이러다 제목만 바꿔서 또 싸울듯.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-009",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:02:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "검색해도 안나오는데 어디서 봄 근데 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-010",
+      "parentId": "nat-2033-000029-009",
+      "timestamp": "2033-09-16T02:03:44+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "그건 위험함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-011",
+      "parentId": "nat-2033-000029-005",
+      "timestamp": "2033-09-16T02:05:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "그건 인정",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-012",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:06:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "SS 표기 자체가 낯설어서 오타인줄 안 사람도 있었음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-013",
+      "parentId": "nat-2033-000029-009",
+      "timestamp": "2033-09-16T02:08:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "이시율 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?. 인터넷 말보다 계약서 한줄이 더 셈.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-014",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:10:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "짤만 던지지 말고 원본 좀 / 오늘 카더라 너무 많이 돎",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-015",
+      "parentId": "nat-2033-000029-014",
+      "timestamp": "2033-09-16T02:11:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "",
+      "deleted": true
+    },
+    {
+      "id": "nat-2033-000029-016",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:12:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "몰?루",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-017",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:14:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "SS 하나가 S 몇명분이냐는 질문부터가 답이 없는 질문임ㅋㅋ\n근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-018",
+      "parentId": "nat-2033-000029-013",
+      "timestamp": "2033-09-16T02:16:02+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "와 이걸 그렇게 이해함? / 그건 니 파티 얘기고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-019",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:18:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "니 말이 맞으면 협회가 왜 있겠냐 / 웃겨서 화도 안남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-020",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:18:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "일단 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이라 봄. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-021",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:21:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "세계 최초라는 단어 붙으니까 해외댓글까지 한꺼번에 몰려옴\n작성자도 뒤에 정정했으면 좋았을듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-022",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:21:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "이시율 경험자 있으면 체감 좀 알려줘 / 아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-023",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:23:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 근데 우리는 바로 철수 얘기부터 꺼냄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-024",
+      "parentId": "nat-2033-000029-020",
+      "timestamp": "2033-09-16T02:24:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "그 경우랑 이 경우는 다름. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-025",
+      "parentId": "nat-2033-000029-004",
+      "timestamp": "2033-09-16T02:26:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "왜 싸우냐ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-026",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:29:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "댓글이 본문보다 위험등급 높음 ㅋㅋ 아무도 안물어봤는데 다들 진심임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-027",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:31:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "SS 하나가 S 몇명분이냐는 질문부터가 답이 없는 질문임ㅋㅋ ㅋㅋ 근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-028",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:32:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "친구가 저쪽 일하는데 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-029",
+      "parentId": null,
+      "timestamp": "2033-09-16T02:35:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "검신 이름 직관적이라고 놀리다가 영상 뜨고 조용해짐\n한시간 뒤 글이랑 내용 또 달라졌던 기억남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000029-030",
+      "parentId": "nat-2033-000029-009",
+      "timestamp": "2033-09-16T02:36:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "뭘 보고 위험하다는건데. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "hg-2027-000020",
+  "displayNo": 494818,
+  "timestamp": "2027-10-07T11:11:48+09:00",
+  "year": 2027,
+  "era": "FORMATION",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "측정 직후 바로 현장 뛰는거 비추",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "수치만 보고 자신감 오른 애들 사고치는거 몇번 봄",
+  "attachments": [],
+  "stats": {
+    "views": 8539,
+    "recommend": 56
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2027-000020-001",
+      "parentId": null,
+      "timestamp": "2027-10-07T11:18:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-002",
+      "parentId": "nat-2027-000020-001",
+      "timestamp": "2027-10-07T11:27:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "글쓴이 도망갔는데 댓글끼리 3차전중\n오늘도 평화롭다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-003",
+      "parentId": null,
+      "timestamp": "2027-10-07T11:29:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "아이고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-004",
+      "parentId": null,
+      "timestamp": "2027-10-07T11:37:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다. 본문보다 대댓글이 더 길어질 각이다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-005",
+      "parentId": null,
+      "timestamp": "2027-10-07T11:47:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "별거 아닌 팁이 사고 한번 나면 평생 기억남. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-006",
+      "parentId": null,
+      "timestamp": "2027-10-07T11:54:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "실제 계약서에는 뭐라고 적힘? / 최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-007",
+      "parentId": null,
+      "timestamp": "2027-10-07T11:55:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-008",
+      "parentId": null,
+      "timestamp": "2027-10-07T11:59:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "에반데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-009",
+      "parentId": null,
+      "timestamp": "2027-10-07T12:02:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "애초에 한명 경험담을 전체 룰로 만드는게 제일 위험함 이건 맞는말임. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-010",
+      "parentId": null,
+      "timestamp": "2027-10-07T12:11:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-011",
+      "parentId": null,
+      "timestamp": "2027-10-07T12:17:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "오히려 한명 경험담을 전체 룰로 만드는게 제일 위험함 그래서 난 아직 보류. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000020-012",
+      "parentId": null,
+      "timestamp": "2027-10-07T12:22:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "나도 처음엔 별거 아니라고 봤는데 ㅋㅋ 그때 이후로 무조건 두번 확인함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

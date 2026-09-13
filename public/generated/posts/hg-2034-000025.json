@@ -1,0 +1,136 @@
+{
+  "id": "hg-2034-000025",
+  "displayNo": 1609241,
+  "timestamp": "2034-06-05T15:54:27+09:00",
+  "year": 2034,
+  "era": "SS_ERA",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "헌터 친구 생기면 좋은점",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.246"
+  },
+  "content": "이사할때 박스 드는 속도가 다름ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 46781,
+    "recommend": 119
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2034-000025-001",
+      "parentId": null,
+      "timestamp": "2034-06-05T15:55:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "기사만 보면 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 좀 에바임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000025-002",
+      "parentId": null,
+      "timestamp": "2034-06-05T16:01:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "이 글 경험자 있으면 체감 좀 알려줘 / 이거만 확인하고싶음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000025-003",
+      "parentId": null,
+      "timestamp": "2034-06-05T16:06:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "내가 협회면 이 댓글창부터 통제함. 아무도 안물어봤는데 다들 진심임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000025-004",
+      "parentId": null,
+      "timestamp": "2034-06-05T16:11:21+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "이거 커뮤발인지 기사발인지부터 말해 근데 그거 어제 올라온 가짜랑 비슷한데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000025-005",
+      "parentId": "nat-2034-000025-002",
+      "timestamp": "2034-06-05T16:19:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "기사 다시 읽어봐. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000025-006",
+      "parentId": null,
+      "timestamp": "2034-06-05T16:26:22+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "팀장한테 비슷한거 물어봤는데 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000025-007",
+      "parentId": null,
+      "timestamp": "2034-06-05T16:33:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "댓글 하나에 왜 이렇게 긁힘 ㅋㅋ 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000025-008",
+      "parentId": "nat-2034-000025-004",
+      "timestamp": "2034-06-05T16:35:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "반박을 하라고 선언하지 말고ㅋㅋ. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

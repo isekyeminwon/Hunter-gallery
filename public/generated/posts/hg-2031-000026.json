@@ -1,0 +1,136 @@
+{
+  "id": "hg-2031-000026",
+  "displayNo": 1044979,
+  "timestamp": "2031-11-11T12:00:01+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 현장 취소돼서 갑자기 휴일됨",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "58.29"
+  },
+  "content": "좋긴한데 수입은 사라짐",
+  "attachments": [],
+  "stats": {
+    "views": 24060,
+    "recommend": 218
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000026-001",
+      "parentId": null,
+      "timestamp": "2031-11-11T12:06:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "아니ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000026-002",
+      "parentId": null,
+      "timestamp": "2031-11-11T12:07:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000026-003",
+      "parentId": null,
+      "timestamp": "2031-11-11T12:17:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "기사 링크부터 가져와 ㅋㅋ 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000026-004",
+      "parentId": "nat-2031-000026-001",
+      "timestamp": "2031-11-11T12:20:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "맞긴 한데 여기서는 그 얘기 아니지. 인터넷 말보다 계약서 한줄이 더 셈.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000026-005",
+      "parentId": null,
+      "timestamp": "2031-11-11T12:29:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "내 폰 배터리 3퍼다\n갑자기 생각나서 적음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000026-006",
+      "parentId": null,
+      "timestamp": "2031-11-11T12:33:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "둘 다 개소리중임 / ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000026-007",
+      "parentId": null,
+      "timestamp": "2031-11-11T12:39:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "본문 세줄 댓글 오십개가 커뮤지. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000026-008",
+      "parentId": null,
+      "timestamp": "2031-11-11T12:43:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "정보글 보러왔다가 원숭이 싸움 구경중 / 이쯤되면 정들겠다",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

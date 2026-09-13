@@ -1,0 +1,316 @@
+{
+  "id": "hg-2031-000039",
+  "displayNo": 1087742,
+  "timestamp": "2031-04-11T19:32:02+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "소형 언데드 게이트 다녀온 후기",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.38"
+  },
+  "content": "정화계 없어서 시간 오래걸렸고\n소모품 진짜 많이씀",
+  "attachments": [],
+  "stats": {
+    "views": 7883,
+    "recommend": 27
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000039-001",
+      "parentId": null,
+      "timestamp": "2031-04-11T19:40:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "정산은 들어가기 전에 기준 정해라 ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-002",
+      "parentId": "nat-2031-000039-001",
+      "timestamp": "2031-04-11T19:48:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "그건 별개 문제지 ㅋㅋ. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-003",
+      "parentId": "nat-2031-000039-001",
+      "timestamp": "2031-04-11T19:50:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "흠",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-004",
+      "parentId": null,
+      "timestamp": "2031-04-11T20:00:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "아니ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-005",
+      "parentId": null,
+      "timestamp": "2031-04-11T20:05:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-006",
+      "parentId": null,
+      "timestamp": "2031-04-11T20:13:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-007",
+      "parentId": null,
+      "timestamp": "2031-04-11T20:22:01+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 근데 그때 이후로 무조건 두번 확인함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-008",
+      "parentId": "nat-2031-000039-005",
+      "timestamp": "2031-04-11T20:26:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-009",
+      "parentId": null,
+      "timestamp": "2031-04-11T20:27:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "장비보다 사람 합이 먼저라는 말 괜히 나오는게 아님 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-010",
+      "parentId": null,
+      "timestamp": "2031-04-11T20:30:13+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-011",
+      "parentId": "nat-2031-000039-010",
+      "timestamp": "2031-04-11T20:31:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "모르면 가만히라도 있어라 ㅋㅋ 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-012",
+      "parentId": null,
+      "timestamp": "2031-04-11T20:38:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨 ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-013",
+      "parentId": null,
+      "timestamp": "2031-04-11T20:46:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "????",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-014",
+      "parentId": "nat-2031-000039-011",
+      "timestamp": "2031-04-11T20:51:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "아니 윗댓은 그말이 아니잖아. 진짜.. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-015",
+      "parentId": null,
+      "timestamp": "2031-04-11T20:53:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "아니ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-016",
+      "parentId": "nat-2031-000039-011",
+      "timestamp": "2031-04-11T20:53:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "한명만 더 화내면 개념글 확정 ㅋㅋ 아무도 안물어봤는데 다들 진심임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-017",
+      "parentId": "nat-2031-000039-004",
+      "timestamp": "2031-04-11T20:56:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-018",
+      "parentId": null,
+      "timestamp": "2031-04-11T21:01:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "본인등판 없냐 팝콘 다먹음 ㅋㅋ ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-019",
+      "parentId": "nat-2031-000039-011",
+      "timestamp": "2031-04-11T21:04:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "그래서 결론이 뭐임 / 둘다 그만해. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-020",
+      "parentId": "nat-2031-000039-002",
+      "timestamp": "2031-04-11T21:11:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "개빡세네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-021",
+      "parentId": "nat-2031-000039-007",
+      "timestamp": "2031-04-11T21:20:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "이걸로 싸우는게 더 웃김 / 둘다 그만해. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-022",
+      "parentId": null,
+      "timestamp": "2031-04-11T21:25:55+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "내 장비 배송 아직도 안옴\n퇴근이나 시켜줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000039-023",
+      "parentId": null,
+      "timestamp": "2031-04-11T21:27:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "아는척 지랄 좀 그만해라. 이건 좀 심했다",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

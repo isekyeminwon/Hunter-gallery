@@ -1,0 +1,256 @@
+{
+  "id": "hg-2028-000020",
+  "displayNo": 568545,
+  "timestamp": "2028-11-22T15:46:12+09:00",
+  "year": 2028,
+  "era": "INDUSTRY",
+  "internalCategory": "시장·구인",
+  "displayCategory": "정보",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "공략대 계약서 이 조항 정상임?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "112.171"
+  },
+  "content": "장비 파손 전액 개인부담 써있는데 이런 데 피하는게 맞지?",
+  "attachments": [],
+  "stats": {
+    "views": 5999,
+    "recommend": 24
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2028-000020-001",
+      "parentId": null,
+      "timestamp": "2028-11-22T15:49:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "일단 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 이상함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-002",
+      "parentId": null,
+      "timestamp": "2028-11-22T15:50:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "댓글이 본문보다 위험등급 높음\n와중에 추천은 누르고감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-003",
+      "parentId": null,
+      "timestamp": "2028-11-22T15:57:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "근데 점심 뭐먹냐 ㅋㅋ 왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-004",
+      "parentId": "nat-2028-000020-003",
+      "timestamp": "2028-11-22T15:59:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "이 조건 이거 실제 해본 사람 있음 / 최근글이 잘 안나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-005",
+      "parentId": null,
+      "timestamp": "2028-11-22T16:04:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "오피셜 캡처 말고 링크 줘. 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-006",
+      "parentId": "nat-2028-000020-005",
+      "timestamp": "2028-11-22T16:05:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "이 조건 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-007",
+      "parentId": null,
+      "timestamp": "2028-11-22T16:14:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "니가 직접 봤냐고 근데 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-008",
+      "parentId": null,
+      "timestamp": "2028-11-22T16:15:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "보수 좋은데 조건 애매하면 더 무섭다 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-009",
+      "parentId": "nat-2028-000020-003",
+      "timestamp": "2028-11-22T16:21:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "니가 직접 봤냐고 / 아무말이나 던지고 튀네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-010",
+      "parentId": "nat-2028-000020-002",
+      "timestamp": "2028-11-22T16:30:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "아 배고파. 작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-011",
+      "parentId": null,
+      "timestamp": "2028-11-22T16:40:20+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "금액만 보고 가지말고 보험이랑 계약주체부터 봐 / 아님말고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-012",
+      "parentId": null,
+      "timestamp": "2028-11-22T16:42:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "이거 읽다가 버스 지나침. 갑자기 생각나서 적음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-013",
+      "parentId": null,
+      "timestamp": "2028-11-22T16:52:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "금액만 보고 가지말고 보험이랑 계약주체부터 봐 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-014",
+      "parentId": "nat-2028-000020-009",
+      "timestamp": "2028-11-22T16:55:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "원글 세줄인데 토론회가 열림 ㅋㅋ 관리자도 보고 웃겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-015",
+      "parentId": null,
+      "timestamp": "2028-11-22T17:01:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이거 최초 출처 누군데 ㅋㅋ 그거 어제 올라온 가짜랑 비슷한데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-016",
+      "parentId": null,
+      "timestamp": "2028-11-22T17:06:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "오히려 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 이상함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-017",
+      "parentId": null,
+      "timestamp": "2028-11-22T17:11:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "금액만 보고 가지말고 보험이랑 계약주체부터 봐. 조건 하나만 달라도 얘기 완전 달라짐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000020-018",
+      "parentId": null,
+      "timestamp": "2028-11-22T17:14:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 한번 데이고 생각 바뀜",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

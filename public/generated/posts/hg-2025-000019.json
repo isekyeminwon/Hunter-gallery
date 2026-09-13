@@ -1,0 +1,112 @@
+{
+  "id": "hg-2025-000019",
+  "displayNo": 324742,
+  "timestamp": "2025-09-09T21:09:17+09:00",
+  "year": 2025,
+  "era": "FORMATION",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "게이트 통제로 버스 또 돌아감",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "이제 지각사유에 게이트 적어도 안혼남",
+  "attachments": [],
+  "stats": {
+    "views": 8170,
+    "recommend": 2
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2025-000019-001",
+      "parentId": null,
+      "timestamp": "2025-09-09T21:16:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "병신아 그건 다른 얘기임. 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000019-002",
+      "parentId": null,
+      "timestamp": "2025-09-09T21:25:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 별거 아닌 실수가 제일 오래감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000019-003",
+      "parentId": "nat-2025-000019-002",
+      "timestamp": "2025-09-09T21:26:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "둘이 서로 다른 얘기하고 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000019-004",
+      "parentId": "nat-2025-000019-002",
+      "timestamp": "2025-09-09T21:28:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "게이트 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000019-005",
+      "parentId": "nat-2025-000019-001",
+      "timestamp": "2025-09-09T21:32:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "아니 윗댓은 그말이 아니잖아 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000019-006",
+      "parentId": null,
+      "timestamp": "2025-09-09T21:35:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "나도 처음엔 별거 아니라고 봤는데. 그때 이후로 무조건 두번 확인함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

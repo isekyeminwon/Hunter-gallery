@@ -1,0 +1,172 @@
+{
+  "id": "hg-2034-000035",
+  "displayNo": 1641150,
+  "timestamp": "2034-08-13T06:33:36+09:00",
+  "year": 2034,
+  "era": "SS_ERA",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회 재측정 받아본사람",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "기계차이 때문에 수치 조금 변한다는 말 진짜임?",
+  "attachments": [],
+  "stats": {
+    "views": 49930,
+    "recommend": 253
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2034-000035-001",
+      "parentId": null,
+      "timestamp": "2034-08-13T06:38:41+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "왜 아무도 말 안하냐 협회 얘기만 나오면 갑자기 다들 현장 전문가 됨 이건 경험자 말 들어봐야됨. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-002",
+      "parentId": null,
+      "timestamp": "2034-08-13T06:48:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "아니ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-003",
+      "parentId": null,
+      "timestamp": "2034-08-13T06:51:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "뭐 협회 얘기만 나오면 갑자기 다들 현장 전문가 됨 이건 맞는말임. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-004",
+      "parentId": null,
+      "timestamp": "2034-08-13T06:55:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-005",
+      "parentId": "nat-2034-000035-001",
+      "timestamp": "2034-08-13T06:58:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "기사 다시 읽어봐. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-006",
+      "parentId": null,
+      "timestamp": "2034-08-13T06:59:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "그냥 내 생각인데 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이건 경험자 말 들어봐야됨. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-007",
+      "parentId": null,
+      "timestamp": "2034-08-13T07:04:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "진짜 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 좀 에바임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-008",
+      "parentId": null,
+      "timestamp": "2034-08-13T07:05:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "짤만 던지지 말고 원본 좀 근데 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-009",
+      "parentId": null,
+      "timestamp": "2034-08-13T07:10:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "뭐 한명 경험담을 전체 룰로 만드는게 제일 위험함 확정짓긴 이른듯. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-010",
+      "parentId": null,
+      "timestamp": "2034-08-13T07:12:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "협회 경험자 있으면 체감 좀 알려줘 ㅋㅋ 옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2034-000035-011",
+      "parentId": null,
+      "timestamp": "2034-08-13T07:17:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "닉 보고 내용 까먹음. 왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

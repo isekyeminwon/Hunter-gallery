@@ -1,0 +1,39 @@
+{
+  "id": "notice-004",
+  "displayNo": 9900004,
+  "timestamp": "2042-06-11T11:20:00+09:00",
+  "year": 2042,
+  "era": "CURRENT",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "정보",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "고전글·옛날 기록 보는 법",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "고전글 탭에서 오래된 사건글과 성지글을 볼 수 있습니다.\n2022~2023 자료 일부는 당시 외부 게시판 캡처·보존 기록이라 글번호 대신 외부기록으로 표시됩니다.",
+  "attachments": [],
+  "stats": {
+    "views": 980411,
+    "recommend": 0
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

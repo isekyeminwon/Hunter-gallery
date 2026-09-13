@@ -1,0 +1,136 @@
+{
+  "id": "hg-2033-000069",
+  "displayNo": 1508406,
+  "timestamp": "2033-10-19T11:11:37+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "수도권 C급 게이트 입구 통제중",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "장비차량 문제라는데 큰 사고는 아닌듯",
+  "attachments": [],
+  "stats": {
+    "views": 36942,
+    "recommend": 254
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000069-001",
+      "parentId": null,
+      "timestamp": "2033-10-19T11:18:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "이런날 카더라가 공식보다 세배 빨리 돎. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000069-002",
+      "parentId": null,
+      "timestamp": "2033-10-19T11:21:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "내 장비 배송 아직도 안옴 근데 갑자기 생각나서 적음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000069-003",
+      "parentId": "nat-2033-000069-001",
+      "timestamp": "2033-10-19T11:22:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "C급 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000069-004",
+      "parentId": "nat-2033-000069-002",
+      "timestamp": "2033-10-19T11:27:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이런 글에서 안싸우면 헌갤 망함. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000069-005",
+      "parentId": null,
+      "timestamp": "2033-10-19T11:31:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "모르면 가만히라도 있어라 ㅋㅋ 말을 해도 꼭 저렇게 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000069-006",
+      "parentId": null,
+      "timestamp": "2033-10-19T11:35:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "예전에 처음 갔을땐 나도. 별거 아닌 실수가 제일 오래감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000069-007",
+      "parentId": null,
+      "timestamp": "2033-10-19T11:40:44+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "작년에 비슷한 조건으로 한번 갔는데 ㅋㅋ 우리는 바로 철수 얘기부터 꺼냄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000069-008",
+      "parentId": null,
+      "timestamp": "2033-10-19T11:42:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "에반데",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

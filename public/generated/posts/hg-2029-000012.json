@@ -1,0 +1,292 @@
+{
+  "id": "hg-2029-000012",
+  "displayNo": 660911,
+  "timestamp": "2029-01-21T08:55:58+09:00",
+  "year": 2029,
+  "era": "INDUSTRY",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "훈련장 대여 혼자도 가능함?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "220.79"
+  },
+  "content": "새 기술 연습하고 싶은데 개인예약 되는곳 있음?",
+  "attachments": [],
+  "stats": {
+    "views": 11549,
+    "recommend": 112
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2029-000012-001",
+      "parentId": null,
+      "timestamp": "2029-01-21T09:06:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "작성자 IP 왤케 낯익냐 ㅋㅋ 왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-002",
+      "parentId": "nat-2029-000012-001",
+      "timestamp": "2029-01-21T09:15:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이거 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-003",
+      "parentId": null,
+      "timestamp": "2029-01-21T09:17:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "아니 시발 뭔 결론이 그렇게 감. 말을 해도 꼭 저렇게 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-004",
+      "parentId": null,
+      "timestamp": "2029-01-21T09:17:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "기자 이름이라도 알려줘. 오늘 카더라 너무 많이 돎",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-005",
+      "parentId": "nat-2029-000012-001",
+      "timestamp": "2029-01-21T09:18:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이거 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-006",
+      "parentId": null,
+      "timestamp": "2029-01-21T09:19:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "기사만 보면 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 좀 에바임. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-007",
+      "parentId": null,
+      "timestamp": "2029-01-21T09:27:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "동기 하나가 저거 때문에 한동안 고생했는데. 우리는 바로 철수 얘기부터 꺼냄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-008",
+      "parentId": "nat-2029-000012-005",
+      "timestamp": "2029-01-21T09:36:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "영상은 보고 말함?. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-009",
+      "parentId": null,
+      "timestamp": "2029-01-21T09:40:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "뭔 개소리야 ㅋㅋ 웃겨서 화도 안남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-010",
+      "parentId": null,
+      "timestamp": "2029-01-21T09:46:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "둘 다 개소리중임 근데 한번만 더 생각하고 써봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-011",
+      "parentId": null,
+      "timestamp": "2029-01-21T09:53:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "작성자 말대로면 내 고양이도 A급임 ㅋㅋ ㅋㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-012",
+      "parentId": "nat-2029-000012-006",
+      "timestamp": "2029-01-21T09:55:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "글을 읽은거냐 제목만 본거냐. 그래서 근거가 뭔데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-013",
+      "parentId": null,
+      "timestamp": "2029-01-21T10:01:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "검색해도 안나오는데 어디서 봄 근데 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-014",
+      "parentId": "nat-2029-000012-007",
+      "timestamp": "2029-01-21T10:04:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "너무 과장한다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-015",
+      "parentId": "nat-2029-000012-001",
+      "timestamp": "2029-01-21T10:12:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "기사 세줄도 안읽고 댓글부터 쓰냐. 반박은 내용으로 해라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-016",
+      "parentId": null,
+      "timestamp": "2029-01-21T10:16:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "검색하면 옛날글이랑 최신글 내용 달라서 더 헷갈림 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-017",
+      "parentId": "nat-2029-000012-009",
+      "timestamp": "2029-01-21T10:22:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "직접 해봄?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-018",
+      "parentId": null,
+      "timestamp": "2029-01-21T10:26:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "지금 나온 것만 보면 한명 경험담을 전체 룰로 만드는게 제일 위험함 확정짓긴 이른듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-019",
+      "parentId": null,
+      "timestamp": "2029-01-21T10:27:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "진짜 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 결론 내리기 애매함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-020",
+      "parentId": null,
+      "timestamp": "2029-01-21T10:37:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "확인된 내용만 적어줘. 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000012-021",
+      "parentId": null,
+      "timestamp": "2029-01-21T10:42:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "몰?루",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

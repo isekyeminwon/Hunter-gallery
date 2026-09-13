@@ -1,0 +1,76 @@
+{
+  "id": "hg-2029-000007",
+  "displayNo": 644364,
+  "timestamp": "2029-12-17T04:58:58+09:00",
+  "year": 2029,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회 근처 카페는 왜 다 비싸냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "대기하는 사람 많다고 가격도 같이 오른 느낌",
+  "attachments": [],
+  "stats": {
+    "views": 9035,
+    "recommend": 47
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2029-000007-001",
+      "parentId": null,
+      "timestamp": "2029-12-17T04:59:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "아무 의미 없는 글에 다들 진심이네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000007-002",
+      "parentId": null,
+      "timestamp": "2029-12-17T05:09:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이런날도 있어야 게시판이 굴러가지. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000007-003",
+      "parentId": null,
+      "timestamp": "2029-12-17T05:11:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "병신아 그건 다른 얘기임. 한번만 더 생각하고 써봐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

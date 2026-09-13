@@ -1,0 +1,184 @@
+{
+  "id": "hg-2028-000032",
+  "displayNo": 608958,
+  "timestamp": "2028-12-16T17:57:23+09:00",
+  "year": 2028,
+  "era": "INDUSTRY",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "무허가 마석거래 신고해본사람",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.62"
+  },
+  "content": "중고장터에서 대놓고 판다는 글 봤는데 이런 것도 협회 신고임?",
+  "attachments": [],
+  "stats": {
+    "views": 14105,
+    "recommend": 15
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2028-000032-001",
+      "parentId": null,
+      "timestamp": "2028-12-16T17:59:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "진짜 헛소리도 당당하게 하네 근데 이건 좀 심했다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-002",
+      "parentId": "nat-2028-000032-001",
+      "timestamp": "2028-12-16T18:08:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "갑자기 왜 화냄ㅋㅋ. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-003",
+      "parentId": null,
+      "timestamp": "2028-12-16T18:18:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "실제 계약서에는 뭐라고 적힘? / 검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-004",
+      "parentId": null,
+      "timestamp": "2028-12-16T18:27:11+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "초보가 제일 먼저 확인할거 뭐임? ㅋㅋ 이거만 확인하고싶음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-005",
+      "parentId": null,
+      "timestamp": "2028-12-16T18:28:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "가능하냐랑 해도 되냐는 다른 얘기임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-006",
+      "parentId": null,
+      "timestamp": "2028-12-16T18:37:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "공식 공지 뜬거 맞음? ㅋㅋ 오늘 카더라 너무 많이 돎",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-007",
+      "parentId": null,
+      "timestamp": "2028-12-16T18:41:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "와 이걸 그렇게 이해함? 근데 댓글 더 달수록 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-008",
+      "parentId": null,
+      "timestamp": "2028-12-16T18:51:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "가능하냐랑 해도 되냐는 다른 얘기임 ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-009",
+      "parentId": null,
+      "timestamp": "2028-12-16T18:55:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "기사 링크부터 가져와 / 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-010",
+      "parentId": null,
+      "timestamp": "2028-12-16T19:03:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "정보글 보러왔다가 원숭이 싸움 구경중\n내일까지 싸워줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-011",
+      "parentId": "nat-2028-000032-003",
+      "timestamp": "2028-12-16T19:04:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "맞긴 한데 여기서는 그 얘기 아니지. 다시 읽어봐. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000032-012",
+      "parentId": null,
+      "timestamp": "2028-12-16T19:13:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "다 떠나서 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 개빡셈",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

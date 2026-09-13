@@ -1,0 +1,340 @@
+{
+  "id": "hg-2033-000068",
+  "displayNo": 1503605,
+  "timestamp": "2033-05-13T20:06:31+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드순위 전투력만 보는거 의미있음? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "112.171"
+  },
+  "content": "돈 장비 인력까지 다 넣어야되는거 아님",
+  "attachments": [],
+  "stats": {
+    "views": 24242,
+    "recommend": 141
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000068-001",
+      "parentId": null,
+      "timestamp": "2033-05-13T20:11:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "글을 읽은거냐 제목만 본거냐. 말을 해도 꼭 저렇게 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-002",
+      "parentId": null,
+      "timestamp": "2033-05-13T20:21:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "현장 보조 몇번 해봤는데. 별거 아닌 실수가 제일 오래감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-003",
+      "parentId": null,
+      "timestamp": "2033-05-13T20:26:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "팬심 빼자더니 제일 팬심 가득한 놈들만 모임. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-004",
+      "parentId": "nat-2033-000068-002",
+      "timestamp": "2033-05-13T20:33:11+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "ㅇㅇ 해보고 하는말임. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-005",
+      "parentId": null,
+      "timestamp": "2033-05-13T20:36:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "현장 상성도 봐야지 / 경험자 반박환영",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-006",
+      "parentId": "nat-2033-000068-003",
+      "timestamp": "2033-05-13T20:42:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "아니 같은 기사 맞음. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-007",
+      "parentId": null,
+      "timestamp": "2033-05-13T20:48:35+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "최근 기준 달라진거 있음?\n옛날 기준 말고 지금 기준으로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-008",
+      "parentId": "nat-2033-000068-007",
+      "timestamp": "2033-05-13T20:55:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "문맥 좀 읽어라. 진짜.. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-009",
+      "parentId": null,
+      "timestamp": "2033-05-13T21:04:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "협회 직원 댓글에만 지금 42명 있음. 이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-010",
+      "parentId": null,
+      "timestamp": "2033-05-13T21:14:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "팀장한테 비슷한거 물어봤는데 ㅋㅋ 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-011",
+      "parentId": null,
+      "timestamp": "2033-05-13T21:15:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이런 상황에서 보통 누가 결정함? ㅋㅋ 검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-012",
+      "parentId": "nat-2033-000068-009",
+      "timestamp": "2033-05-13T21:25:54+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "정보글 보러왔다가 원숭이 싸움 구경중. 이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-013",
+      "parentId": null,
+      "timestamp": "2033-05-13T21:35:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "왜 아무도 말 안하냐 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 확정짓긴 이른듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-014",
+      "parentId": null,
+      "timestamp": "2033-05-13T21:40:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "개인적으로 한명 경험담을 전체 룰로 만드는게 제일 위험함 좀 에바임. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-015",
+      "parentId": "nat-2033-000068-006",
+      "timestamp": "2033-05-13T21:44:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "현장 상성도 봐야지. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-016",
+      "parentId": null,
+      "timestamp": "2033-05-13T21:48:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "또 줄세우기 시작했네ㅋㅋ. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-017",
+      "parentId": null,
+      "timestamp": "2033-05-13T21:51:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "아는척 지랄 좀 그만해라. 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-018",
+      "parentId": null,
+      "timestamp": "2033-05-13T21:56:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이 글 결론 안나고 다음주에 제목 바꿔서 또 올라옴. 아무튼 내 돈 걸라면 난 안검.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-019",
+      "parentId": null,
+      "timestamp": "2033-05-13T21:59:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "공식 공지 뜬거 맞음? / 캡처는 앞뒤 잘라먹는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-020",
+      "parentId": null,
+      "timestamp": "2033-05-13T22:00:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "개인적으로 이 비교 얘기만 나오면 갑자기 다들 현장 전문가 됨 그래서 난 아직 보류",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-021",
+      "parentId": null,
+      "timestamp": "2033-05-13T22:04:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "현장 상성도 봐야지. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-022",
+      "parentId": null,
+      "timestamp": "2033-05-13T22:13:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "기사만 보면 이 비교 하나 보고 업계 전체 결론내는건 너무 감 결론 내리기 애매함. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-023",
+      "parentId": null,
+      "timestamp": "2033-05-13T22:23:34+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "같은 등급 안에서도 차이 큼. 조건 하나만 달라도 얘기 완전 달라짐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-024",
+      "parentId": null,
+      "timestamp": "2033-05-13T22:29:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "광고가 본문보다 눈에 들어오네\n작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000068-025",
+      "parentId": "nat-2033-000068-023",
+      "timestamp": "2033-05-13T22:33:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "이 경우에도 같은 기준 적용됨? ㅋㅋ 댓글 싸우지말고 답만좀",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

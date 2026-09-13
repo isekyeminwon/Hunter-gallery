@@ -1,0 +1,39 @@
+{
+  "id": "hg-2026-000018",
+  "displayNo": 404101,
+  "timestamp": "2026-01-17T23:23:27+09:00",
+  "year": 2026,
+  "era": "FORMATION",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회 등록창구 문서 찍어옴",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "175.223"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 17795,
+    "recommend": 110
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "MODERATOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

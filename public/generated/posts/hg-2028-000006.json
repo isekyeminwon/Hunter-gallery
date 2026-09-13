@@ -1,0 +1,556 @@
+{
+  "id": "hg-2028-000006",
+  "displayNo": 521579,
+  "timestamp": "2028-01-23T01:01:00+09:00",
+  "year": 2028,
+  "era": "INDUSTRY",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": "MODERN_HUNTER_INDUSTRY",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "A급이면 이제 진짜 상위권 맞지?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.62"
+  },
+  "content": "S는 논외고 A부터 업계에서 이름 좀 알려지는 느낌임",
+  "attachments": [],
+  "stats": {
+    "views": 32730,
+    "recommend": 33
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2028-000006-001",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:02:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "뭔 자신감으로 확정짓냐 / 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-002",
+      "parentId": "nat-2028-000006-001",
+      "timestamp": "2028-01-23T01:02:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "누가 여기다 국회 열었냐 ㅋㅋ 아무도 안물어봤는데 다들 진심임",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-003",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:04:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "대충 봐도 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 결론 내리기 애매함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-004",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:07:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "개빡세네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-005",
+      "parentId": "nat-2028-000006-004",
+      "timestamp": "2028-01-23T01:07:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "뇌피셜을 왜 사실처럼 씀 ㅋㅋ 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-006",
+      "parentId": "nat-2028-000006-001",
+      "timestamp": "2028-01-23T01:10:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "",
+      "deleted": true
+    },
+    {
+      "id": "nat-2028-000006-007",
+      "parentId": "nat-2028-000006-005",
+      "timestamp": "2028-01-23T01:12:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "A급 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-008",
+      "parentId": "nat-2028-000006-001",
+      "timestamp": "2028-01-23T01:14:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "니가 직접 봤냐고. 말을 해도 꼭 저렇게 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-009",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:14:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "이 글 결론 안나고 다음주에 제목 바꿔서 또 올라옴. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-010",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:17:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "현장 기준으론 A급 관련해서 기사마다 말 조금씩 다른게 문제임 이상함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-011",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:18:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "본인등판 없냐 팝콘 다먹음 / 제발 계속해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-012",
+      "parentId": "nat-2028-000006-011",
+      "timestamp": "2028-01-23T01:19:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "이거 읽다가 버스 지나침 ㅋㅋ 답글 달지마 이제 못봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-013",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:20:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "여기서 우승하면 협회장 시켜줌? / 팝콘 부족함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-014",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:22:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "뭐 A급 하나 보고 업계 전체 결론내는건 너무 감 그냥 그렇다고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-015",
+      "parentId": "nat-2028-000006-003",
+      "timestamp": "2028-01-23T01:23:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "A급 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-016",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:26:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "진짜 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 그럴수도 있긴 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-017",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:28:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "몰?루",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-018",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:28:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "나도 비슷한 일 한번 겪었는데 ㅋㅋ 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-019",
+      "parentId": "nat-2028-000006-017",
+      "timestamp": "2028-01-23T01:30:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "출처가 뭐임. 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-020",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:32:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "팬심 빼자더니 제일 팬심 가득한 놈들만 모임 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-021",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:34:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "내가 협회면 이 댓글창부터 통제함 ㅋㅋ 오늘도 평화롭다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-022",
+      "parentId": "nat-2028-000006-001",
+      "timestamp": "2028-01-23T01:36:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "여기서 핵심은 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 괜히 엮이지마. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-023",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:39:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "A급 경험자 있으면 체감 좀 알려줘\n이거만 확인하고싶음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-024",
+      "parentId": "nat-2028-000006-016",
+      "timestamp": "2028-01-23T01:40:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "갑자기 왜 화냄ㅋㅋ. 지금 정보량으로는 누구도 장담 못함.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-025",
+      "parentId": "nat-2028-000006-013",
+      "timestamp": "2028-01-23T01:42:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "댓글 하나에 왜 이렇게 긁힘 / 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-026",
+      "parentId": "nat-2028-000006-021",
+      "timestamp": "2028-01-23T01:44:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "A급 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-027",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:46:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-028",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:46:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-029",
+      "parentId": "nat-2028-000006-024",
+      "timestamp": "2028-01-23T01:47:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "한줄에 이렇게 긁힐 일임? / 둘다 그만해. 인터넷 말보다 계약서 한줄이 더 셈.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-030",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:48:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "웃긴게 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 결론 내리기 애매함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-031",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:50:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "웃긴게 한명 경험담을 전체 룰로 만드는게 제일 위험함 이라 봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-032",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:51:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "글쓴이 그 뒤에 후기 없음?. 아는척 말고 해본사람만",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-033",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:52:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "한명만 더 화내면 개념글 확정 / 이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-034",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:53:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "현장 상성도 봐야지 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-035",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:55:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-036",
+      "parentId": null,
+      "timestamp": "2028-01-23T01:56:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "내가 협회면 이 댓글창부터 통제함. 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-037",
+      "parentId": "nat-2028-000006-017",
+      "timestamp": "2028-01-23T01:57:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "뭔 개소리야 ㅋㅋ 그 자신감은 어디서 나옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-038",
+      "parentId": "nat-2028-000006-019",
+      "timestamp": "2028-01-23T01:58:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "A급 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-039",
+      "parentId": "nat-2028-000006-018",
+      "timestamp": "2028-01-23T02:00:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "광고가 본문보다 눈에 들어오네. 왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-040",
+      "parentId": "nat-2028-000006-028",
+      "timestamp": "2028-01-23T02:02:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "댓글 다읽은 내가 제일 병신임 근데 작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-041",
+      "parentId": null,
+      "timestamp": "2028-01-23T02:05:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "어질어질하네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-042",
+      "parentId": "nat-2028-000006-028",
+      "timestamp": "2028-01-23T02:08:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "예전에 처음 갔을땐 나도 근데 한번 데이고 생각 바뀜",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000006-043",
+      "parentId": "nat-2028-000006-040",
+      "timestamp": "2028-01-23T02:09:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "원글 세줄인데 토론회가 열림. 이래서 헌갤을 못끊음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

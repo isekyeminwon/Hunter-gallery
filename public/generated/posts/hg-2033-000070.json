@@ -1,0 +1,196 @@
+{
+  "id": "hg-2033-000070",
+  "displayNo": 1510584,
+  "timestamp": "2033-03-25T00:11:00+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "수도권 C급 게이트 입구 통제중 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "장비차량 문제라는데 큰 사고는 아닌듯",
+  "attachments": [],
+  "stats": {
+    "views": 48304,
+    "recommend": 198
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000070-001",
+      "parentId": null,
+      "timestamp": "2033-03-25T00:19:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "좆문가 또 왔네. 아무말이나 던지고 튀네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-002",
+      "parentId": null,
+      "timestamp": "2033-03-25T00:21:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "댓글 보니까 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 이라 봄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-003",
+      "parentId": null,
+      "timestamp": "2033-03-25T00:25:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "사진 하나로 위치 특정하려는 놈들 좀 자제해. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-004",
+      "parentId": "nat-2033-000070-003",
+      "timestamp": "2033-03-25T00:27:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "ㅇㅇ 해보고 하는말임. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-005",
+      "parentId": null,
+      "timestamp": "2033-03-25T00:30:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "사진 하나로 위치 특정하려는 놈들 좀 자제해. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-006",
+      "parentId": null,
+      "timestamp": "2033-03-25T00:38:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "일단 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 말은 된다. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-007",
+      "parentId": "nat-2033-000070-005",
+      "timestamp": "2033-03-25T00:46:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "그럴수도",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-008",
+      "parentId": null,
+      "timestamp": "2033-03-25T00:48:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "협회 직원 댓글에만 지금 42명 있음\n와중에 추천은 누르고감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-009",
+      "parentId": null,
+      "timestamp": "2033-03-25T00:57:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "왜 아무도 말 안하냐 C급 관련해서 기사마다 말 조금씩 다른게 문제임 그래서 난 아직 보류. 본문보다 대댓글이 더 길어질 각이다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-010",
+      "parentId": "nat-2033-000070-009",
+      "timestamp": "2033-03-25T01:06:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "C급 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-011",
+      "parentId": "nat-2033-000070-007",
+      "timestamp": "2033-03-25T01:11:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "C급 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-012",
+      "parentId": null,
+      "timestamp": "2033-03-25T01:15:42+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "제발 실종 사망 이런건 확정 전에 단정하지마. 어차피 내일 되면 새 글 또 올라옴.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000070-013",
+      "parentId": "nat-2033-000070-005",
+      "timestamp": "2033-03-25T01:24:04+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "영상은 보고 말함?. 한줄 요약하려다가 꼭 사고남.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

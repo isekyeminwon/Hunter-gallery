@@ -1,0 +1,280 @@
+{
+  "id": "hg-2031-000035",
+  "displayNo": 1072430,
+  "timestamp": "2031-08-13T21:01:06+09:00",
+  "year": 2031,
+  "era": "INDUSTRY",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "게이트 보험 개인으로 따로 듦?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "팀 보험만 믿기 좀 불안해서 알아보는중",
+  "attachments": [],
+  "stats": {
+    "views": 17641,
+    "recommend": 143
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2031-000035-001",
+      "parentId": null,
+      "timestamp": "2031-08-13T21:03:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "친구가 저쪽 일하는데 ㅋㅋ 입구부터 꼬여서 하루 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-002",
+      "parentId": null,
+      "timestamp": "2031-08-13T21:13:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "광고가 본문보다 눈에 들어오네. 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-003",
+      "parentId": "nat-2031-000035-002",
+      "timestamp": "2031-08-13T21:21:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "니 말대로면 앞댓글이랑 충돌함 ㅋㅋ. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-004",
+      "parentId": "nat-2031-000035-001",
+      "timestamp": "2031-08-13T21:27:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "그럼 반대로 생각해봐. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-005",
+      "parentId": null,
+      "timestamp": "2031-08-13T21:33:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "나도 처음엔 여기서 막혔음 / 내생각은 그럼",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-006",
+      "parentId": null,
+      "timestamp": "2031-08-13T21:37:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "공식 공지 뜬거 맞음? 근데 그거 어제 올라온 가짜랑 비슷한데",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-007",
+      "parentId": null,
+      "timestamp": "2031-08-13T21:39:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "댓글 보니까 게이트 하나 보고 업계 전체 결론내는건 너무 감 이건 좀 더 봐야됨. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-008",
+      "parentId": null,
+      "timestamp": "2031-08-13T21:44:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "뭔 개소리야 ㅋㅋ 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-009",
+      "parentId": "nat-2031-000035-008",
+      "timestamp": "2031-08-13T21:51:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "여기서 우승하면 협회장 시켜줌? / 오늘도 평화롭다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-010",
+      "parentId": "nat-2031-000035-009",
+      "timestamp": "2031-08-13T22:00:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "뭔 자신감으로 확정짓냐 근데 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-011",
+      "parentId": "nat-2031-000035-001",
+      "timestamp": "2031-08-13T22:01:25+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "우리 파티는 저런 상황 오면 근데 입구부터 꼬여서 하루 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-012",
+      "parentId": null,
+      "timestamp": "2031-08-13T22:07:18+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "동기 하나가 저거 때문에 한동안 고생했는데. 별거 아닌 실수가 제일 오래감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-013",
+      "parentId": null,
+      "timestamp": "2031-08-13T22:13:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임 ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-014",
+      "parentId": "nat-2031-000035-008",
+      "timestamp": "2031-08-13T22:17:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "댓글 하나에 왜 이렇게 긁힘. 니 경험 하나가 법은 아님",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-015",
+      "parentId": null,
+      "timestamp": "2031-08-13T22:19:34+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "그냥 내 생각인데 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 존나 웃김. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-016",
+      "parentId": null,
+      "timestamp": "2031-08-13T22:22:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "검색해도 안나오는데 어디서 봄. 링크 없으면 일단 반만 믿음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-017",
+      "parentId": "nat-2031-000035-004",
+      "timestamp": "2031-08-13T22:30:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "니 말대로면 앞댓글이랑 충돌함 ㅋㅋ. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-018",
+      "parentId": "nat-2031-000035-008",
+      "timestamp": "2031-08-13T22:33:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "어디서부터 꼬인거냐 이 대화 / 둘다 그만해. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-019",
+      "parentId": null,
+      "timestamp": "2031-08-13T22:36:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "처음이면 헷갈릴만한데 답을 좀 해줘라. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2031-000035-020",
+      "parentId": null,
+      "timestamp": "2031-08-13T22:38:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "????",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

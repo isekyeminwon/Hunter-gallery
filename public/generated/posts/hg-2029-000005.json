@@ -1,0 +1,112 @@
+{
+  "id": "hg-2029-000005",
+  "displayNo": 637362,
+  "timestamp": "2029-02-05T03:23:49+09:00",
+  "year": 2029,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "공략날 비오면 괜히 기분 더 구림",
+  "author": {
+    "type": "fixed",
+    "name": "마석눈팅",
+    "ip": null
+  },
+  "content": "안은 날씨 상관없는데 입구 대기가 문제",
+  "attachments": [],
+  "stats": {
+    "views": 3846,
+    "recommend": 44
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2029-000005-001",
+      "parentId": null,
+      "timestamp": "2029-02-05T03:31:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "뭐 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 확정짓긴 이른듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000005-002",
+      "parentId": null,
+      "timestamp": "2029-02-05T03:41:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "글쓴이는 이미 갔는데 댓글끼리 싸우는중ㅋㅋ ㅋㅋ 또 싸우겠네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000005-003",
+      "parentId": null,
+      "timestamp": "2029-02-05T03:47:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "아는척 지랄 좀 그만해라 / 그건 니 파티 얘기고",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000005-004",
+      "parentId": null,
+      "timestamp": "2029-02-05T03:54:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "이거 커뮤발인지 기사발인지부터 말해 / 출처 없이 퍼지는 속도만 존나 빠름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000005-005",
+      "parentId": null,
+      "timestamp": "2029-02-05T03:55:47+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "본문보다 작성자 말투가 더 킹받음\n누가 메뉴 하나만 골라줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2029-000005-006",
+      "parentId": "nat-2029-000005-001",
+      "timestamp": "2029-02-05T04:00:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "이 글 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

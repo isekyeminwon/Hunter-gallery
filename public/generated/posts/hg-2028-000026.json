@@ -1,0 +1,39 @@
+{
+  "id": "hg-2028-000026",
+  "displayNo": 588839,
+  "timestamp": "2028-06-16T22:59:54+09:00",
+  "year": 2028,
+  "era": "INDUSTRY",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "공략권 낙찰표 내부자료라는데",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 30334,
+    "recommend": 227
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "AUTHOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

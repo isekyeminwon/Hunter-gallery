@@ -1,0 +1,400 @@
+{
+  "id": "hg-2026-000006",
+  "displayNo": 360368,
+  "timestamp": "2026-04-07T09:37:00+09:00",
+  "year": 2026,
+  "era": "FORMATION",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "HUNTER_ASSOCIATION_LAUNCH",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "협회가 사고 조사도 하는거 맞냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.36"
+  },
+  "content": "경찰이랑 어디까지 나눠서 하는지 모르겠음\n헌터 관련이면 다 협회 가는 줄 아는 사람 많네",
+  "attachments": [],
+  "stats": {
+    "views": 17118,
+    "recommend": 151
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2026-000006-001",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:38:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이거 지역마다 차이남? / 검색하면 말이 다 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-002",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:40:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "현장 기준으론 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 개빡셈. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-003",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:43:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "일단 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 이건 좀 더 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-004",
+      "parentId": "nat-2026-000006-003",
+      "timestamp": "2026-04-07T09:44:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "출입절차 생겨서 귀찮아도 현장 정리는 확실히 나아졌음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-005",
+      "parentId": "nat-2026-000006-001",
+      "timestamp": "2026-04-07T09:46:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-006",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:46:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "현장 기준으론 협회는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 그래서 난 아직 보류",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-007",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:47:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "최근 기준 달라진거 있음? / 진짜 궁금해서 물음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-008",
+      "parentId": "nat-2026-000006-003",
+      "timestamp": "2026-04-07T09:50:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ. 웃겨서 화도 안남",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-009",
+      "parentId": "nat-2026-000006-003",
+      "timestamp": "2026-04-07T09:50:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "둘이 서로 다른 얘기하고 있음ㅋㅋ. 진짜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-010",
+      "parentId": "nat-2026-000006-002",
+      "timestamp": "2026-04-07T09:52:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "협회 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-011",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:53:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "이거 읽다가 버스 지나침 근데 작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-012",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:55:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "내일 검사인데 이런 글 왜 클릭했지\n작성자 책임져라 시간 날림",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-013",
+      "parentId": "nat-2026-000006-012",
+      "timestamp": "2026-04-07T09:55:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "지금 나온 것만 보면 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 말은 된다. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-014",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:56:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "출입절차 생겨서 귀찮아도 현장 정리는 확실히 나아졌음\n확인 안된 얘기가 너무 빨리 돌았음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-015",
+      "parentId": null,
+      "timestamp": "2026-04-07T09:59:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "개인적으로 협회는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 나중에 결과 보면 알겠지",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-016",
+      "parentId": "nat-2026-000006-007",
+      "timestamp": "2026-04-07T10:00:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "개무섭네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-017",
+      "parentId": null,
+      "timestamp": "2026-04-07T10:02:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "지금 나온 것만 보면 협회 얘기만 나오면 갑자기 다들 현장 전문가 됨 그럴수도 있긴 함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-018",
+      "parentId": null,
+      "timestamp": "2026-04-07T10:03:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "모르면 가만히라도 있어라 근데 아무말이나 던지고 튀네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-019",
+      "parentId": null,
+      "timestamp": "2026-04-07T10:05:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "저때 협회 사칭문자 미친듯이 돌았음 ㅋㅋ 이래서 원문 날짜 확인이 중요함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-020",
+      "parentId": "nat-2026-000006-018",
+      "timestamp": "2026-04-07T10:08:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "뇌피셜을 왜 사실처럼 씀. 현장가서 그렇게 말해봐라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-021",
+      "parentId": null,
+      "timestamp": "2026-04-07T10:10:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "누가 여기다 국회 열었냐 / 내일까지 싸워줘",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-022",
+      "parentId": "nat-2026-000006-004",
+      "timestamp": "2026-04-07T10:13:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "작성자 말대로면 내 고양이도 A급임 ㅋㅋ 제발 계속해",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-023",
+      "parentId": "nat-2026-000006-012",
+      "timestamp": "2026-04-07T10:16:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "윗댓 말도 틀린건 아닌데 표현이 개같음 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-024",
+      "parentId": null,
+      "timestamp": "2026-04-07T10:18:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "댓글 믿고 움직였다가 걸리면 아무도 책임 안짐. 괜히 한쪽 말만 듣고 움직이지마.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-025",
+      "parentId": "nat-2026-000006-003",
+      "timestamp": "2026-04-07T10:19:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-026",
+      "parentId": "nat-2026-000006-014",
+      "timestamp": "2026-04-07T10:22:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "그래서 결론이 뭐임. 진짜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-027",
+      "parentId": "nat-2026-000006-021",
+      "timestamp": "2026-04-07T10:24:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "협회 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-028",
+      "parentId": "nat-2026-000006-008",
+      "timestamp": "2026-04-07T10:24:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "출입절차 생겨서 귀찮아도 현장 정리는 확실히 나아졌음. 실시간으로 본 사람들은 더 정신없었을듯",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-029",
+      "parentId": null,
+      "timestamp": "2026-04-07T10:25:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "현장 보조 몇번 해봤는데 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2026-000006-030",
+      "parentId": "nat-2026-000006-018",
+      "timestamp": "2026-04-07T10:27:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "이건 좀",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

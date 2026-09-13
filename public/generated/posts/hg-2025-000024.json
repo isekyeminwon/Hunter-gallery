@@ -1,0 +1,232 @@
+{
+  "id": "hg-2025-000024",
+  "displayNo": 339531,
+  "timestamp": "2025-03-02T22:52:45+09:00",
+  "year": 2025,
+  "era": "FORMATION",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "처음이면 뭐부터 보면 됨?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "112.171"
+  },
+  "content": "용어가 너무 많아서 하나도 모르겠음",
+  "attachments": [],
+  "stats": {
+    "views": 2219,
+    "recommend": 15
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2025-000024-001",
+      "parentId": null,
+      "timestamp": "2025-03-02T22:58:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "뉴비 질문에 왜 다들 이렇게 화나있냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-002",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:05:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "우리 파티는 저런 상황 오면 근데 우리는 바로 철수 얘기부터 꺼냄",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-003",
+      "parentId": "nat-2025-000024-001",
+      "timestamp": "2025-03-02T23:06:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "이거 얘기하는데 왜 갑자기 딴소리함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-004",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:09:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "현장 기준으론 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이상함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-005",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:13:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "현장 보조 몇번 해봤는데 근데 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-006",
+      "parentId": "nat-2025-000024-001",
+      "timestamp": "2025-03-02T23:14:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "정보글 보러왔다가 원숭이 싸움 구경중. 팝콘 부족함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-007",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:20:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "이런 상황에서 보통 누가 결정함? / 이거만 확인하고싶음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-008",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:29:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "협회 직원 댓글에만 지금 42명 있음 / 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-009",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:35:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "나도 처음엔 여기서 막혔음. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-010",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:37:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "오히려 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 이건 경험자 말 들어봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-011",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:42:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데. 결국 서류 먼저 보라고 하더라",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-012",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:43:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데. 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-013",
+      "parentId": "nat-2025-000024-011",
+      "timestamp": "2025-03-02T23:51:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "그건 인정",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-014",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:53:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "확인된 내용만 적어줘 근데 오늘 카더라 너무 많이 돎",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-015",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:59:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "뭔 개소리야",
+      "deleted": false
+    },
+    {
+      "id": "nat-2025-000024-016",
+      "parentId": null,
+      "timestamp": "2025-03-03T00:03:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "나도 처음엔 여기서 막혔음. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

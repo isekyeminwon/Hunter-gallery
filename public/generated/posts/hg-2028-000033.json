@@ -1,0 +1,64 @@
+{
+  "id": "hg-2028-000033",
+  "displayNo": 612706,
+  "timestamp": "2028-04-20T22:43:19+09:00",
+  "year": 2028,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "B급 친구 생기니까 단톡방 심부름 다 시킴",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.36"
+  },
+  "content": "본인은 억울해함",
+  "attachments": [],
+  "stats": {
+    "views": 11089,
+    "recommend": 51
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2028-000033-001",
+      "parentId": null,
+      "timestamp": "2028-04-20T22:49:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "내일 검사인데 이런 글 왜 클릭했지 ㅋㅋ 이 커뮤는 새벽에도 똑같네",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000033-002",
+      "parentId": "nat-2028-000033-001",
+      "timestamp": "2028-04-20T22:55:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "니들 둘 다 진정해라. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,143 @@
+@media (max-width: 1100px) {
+  .content-grid { grid-template-columns: minmax(0, 1fr); }
+  .right-sidebar { display: none; }
+}
+
+@media (max-width: 900px) {
+  .page-inner { padding-left: 10px; padding-right: 10px; }
+  .site-header { padding-left: 12px; padding-right: 12px; }
+  .gallery-tabs a { min-width: 0; flex: 1; padding-left: 8px; padding-right: 8px; }
+  .col-author { width: 104px; }
+}
+
+@media (max-width: 600px) {
+  body { background: #fff; font-size: 13px; }
+  .site-header { height: 46px; }
+  .site-logo { font-size: 14px; gap: 7px; }
+  .site-logo-mark { width: 25px; height: 25px; font-size: 14px; }
+  .site-actions .divider, .site-actions a { display: none; }
+  .site-actions { gap: 1px; }
+  .page-inner { padding: 10px 0 28px; }
+  .gallery-head { min-height: 82px; border-left: 0; border-right: 0; padding: 12px; gap: 10px; }
+  .gallery-icon { width: 48px; height: 48px; flex-basis: 48px; font-size: 22px; }
+  .gallery-copy h1 { font-size: 18px; }
+  .gallery-copy p { font-size: 11px; }
+  .gallery-meta { display: none; }
+  .write-button { min-width: 64px; padding: 8px 9px; font-size: 12px; }
+  .gallery-tabs { border-left: 0; border-right: 0; }
+  .gallery-tabs a { padding: 10px 4px; font-size: 12px; }
+  .category-nav { border-left: 0; border-right: 0; padding-left: 6px; }
+  .ad-header-banner { margin: 7px 8px; min-height: 62px; }
+  .ad-header-banner .ad-image, .ad-post-inline .ad-image { width: 92px; max-height: 62px; }
+  .content-grid { display: block; }
+  .board-toolbar { border-left: 0; border-right: 0; height: 38px; }
+  .board-table-wrap { border-left: 0; border-right: 0; overflow: visible; }
+  .board-table thead { display: none; }
+  .board-table, .board-table tbody, .board-table tr, .board-table td { display: block; width: 100%; }
+  .board-table tr { position: relative; padding: 8px 10px 7px; border-bottom: 1px solid #e6e8ed; }
+  .board-table td { height: auto; padding: 0; border: 0; overflow: visible; white-space: normal; }
+  .board-table .col-no, .board-table .col-date, .board-table .col-views, .board-table .col-recommend { display: none; }
+  .board-table .col-category { display: inline; margin-right: 4px; }
+  .board-table .col-title { display: inline; line-height: 1.5; }
+  .board-table .col-title a { font-size: 13px; }
+  .board-table .col-author { display: block; margin-top: 4px; text-align: left; color: #858a95; font-size: 10px; }
+  .board-table .col-author::after { content: " · 상세 메타는 글에서 확인"; color: #adb1bb; }
+  .notice-row { background: var(--notice-bg); }
+  .notice-row .col-no { display: inline; float: left; width: auto; margin-right: 6px; }
+  .notice-row .col-category { display: none; }
+  .pagination { padding: 13px 0 6px; }
+  .pagination button:not(.active):not(:first-child):not(:last-child) { display: none; }
+  .search-bar { border-left: 0; border-right: 0; padding: 9px 8px; }
+  .search-bar select { max-width: 90px; }
+  .search-bar input { min-width: 0; width: 100%; }
+  .search-bar button { padding: 0 12px; }
+  .post-nav { padding: 0 9px; }
+  .post-card { border-left: 0; border-right: 0; }
+  .post-title-line { padding: 12px 10px 8px; align-items: flex-start; }
+  .post-title-line h2 { font-size: 16px; }
+  .post-meta { padding: 7px 10px; flex-wrap: wrap; gap: 4px 10px; }
+  .post-meta span:not(:first-child)::before { display: none; }
+  .post-body { min-height: 220px; padding: 24px 14px 34px; }
+  .attachment-gallery { padding: 0 14px 20px; }
+  .attachment-button img { max-width: 100%; }
+  .hunter-con { width: 64px; height: 64px; }
+  .comments-section, .comment-composer, .post-mini-list { border-left: 0; border-right: 0; }
+  .comment-list { padding: 0 8px; }
+  .comment-item.depth-1 > .comment-line, .comment-item.depth-2 > .comment-line { margin-left: 12px; }
+  .comment-composer { grid-template-columns: 1fr 64px; }
+  .ad-post-inline { margin-left: 8px; margin-right: 8px; }
+  .search-results, .search-count { border-left: 0; border-right: 0; }
+  .search-page-head { padding-left: 10px; padding-right: 10px; }
+  .search-filters { padding-right: 8px; }
+  .search-filters-expanded { justify-content: flex-start; margin: 7px 8px; padding: 8px; }
+  .search-sort-group { width: 100%; margin-left: 0; padding-top: 3px; }
+  .site-footer { padding-left: 10px; padding-right: 10px; }
+}
+
+/* ===== v0.2.3: detail page + guide modal responsive ===== */
+@media (max-width: 1100px) {
+  .post-detail-page .post-body {
+    min-height: 330px;
+    padding: 32px 26px 48px;
+    font-size: 15px;
+  }
+
+  .post-detail-page .comment-content .hunter-con {
+    width: 84px;
+    height: 84px;
+  }
+}
+
+@media (max-width: 600px) {
+  .site-actions .guide-trigger {
+    display: inline-block;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 10px;
+  }
+
+  .guide-backdrop {
+    padding: 0;
+    align-items: stretch;
+  }
+
+  .guide-panel {
+    width: 100%;
+    max-height: 100dvh;
+    min-height: 100dvh;
+    border: 0;
+    box-shadow: none;
+  }
+
+  .guide-head {
+    padding: 14px 14px 11px;
+  }
+
+  .guide-head h2 {
+    font-size: 18px;
+  }
+
+  .guide-scroll {
+    padding: 16px 15px 22px;
+    font-size: 12.5px;
+  }
+
+  .guide-lead {
+    padding: 12px;
+  }
+
+  .guide-section + .guide-section {
+    margin-top: 20px;
+  }
+
+  .post-detail-page .post-body {
+    min-height: 220px;
+    padding: 24px 14px 34px;
+    font-size: 14px;
+  }
+
+  .post-detail-page .comment-content .hunter-con {
+    width: 76px;
+    height: 76px;
+  }
+}

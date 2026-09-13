@@ -1,0 +1,64 @@
+{
+  "id": "hg-2027-000017",
+  "displayNo": 488849,
+  "timestamp": "2027-05-19T11:07:16+09:00",
+  "year": 2027,
+  "era": "FORMATION",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회 문자만 오면 심장 철렁함",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "112.171"
+  },
+  "content": "별거 아닌 안내인데도",
+  "attachments": [],
+  "stats": {
+    "views": 18269,
+    "recommend": 130
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2027-000017-001",
+      "parentId": null,
+      "timestamp": "2027-05-19T11:08:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "지금 나온 것만 보면 협회 관련해서 기사마다 말 조금씩 다른게 문제임 그래서 난 아직 보류",
+      "deleted": false
+    },
+    {
+      "id": "nat-2027-000017-002",
+      "parentId": null,
+      "timestamp": "2027-05-19T11:10:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "출처가 뭐임 ㅋㅋ 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

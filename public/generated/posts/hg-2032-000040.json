@@ -1,0 +1,100 @@
+{
+  "id": "hg-2032-000040",
+  "displayNo": 1243180,
+  "timestamp": "2032-09-03T21:21:57+09:00",
+  "year": 2032,
+  "era": "INDUSTRY",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 게이트 끝나고 먹은 햄버거 미쳤다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "공략보다 끝나고 먹는게 더 기억남\n다음에도 여기 갈듯",
+  "attachments": [],
+  "stats": {
+    "views": 8882,
+    "recommend": 84
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2032-000040-001",
+      "parentId": null,
+      "timestamp": "2032-09-03T21:31:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "글쓴이는 이미 갔는데 댓글끼리 싸우는중ㅋㅋ ㅋㅋ 근데 이해는 감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000040-002",
+      "parentId": null,
+      "timestamp": "2032-09-03T21:40:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "이거 보험 처리도 똑같음? ㅋㅋ 댓글 싸우지말고 답만좀",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000040-003",
+      "parentId": null,
+      "timestamp": "2032-09-03T21:49:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "글쓴이는 이미 갔는데 댓글끼리 싸우는중ㅋㅋ. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000040-004",
+      "parentId": "nat-2032-000040-001",
+      "timestamp": "2032-09-03T21:51:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.109"
+      },
+      "content": "우리 파티는 저런 상황 오면. 가족들은 뉴스만 떠도 전화부터 옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2032-000040-005",
+      "parentId": "nat-2032-000040-001",
+      "timestamp": "2032-09-03T21:54:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "둘 다 개소리중임 근데 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

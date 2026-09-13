@@ -1,0 +1,184 @@
+{
+  "id": "hg-2028-000035",
+  "displayNo": 620579,
+  "timestamp": "2028-06-04T08:01:38+09:00",
+  "year": 2028,
+  "era": "INDUSTRY",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "강무혁 공략 인터뷰 조회수 아직도 미쳤네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.235"
+  },
+  "content": "이젠 헌터 영상도 편집자 붙어서 자막까지 깔끔함",
+  "attachments": [],
+  "stats": {
+    "views": 31730,
+    "recommend": 124
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2028-000035-001",
+      "parentId": null,
+      "timestamp": "2028-06-04T08:09:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "다 떠나서 강무혁 자체보다 조건이 뭐였는지부터 봐야됨 그래서 난 아직 보류. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-002",
+      "parentId": null,
+      "timestamp": "2028-06-04T08:16:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "대충 봐도 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 괜히 엮이지마. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-003",
+      "parentId": "nat-2028-000035-002",
+      "timestamp": "2028-06-04T08:17:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "뇌피셜을 왜 사실처럼 씀 ㅋㅋ 진짜로",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-004",
+      "parentId": "nat-2028-000035-001",
+      "timestamp": "2028-06-04T08:19:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "작성자 존나 급하네. 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-005",
+      "parentId": null,
+      "timestamp": "2028-06-04T08:23:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "내가 협회면 이 댓글창부터 통제함. 관리자도 보고 웃겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-006",
+      "parentId": null,
+      "timestamp": "2028-06-04T08:24:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "이 글 보다가 라면 불었다 ㅋㅋ 본문이랑 상관없긴 한데 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-007",
+      "parentId": null,
+      "timestamp": "2028-06-04T08:34:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "정보글 보러왔다가 원숭이 싸움 구경중 ㅋㅋ 누가 말리냐 계속해봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-008",
+      "parentId": null,
+      "timestamp": "2028-06-04T08:43:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "나도 비슷한 일 한번 겪었는데. 한번 데이고 생각 바뀜",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-009",
+      "parentId": null,
+      "timestamp": "2028-06-04T08:46:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "댓글에서 영업하는 애들 진짜 빠름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-010",
+      "parentId": null,
+      "timestamp": "2028-06-04T08:51:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "누가 여기다 국회 열었냐 ㅋㅋ 누가 말리냐 계속해봐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-011",
+      "parentId": "nat-2028-000035-005",
+      "timestamp": "2028-06-04T08:54:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "댓글에서 영업하는 애들 진짜 빠름 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2028-000035-012",
+      "parentId": null,
+      "timestamp": "2028-06-04T09:00:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "모르겠음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

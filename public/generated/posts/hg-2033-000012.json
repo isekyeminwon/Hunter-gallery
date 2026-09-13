@@ -1,0 +1,328 @@
+{
+  "id": "hg-2033-000012",
+  "displayNo": 1311852,
+  "timestamp": "2033-09-14T10:25:00+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "LEE_SIYUL_SS",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "세계 최초라는게 더 무섭네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "125.180"
+  },
+  "content": "다른 나라에도 비슷한 사람이 아직 확인 안된거잖아",
+  "attachments": [],
+  "stats": {
+    "views": 34035,
+    "recommend": 299
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "nat-2033-000012-001",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:26:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "이시율 영상 하나로 서버 터진건 이해됨 ㅋㅋ 댓글만 봐도 당시 혼란이 느껴짐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-002",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:29:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "이거 보고 우리팀 막내 또 아는척할까봐 무섭다. 이쯤되면 정들겠다",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-003",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:30:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "이런날도 있어야 게시판이 굴러가지. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-004",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:31:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "검신 이름 직관적이라고 놀리다가 영상 뜨고 조용해짐 ㅋㅋ 근데 저때 댓글 분위기는 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-005",
+      "parentId": "nat-2033-000012-004",
+      "timestamp": "2033-09-14T10:33:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "왜 싸우냐ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-006",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:35:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "오히려 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 그래서 난 아직 보류",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-007",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:36:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "닉 보고 내용 까먹음 근데 왜 이런글에 댓글이 더 많냐",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-008",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:38:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "세계 최초라는 단어 붙으니까 해외댓글까지 한꺼번에 몰려옴",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-009",
+      "parentId": "nat-2033-000012-008",
+      "timestamp": "2033-09-14T10:38:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "둘이 서로 다른 얘기하고 있음ㅋㅋ. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-010",
+      "parentId": "nat-2033-000012-005",
+      "timestamp": "2033-09-14T10:39:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "말투만 보면 둘이 원수임ㅋㅋ ㅋㅋ. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-011",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:40:56+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "이시율 영상 하나로 서버 터진건 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-012",
+      "parentId": "nat-2033-000012-004",
+      "timestamp": "2033-09-14T10:41:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "그건 팀마다 다름. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-013",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:41:34+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "협회 직원 댓글에만 지금 42명 있음 ㅋㅋ 이래서 헌갤을 못끊음",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-014",
+      "parentId": "nat-2033-000012-005",
+      "timestamp": "2033-09-14T10:43:55+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "글을 읽은거냐 제목만 본거냐 / 그만 싸워 둘다 시끄러움",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-015",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:45:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "아는 형이 장비팀이라 물어봤었는데 근데 인터넷에서 말하는거랑 체감 꽤 다름",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-016",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:46:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "기사만 보면 이 글 자체보다 조건이 뭐였는지부터 봐야됨 같음. 조건 하나만 달라도 얘기 완전 달라짐.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-017",
+      "parentId": "nat-2033-000012-013",
+      "timestamp": "2033-09-14T10:48:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "니들 둘 다 진정해라 / 둘다 그만해. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-018",
+      "parentId": "nat-2033-000012-014",
+      "timestamp": "2033-09-14T10:51:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "광고가 본문보다 눈에 들어오네\n아무튼 난 밥먹으러감",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-019",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:52:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "SS 하나가 S 몇명분이냐는 질문부터가 답이 없는 질문임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-020",
+      "parentId": "nat-2033-000012-015",
+      "timestamp": "2033-09-14T10:55:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "영상은 보고 말함?. 작성자도 너무 확신하진 마라.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-021",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:56:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "이런 쓸데없는 글이 은근 오래 살아남음. 괜히 아는척하다가 틀리면 개쪽임.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-022",
+      "parentId": "nat-2033-000012-006",
+      "timestamp": "2033-09-14T10:57:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "아니 윗댓은 그말이 아니잖아. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-023",
+      "parentId": "nat-2033-000012-006",
+      "timestamp": "2033-09-14T10:59:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "근데 거기서 결론이 왜 그렇게 감. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "nat-2033-000012-024",
+      "parentId": null,
+      "timestamp": "2033-09-14T11:02:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "나도 비슷한 일 한번 겪었는데 막상 가면 매뉴얼 찾게 됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

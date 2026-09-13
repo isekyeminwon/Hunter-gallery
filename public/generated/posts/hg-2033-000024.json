@@ -1,0 +1,39 @@
+{
+  "id": "hg-2033-000024",
+  "displayNo": 1355010,
+  "timestamp": "2033-09-17T23:36:00+09:00",
+  "year": 2033,
+  "era": "SS_ERA",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": "LEE_SIYUL_SS",
+    "phase": "CONFIRMED",
+    "related": true
+  },
+  "title": "이시율 측정실 원본영상",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "112.171"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 143805,
+    "recommend": 1086
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "POLICY_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}
