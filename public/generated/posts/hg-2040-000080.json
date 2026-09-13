@@ -1,0 +1,76 @@
+{
+  "id": "hg-2040-000080",
+  "displayNo": 3475809,
+  "timestamp": "2040-12-22T10:25:42+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "헌터 신상 어디까지 공개해도 됨? 질문",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "1.239"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 19177,
+    "recommend": 7
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000080-v8-001",
+      "parentId": null,
+      "timestamp": "2040-12-22T10:29:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "신고해본사람 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000080-v8-002",
+      "parentId": null,
+      "timestamp": "2040-12-22T10:32:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "애매하면 신상은 올리지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000080-v8-003",
+      "parentId": "c-2040-000080-v8-002",
+      "timestamp": "2040-12-22T10:35:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "최신 공지 한번 봐야겠네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

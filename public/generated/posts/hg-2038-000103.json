@@ -1,0 +1,304 @@
+{
+  "id": "hg-2038-000103",
+  "displayNo": 2795776,
+  "timestamp": "2038-08-07T05:02:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "CHINA_SS_DISASTER",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "중국 SS게이트 촬영보조 구인 갑자기 많아짐",
+  "author": {
+    "type": "fixed",
+    "name": "현장밥차",
+    "ip": null
+  },
+  "content": "중국 SS 관련해서 방금 본거 가져옴.\n댓글에 원문 있으면 링크좀.",
+  "attachments": [],
+  "stats": {
+    "views": 91248,
+    "recommend": 251
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000103-v8-001",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:04:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "출처없는 색칠지도는 거르는게 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-002",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:07:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "2038 그때 뉴스 밤새본거 아직 기억남",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-003",
+      "parentId": "c-2038-000103-v8-001",
+      "timestamp": "2038-08-07T05:09:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "끝난 재난은 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-004",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:13:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "옛날 사고영상이 최근처럼 재업되는게 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-005",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:16:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "복구기사 계속 나오긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-006",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:18:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "샤오룽 구조영상 다시 떠서 최근인줄 아는사람 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-007",
+      "parentId": "c-2038-000103-v8-001",
+      "timestamp": "2038-08-07T05:21:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "옛날 영상 재업 진짜 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-008",
+      "parentId": "c-2038-000103-v8-003",
+      "timestamp": "2038-08-07T05:23:34+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "샤오룽 구조영상 또 뜬거 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-009",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:27:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-010",
+      "parentId": "c-2038-000103-v8-007",
+      "timestamp": "2038-08-07T05:29:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "색칠지도는 출처부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-011",
+      "parentId": "c-2038-000103-v8-005",
+      "timestamp": "2038-08-07T05:32:41+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "복구기사 날짜순으로 보는게 낫지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-012",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:35:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-013",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:38:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-014",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:41:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-015",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:44:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-016",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:46:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "비슷하게 해본놈 더없냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-017",
+      "parentId": "c-2038-000103-v8-016",
+      "timestamp": "2038-08-07T05:47:46+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "색칠지도는 출처부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-018",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:50:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-019",
+      "parentId": "c-2038-000103-v8-014",
+      "timestamp": "2038-08-07T05:51:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "옛날 영상 재업 진짜 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-020",
+      "parentId": "c-2038-000103-v8-013",
+      "timestamp": "2038-08-07T05:53:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "옛날 영상 재업 진짜 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-021",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:56:21+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000103-v8-022",
+      "parentId": null,
+      "timestamp": "2038-08-07T05:59:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

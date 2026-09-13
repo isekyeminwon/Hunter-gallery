@@ -1,0 +1,112 @@
+{
+  "id": "hg-2042-000079",
+  "displayNo": 4068919,
+  "timestamp": "2042-05-16T12:17:56+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드복지만 보면 백호 압승아님?",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "공식순위 없는거 암.\n그냥 싸우라고 올림ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 33854,
+    "recommend": 13
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000079-pilot001",
+      "parentId": null,
+      "timestamp": "2042-05-16T12:18:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "장비/보험/지원인력까지 합치면 상위권 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000079-pilot002",
+      "parentId": null,
+      "timestamp": "2042-05-16T12:19:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "압승은 모르겠고 백호가 복지 얘기 제일 많이 나오는건 맞지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000079-pilot003",
+      "parentId": null,
+      "timestamp": "2042-05-16T12:21:01+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "네뷸라는 교육쪽을 복지로 치냐 마냐에서 갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000079-pilot004",
+      "parentId": null,
+      "timestamp": "2042-05-16T12:21:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "한성은 복지후기 왜이리 적음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000079-pilot005",
+      "parentId": null,
+      "timestamp": "2042-05-16T12:23:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "한성 들어간 사람이 헌갤에 후기쓰겠냐ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000079-pilot006",
+      "parentId": null,
+      "timestamp": "2042-05-16T12:25:11+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "닉 때문에 신뢰도 -20 먹는거 억울함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

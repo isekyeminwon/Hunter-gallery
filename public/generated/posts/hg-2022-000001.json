@@ -42,303 +42,195 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2022-000001-001",
+      "id": "c-2022-000001-v8-001",
       "parentId": null,
-      "timestamp": "2022-02-11T16:43:43+09:00",
+      "timestamp": "2022-02-11T16:45:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "211.201"
       },
-      "content": "속보글 댓글은 10분 지나면 절반이 틀린말임",
+      "content": "동네사람이면 걍 멀리있어라",
       "deleted": false
     },
     {
-      "id": "nat-2022-000001-002",
-      "parentId": "nat-2022-000001-001",
-      "timestamp": "2022-02-11T16:45:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "진짜 헛소리도 당당하게 하네 ㅋㅋ 그만 싸워 둘다 시끄러움",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-003",
-      "parentId": "nat-2022-000001-001",
-      "timestamp": "2022-02-11T16:46:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "닉 보고 내용 까먹음. 나만 이 생각했냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-004",
+      "id": "c-2022-000001-v8-002",
       "parentId": null,
-      "timestamp": "2022-02-11T16:47:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "현장 근처면 커뮤말고 안내방송부터 들어라. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-005",
-      "parentId": "nat-2022-000001-004",
-      "timestamp": "2022-02-11T16:49:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "내일 검사인데 이런 글 왜 클릭했지. 아무튼 난 밥먹으러감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-006",
-      "parentId": null,
-      "timestamp": "2022-02-11T16:52:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "통제선 구경하겠다고 몰려간 사람들 진짜 많았음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-007",
-      "parentId": null,
-      "timestamp": "2022-02-11T16:52:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "글쓴이 그 뒤에 후기 없음? / 초보라 감이 안옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-008",
-      "parentId": null,
-      "timestamp": "2022-02-11T16:54:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이런날 카더라가 공식보다 세배 빨리 돎",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-009",
-      "parentId": null,
-      "timestamp": "2022-02-11T16:56:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "오히려 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-010",
-      "parentId": "nat-2022-000001-004",
-      "timestamp": "2022-02-11T16:58:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "이 사건 얘기하는데 왜 갑자기 딴소리함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-011",
-      "parentId": "nat-2022-000001-005",
-      "timestamp": "2022-02-11T17:01:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "예외 하나 들고와서 전체가 틀렸다고 하면 어떡함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-012",
-      "parentId": null,
-      "timestamp": "2022-02-11T17:03:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "솔직히 이 사건 관련해서 기사마다 말 조금씩 다른게 문제임 말은 된다. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-013",
-      "parentId": "nat-2022-000001-008",
-      "timestamp": "2022-02-11T17:05:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "내가 협회면 이 댓글창부터 통제함\n누가 말리냐 계속해봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-014",
-      "parentId": "nat-2022-000001-012",
-      "timestamp": "2022-02-11T17:06:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "ㅇㅇ 해보고 하는말임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-015",
-      "parentId": null,
-      "timestamp": "2022-02-11T17:08:24+09:00",
+      "timestamp": "2022-02-11T16:47:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.62"
       },
-      "content": "통제선 구경하겠다고 몰려간 사람들 진짜 많았음",
+      "content": "저거 아직도 안사라졌냐",
       "deleted": false
     },
     {
-      "id": "nat-2022-000001-016",
+      "id": "c-2022-000001-v8-003",
+      "parentId": "c-2022-000001-v8-001",
+      "timestamp": "2022-02-11T16:51:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000001-v8-004",
       "parentId": null,
-      "timestamp": "2022-02-11T17:10:38+09:00",
+      "timestamp": "2022-02-11T16:53:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "211.201"
       },
-      "content": "누가 여기다 국회 열었냐 / 아무도 안물어봤는데 다들 진심임",
+      "content": "방송사 화면에도 잡혔는데 합성은 아닌듯",
       "deleted": false
     },
     {
-      "id": "nat-2022-000001-017",
-      "parentId": "nat-2022-000001-012",
-      "timestamp": "2022-02-11T17:12:38+09:00",
+      "id": "c-2022-000001-v8-005",
+      "parentId": "c-2022-000001-v8-002",
+      "timestamp": "2022-02-11T16:56:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "39.7"
       },
-      "content": "뭐가 아닌데",
+      "content": "원인 나온건 아직 없지?",
       "deleted": false
     },
     {
-      "id": "nat-2022-000001-018",
+      "id": "c-2022-000001-v8-006",
       "parentId": null,
-      "timestamp": "2022-02-11T17:13:24+09:00",
+      "timestamp": "2022-02-11T17:00:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "223.62"
       },
-      "content": "뭔 자신감으로 확정짓냐",
+      "content": "왜 여기서 싸우냐",
       "deleted": false
     },
     {
-      "id": "nat-2022-000001-019",
+      "id": "c-2022-000001-v8-007",
+      "parentId": "c-2022-000001-v8-006",
+      "timestamp": "2022-02-11T17:02:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000001-v8-008",
       "parentId": null,
-      "timestamp": "2022-02-11T17:15:36+09:00",
+      "timestamp": "2022-02-11T17:05:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "39.7"
       },
-      "content": "지금은 확인된거 별로 없으니 기다리는게 맞음. 본문보다 대댓글이 더 길어질 각이다.",
+      "content": "며칠째 그대로인게 제일 소름임",
       "deleted": false
     },
     {
-      "id": "nat-2022-000001-020",
+      "id": "c-2022-000001-v8-009",
+      "parentId": null,
+      "timestamp": "2022-02-11T17:06:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000001-v8-010",
+      "parentId": "c-2022-000001-v8-003",
+      "timestamp": "2022-02-11T17:08:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000001-v8-011",
+      "parentId": null,
+      "timestamp": "2022-02-11T17:10:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "또 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000001-v8-012",
+      "parentId": null,
+      "timestamp": "2022-02-11T17:12:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000001-v8-013",
       "parentId": null,
       "timestamp": "2022-02-11T17:16:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "223.62"
       },
-      "content": "이런날 카더라가 공식보다 세배 빨리 돎",
+      "content": "가까이 가서 찍는놈들은 겁도없냐",
       "deleted": false
     },
     {
-      "id": "nat-2022-000001-021",
-      "parentId": "nat-2022-000001-004",
-      "timestamp": "2022-02-11T17:17:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "좆문가 또 왔네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-022",
+      "id": "c-2022-000001-v8-014",
       "parentId": null,
-      "timestamp": "2022-02-11T17:19:20+09:00",
+      "timestamp": "2022-02-11T17:19:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "211.201"
       },
-      "content": "개소리를 정성스럽게도 썼네",
+      "content": "통제선 더 넓어졌네",
       "deleted": false
     },
     {
-      "id": "nat-2022-000001-f01",
-      "parentId": "nat-2022-000001-009",
-      "timestamp": "2040-01-13T23:54:15+09:00",
+      "id": "c-2022-000001-v8-015",
+      "parentId": "c-2022-000001-v8-013",
+      "timestamp": "2022-02-11T17:22:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "39.7"
       },
-      "content": "작성자 아직 있으면 손들어봐",
+      "content": "현장근처면 안내부터 봐",
       "deleted": false
     },
     {
-      "id": "nat-2022-000001-f02",
-      "parentId": "nat-2022-000001-f01",
-      "timestamp": "2040-01-14T00:05:54+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "10년전 사람 소환술 쓰지마ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000001-f03",
+      "id": "c-2022-000001-v8-016",
       "parentId": null,
-      "timestamp": "2040-01-14T00:21:05+09:00",
+      "timestamp": "2022-02-11T17:24:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "210.178"
       },
-      "content": "날짜 안보고 댓글 읽다가 중간에 눈치챔",
+      "content": "난 아닌듯",
       "deleted": false
     }
   ],

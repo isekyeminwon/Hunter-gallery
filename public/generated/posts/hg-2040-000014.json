@@ -1,0 +1,52 @@
+{
+  "id": "hg-2040-000014",
+  "displayNo": 3216410,
+  "timestamp": "2040-02-26T07:31:11+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "여름 게이트장비 냄새 진짜 최악",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "점심먹다가 생각남",
+  "attachments": [],
+  "stats": {
+    "views": 13328,
+    "recommend": 86
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000014-v8-001",
+      "parentId": null,
+      "timestamp": "2040-02-26T07:34:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

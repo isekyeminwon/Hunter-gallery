@@ -1,0 +1,76 @@
+{
+  "id": "hg-2039-000050",
+  "displayNo": 3082762,
+  "timestamp": "2039-07-21T23:38:05+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "항만현장 위험수당 보통 얼마붙음",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.250"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 3607,
+    "recommend": 6
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000050-v8-001",
+      "parentId": null,
+      "timestamp": "2039-07-21T23:41:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "항만쪽은 차량/물자동선까지 섞여서 복잡함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000050-v8-002",
+      "parentId": null,
+      "timestamp": "2039-07-21T23:43:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "사고원인 뜨기전에 길드탓부터 하던거 기억남",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000050-v8-003",
+      "parentId": null,
+      "timestamp": "2039-07-21T23:46:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "영상 한각도만 보고 판단하기 힘든 현장임",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "hg-2041-000103",
+  "displayNo": 3902944,
+  "timestamp": "2041-04-16T18:05:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "JOINT_TRAINING_2041",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "합동훈련 지원 알바 이런거도 따로 뽑음?",
+  "author": {
+    "type": "fixed",
+    "name": "틀헌터",
+    "ip": null
+  },
+  "content": "합동훈련 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
+  "attachments": [],
+  "stats": {
+    "views": 38032,
+    "recommend": 197
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000103-v8-001",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:07:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "훈련점수로 실전서열 짜는건 웃김",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-002",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:09:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "훈련인데 철수만 몇번씩 시키더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-003",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:12:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "강한애 모았다고 팀이 바로 되는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-004",
+      "parentId": "c-2041-000103-v8-002",
+      "timestamp": "2041-04-16T18:14:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "낯선사람끼리 콜 맞추는게 핵심이겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-005",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:17:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "부상자 가정 훈련이 제일 정신없다더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-006",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:21:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "파티콜 맞추는게 생각보다 오래걸림",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-007",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:23:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-008",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:25:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "대댓글만 따로 글파도 되겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-009",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:28:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-010",
+      "parentId": "c-2041-000103-v8-006",
+      "timestamp": "2041-04-16T18:32:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "훈련점수로 서열짜는건 좀ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-011",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:34:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000103-v8-012",
+      "parentId": null,
+      "timestamp": "2041-04-16T18:36:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

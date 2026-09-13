@@ -1,0 +1,124 @@
+{
+  "id": "hg-2041-000079",
+  "displayNo": 3811557,
+  "timestamp": "2041-09-09T07:22:56+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "A급 누구 백호 이적설 실화냐 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 15994,
+    "recommend": 40
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000079-v8-001",
+      "parentId": null,
+      "timestamp": "2041-09-09T07:24:24+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "결론은 합격시켜주는곳 감",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000079-v8-002",
+      "parentId": null,
+      "timestamp": "2041-09-09T07:26:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "세다고 무조건 좋은직장은 아니잖아",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000079-v8-003",
+      "parentId": null,
+      "timestamp": "2041-09-09T07:28:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "연구/교육 보면 네뷸라가 매력있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000079-v8-004",
+      "parentId": null,
+      "timestamp": "2041-09-09T07:29:54+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "카메라 싫어하면 스텔라는 좀 힘들듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000079-v8-005",
+      "parentId": null,
+      "timestamp": "2041-09-09T07:33:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "한성 합격부터 하고 고민하라는 댓글 곧온다",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000079-v8-006",
+      "parentId": "c-2041-000079-v8-002",
+      "timestamp": "2041-09-09T07:34:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000079-v8-007",
+      "parentId": null,
+      "timestamp": "2041-09-09T07:38:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "복지로 백호 미는사람 많은 이유는 있음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

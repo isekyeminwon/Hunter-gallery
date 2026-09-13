@@ -1,0 +1,64 @@
+{
+  "id": "hg-2040-000022",
+  "displayNo": 3248639,
+  "timestamp": "2040-09-18T09:01:24+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 렌탈 월정액 써본사람",
+  "author": {
+    "type": "fixed",
+    "name": "별빛단7기",
+    "ip": null
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 8157,
+    "recommend": 16
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000022-v8-001",
+      "parentId": null,
+      "timestamp": "2040-09-18T09:04:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000022-v8-002",
+      "parentId": null,
+      "timestamp": "2040-09-18T09:07:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

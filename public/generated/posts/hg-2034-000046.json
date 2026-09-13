@@ -33,207 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2034-000046-001",
+      "id": "c-2034-000046-v8-001",
       "parentId": null,
-      "timestamp": "2034-03-01T23:11:27+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "계약서 가리고 올리면 봐줄 사람 많을듯. 괜히 한쪽 말만 듣고 움직이지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-002",
-      "parentId": null,
-      "timestamp": "2034-03-01T23:20:56+09:00",
+      "timestamp": "2034-03-01T23:09:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "211.201"
       },
-      "content": "엥",
+      "content": "조건부터 봐야됨",
       "deleted": false
     },
     {
-      "id": "nat-2034-000046-003",
-      "parentId": "nat-2034-000046-001",
-      "timestamp": "2034-03-01T23:24:28+09:00",
+      "id": "c-2034-000046-v8-002",
+      "parentId": null,
+      "timestamp": "2034-03-01T23:12:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "106.248"
       },
-      "content": "댓글 하나에 왜 이렇게 긁힘 근데 아무말이나 던지고 튀네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-004",
-      "parentId": "nat-2034-000046-003",
-      "timestamp": "2034-03-01T23:34:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "공식 공지 뜬거 맞음? ㅋㅋ 그거 어제 올라온 가짜랑 비슷한데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-005",
-      "parentId": null,
-      "timestamp": "2034-03-01T23:41:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "중요한 조건 빼놓는 구인글은 일단 거름 / 아님말고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-006",
-      "parentId": null,
-      "timestamp": "2034-03-01T23:46:56+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "시세보다 너무 높으면 왜 높은지부터 물어봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-007",
-      "parentId": null,
-      "timestamp": "2034-03-01T23:49:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "C급 관련해서 협회에 물어본 사람?\n초보라 감이 안옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-008",
-      "parentId": "nat-2034-000046-001",
-      "timestamp": "2034-03-01T23:54:05+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "미친",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-009",
-      "parentId": null,
-      "timestamp": "2034-03-02T00:04:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "실제 계약서에는 뭐라고 적힘?\n검색하면 말이 다 다름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-010",
-      "parentId": null,
-      "timestamp": "2034-03-02T00:09:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "이거 커뮤발인지 기사발인지부터 말해. 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-011",
-      "parentId": "nat-2034-000046-008",
-      "timestamp": "2034-03-02T00:14:22+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "C급 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-012",
-      "parentId": null,
-      "timestamp": "2034-03-02T00:19:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "내 폰 배터리 3퍼다\n왜 이런글에 댓글이 더 많냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-013",
-      "parentId": null,
-      "timestamp": "2034-03-02T00:22:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "글쓴이 도망갔는데 댓글끼리 3차전중 / 팝콘 부족함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-014",
-      "parentId": null,
-      "timestamp": "2034-03-02T00:30:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "근데 C급는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 같음. 괜히 한쪽 말만 듣고 움직이지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-015",
-      "parentId": null,
-      "timestamp": "2034-03-02T00:37:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "당일정산 한줄에 댓글 분위기 달라지는거 웃김. 모르면 물어보는게 낫지 괜히 개돌하지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-016",
-      "parentId": null,
-      "timestamp": "2034-03-02T00:41:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "아니ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000046-017",
-      "parentId": null,
-      "timestamp": "2034-03-02T00:48:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "기사 세줄도 안읽고 댓글부터 쓰냐 ㅋㅋ 그래서 근거가 뭔데",
+      "content": "시세보다 너무 좋으면 이유부터 궁금함",
       "deleted": false
     }
   ],

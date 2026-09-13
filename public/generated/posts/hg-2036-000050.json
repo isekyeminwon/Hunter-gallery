@@ -1,0 +1,39 @@
+{
+  "id": "hg-2036-000050",
+  "displayNo": 2153171,
+  "timestamp": "2036-12-21T11:31:21+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 장비 세척하다 현타옴",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "그냥 궁금해서 물어봄\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 7339,
+    "recommend": 42
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,5 +1,2413 @@
 [
   {
+    "id": "hg-2042-000125",
+    "displayNo": 4303203,
+    "timestamp": "2042-09-16T12:43:33+09:00",
+    "year": 2042,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "새 S급 뜨면 나라가 왜 뒤집힘?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.250"
+    },
+    "stats": {
+      "views": 67853,
+      "recommend": 2981
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 31,
+    "popularityScore": 5993
+  },
+  {
+    "id": "hg-2042-000124",
+    "displayNo": 4294321,
+    "timestamp": "2042-09-14T09:33:16+09:00",
+    "year": 2042,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "그림자부대 진짜 있는 거 맞냐?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "121.163"
+    },
+    "stats": {
+      "views": 87352,
+      "recommend": 3435
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 15,
+    "popularityScore": 6885
+  },
+  {
+    "id": "hg-2042-000129",
+    "displayNo": 4290125,
+    "timestamp": "2042-09-13T13:32:20+09:00",
+    "year": 2042,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "한국 A급 TOP 10 또 떴네 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 184302,
+      "recommend": 2418
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 13,
+    "popularityScore": 4849
+  },
+  {
+    "id": "hg-2042-000123",
+    "displayNo": 4268520,
+    "timestamp": "2042-09-09T10:32:25+09:00",
+    "year": 2042,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "B급 게이트 짐꾼 해본 사람?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "220.79"
+    },
+    "stats": {
+      "views": 89741,
+      "recommend": 1126
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 27,
+    "popularityScore": 2279
+  },
+  {
+    "id": "hg-2042-000085",
+    "displayNo": 4222934,
+    "timestamp": "2042-08-30T13:59:31+09:00",
+    "year": 2042,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "한성 vs 네뷸라 vs 백호 취업이면 어디감?",
+    "author": {
+      "type": "fixed",
+      "name": "백호복지팀",
+      "ip": null
+    },
+    "stats": {
+      "views": 96027,
+      "recommend": 2265
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 16,
+    "popularityScore": 4546
+  },
+  {
+    "id": "hg-2042-000088",
+    "displayNo": 4222235,
+    "timestamp": "2042-08-28T12:42:51+09:00",
+    "year": 2042,
+    "internalCategory": "시장·구인",
+    "displayCategory": "구인",
+    "title": "언데드 게이트 공략권 왜 이렇게 쌈?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "117.111"
+    },
+    "stats": {
+      "views": 101552,
+      "recommend": 1784
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 13,
+    "popularityScore": 3581
+  },
+  {
+    "id": "hg-2042-000054",
+    "displayNo": 4101491,
+    "timestamp": "2042-06-08T07:33:21+09:00",
+    "year": 2042,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "게이트 방송 카메라 얼마임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.41"
+    },
+    "stats": {
+      "views": 180649,
+      "recommend": 3555
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 10,
+    "popularityScore": 7120
+  },
+  {
+    "id": "hg-2042-000040",
+    "displayNo": 4035944,
+    "timestamp": "2042-04-11T05:52:23+09:00",
+    "year": 2042,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "부정등록자는 왜 이렇게 욕먹음?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.38"
+    },
+    "stats": {
+      "views": 143884,
+      "recommend": 2077
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 14,
+    "popularityScore": 4168
+  },
+  {
+    "id": "hg-2042-000018",
+    "displayNo": 3966520,
+    "timestamp": "2042-01-29T19:54:54+09:00",
+    "year": 2042,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "중국 SS급 게이트 아직도 이계화 중임?",
+    "author": {
+      "type": "fixed",
+      "name": "영상분석충",
+      "ip": null
+    },
+    "stats": {
+      "views": 53322,
+      "recommend": 2241
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 7,
+    "popularityScore": 4489
+  },
+  {
+    "id": "hg-2042-000005",
+    "displayNo": 3929764,
+    "timestamp": "2042-01-04T06:25:57+09:00",
+    "year": 2042,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "F급인데 헌터 계속 하는 게 맞냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.58"
+    },
+    "stats": {
+      "views": 100678,
+      "recommend": 1096
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 14,
+    "popularityScore": 2206
+  },
+  {
+    "id": "hg-2041-000022",
+    "displayNo": 3579339,
+    "timestamp": "2041-11-02T22:18:51+09:00",
+    "year": 2041,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "강원 저등급 게이트 실종 또 떴네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 128002,
+      "recommend": 1320
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 34,
+    "popularityScore": 2674
+  },
+  {
+    "id": "hg-2041-000067",
+    "displayNo": 3766082,
+    "timestamp": "2041-10-31T01:24:00+09:00",
+    "year": 2041,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 저등급이라도 철수기준 따로 잡아야 하는 이유 ㅋㅋ",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 24773,
+      "recommend": 1630
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 48,
+    "popularityScore": 3308
+  },
+  {
+    "id": "hg-2041-000034",
+    "displayNo": 3624117,
+    "timestamp": "2041-10-24T19:53:00+09:00",
+    "year": 2041,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "강원쪽 추가 실종 기사 올라옴 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.250"
+    },
+    "stats": {
+      "views": 78468,
+      "recommend": 2521
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 27,
+    "popularityScore": 5069
+  },
+  {
+    "id": "hg-2041-000004",
+    "displayNo": 3511762,
+    "timestamp": "2041-10-20T00:30:00+09:00",
+    "year": 2041,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "강원 실종사건 협회 조사 계속중이라네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.250"
+    },
+    "stats": {
+      "views": 77140,
+      "recommend": 2232
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 46,
+    "popularityScore": 4510
+  },
+  {
+    "id": "hg-2041-000046",
+    "displayNo": 3681705,
+    "timestamp": "2041-07-05T15:28:00+09:00",
+    "year": 2041,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 합동영상 원본콜 들어보면 배울거 많더라",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "175.223"
+    },
+    "stats": {
+      "views": 245139,
+      "recommend": 1658
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 3368
+  },
+  {
+    "id": "hg-2041-000045",
+    "displayNo": 3675250,
+    "timestamp": "2041-07-05T10:22:00+09:00",
+    "year": 2041,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "스텔라 합동 클리어 영상 프로젝트 공개됐다네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "61.79"
+    },
+    "stats": {
+      "views": 17194,
+      "recommend": 2759
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 22,
+    "popularityScore": 5540
+  },
+  {
+    "id": "hg-2041-000060",
+    "displayNo": 3740826,
+    "timestamp": "2041-07-04T16:37:00+09:00",
+    "year": 2041,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 촬영팀 붙으면 파티동선 뭐가 달라지는지 ㅋㅋ",
+    "author": {
+      "type": "fixed",
+      "name": "별빛단7기",
+      "ip": null
+    },
+    "stats": {
+      "views": 170213,
+      "recommend": 2757
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 44,
+    "popularityScore": 5558
+  },
+  {
+    "id": "hg-2041-000072",
+    "displayNo": 3783538,
+    "timestamp": "2041-04-14T20:32:00+09:00",
+    "year": 2041,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 합동훈련 지원인력으로 들어가본거 적음 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "182.214"
+    },
+    "stats": {
+      "views": 81289,
+      "recommend": 2493
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 34,
+    "popularityScore": 5020
+  },
+  {
+    "id": "hg-2041-000085",
+    "displayNo": 3831704,
+    "timestamp": "2041-04-14T11:41:00+09:00",
+    "year": 2041,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "협회-대형길드 신세대 합동훈련 기사 떴네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 74541,
+      "recommend": 2952
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 22,
+    "popularityScore": 5926
+  },
+  {
+    "id": "hg-2041-000059",
+    "displayNo": 3738680,
+    "timestamp": "2041-04-14T05:43:00+09:00",
+    "year": 2041,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 합동훈련 보조하면서 본 장비체크 순서",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 345853,
+      "recommend": 3245
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 6542
+  },
+  {
+    "id": "hg-2041-000055",
+    "displayNo": 3721757,
+    "timestamp": "2041-04-13T13:27:00+09:00",
+    "year": 2041,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 훈련끝나고 피드백 기록 남기는 방식 괜찮더라",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.235"
+    },
+    "stats": {
+      "views": 296004,
+      "recommend": 2234
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 46,
+    "popularityScore": 4514
+  },
+  {
+    "id": "hg-2041-000017",
+    "displayNo": 3555836,
+    "timestamp": "2041-04-12T12:02:00+09:00",
+    "year": 2041,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 합동훈련에서 신인들한테 반복시키는 기본동작",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "1.239"
+    },
+    "stats": {
+      "views": 234492,
+      "recommend": 3044
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 30,
+    "popularityScore": 6118
+  },
+  {
+    "id": "hg-2041-000065",
+    "displayNo": 3759338,
+    "timestamp": "2041-02-21T08:48:53+09:00",
+    "year": 2041,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "올해 신규 고등급 각성자 기사 정리 떴네",
+    "author": {
+      "type": "fixed",
+      "name": "계약서읽자",
+      "ip": null
+    },
+    "stats": {
+      "views": 41228,
+      "recommend": 1582
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 38,
+    "popularityScore": 3202
+  },
+  {
+    "id": "hg-2041-000014",
+    "displayNo": 3547091,
+    "timestamp": "2041-02-20T10:56:46+09:00",
+    "year": 2041,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 신인 고등급이 첫해 제일 많이 실수하는거",
+    "author": {
+      "type": "fixed",
+      "name": "협회노예",
+      "ip": null
+    },
+    "stats": {
+      "views": 51872,
+      "recommend": 1185
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 36,
+    "popularityScore": 2406
+  },
+  {
+    "id": "hg-2040-000070",
+    "displayNo": 3424976,
+    "timestamp": "2040-08-12T00:10:58+09:00",
+    "year": 2040,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "A급 신인이 처음 현장 들어갈때 베테랑 붙이는 이유",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 56643,
+      "recommend": 1965
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 40,
+    "popularityScore": 3970
+  },
+  {
+    "id": "hg-2040-000081",
+    "displayNo": 3478619,
+    "timestamp": "2040-08-11T21:36:38+09:00",
+    "year": 2040,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "이서 관련 협회 발표 추가로 떴네 ㅋㅋ",
+    "author": {
+      "type": "fixed",
+      "name": "계약서읽자",
+      "ip": null
+    },
+    "stats": {
+      "views": 41852,
+      "recommend": 2267
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 35,
+    "popularityScore": 4569
+  },
+  {
+    "id": "hg-2040-000042",
+    "displayNo": 3329130,
+    "timestamp": "2040-08-11T20:58:58+09:00",
+    "year": 2040,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "이서 인터뷰 생각보다 짧네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.234"
+    },
+    "stats": {
+      "views": 177870,
+      "recommend": 2677
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 38,
+    "popularityScore": 5392
+  },
+  {
+    "id": "hg-2040-000084",
+    "displayNo": 3492485,
+    "timestamp": "2040-08-11T20:40:30+09:00",
+    "year": 2040,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "이서 어느 길드 갈지 나온거 있음? ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.102"
+    },
+    "stats": {
+      "views": 51732,
+      "recommend": 3274
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 24,
+    "popularityScore": 6572
+  },
+  {
+    "id": "hg-2040-000072",
+    "displayNo": 3435515,
+    "timestamp": "2040-08-11T19:53:18+09:00",
+    "year": 2040,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "이서 바로 국내 A 상위권 넣는건 너무 빠르지 않냐 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "175.223"
+    },
+    "stats": {
+      "views": 148256,
+      "recommend": 2540
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 44,
+    "popularityScore": 5124
+  },
+  {
+    "id": "hg-2040-000066",
+    "displayNo": 3415310,
+    "timestamp": "2040-08-11T19:10:35+09:00",
+    "year": 2040,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "A급 뜨면 첫해 보통 뭐부터 함?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.33"
+    },
+    "stats": {
+      "views": 38883,
+      "recommend": 3263
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 35,
+    "popularityScore": 6561
+  },
+  {
+    "id": "hg-2040-000079",
+    "displayNo": 3471786,
+    "timestamp": "2040-08-11T19:03:30+09:00",
+    "year": 2040,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "이서 관련 협회 발표 추가로 떴네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.221"
+    },
+    "stats": {
+      "views": 22400,
+      "recommend": 2938
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 27,
+    "popularityScore": 5903
+  },
+  {
+    "id": "hg-2040-000044",
+    "displayNo": 3336594,
+    "timestamp": "2040-08-11T13:40:28+09:00",
+    "year": 2040,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "또 A급 신인 떴누",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "125.180"
+    },
+    "stats": {
+      "views": 53979,
+      "recommend": 2718
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 22,
+    "popularityScore": 5458
+  },
+  {
+    "id": "hg-2040-000018",
+    "displayNo": 3231763,
+    "timestamp": "2040-08-11T12:30:02+09:00",
+    "year": 2040,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "이서 어느 길드 갈지 나온거 있음?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.250"
+    },
+    "stats": {
+      "views": 183135,
+      "recommend": 2055
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 37,
+    "popularityScore": 4147
+  },
+  {
+    "id": "hg-2040-000001",
+    "displayNo": 3170954,
+    "timestamp": "2040-08-11T10:10:53+09:00",
+    "year": 2040,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "이서 바로 국내 A 상위권 넣는건 너무 빠르지 않냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.246"
+    },
+    "stats": {
+      "views": 38440,
+      "recommend": 1769
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 32,
+    "popularityScore": 3570
+  },
+  {
+    "id": "hg-2039-000036",
+    "displayNo": 3014813,
+    "timestamp": "2039-09-03T20:34:26+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 신인 A한테 B급 베테랑 붙이는 이유 적어봄",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.235"
+    },
+    "stats": {
+      "views": 57103,
+      "recommend": 2672
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 36,
+    "popularityScore": 5380
+  },
+  {
+    "id": "hg-2039-000062",
+    "displayNo": 3130339,
+    "timestamp": "2039-05-24T03:19:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 항만 게이트에서 짐꾼 동선 꼬이면 생기는 일 ㅋㅋ",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 151535,
+      "recommend": 798
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 50,
+    "popularityScore": 1646
+  },
+  {
+    "id": "hg-2039-000056",
+    "displayNo": 3113372,
+    "timestamp": "2039-05-20T16:18:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 항만 게이트에서 짐꾼 동선 꼬이면 생기는 일",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.235"
+    },
+    "stats": {
+      "views": 45014,
+      "recommend": 1030
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 42,
+    "popularityScore": 2102
+  },
+  {
+    "id": "hg-2039-000053",
+    "displayNo": 3098025,
+    "timestamp": "2039-05-20T15:34:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "협회 공동대응 들어간거 공식 확인",
+    "author": {
+      "type": "fixed",
+      "name": "협회노예",
+      "ip": null
+    },
+    "stats": {
+      "views": 234108,
+      "recommend": 2430
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 37,
+    "popularityScore": 4897
+  },
+  {
+    "id": "hg-2039-000045",
+    "displayNo": 3056881,
+    "timestamp": "2039-05-20T11:51:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 대형사고 때 지원인력 먼저 보는 체크리스트",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 269941,
+      "recommend": 3056
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 6164
+  },
+  {
+    "id": "hg-2039-000042",
+    "displayNo": 3043777,
+    "timestamp": "2039-05-20T10:35:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 협회+민간 공동대응 들어가면 통신부터 맞춰야됨",
+    "author": {
+      "type": "fixed",
+      "name": "백호복지팀",
+      "ip": null
+    },
+    "stats": {
+      "views": 353175,
+      "recommend": 1272
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 2596
+  },
+  {
+    "id": "hg-2039-000041",
+    "displayNo": 3038910,
+    "timestamp": "2039-05-19T15:16:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 대형 현장일수록 철수동선 먼저 잡아야 하는 이유",
+    "author": {
+      "type": "fixed",
+      "name": "계약서읽자",
+      "ip": null
+    },
+    "stats": {
+      "views": 270201,
+      "recommend": 2029
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 43,
+    "popularityScore": 4101
+  },
+  {
+    "id": "hg-2039-000023",
+    "displayNo": 2959123,
+    "timestamp": "2039-05-19T12:57:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 사고영상 보고 '저기서 왜 저럼?' 하기 쉬운 이유",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.36"
+    },
+    "stats": {
+      "views": 38249,
+      "recommend": 1023
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 37,
+    "popularityScore": 2083
+  },
+  {
+    "id": "hg-2039-000003",
+    "displayNo": 2874827,
+    "timestamp": "2039-05-19T10:45:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "동해항 사고 관련 공식 공지 업데이트",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "220.79"
+    },
+    "stats": {
+      "views": 133904,
+      "recommend": 1118
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 31,
+    "popularityScore": 2267
+  },
+  {
+    "id": "hg-2038-000119",
+    "displayNo": 2860975,
+    "timestamp": "2038-08-11T02:36:00+09:00",
+    "year": 2038,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 대피 프레임만 보고 공략짜면 안됨",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 322387,
+      "recommend": 1993
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 44,
+    "popularityScore": 4030
+  },
+  {
+    "id": "hg-2038-000109",
+    "displayNo": 2818613,
+    "timestamp": "2038-08-08T20:18:00+09:00",
+    "year": 2038,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[후기] 중국 재난 출처불명 영상 주의하래",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "117.111"
+    },
+    "stats": {
+      "views": 600327,
+      "recommend": 4408
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 8868
+  },
+  {
+    "id": "hg-2038-000110",
+    "displayNo": 2824257,
+    "timestamp": "2038-08-08T13:54:00+09:00",
+    "year": 2038,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "대피 공식 확인 내용 업데이트 질문",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.44"
+    },
+    "stats": {
+      "views": 457504,
+      "recommend": 4036
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 8124
+  },
+  {
+    "id": "hg-2038-000097",
+    "displayNo": 2770980,
+    "timestamp": "2038-08-06T20:22:00+09:00",
+    "year": 2038,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "공략실패 공식 확인 내용 업데이트",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.36"
+    },
+    "stats": {
+      "views": 343057,
+      "recommend": 1783
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 3618
+  },
+  {
+    "id": "hg-2038-000093",
+    "displayNo": 2760048,
+    "timestamp": "2038-08-05T22:05:00+09:00",
+    "year": 2038,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "[후기] 이계화 영상 진짜인지 구분 어케함",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "14.32"
+    },
+    "stats": {
+      "views": 204899,
+      "recommend": 4413
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 44,
+    "popularityScore": 8870
+  },
+  {
+    "id": "hg-2038-000087",
+    "displayNo": 2735619,
+    "timestamp": "2038-08-04T21:36:00+09:00",
+    "year": 2038,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "[후기] 중국 SS게이트 신상추측글 왜 자꾸 삭제됨?",
+    "author": {
+      "type": "fixed",
+      "name": "틀헌터",
+      "ip": null
+    },
+    "stats": {
+      "views": 144682,
+      "recommend": 3694
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 7440
+  },
+  {
+    "id": "hg-2038-000081",
+    "displayNo": 2710384,
+    "timestamp": "2038-08-04T19:21:00+09:00",
+    "year": 2038,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "[정보] 대피 이거 정확히 뭐가 확정임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "1.239"
+    },
+    "stats": {
+      "views": 162899,
+      "recommend": 1209
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 2470
+  },
+  {
+    "id": "hg-2038-000070",
+    "displayNo": 2667918,
+    "timestamp": "2038-08-04T15:34:00+09:00",
+    "year": 2038,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[정리] 이계화 공식 확인 내용 업데이트",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.38"
+    },
+    "stats": {
+      "views": 741933,
+      "recommend": 1640
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 3332
+  },
+  {
+    "id": "hg-2038-000060",
+    "displayNo": 2637887,
+    "timestamp": "2038-08-03T21:53:00+09:00",
+    "year": 2038,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[후기] 중국 재난 새 기사 올라옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "61.79"
+    },
+    "stats": {
+      "views": 491215,
+      "recommend": 4585
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 9222
+  },
+  {
+    "id": "hg-2038-000058",
+    "displayNo": 2631711,
+    "timestamp": "2038-08-03T21:43:00+09:00",
+    "year": 2038,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[정리] 공략실패 출처불명 영상 주의하래",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.201"
+    },
+    "stats": {
+      "views": 175034,
+      "recommend": 1166
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 2384
+  },
+  {
+    "id": "hg-2038-000040",
+    "displayNo": 2565578,
+    "timestamp": "2038-08-03T18:25:00+09:00",
+    "year": 2038,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 대피 안전교육 내용 추가됐다네 ㅋㅋ",
+    "author": {
+      "type": "fixed",
+      "name": "마탑첩자",
+      "ip": null
+    },
+    "stats": {
+      "views": 301589,
+      "recommend": 2715
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 41,
+    "popularityScore": 5471
+  },
+  {
+    "id": "hg-2038-000027",
+    "displayNo": 2518367,
+    "timestamp": "2038-08-03T16:09:00+09:00",
+    "year": 2038,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "[정리] 공략실패 영상 진짜인지 구분 어케함",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 171344,
+      "recommend": 1239
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 44,
+    "popularityScore": 2522
+  },
+  {
+    "id": "hg-2038-000022",
+    "displayNo": 2497326,
+    "timestamp": "2038-08-03T15:24:00+09:00",
+    "year": 2038,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 공략실패 프레임만 보고 공략짜면 안됨",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "182.214"
+    },
+    "stats": {
+      "views": 264385,
+      "recommend": 1309
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 45,
+    "popularityScore": 2663
+  },
+  {
+    "id": "hg-2038-000019",
+    "displayNo": 2487940,
+    "timestamp": "2038-08-03T14:38:00+09:00",
+    "year": 2038,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "대피 안전교육 내용 추가됐다네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "182.214"
+    },
+    "stats": {
+      "views": 289157,
+      "recommend": 3358
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 6768
+  },
+  {
+    "id": "hg-2038-000012",
+    "displayNo": 2462837,
+    "timestamp": "2038-08-03T13:35:00+09:00",
+    "year": 2038,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[정리] 공략실패 공식 발표 떴다",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "14.32"
+    },
+    "stats": {
+      "views": 406923,
+      "recommend": 4731
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 9514
+  },
+  {
+    "id": "hg-2038-000009",
+    "displayNo": 2453206,
+    "timestamp": "2038-08-03T12:48:00+09:00",
+    "year": 2038,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 공략실패 안전교육 내용 추가됐다네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.102"
+    },
+    "stats": {
+      "views": 263481,
+      "recommend": 3395
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 42,
+    "popularityScore": 6832
+  },
+  {
+    "id": "hg-2038-000004",
+    "displayNo": 2433862,
+    "timestamp": "2038-08-03T11:50:00+09:00",
+    "year": 2038,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "[후기] 중국 재난 협회 기준으로는 어떻게 처리됨?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "59.10"
+    },
+    "stats": {
+      "views": 284627,
+      "recommend": 3738
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 48,
+    "popularityScore": 7524
+  },
+  {
+    "id": "hg-2038-000001",
+    "displayNo": 2419811,
+    "timestamp": "2038-08-03T11:27:00+09:00",
+    "year": 2038,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "대피 새 기사 올라옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.235"
+    },
+    "stats": {
+      "views": 451979,
+      "recommend": 1587
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 3226
+  },
+  {
+    "id": "hg-2037-000011",
+    "displayNo": 2218622,
+    "timestamp": "2037-08-21T16:42:28+09:00",
+    "year": 2037,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "신인 A급 출처불명 영상 주의하래",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 68270,
+      "recommend": 2041
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 23,
+    "popularityScore": 4105
+  },
+  {
+    "id": "hg-2037-000056",
+    "displayNo": 2398024,
+    "timestamp": "2037-03-13T02:24:38+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 촬영팀 안전교육 내용 추가됐다네",
+    "author": {
+      "type": "fixed",
+      "name": "틀헌터",
+      "ip": null
+    },
+    "stats": {
+      "views": 119017,
+      "recommend": 2081
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 42,
+    "popularityScore": 4204
+  },
+  {
+    "id": "hg-2037-000047",
+    "displayNo": 2365153,
+    "timestamp": "2037-03-12T06:01:02+09:00",
+    "year": 2037,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "마석카메라 관련 추가 브리핑 나옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "125.180"
+    },
+    "stats": {
+      "views": 64190,
+      "recommend": 1889
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 28,
+    "popularityScore": 3806
+  },
+  {
+    "id": "hg-2037-000042",
+    "displayNo": 2345719,
+    "timestamp": "2037-03-12T03:04:17+09:00",
+    "year": 2037,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "[후기] 게이트영상 이거 정확히 뭐가 확정임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 236876,
+      "recommend": 2497
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 48,
+    "popularityScore": 5042
+  },
+  {
+    "id": "hg-2037-000032",
+    "displayNo": 2307688,
+    "timestamp": "2037-03-11T19:00:57+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "현장영상 영상 보고 따라하면 안되는 부분",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "112.171"
+    },
+    "stats": {
+      "views": 238092,
+      "recommend": 1125
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 44,
+    "popularityScore": 2294
+  },
+  {
+    "id": "hg-2037-000030",
+    "displayNo": 2298364,
+    "timestamp": "2037-03-11T07:45:26+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 공략영상 프레임만 보고 공략짜면 안됨",
+    "author": {
+      "type": "fixed",
+      "name": "틀헌터",
+      "ip": null
+    },
+    "stats": {
+      "views": 38761,
+      "recommend": 1480
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 34,
+    "popularityScore": 2994
+  },
+  {
+    "id": "hg-2037-000020",
+    "displayNo": 2258137,
+    "timestamp": "2037-03-11T00:24:07+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 게이트영상 관련 현장팀에서 오늘 들은 얘기",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "220.79"
+    },
+    "stats": {
+      "views": 13900,
+      "recommend": 1172
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 40,
+    "popularityScore": 2384
+  },
+  {
+    "id": "hg-2037-000049",
+    "displayNo": 2375451,
+    "timestamp": "2037-03-10T18:45:27+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "마석카메라 관련 현장팀에서 오늘 들은 얘기",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.38"
+    },
+    "stats": {
+      "views": 193248,
+      "recommend": 1513
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 42,
+    "popularityScore": 3068
+  },
+  {
+    "id": "hg-2036-000048",
+    "displayNo": 2146292,
+    "timestamp": "2036-09-07T16:24:12+09:00",
+    "year": 2036,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "[정보] 강무혁 영상 진짜인지 구분 어케함",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.201"
+    },
+    "stats": {
+      "views": 188641,
+      "recommend": 1976
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 39,
+    "popularityScore": 3991
+  },
+  {
+    "id": "hg-2036-000029",
+    "displayNo": 2077303,
+    "timestamp": "2036-09-07T14:12:57+09:00",
+    "year": 2036,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "헌터협회 관련 추가 브리핑 나옴",
+    "author": {
+      "type": "fixed",
+      "name": "별빛단7기",
+      "ip": null
+    },
+    "stats": {
+      "views": 34124,
+      "recommend": 1544
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 22,
+    "popularityScore": 3110
+  },
+  {
+    "id": "hg-2036-000025",
+    "displayNo": 2059730,
+    "timestamp": "2036-09-07T11:45:39+09:00",
+    "year": 2036,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 공공쪽 이럴때 현장인력은 뭐부터 체크함?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.235"
+    },
+    "stats": {
+      "views": 501363,
+      "recommend": 1814
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 40,
+    "popularityScore": 3668
+  },
+  {
+    "id": "hg-2036-000038",
+    "displayNo": 2108965,
+    "timestamp": "2036-04-19T19:21:05+09:00",
+    "year": 2036,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "세계 SS 출처불명 영상 주의하래",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.201"
+    },
+    "stats": {
+      "views": 37350,
+      "recommend": 2152
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 24,
+    "popularityScore": 4328
+  },
+  {
+    "id": "hg-2036-000044",
+    "displayNo": 2135416,
+    "timestamp": "2036-04-19T18:30:36+09:00",
+    "year": 2036,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 해외반응 이럴때 현장인력은 뭐부터 체크함?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "1.239"
+    },
+    "stats": {
+      "views": 153973,
+      "recommend": 680
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 43,
+    "popularityScore": 1403
+  },
+  {
+    "id": "hg-2036-000013",
+    "displayNo": 2013480,
+    "timestamp": "2036-04-18T13:12:28+09:00",
+    "year": 2036,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "미국 SS 출처불명 영상 주의하래",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.246"
+    },
+    "stats": {
+      "views": 25204,
+      "recommend": 1773
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 28,
+    "popularityScore": 3574
+  },
+  {
+    "id": "hg-2036-000010",
+    "displayNo": 1999829,
+    "timestamp": "2036-04-18T13:06:36+09:00",
+    "year": 2036,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[정리] 미국 SS 새 기사 올라옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "220.79"
+    },
+    "stats": {
+      "views": 161444,
+      "recommend": 1078
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 33,
+    "popularityScore": 2189
+  },
+  {
+    "id": "hg-2035-000072",
+    "displayNo": 1965688,
+    "timestamp": "2035-07-16T00:15:53+09:00",
+    "year": 2035,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "방송길드 관련 추가 브리핑 나옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.33"
+    },
+    "stats": {
+      "views": 132578,
+      "recommend": 772
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 28,
+    "popularityScore": 1572
+  },
+  {
+    "id": "hg-2035-000046",
+    "displayNo": 1862464,
+    "timestamp": "2035-07-15T23:32:18+09:00",
+    "year": 2035,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[후기] 콘텐츠 공식 발표 떴다",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.201"
+    },
+    "stats": {
+      "views": 151329,
+      "recommend": 2460
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 30,
+    "popularityScore": 4950
+  },
+  {
+    "id": "hg-2035-000026",
+    "displayNo": 1784215,
+    "timestamp": "2035-07-15T19:56:34+09:00",
+    "year": 2035,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 스텔라 프레임만 보고 공략짜면 안됨",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.102"
+    },
+    "stats": {
+      "views": 237398,
+      "recommend": 1302
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 47,
+    "popularityScore": 2651
+  },
+  {
+    "id": "hg-2035-000054",
+    "displayNo": 1895660,
+    "timestamp": "2035-07-14T08:40:00+09:00",
+    "year": 2035,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 측정결과 영상 보고 따라하면 안되는 부분",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.36"
+    },
+    "stats": {
+      "views": 135607,
+      "recommend": 1186
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 48,
+    "popularityScore": 2420
+  },
+  {
+    "id": "hg-2035-000039",
+    "displayNo": 1833577,
+    "timestamp": "2035-07-13T13:24:22+09:00",
+    "year": 2035,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[정리] 각성발표 새 기사 올라옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "110.70"
+    },
+    "stats": {
+      "views": 36202,
+      "recommend": 1102
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 25,
+    "popularityScore": 2229
+  },
+  {
+    "id": "hg-2035-000022",
+    "displayNo": 1771614,
+    "timestamp": "2035-07-13T11:52:18+09:00",
+    "year": 2035,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "S급 현장 통제 확대 기사",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "110.70"
+    },
+    "stats": {
+      "views": 48618,
+      "recommend": 1551
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 22,
+    "popularityScore": 3124
+  },
+  {
+    "id": "hg-2035-000065",
+    "displayNo": 1944095,
+    "timestamp": "2035-07-13T07:59:16+09:00",
+    "year": 2035,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "스텔라 새 기사 올라옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 27483,
+      "recommend": 837
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 24,
+    "popularityScore": 1698
+  },
+  {
+    "id": "hg-2035-000023",
+    "displayNo": 1775085,
+    "timestamp": "2035-07-13T06:50:55+09:00",
+    "year": 2035,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[정리] 측정결과 새 기사 올라옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.101"
+    },
+    "stats": {
+      "views": 254921,
+      "recommend": 1569
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 45,
+    "popularityScore": 3183
+  },
+  {
+    "id": "hg-2035-000036",
+    "displayNo": 1822335,
+    "timestamp": "2035-07-13T06:30:54+09:00",
+    "year": 2035,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "각성발표 공식 확인 내용 업데이트",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "61.79"
+    },
+    "stats": {
+      "views": 16798,
+      "recommend": 1542
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 32,
+    "popularityScore": 3116
+  },
+  {
+    "id": "hg-2035-000062",
+    "displayNo": 1927964,
+    "timestamp": "2035-07-13T04:22:42+09:00",
+    "year": 2035,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "별하나 공식 확인 내용 업데이트",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "110.70"
+    },
+    "stats": {
+      "views": 9687,
+      "recommend": 2422
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 22,
+    "popularityScore": 4866
+  },
+  {
     "id": "hg-2034-000023",
     "displayNo": 1601836,
     "timestamp": "2034-08-21T14:08:00+09:00",
@@ -24,8 +2432,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 49,
-    "popularityScore": 2275
+    "commentCount": 30,
+    "popularityScore": 2256
   },
   {
     "id": "hg-2034-000018",
@@ -52,8 +2460,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 75,
-    "popularityScore": 1799
+    "commentCount": 32,
+    "popularityScore": 1756
   },
   {
     "id": "hg-2034-000012",
@@ -80,8 +2488,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 76,
-    "popularityScore": 3682
+    "commentCount": 31,
+    "popularityScore": 3637
   },
   {
     "id": "hg-2034-000013",
@@ -108,8 +2516,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 66,
-    "popularityScore": 4558
+    "commentCount": 26,
+    "popularityScore": 4518
   },
   {
     "id": "hg-2034-000006",
@@ -136,8 +2544,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 91,
-    "popularityScore": 4001
+    "commentCount": 45,
+    "popularityScore": 3955
   },
   {
     "id": "hg-2034-000005",
@@ -164,8 +2572,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 70,
-    "popularityScore": 1340
+    "commentCount": 36,
+    "popularityScore": 1306
   },
   {
     "id": "hg-2033-000045",
@@ -192,8 +2600,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 72,
-    "popularityScore": 1318
+    "commentCount": 35,
+    "popularityScore": 1281
   },
   {
     "id": "hg-2033-000032",
@@ -220,8 +2628,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 112,
-    "popularityScore": 3900
+    "commentCount": 52,
+    "popularityScore": 3840
   },
   {
     "id": "hg-2033-000042",
@@ -248,8 +2656,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 86,
-    "popularityScore": 4136
+    "commentCount": 49,
+    "popularityScore": 4099
   },
   {
     "id": "hg-2033-000018",
@@ -276,8 +2684,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 102,
-    "popularityScore": 2746
+    "commentCount": 48,
+    "popularityScore": 2692
   },
   {
     "id": "hg-2033-000020",
@@ -304,8 +2712,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 102,
-    "popularityScore": 2442
+    "commentCount": 52,
+    "popularityScore": 2392
   },
   {
     "id": "hg-2033-000021",
@@ -332,8 +2740,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 100,
-    "popularityScore": 3024
+    "commentCount": 48,
+    "popularityScore": 2972
   },
   {
     "id": "hg-2033-000014",
@@ -360,8 +2768,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 117,
-    "popularityScore": 3549
+    "commentCount": 52,
+    "popularityScore": 3484
   },
   {
     "id": "hg-2033-000002",
@@ -388,8 +2796,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 119,
-    "popularityScore": 3033
+    "commentCount": 52,
+    "popularityScore": 2966
   },
   {
     "id": "hg-2033-000003",
@@ -416,8 +2824,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 114,
-    "popularityScore": 3048
+    "commentCount": 52,
+    "popularityScore": 2986
   },
   {
     "id": "hg-2033-000006",
@@ -444,8 +2852,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 93,
-    "popularityScore": 3891
+    "commentCount": 37,
+    "popularityScore": 3835
   },
   {
     "id": "hg-2032-000029",
@@ -472,8 +2880,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 69,
-    "popularityScore": 2417
+    "commentCount": 41,
+    "popularityScore": 2389
   },
   {
     "id": "hg-2032-000020",
@@ -500,8 +2908,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 80,
-    "popularityScore": 2350
+    "commentCount": 36,
+    "popularityScore": 2306
   },
   {
     "id": "hg-2032-000023",
@@ -528,8 +2936,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 52,
-    "popularityScore": 1652
+    "commentCount": 23,
+    "popularityScore": 1623
   },
   {
     "id": "hg-2032-000016",
@@ -556,8 +2964,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 61,
-    "popularityScore": 1897
+    "commentCount": 32,
+    "popularityScore": 1868
   },
   {
     "id": "hg-2032-000001",
@@ -584,8 +2992,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 83,
-    "popularityScore": 1559
+    "commentCount": 47,
+    "popularityScore": 1523
   },
   {
     "id": "hg-2032-000002",
@@ -612,8 +3020,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 64,
-    "popularityScore": 2512
+    "commentCount": 29,
+    "popularityScore": 2477
   },
   {
     "id": "hg-2031-000020",
@@ -640,8 +3048,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 65,
-    "popularityScore": 1351
+    "commentCount": 35,
+    "popularityScore": 1321
   },
   {
     "id": "hg-2031-000019",
@@ -668,8 +3076,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 79,
-    "popularityScore": 2507
+    "commentCount": 48,
+    "popularityScore": 2476
   },
   {
     "id": "hg-2031-000014",
@@ -696,8 +3104,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 82,
-    "popularityScore": 2392
+    "commentCount": 36,
+    "popularityScore": 2346
   },
   {
     "id": "hg-2031-000002",
@@ -724,8 +3132,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 52,
-    "popularityScore": 2668
+    "commentCount": 25,
+    "popularityScore": 2641
   },
   {
     "id": "hg-2031-000001",
@@ -752,8 +3160,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 69,
-    "popularityScore": 1803
+    "commentCount": 38,
+    "popularityScore": 1772
   },
   {
     "id": "hg-2030-000035",
@@ -780,8 +3188,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 54,
-    "popularityScore": 2094
+    "commentCount": 22,
+    "popularityScore": 2062
   },
   {
     "id": "hg-2030-000027",
@@ -808,8 +3216,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 50,
-    "popularityScore": 2866
+    "commentCount": 26,
+    "popularityScore": 2842
   },
   {
     "id": "hg-2030-000021",
@@ -836,8 +3244,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 82,
-    "popularityScore": 2292
+    "commentCount": 42,
+    "popularityScore": 2252
   },
   {
     "id": "hg-2030-000019",
@@ -864,8 +3272,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 92,
-    "popularityScore": 1740
+    "commentCount": 50,
+    "popularityScore": 1698
   },
   {
     "id": "hg-2030-000020",
@@ -892,8 +3300,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 91,
-    "popularityScore": 2693
+    "commentCount": 50,
+    "popularityScore": 2652
   },
   {
     "id": "hg-2030-000018",
@@ -920,8 +3328,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 76,
-    "popularityScore": 1278
+    "commentCount": 36,
+    "popularityScore": 1238
   },
   {
     "id": "hg-2030-000017",
@@ -948,8 +3356,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 75,
-    "popularityScore": 1595
+    "commentCount": 35,
+    "popularityScore": 1555
   },
   {
     "id": "hg-2030-000002",
@@ -976,8 +3384,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 72,
-    "popularityScore": 1566
+    "commentCount": 32,
+    "popularityScore": 1526
   },
   {
     "id": "hg-2030-000001",
@@ -1004,8 +3412,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 87,
-    "popularityScore": 2545
+    "commentCount": 47,
+    "popularityScore": 2505
   },
   {
     "id": "hg-2029-000019",
@@ -1032,8 +3440,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 45,
-    "popularityScore": 2621
+    "commentCount": 22,
+    "popularityScore": 2598
   },
   {
     "id": "hg-2029-000028",
@@ -1060,8 +3468,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 36,
-    "popularityScore": 2024
+    "commentCount": 22,
+    "popularityScore": 2010
   },
   {
     "id": "hg-2029-000030",
@@ -1088,8 +3496,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 32,
-    "popularityScore": 2626
+    "commentCount": 22,
+    "popularityScore": 2616
   },
   {
     "id": "hg-2029-000029",
@@ -1116,8 +3524,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 45,
-    "popularityScore": 1179
+    "commentCount": 22,
+    "popularityScore": 1156
   },
   {
     "id": "hg-2028-000013",
@@ -1144,8 +3552,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 63,
-    "popularityScore": 1821
+    "commentCount": 35,
+    "popularityScore": 1793
   },
   {
     "id": "hg-2028-000011",
@@ -1172,8 +3580,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 61,
-    "popularityScore": 1823
+    "commentCount": 23,
+    "popularityScore": 1785
   },
   {
     "id": "hg-2028-000007",
@@ -1200,8 +3608,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 53,
-    "popularityScore": 137
+    "commentCount": 24,
+    "popularityScore": 108
   },
   {
     "id": "hg-2028-000003",
@@ -1228,8 +3636,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 60,
-    "popularityScore": 2124
+    "commentCount": 26,
+    "popularityScore": 2090
   },
   {
     "id": "hg-2028-000004",
@@ -1256,8 +3664,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 48,
-    "popularityScore": 3040
+    "commentCount": 25,
+    "popularityScore": 3017
   },
   {
     "id": "hg-2027-000010",
@@ -1284,8 +3692,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 49,
-    "popularityScore": 1615
+    "commentCount": 22,
+    "popularityScore": 1588
   },
   {
     "id": "hg-2027-000023",
@@ -1312,8 +3720,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 62,
-    "popularityScore": 1242
+    "commentCount": 36,
+    "popularityScore": 1216
   },
   {
     "id": "hg-2027-000002",
@@ -1340,8 +3748,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 52,
-    "popularityScore": 2722
+    "commentCount": 22,
+    "popularityScore": 2692
   },
   {
     "id": "hg-2026-000004",
@@ -1368,8 +3776,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 53,
-    "popularityScore": 1545
+    "commentCount": 30,
+    "popularityScore": 1522
   },
   {
     "id": "hg-2026-000002",
@@ -1396,8 +3804,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 60,
-    "popularityScore": 1392
+    "commentCount": 27,
+    "popularityScore": 1359
   },
   {
     "id": "hg-2026-000001",
@@ -1424,8 +3832,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 44,
-    "popularityScore": 1750
+    "commentCount": 24,
+    "popularityScore": 1730
   },
   {
     "id": "hg-2025-000015",
@@ -1452,8 +3860,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 50,
-    "popularityScore": 1436
+    "commentCount": 23,
+    "popularityScore": 1409
   },
   {
     "id": "hg-2025-000014",
@@ -1480,8 +3888,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 66,
-    "popularityScore": 1850
+    "commentCount": 34,
+    "popularityScore": 1818
   },
   {
     "id": "hg-2025-000009",
@@ -1508,8 +3916,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 47,
-    "popularityScore": 1701
+    "commentCount": 22,
+    "popularityScore": 1676
   },
   {
     "id": "hg-2025-000003",
@@ -1536,8 +3944,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 74,
-    "popularityScore": 2770
+    "commentCount": 39,
+    "popularityScore": 2735
   },
   {
     "id": "hg-2024-000005",
@@ -1564,8 +3972,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 50,
-    "popularityScore": 794
+    "commentCount": 22,
+    "popularityScore": 766
   },
   {
     "id": "hg-2024-000006",
@@ -1592,8 +4000,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 57,
-    "popularityScore": 1905
+    "commentCount": 32,
+    "popularityScore": 1880
   },
   {
     "id": "hg-2023-000003",
@@ -1621,7 +4029,7 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 53,
-    "popularityScore": 847
+    "commentCount": 23,
+    "popularityScore": 817
   }
 ]

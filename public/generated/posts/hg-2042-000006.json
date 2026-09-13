@@ -1,0 +1,52 @@
+{
+  "id": "hg-2042-000006",
+  "displayNo": 3931121,
+  "timestamp": "2042-01-04T20:46:30+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "현장차량에서 자다 목나감",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "220.79"
+  },
+  "content": "오늘 하루 존나길다",
+  "attachments": [],
+  "stats": {
+    "views": 20919,
+    "recommend": 125
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000006-v8-001",
+      "parentId": null,
+      "timestamp": "2042-01-04T20:50:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "자라",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

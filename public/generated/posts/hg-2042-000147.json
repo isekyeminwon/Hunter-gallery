@@ -1,0 +1,76 @@
+{
+  "id": "hg-2042-000147",
+  "displayNo": 4244550,
+  "timestamp": "2042-09-05T00:55:03+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "김채연 인터뷰 짤 또돌네",
+  "author": {
+    "type": "fixed",
+    "name": "틀헌터",
+    "ip": null
+  },
+  "content": "알고리즘에 떠서 봄ㅋㅋ\n댓글이 더재밌다.",
+  "attachments": [],
+  "stats": {
+    "views": 5734,
+    "recommend": 24
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000147-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-05T00:58:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "김채연 영상은 범위 잡히는 장면이 제일 미침",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000147-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-05T01:00:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "김채연 영상은 광역장면에서 조회수 터짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000147-v8-003",
+      "parentId": null,
+      "timestamp": "2042-09-05T01:04:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "마법계 설명영상은 생각보다 볼만함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

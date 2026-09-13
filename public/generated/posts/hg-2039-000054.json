@@ -1,0 +1,76 @@
+{
+  "id": "hg-2039-000054",
+  "displayNo": 3101361,
+  "timestamp": "2039-08-03T23:40:19+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "샤오룽 한국어 인터뷰 봤냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.7"
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 8272,
+    "recommend": 12
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000054-v8-001",
+      "parentId": null,
+      "timestamp": "2039-08-03T23:43:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "인터뷰 짧은데 댓글은 길다ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000054-v8-002",
+      "parentId": null,
+      "timestamp": "2039-08-03T23:47:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "구조영상은 아직도 재업 존나됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000054-v8-003",
+      "parentId": null,
+      "timestamp": "2039-08-03T23:49:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "한국 오래있다고 국적싸움 시작하지마라",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

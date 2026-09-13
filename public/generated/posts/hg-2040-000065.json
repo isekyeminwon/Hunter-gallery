@@ -1,0 +1,208 @@
+{
+  "id": "hg-2040-000065",
+  "displayNo": 3412628,
+  "timestamp": "2040-01-02T07:48:06+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "스텔라 실적 저평가 너무 심한거 아님?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.33"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 10806,
+    "recommend": 49
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000065-v8-001",
+      "parentId": null,
+      "timestamp": "2040-01-02T07:50:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "스텔라 지금 바로 몇위 박는건 좀 웃김",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-002",
+      "parentId": null,
+      "timestamp": "2040-01-02T07:52:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "표 디자인만 보면 국가자료임",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-003",
+      "parentId": "c-2040-000065-v8-001",
+      "timestamp": "2040-01-02T07:54:24+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "비공식표에 왜이리 진심임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-004",
+      "parentId": null,
+      "timestamp": "2040-01-02T07:58:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "내가 만들면 내쪽이 1위임",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-005",
+      "parentId": null,
+      "timestamp": "2040-01-02T08:00:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "한달뒤에도 똑같은글 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-006",
+      "parentId": null,
+      "timestamp": "2040-01-02T08:04:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "오늘도 줄세우기 시작",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-007",
+      "parentId": "c-2040-000065-v8-003",
+      "timestamp": "2040-01-02T08:06:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "최근 실적도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-008",
+      "parentId": null,
+      "timestamp": "2040-01-02T08:09:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-009",
+      "parentId": "c-2040-000065-v8-005",
+      "timestamp": "2040-01-02T08:11:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-010",
+      "parentId": null,
+      "timestamp": "2040-01-02T08:13:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-011",
+      "parentId": null,
+      "timestamp": "2040-01-02T08:17:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "스텔라 팬들 오면 이글 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-012",
+      "parentId": null,
+      "timestamp": "2040-01-02T08:19:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "상성충 나오면 이제 밤샘",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-013",
+      "parentId": null,
+      "timestamp": "2040-01-02T08:23:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000065-v8-014",
+      "parentId": null,
+      "timestamp": "2040-01-02T08:24:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "A 평범취급은 갤에서만 가능",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

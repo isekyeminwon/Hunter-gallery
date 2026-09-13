@@ -1,0 +1,220 @@
+{
+  "id": "hg-2041-000106",
+  "displayNo": 3913940,
+  "timestamp": "2041-02-21T12:36:48+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "NEW_GEN_2041",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "신인 헌터 신상털이 신고해본사람",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n아는 사람 있으면 팩트만 추가해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 18666,
+    "recommend": 137
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000106-v8-001",
+      "parentId": null,
+      "timestamp": "2041-02-21T12:38:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "그 조항 아직 그대로임?",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-002",
+      "parentId": null,
+      "timestamp": "2041-02-21T12:41:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "신고해본사람 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-003",
+      "parentId": null,
+      "timestamp": "2041-02-21T12:43:54+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "최신기준도 같음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-004",
+      "parentId": null,
+      "timestamp": "2041-02-21T12:47:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "애매하면 신상은 올리지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-005",
+      "parentId": null,
+      "timestamp": "2041-02-21T12:50:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "명의 빌려주는건 괜히 엮이지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-006",
+      "parentId": null,
+      "timestamp": "2041-02-21T12:51:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "규정이랑 관행은 또 다를수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-007",
+      "parentId": null,
+      "timestamp": "2041-02-21T12:53:54+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-008",
+      "parentId": null,
+      "timestamp": "2041-02-21T12:55:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-009",
+      "parentId": null,
+      "timestamp": "2041-02-21T12:58:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "또 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-010",
+      "parentId": null,
+      "timestamp": "2041-02-21T13:01:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "이거 경험자 하나만 더 와봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-011",
+      "parentId": null,
+      "timestamp": "2041-02-21T13:04:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-012",
+      "parentId": "c-2041-000106-v8-005",
+      "timestamp": "2041-02-21T13:07:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "실제 신고사례 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-013",
+      "parentId": null,
+      "timestamp": "2041-02-21T13:08:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "이건 최신 공지 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-014",
+      "parentId": null,
+      "timestamp": "2041-02-21T13:11:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000106-v8-015",
+      "parentId": null,
+      "timestamp": "2041-02-21T13:12:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

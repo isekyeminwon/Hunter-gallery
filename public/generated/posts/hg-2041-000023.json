@@ -1,0 +1,112 @@
+{
+  "id": "hg-2041-000023",
+  "displayNo": 3581053,
+  "timestamp": "2041-12-17T15:10:26+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "백호 복지 vs 네뷸라 교육 하나만 고르면?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 16389,
+    "recommend": 97
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000023-v8-001",
+      "parentId": null,
+      "timestamp": "2041-12-17T15:13:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "마법계는 네뷸라 교육이 솔깃하긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000023-v8-002",
+      "parentId": null,
+      "timestamp": "2041-12-17T15:14:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "네뷸라는 교육을 복지로 치냐에서 갈릴듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000023-v8-003",
+      "parentId": null,
+      "timestamp": "2041-12-17T15:16:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "복지만 보면 백호 쪽 손드는 사람 많지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000023-v8-004",
+      "parentId": null,
+      "timestamp": "2041-12-17T15:17:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "한성 복지후기는 상대적으로 덜보이긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000023-v8-005",
+      "parentId": null,
+      "timestamp": "2041-12-17T15:19:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "입사선호랑 길드전력은 따로봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000023-v8-006",
+      "parentId": null,
+      "timestamp": "2041-12-17T15:22:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "지원자 입장에선 붙는곳이 1순위",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -33,51 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2028-000017-001",
+      "id": "c-2028-000017-v8-001",
       "parentId": null,
-      "timestamp": "2028-08-10T17:50:53+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "이 글 이거 실제 해본 사람 있음. 이거만 확인하고싶음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000017-002",
-      "parentId": "nat-2028-000017-001",
-      "timestamp": "2028-08-10T17:53:54+09:00",
+      "timestamp": "2028-08-10T17:42:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "59.10"
       },
-      "content": "이 글 얘기하는데 왜 갑자기 딴소리함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000017-003",
-      "parentId": null,
-      "timestamp": "2028-08-10T17:58:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "현장 보조 몇번 해봤는데 근데 별거 아닌 실수가 제일 오래감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000017-004",
-      "parentId": "nat-2028-000017-002",
-      "timestamp": "2028-08-10T18:06:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "영상은 보고 말함?. 이러다 제목만 바꿔서 또 싸울듯.",
+      "content": "ㄹㅇ",
       "deleted": false
     }
   ],

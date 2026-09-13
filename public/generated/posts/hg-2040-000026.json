@@ -1,0 +1,304 @@
+{
+  "id": "hg-2040-000026",
+  "displayNo": 3266787,
+  "timestamp": "2040-12-14T17:11:14+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[후기] 소형 게이트도 입장전 브리핑 하는 이유",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "58.29"
+  },
+  "content": "묘지형/언데드 계열 몇번 다녀와서 준비물 적어봄.\n공략법은 파티마다 다르니까 장비/운영 위주.\n\n- 조명 예비 하나 더\n- 장갑 여분\n- 냄새/분진 막을 보호구\n- 오염된 장비 따로 넣을 봉투\n- 좁은 길에서 짐 걸리지 않게 가방 외부부착 줄이기\n- 퇴로 표시 확실히\n\n그리고 정화계가 있으면 편한건 맞는데\n없다고 무조건 못가는 식으로 단순하게 말하긴 어려움.\n게이트 구조, 마물 종류, 파티 화력 따라서 완전 달라짐.\n\n중요한건 '없어도 된다' 듣고\n자기 파티 조건 확인 안하고 들어가는게 제일 위험하다는거.\n\n나는 입장 전에\n누가 처리 못하는 상황 나오면 바로 빠질지부터 정함.\n\n언데드라고 괜히 분위기타서 겁먹을 필요도 없고\n반대로 게임 던전처럼 생각할 필요도 없음.",
+  "attachments": [],
+  "stats": {
+    "views": 27477,
+    "recommend": 968
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000026-v8-001",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:14:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "공략권 싸도 세척비에서 울수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-002",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:16:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "보호구/소모품까지 넣으면 수익 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-003",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:18:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "묘지형 두번 가고 손절한놈 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-004",
+      "parentId": "c-2040-000026-v8-001",
+      "timestamp": "2040-12-14T17:22:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "없다고 무조건 못가는건 아니고",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-005",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:24:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "정화계 있으면 편한건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-006",
+      "parentId": "c-2040-000026-v8-003",
+      "timestamp": "2040-12-14T17:26:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "세척비까지 넣으면 계산 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-007",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:29:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "정화계 없다고 무조건 못가는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-008",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:32:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "냄새 분진 싫어서 거르는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-009",
+      "parentId": "c-2040-000026-v8-005",
+      "timestamp": "2040-12-14T17:35:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "냄새 분진때문에 싫어하는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-010",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:39:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-011",
+      "parentId": "c-2040-000026-v8-007",
+      "timestamp": "2040-12-14T17:40:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "공략권 싼데는 이유가 있을수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-012",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:42:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-013",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:44:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-014",
+      "parentId": "c-2040-000026-v8-013",
+      "timestamp": "2040-12-14T17:46:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "냄새 분진때문에 싫어하는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-015",
+      "parentId": "c-2040-000026-v8-008",
+      "timestamp": "2040-12-14T17:49:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "없다고 무조건 못가는건 아니고",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-016",
+      "parentId": "c-2040-000026-v8-015",
+      "timestamp": "2040-12-14T17:52:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "정화계 있으면 편한건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-017",
+      "parentId": "c-2040-000026-v8-013",
+      "timestamp": "2040-12-14T17:54:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "세척비까지 넣으면 계산 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-018",
+      "parentId": null,
+      "timestamp": "2040-12-14T17:56:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "이 글 왜 아래가 더길어ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-019",
+      "parentId": null,
+      "timestamp": "2040-12-14T18:00:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-020",
+      "parentId": null,
+      "timestamp": "2040-12-14T18:03:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-021",
+      "parentId": "c-2040-000026-v8-017",
+      "timestamp": "2040-12-14T18:07:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "냄새 분진때문에 싫어하는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000026-v8-022",
+      "parentId": null,
+      "timestamp": "2040-12-14T18:09:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

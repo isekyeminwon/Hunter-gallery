@@ -33,111 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2034-000048-001",
+      "id": "c-2034-000048-v8-001",
       "parentId": null,
-      "timestamp": "2034-01-13T06:37:07+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "커뮤 판례 만들지말고 공식문서 봐라 / 내생각은 그럼",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000048-002",
-      "parentId": null,
-      "timestamp": "2034-01-13T06:42:01+09:00",
+      "timestamp": "2034-01-13T06:37:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "106.101"
       },
-      "content": "애매하면 안하는게 맞음. 괜히 한쪽 말만 듣고 움직이지마.",
+      "content": "고의로 낮추면 주변이 틀린정보로 판단하게 됨",
       "deleted": false
     },
     {
-      "id": "nat-2034-000048-003",
+      "id": "c-2034-000048-v8-002",
       "parentId": null,
-      "timestamp": "2034-01-13T06:45:34+09:00",
+      "timestamp": "2034-01-13T06:40:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "106.101"
       },
-      "content": "댓글 믿고 움직였다가 걸리면 아무도 책임 안짐. 한줄 요약하려다가 꼭 사고남.",
+      "content": "강제소집 회피 이미지까지 붙어서 더 욕먹음",
       "deleted": false
     },
     {
-      "id": "nat-2034-000048-004",
-      "parentId": "nat-2034-000048-002",
-      "timestamp": "2034-01-13T06:47:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "등록 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000048-005",
-      "parentId": "nat-2034-000048-002",
-      "timestamp": "2034-01-13T06:53:07+09:00",
+      "id": "c-2034-000048-v8-003",
+      "parentId": "c-2034-000048-v8-001",
+      "timestamp": "2034-01-13T06:42:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "117.111"
       },
-      "content": "댓글 다읽은 내가 제일 병신임. 퇴근이나 시켜줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000048-006",
-      "parentId": null,
-      "timestamp": "2034-01-13T06:59:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "이거 커뮤발인지 기사발인지부터 말해 ㅋㅋ 링크 없으면 일단 반만 믿음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000048-007",
-      "parentId": null,
-      "timestamp": "2034-01-13T07:00:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ. 니 경험 하나가 법은 아님",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000048-008",
-      "parentId": null,
-      "timestamp": "2034-01-13T07:06:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "그럴수도",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000048-009",
-      "parentId": null,
-      "timestamp": "2034-01-13T07:15:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "나 내일 출근인데 왜 이거 보고있냐. 이 커뮤는 새벽에도 똑같네",
+      "content": "강제소집 회피 이미지도 크고",
       "deleted": false
     }
   ],

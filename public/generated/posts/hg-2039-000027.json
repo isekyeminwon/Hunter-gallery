@@ -1,0 +1,184 @@
+{
+  "id": "hg-2039-000027",
+  "displayNo": 2977157,
+  "timestamp": "2039-05-19T13:31:00+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "EAST_SEA_PORT_ACCIDENT",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "현장 위치 실시간으로 올리면 삭제대상임?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.52"
+  },
+  "content": "사고글 보다가 궁금해서 물어봄.\n사진만 올려도 위치 특정되면 문제되는거 맞지?",
+  "attachments": [],
+  "stats": {
+    "views": 63042,
+    "recommend": 340
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000027-v8-001",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:33:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "규정이랑 관행은 또 다를수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-002",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:36:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "명의 빌려주는건 괜히 엮이지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-003",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:40:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "그 조항 아직 그대로임?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-004",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:43:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "애매하면 신상은 올리지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-005",
+      "parentId": "c-2039-000027-v8-003",
+      "timestamp": "2039-05-19T13:46:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "실제 신고사례 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-006",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:49:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "신고해본사람 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-007",
+      "parentId": "c-2039-000027-v8-002",
+      "timestamp": "2039-05-19T13:51:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "최신 공지 한번 봐야겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-008",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:54:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "그 규정 아직 안바뀜?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-009",
+      "parentId": "c-2039-000027-v8-003",
+      "timestamp": "2039-05-19T13:56:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "규정 바뀐거 없는지 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-010",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:00:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-011",
+      "parentId": "c-2039-000027-v8-009",
+      "timestamp": "2039-05-19T14:03:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "애매하면 신상은 올리지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000027-v8-012",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:05:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

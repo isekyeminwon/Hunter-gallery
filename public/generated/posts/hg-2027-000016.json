@@ -33,267 +33,111 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2027-000016-001",
+      "id": "c-2027-000016-v8-001",
       "parentId": null,
-      "timestamp": "2027-01-15T17:20:50+09:00",
+      "timestamp": "2027-01-15T17:18:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "118.221"
       },
-      "content": "왜 아무도 말 안하냐 이 비교 관련해서 기사마다 말 조금씩 다른게 문제임 난 저렇게는 안봄",
+      "content": "또 줄세우기 시작했네",
       "deleted": false
     },
     {
-      "id": "nat-2027-000016-002",
+      "id": "c-2027-000016-v8-002",
       "parentId": null,
-      "timestamp": "2027-01-15T17:25:07+09:00",
+      "timestamp": "2027-01-15T17:21:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "124.53"
       },
-      "content": "이 글 결론 안나고 다음주에 제목 바꿔서 또 올라옴",
+      "content": "요즘 A를 너무 쉽게 말함",
       "deleted": false
     },
     {
-      "id": "nat-2027-000016-003",
-      "parentId": "nat-2027-000016-001",
-      "timestamp": "2027-01-15T17:26:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "그래서 결론이 뭐임. 진짜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-004",
+      "id": "c-2027-000016-v8-003",
       "parentId": null,
-      "timestamp": "2027-01-15T17:34:30+09:00",
+      "timestamp": "2027-01-15T17:24:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "211.235"
       },
-      "content": "헌갤 평균 IQ 측정 들어갑니다 ㅋㅋ 관리자도 보고 웃겠다",
+      "content": "내최애 1위 넣으면 끝",
       "deleted": false
     },
     {
-      "id": "nat-2027-000016-005",
-      "parentId": "nat-2027-000016-004",
-      "timestamp": "2027-01-15T17:40:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "근거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-006",
+      "id": "c-2027-000016-v8-004",
       "parentId": null,
-      "timestamp": "2027-01-15T17:46:50+09:00",
+      "timestamp": "2027-01-15T17:28:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "118.235"
       },
-      "content": "여기서 핵심은 이 비교 자체보다 조건이 뭐였는지부터 봐야됨 나중에 결과 보면 알겠지. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
       "deleted": false
     },
     {
-      "id": "nat-2027-000016-007",
+      "id": "c-2027-000016-v8-005",
+      "parentId": "c-2027-000016-v8-001",
+      "timestamp": "2027-01-15T17:30:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "또 줄세우기 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000016-v8-006",
+      "parentId": "c-2027-000016-v8-001",
+      "timestamp": "2027-01-15T17:33:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000016-v8-007",
       "parentId": null,
-      "timestamp": "2027-01-15T17:53:54+09:00",
+      "timestamp": "2027-01-15T17:36:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "118.235"
       },
-      "content": "팬심 빼자더니 제일 팬심 가득한 놈들만 모임 / 아님말고",
+      "content": "이 떡밥 다음주에 또 올라옴",
       "deleted": false
     },
     {
-      "id": "nat-2027-000016-008",
+      "id": "c-2027-000016-v8-008",
       "parentId": null,
-      "timestamp": "2027-01-15T18:01:13+09:00",
+      "timestamp": "2027-01-15T17:40:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "211.235"
       },
-      "content": "같은 등급 안에서도 차이 큼",
+      "content": "상성 넣으면 표 다시짜야됨",
       "deleted": false
     },
     {
-      "id": "nat-2027-000016-009",
+      "id": "c-2027-000016-v8-009",
       "parentId": null,
-      "timestamp": "2027-01-15T18:06:20+09:00",
+      "timestamp": "2027-01-15T17:42:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "124.53"
       },
-      "content": "와",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-010",
-      "parentId": null,
-      "timestamp": "2027-01-15T18:16:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이거 커뮤발인지 기사발인지부터 말해 근데 공식이면 금방 다시 뜰테니 기다리면 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-011",
-      "parentId": null,
-      "timestamp": "2027-01-15T18:26:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "원문 어디냐. 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-012",
-      "parentId": "nat-2027-000016-002",
-      "timestamp": "2027-01-15T18:31:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "작성자 존나 급하네 ㅋㅋ 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-013",
-      "parentId": "nat-2027-000016-001",
-      "timestamp": "2027-01-15T18:35:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "왜 싸우냐ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-014",
-      "parentId": "nat-2027-000016-001",
-      "timestamp": "2027-01-15T18:43:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "갑자기 왜 화냄ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-015",
-      "parentId": null,
-      "timestamp": "2027-01-15T18:46:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이 글 왜 개념감ㅋㅋ. 퇴근이나 시켜줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-016",
-      "parentId": null,
-      "timestamp": "2027-01-15T18:54:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "팬심 빼자더니 제일 팬심 가득한 놈들만 모임. 모르면 물어보는게 낫지 괜히 개돌하지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-017",
-      "parentId": null,
-      "timestamp": "2027-01-15T18:57:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "야구 보다가 여기까지 왔다\n누가 메뉴 하나만 골라줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-018",
-      "parentId": null,
-      "timestamp": "2027-01-15T18:58:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "내가 협회면 이 댓글창부터 통제함 / 누가 말리냐 계속해봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-019",
-      "parentId": "nat-2027-000016-008",
-      "timestamp": "2027-01-15T19:05:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "애초에 이 비교 얘기만 나오면 갑자기 다들 현장 전문가 됨 아닌가",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-020",
-      "parentId": null,
-      "timestamp": "2027-01-15T19:10:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "아이고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-021",
-      "parentId": null,
-      "timestamp": "2027-01-15T19:15:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "내가 협회면 이 댓글창부터 통제함\n관리자도 보고 웃겠다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000016-022",
-      "parentId": null,
-      "timestamp": "2027-01-15T19:21:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "원문 어디냐. 원문 보면 뉘앙스 다른 경우 있음",
+      "content": "ㄹㅇ",
       "deleted": false
     }
   ],

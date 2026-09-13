@@ -1,0 +1,304 @@
+{
+  "id": "hg-2035-000033",
+  "displayNo": 1811881,
+  "timestamp": "2035-07-13T02:27:55+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "측정결과 하나로 길드서열 바뀐다는건 오바 아님? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
+  "attachments": [],
+  "stats": {
+    "views": 38884,
+    "recommend": 183
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000033-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-13T02:31:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "지원자 입장에선 붙는곳이 1순위",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-13T02:35:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "취업이랑 누가세냐는 다른문제지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-003",
+      "parentId": "c-2035-000033-v8-002",
+      "timestamp": "2035-07-13T02:38:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "셋다 붙고 고민하고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-004",
+      "parentId": "c-2035-000033-v8-002",
+      "timestamp": "2035-07-13T02:41:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "마법계면 네뷸라가 끌릴만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-13T02:45:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "한성 지원서 통과부터 하라는 소리 나온다",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-006",
+      "parentId": "c-2035-000033-v8-001",
+      "timestamp": "2035-07-13T02:46:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "취업이면 복지/교육도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-13T02:48:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "지원체계 얘기는 백호쪽 후기가 많더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-13T02:51:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "카메라 싫어하면 스텔라는 좀 힘들듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-13T02:54:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-13T02:56:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "연구/교육 보면 네뷸라가 매력있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-13T02:58:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-012",
+      "parentId": "c-2035-000033-v8-005",
+      "timestamp": "2035-07-13T03:00:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "백호 복지후기 많은건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-013",
+      "parentId": null,
+      "timestamp": "2035-07-13T03:02:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "취업은 전투서열이랑 다름",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-014",
+      "parentId": null,
+      "timestamp": "2035-07-13T03:03:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "한성 붙으면 왜 고민하냐는놈 곧옴ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-015",
+      "parentId": "c-2035-000033-v8-012",
+      "timestamp": "2035-07-13T03:07:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-016",
+      "parentId": null,
+      "timestamp": "2035-07-13T03:08:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-017",
+      "parentId": null,
+      "timestamp": "2035-07-13T03:10:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-018",
+      "parentId": "c-2035-000033-v8-012",
+      "timestamp": "2035-07-13T03:13:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-019",
+      "parentId": null,
+      "timestamp": "2035-07-13T03:15:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-020",
+      "parentId": null,
+      "timestamp": "2035-07-13T03:19:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "나만 이렇게 하는건가",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-021",
+      "parentId": null,
+      "timestamp": "2035-07-13T03:22:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000033-v8-022",
+      "parentId": null,
+      "timestamp": "2035-07-13T03:25:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

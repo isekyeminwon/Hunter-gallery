@@ -1,0 +1,112 @@
+{
+  "id": "hg-2039-000033",
+  "displayNo": 3000848,
+  "timestamp": "2039-12-04T16:53:03+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 렌탈 장기계약 해본사람?",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 17648,
+    "recommend": 96
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000033-v8-001",
+      "parentId": null,
+      "timestamp": "2039-12-04T16:56:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000033-v8-002",
+      "parentId": null,
+      "timestamp": "2039-12-04T16:57:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "처음부터 알기 힘든거 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000033-v8-003",
+      "parentId": "c-2039-000033-v8-001",
+      "timestamp": "2039-12-04T16:59:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000033-v8-004",
+      "parentId": "c-2039-000033-v8-002",
+      "timestamp": "2039-12-04T17:01:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000033-v8-005",
+      "parentId": null,
+      "timestamp": "2039-12-04T17:03:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "이거 초보때 은근 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000033-v8-006",
+      "parentId": null,
+      "timestamp": "2039-12-04T17:06:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "검색결과가 죄다 옛날거임",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

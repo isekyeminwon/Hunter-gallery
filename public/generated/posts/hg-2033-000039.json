@@ -33,315 +33,171 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000039-001",
+      "id": "c-2033-000039-v8-001",
       "parentId": null,
-      "timestamp": "2033-09-21T18:13:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "오",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-002",
-      "parentId": "nat-2033-000039-001",
-      "timestamp": "2033-09-21T18:15:44+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "보험 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-003",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:17:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "대충 봐도 보험 관련해서 기사마다 말 조금씩 다른게 문제임 이건 좀 더 봐야됨. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-004",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:20:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "한성 지원서버 터진건 사람들 행동 존나 빠르다는 생각만 듦 ㅋㅋ 댓글만 봐도 당시 혼란이 느껴짐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-005",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:22:24+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "출처가 뭐임. 오늘 카더라 너무 많이 돎",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-006",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:25:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "닉 보고 내용 까먹음 ㅋㅋ 본문이랑 상관없긴 한데 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-007",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:26:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "내일 검사인데 이런 글 왜 클릭했지\n갑자기 생각나서 적음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-008",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:28:16+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "이거 커뮤발인지 기사발인지부터 말해. 공식이면 금방 다시 뜰테니 기다리면 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-009",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:30:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "댓글 보니까 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 나중에 결과 보면 알겠지",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-010",
-      "parentId": "nat-2033-000039-001",
-      "timestamp": "2033-09-21T18:31:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "어질어질하네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-011",
-      "parentId": "nat-2033-000039-010",
-      "timestamp": "2033-09-21T18:34:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "와 이걸 그렇게 이해함? ㅋㅋ 이건 좀 심했다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-012",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:35:33+09:00",
+      "timestamp": "2033-09-21T18:13:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "112.171"
       },
-      "content": "작성자 말대로면 내 고양이도 A급임\n누가 말리냐 계속해봐",
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000039-013",
+      "id": "c-2033-000039-v8-002",
       "parentId": null,
-      "timestamp": "2033-09-21T18:35:54+09:00",
+      "timestamp": "2033-09-21T18:15:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.235"
       },
-      "content": "한성 지원서버 터진건 사람들 행동 존나 빠르다는 생각만 듦 ㅋㅋ 이래서 원문 날짜 확인이 중요함",
+      "content": "현장등급 제한 먼저 봐",
       "deleted": false
     },
     {
-      "id": "nat-2033-000039-014",
+      "id": "c-2033-000039-v8-003",
       "parentId": null,
-      "timestamp": "2033-09-21T18:37:06+09:00",
+      "timestamp": "2033-09-21T18:17:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "112.171"
       },
-      "content": "와 이걸 그렇게 이해함? / 반박은 내용으로 해라",
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
       "deleted": false
     },
     {
-      "id": "nat-2033-000039-015",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:38:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "SS 등급을 사람 한명 때문에 새로 만든다는게 제일 미친 부분임\n이걸로 또 진영 나뉜게 제일 헌갤같음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-016",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:41:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "나 내일 출근인데 왜 이거 보고있냐. 아무튼 난 밥먹으러감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-017",
-      "parentId": "nat-2033-000039-006",
-      "timestamp": "2033-09-21T18:42:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "한줄에 이렇게 긁힐 일임? ㅋㅋ. 괜히 아는척하다가 틀리면 개쪽임.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-018",
-      "parentId": "nat-2033-000039-008",
-      "timestamp": "2033-09-21T18:44:02+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "광고가 본문보다 눈에 들어오네 근데 이 커뮤는 새벽에도 똑같네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-019",
-      "parentId": "nat-2033-000039-012",
-      "timestamp": "2033-09-21T18:46:43+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "정보글 보러왔다가 원숭이 싸움 구경중 / 누가 말리냐 계속해봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-020",
-      "parentId": "nat-2033-000039-019",
-      "timestamp": "2033-09-21T18:48:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "없으면 확정처럼 말하지마. 댓글에서 벌써 결론 다 내린게 더 웃김.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000039-021",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:51:11+09:00",
+      "id": "c-2033-000039-v8-004",
+      "parentId": "c-2033-000039-v8-001",
+      "timestamp": "2033-09-21T18:18:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.246"
       },
-      "content": "내가 보기엔 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 이건 경험자 말 들어봐야됨. 괜히 한쪽 말만 듣고 움직이지마.",
+      "content": "보험됨 한줄로 끝내면 불안함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000039-022",
+      "id": "c-2033-000039-v8-005",
       "parentId": null,
-      "timestamp": "2033-09-21T18:53:17+09:00",
+      "timestamp": "2033-09-21T18:21:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "112.171"
       },
-      "content": "이시율 vs 국내 S 셋 글은 하루종일 싸웠음\n작성자도 뒤에 정정했으면 좋았을듯",
+      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
       "deleted": false
     },
     {
-      "id": "nat-2033-000039-023",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:54:21+09:00",
+      "id": "c-2033-000039-v8-006",
+      "parentId": "c-2033-000039-v8-001",
+      "timestamp": "2033-09-21T18:24:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "211.246"
       },
-      "content": "이시율 영상 하나로 서버 터진건 이해됨. 근데 저때 댓글 분위기는 이해됨",
+      "content": "보장범위가 제일 중요함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000039-024",
+      "id": "c-2033-000039-v8-007",
       "parentId": null,
-      "timestamp": "2033-09-21T18:54:33+09:00",
+      "timestamp": "2033-09-21T18:27:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "175.223"
       },
-      "content": "글쓴이 그 뒤에 후기 없음?. 이거만 확인하고싶음",
+      "content": "누가 가입시키는지부터 확인",
       "deleted": false
     },
     {
-      "id": "nat-2033-000039-025",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:56:11+09:00",
+      "id": "c-2033-000039-v8-008",
+      "parentId": "c-2033-000039-v8-004",
+      "timestamp": "2033-09-21T18:30:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.246"
       },
-      "content": "내가 보기엔 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 아닌가",
+      "content": "저등급만 되는거 은근 있더라",
       "deleted": false
     },
     {
-      "id": "nat-2033-000039-026",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:56:46+09:00",
+      "id": "c-2033-000039-v8-009",
+      "parentId": "c-2033-000039-v8-006",
+      "timestamp": "2033-09-21T18:33:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "118.44"
       },
-      "content": "왜 아무도 말 안하냐 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 말은 된다. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000039-v8-010",
+      "parentId": "c-2033-000039-v8-008",
+      "timestamp": "2033-09-21T18:37:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000039-v8-011",
+      "parentId": "c-2033-000039-v8-004",
+      "timestamp": "2033-09-21T18:41:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000039-v8-012",
+      "parentId": null,
+      "timestamp": "2033-09-21T18:42:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000039-v8-013",
+      "parentId": null,
+      "timestamp": "2033-09-21T18:44:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000039-v8-014",
+      "parentId": "c-2033-000039-v8-013",
+      "timestamp": "2033-09-21T18:47:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "보장범위가 제일 중요함",
       "deleted": false
     }
   ],

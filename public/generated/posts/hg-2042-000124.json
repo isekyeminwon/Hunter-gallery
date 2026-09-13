@@ -1,0 +1,220 @@
+{
+  "id": "hg-2042-000124",
+  "displayNo": 4294321,
+  "timestamp": "2042-09-14T09:33:16+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "그림자부대 진짜 있는 거 맞냐?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.163"
+  },
+  "content": "범죄헌터나 부정등록 수사할 때\n협회쪽에서 신분 숨기고 게이트 안까지 따라들어가는 팀 있다는 썰 있잖아.\n\n다들 그림자부대라고 부르는데\n정작 공식자료는 본적이 없음.\n\n1. 진짜 부서명이 그거임?\n2. 그냥 협회 조사관들 별명임?\n3. 애초에 실존확인도 안된 인터넷썰임?\n\n맨날 '내 지인 봤다'만 있고 사진은 하나도 없어서 더 수상함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 87352,
+    "recommend": 3435
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000124-pilot001",
+      "parentId": null,
+      "timestamp": "2042-09-14T09:34:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "그림자부대라는 이름부터 공식에서 본적이 없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot002",
+      "parentId": null,
+      "timestamp": "2042-09-14T09:36:47+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "협회에 범죄헌터 조사쪽이 있는건 맞는데 그 별명은 커뮤산일 가능성 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot003",
+      "parentId": null,
+      "timestamp": "2042-09-14T09:39:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "내 지인 길드에 잠입조사 나온적 있다는데",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot004",
+      "parentId": null,
+      "timestamp": "2042-09-14T09:42:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "내 지인의 지인의 지인 등장ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot005",
+      "parentId": null,
+      "timestamp": "2042-09-14T09:43:39+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "옛날부터 비슷한 썰은 있었음. 이름만 계속 바뀜",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot006",
+      "parentId": null,
+      "timestamp": "2042-09-14T09:44:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "전원 A급이라던데",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot007",
+      "parentId": "c-2042-000124-pilot006",
+      "timestamp": "2042-09-14T09:47:38+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "그 출처가 어디냐 진짜ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot008",
+      "parentId": "c-2042-000124-pilot007",
+      "timestamp": "2042-09-14T09:48:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "헌갤",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot009",
+      "parentId": "c-2042-000124-pilot008",
+      "timestamp": "2042-09-14T09:51:20+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "폐기",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot010",
+      "parentId": null,
+      "timestamp": "2042-09-14T09:53:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "F/C로 위장해서 파티 들어온다는 썰은 좀 그럴듯하지 않음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot011",
+      "parentId": "c-2042-000124-pilot010",
+      "timestamp": "2042-09-14T09:56:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "그럴듯한거랑 사실인건 다르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot012",
+      "parentId": "c-2042-000124-pilot011",
+      "timestamp": "2042-09-14T09:58:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "그래서 썰이라고 했잖아",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot013",
+      "parentId": null,
+      "timestamp": "2042-09-14T10:01:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "비밀부대인데 헌갤에서 제일 유명함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot014",
+      "parentId": null,
+      "timestamp": "2042-09-14T10:03:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "{{con:Intelligence}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000124-pilot015",
+      "parentId": null,
+      "timestamp": "2042-09-14T10:05:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "있어도 여기다 '네 있습니다' 하겠냐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

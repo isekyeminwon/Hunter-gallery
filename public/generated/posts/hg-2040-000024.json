@@ -1,0 +1,244 @@
+{
+  "id": "hg-2040-000024",
+  "displayNo": 3256272,
+  "timestamp": "2040-08-11T15:22:27+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": "LEE_SEO_A_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "A급 신인 가지고 길드서열까지 가는거 미쳤다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "125.180"
+  },
+  "content": "A급 관련해서 방금 본거 가져옴.\n아는 사람 있으면 팩트만 추가해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 15822,
+    "recommend": 67
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000024-v8-001",
+      "parentId": null,
+      "timestamp": "2040-08-11T15:24:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "세다고 무조건 좋은직장은 아니잖아",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-002",
+      "parentId": null,
+      "timestamp": "2040-08-11T15:28:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "일단 오퍼부터 주세요",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-003",
+      "parentId": "c-2040-000024-v8-002",
+      "timestamp": "2040-08-11T15:30:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "셋다 붙고 고민하고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-004",
+      "parentId": null,
+      "timestamp": "2040-08-11T15:32:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "백호는 장비지원 이미지가 확실하긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-005",
+      "parentId": null,
+      "timestamp": "2040-08-11T15:34:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "마법쪽이면 네뷸라 생각날수밖에",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-006",
+      "parentId": "c-2040-000024-v8-004",
+      "timestamp": "2040-08-11T15:38:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "마법계면 네뷸라가 끌릴만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-007",
+      "parentId": "c-2040-000024-v8-006",
+      "timestamp": "2040-08-11T15:40:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-008",
+      "parentId": null,
+      "timestamp": "2040-08-11T15:44:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "한성 붙여주면 간다는놈 백퍼 나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-009",
+      "parentId": "c-2040-000024-v8-007",
+      "timestamp": "2040-08-11T15:47:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "취업이면 복지/교육도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-010",
+      "parentId": null,
+      "timestamp": "2040-08-11T15:50:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "방송노출 싫은사람은 스텔라 안맞겠지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-011",
+      "parentId": null,
+      "timestamp": "2040-08-11T15:52:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-012",
+      "parentId": null,
+      "timestamp": "2040-08-11T15:54:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-013",
+      "parentId": "c-2040-000024-v8-009",
+      "timestamp": "2040-08-11T15:56:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "셋다 붙고 고민하고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-014",
+      "parentId": "c-2040-000024-v8-008",
+      "timestamp": "2040-08-11T15:58:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "취업이면 복지/교육도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-015",
+      "parentId": null,
+      "timestamp": "2040-08-11T15:59:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-016",
+      "parentId": "c-2040-000024-v8-014",
+      "timestamp": "2040-08-11T16:02:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "백호 복지후기 많은건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000024-v8-017",
+      "parentId": null,
+      "timestamp": "2040-08-11T16:03:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "한성 붙으면 왜 고민하냐는놈 곧옴ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

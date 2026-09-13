@@ -1,0 +1,52 @@
+{
+  "id": "hg-2042-000060",
+  "displayNo": 4094892,
+  "timestamp": "2042-05-30T20:24:54+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "신입 길드계약 변호사 끼는사람 많음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "220.79"
+  },
+  "content": "진짜 몰라서 묻는거임.\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 20900,
+    "recommend": 161
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000060-v8-001",
+      "parentId": null,
+      "timestamp": "2042-05-30T20:26:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "나도 답 기다림",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

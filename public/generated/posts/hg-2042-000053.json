@@ -1,0 +1,76 @@
+{
+  "id": "hg-2042-000053",
+  "displayNo": 4122809,
+  "timestamp": "2042-06-28T00:13:25+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "구인팀 처음보면 계약서 어디부터 읽음",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.44"
+  },
+  "content": "별거 아닌데 초보때 이거 몰라서 한번 고생함.\n현장가는 사람만 참고하셈.",
+  "attachments": [],
+  "stats": {
+    "views": 9915,
+    "recommend": 22
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000053-v8-001",
+      "parentId": null,
+      "timestamp": "2042-06-28T00:16:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "나중에 보려고 스크랩함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000053-v8-002",
+      "parentId": null,
+      "timestamp": "2042-06-28T00:20:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "입구에서라도 맞추고 들어가",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000053-v8-003",
+      "parentId": null,
+      "timestamp": "2042-06-28T00:23:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "우린 이거랑 좀 다르게 굴림",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

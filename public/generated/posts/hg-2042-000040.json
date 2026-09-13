@@ -1,0 +1,208 @@
+{
+  "id": "hg-2042-000040",
+  "displayNo": 4035944,
+  "timestamp": "2042-04-11T05:52:23+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "부정등록자는 왜 이렇게 욕먹음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.38"
+  },
+  "content": "뉴비 질문.\n실제 등급보다 낮게 등록하는게 나쁘다는건 알겠는데\n왜 일반 무면허보다 더 싫어하는 분위기인지 궁금함.\n\n댓글 찾아보니까\n강제소집 회피, 저등급 게이트 악용, 범죄 추적 문제 이런 얘기 나오던데\n뭐가 제일 큰 이유임?\n\n정확한 법 조항보다 업계에서 왜 극혐하는지 궁금해서 물어봄.",
+  "attachments": [],
+  "stats": {
+    "views": 143884,
+    "recommend": 2077
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000040-pilot001",
+      "parentId": null,
+      "timestamp": "2042-04-11T05:52:57+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "등급이 허세숫자가 아니라 출입/보험/파티조건에 실제로 쓰이니까",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot002",
+      "parentId": null,
+      "timestamp": "2042-04-11T05:54:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "그냥 세면서 약한척하는게 왜 남한테 피해임?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot003",
+      "parentId": null,
+      "timestamp": "2042-04-11T05:54:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "저등급 게이트에 실제 위험도 다른놈 들어가면 사고칠때 대응부터 꼬임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot004",
+      "parentId": null,
+      "timestamp": "2042-04-11T05:54:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "강제소집 피하려고 그러는 이미지도 존나 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot005",
+      "parentId": null,
+      "timestamp": "2042-04-11T05:55:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "범죄헌터 얘기 나오면 맨날 부정등록부터 찾는 이유가 그거구나",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot006",
+      "parentId": null,
+      "timestamp": "2042-04-11T05:56:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "측정오류/갱신늦음이랑 고의로 숨기는건 구분해야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot007",
+      "parentId": "c-2042-000040-pilot006",
+      "timestamp": "2042-04-11T05:57:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "근데 커뮤는 수치 이상하면 바로 부정등록 몰이함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot008",
+      "parentId": "c-2042-000040-pilot007",
+      "timestamp": "2042-04-11T05:58:07+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "그건 걍 헌갤이 병신인거고",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot009",
+      "parentId": null,
+      "timestamp": "2042-04-11T05:58:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "F로 등록하고 실제 A면 보험도 개판되는거 아님?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot010",
+      "parentId": "c-2042-000040-pilot009",
+      "timestamp": "2042-04-11T05:59:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "고용주 입장에선 계약 자체를 틀린 정보로 한거지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot011",
+      "parentId": "c-2042-000040-pilot010",
+      "timestamp": "2042-04-11T05:59:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "아 그럼 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot012",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:01:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "숨길수 있는 방법부터 궁금해하는 새끼들 꼭 나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot013",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:01:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "{{con:arrest}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-pilot014",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:02:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "저 콘 여기 딱이네ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

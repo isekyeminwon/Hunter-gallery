@@ -31,32 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "nat-2032-000033-001",
-      "parentId": null,
-      "timestamp": "2032-10-13T08:41:34+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "글쓴이는 이미 갔는데 댓글끼리 싸우는중ㅋㅋ. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000033-002",
-      "parentId": null,
-      "timestamp": "2032-10-13T08:42:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "아",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

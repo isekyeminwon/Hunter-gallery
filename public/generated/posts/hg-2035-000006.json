@@ -1,0 +1,136 @@
+{
+  "id": "hg-2035-000006",
+  "displayNo": 1709993,
+  "timestamp": "2035-03-26T19:41:24+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 무게 줄이고 체감 확온거",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 12406,
+    "recommend": 19
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000006-v8-001",
+      "parentId": null,
+      "timestamp": "2035-03-26T19:44:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "이거 저장해둠",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000006-v8-002",
+      "parentId": null,
+      "timestamp": "2035-03-26T19:46:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "이런게 실제로 도움됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000006-v8-003",
+      "parentId": null,
+      "timestamp": "2035-03-26T19:48:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "당해보면 왜 적었는지 앎",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000006-v8-004",
+      "parentId": "c-2035-000006-v8-002",
+      "timestamp": "2035-03-26T19:50:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000006-v8-005",
+      "parentId": "c-2035-000006-v8-001",
+      "timestamp": "2035-03-26T19:52:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000006-v8-006",
+      "parentId": null,
+      "timestamp": "2035-03-26T19:54:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "내가 가는팀은 반대로함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000006-v8-007",
+      "parentId": null,
+      "timestamp": "2035-03-26T19:57:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "입구에서라도 맞추고 들어가",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000006-v8-008",
+      "parentId": null,
+      "timestamp": "2035-03-26T20:00:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "정성추",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

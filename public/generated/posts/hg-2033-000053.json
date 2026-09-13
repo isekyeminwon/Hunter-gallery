@@ -33,99 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000053-001",
+      "id": "c-2033-000053-v8-001",
       "parentId": null,
-      "timestamp": "2033-02-01T21:06:41+09:00",
+      "timestamp": "2033-02-01T21:09:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "61.79"
       },
-      "content": "솔직히 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 나중에 결과 보면 알겠지. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "content": "자라",
       "deleted": false
     },
     {
-      "id": "nat-2033-000053-002",
+      "id": "c-2033-000053-v8-002",
       "parentId": null,
-      "timestamp": "2033-02-01T21:13:11+09:00",
+      "timestamp": "2033-02-01T21:12:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "59.10"
       },
-      "content": "글쓴이는 이미 갔는데 댓글끼리 싸우는중ㅋㅋ ㅋㅋ 근데 이해는 감",
+      "content": "뭔데",
       "deleted": false
     },
     {
-      "id": "nat-2033-000053-003",
+      "id": "c-2033-000053-v8-003",
       "parentId": null,
-      "timestamp": "2033-02-01T21:17:40+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000053-004",
-      "parentId": "nat-2033-000053-001",
-      "timestamp": "2033-02-01T21:24:37+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "그건 별개 문제지. 내말 틀림?. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000053-005",
-      "parentId": "nat-2033-000053-001",
-      "timestamp": "2033-02-01T21:25:54+09:00",
+      "timestamp": "2033-02-01T21:14:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "210.178"
       },
-      "content": "아 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000053-006",
-      "parentId": null,
-      "timestamp": "2033-02-01T21:29:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "그건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000053-007",
-      "parentId": null,
-      "timestamp": "2033-02-01T21:34:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "오",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000053-008",
-      "parentId": null,
-      "timestamp": "2033-02-01T21:40:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이런 쓸데없는 글이 은근 오래 살아남음. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
+      "content": "ㅋㅋ",
       "deleted": false
     }
   ],

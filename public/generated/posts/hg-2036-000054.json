@@ -1,0 +1,376 @@
+{
+  "id": "hg-2036-000054",
+  "displayNo": 2174691,
+  "timestamp": "2036-04-19T22:00:10+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": "US_SECOND_SS",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "해외반응 반응 보니까 팬덤전쟁 각인데",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
+  "attachments": [],
+  "stats": {
+    "views": 18543,
+    "recommend": 61
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000054-v8-001",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:03:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "A급 내려치기 너무 심함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-002",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:06:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "상성까지 넣으면 순위표 끝도없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-003",
+      "parentId": "c-2036-000054-v8-001",
+      "timestamp": "2036-04-19T22:07:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-004",
+      "parentId": "c-2036-000054-v8-001",
+      "timestamp": "2036-04-19T22:10:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "내최애가 1위임 반박안받음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-005",
+      "parentId": "c-2036-000054-v8-001",
+      "timestamp": "2036-04-19T22:12:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "비공식표에 왜이리 진심임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-006",
+      "parentId": "c-2036-000054-v8-004",
+      "timestamp": "2036-04-19T22:14:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "최근 실적도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-007",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:18:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이 떡밥은 안죽네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-008",
+      "parentId": "c-2036-000054-v8-003",
+      "timestamp": "2036-04-19T22:19:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "또 줄세우기 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-009",
+      "parentId": "c-2036-000054-v8-003",
+      "timestamp": "2036-04-19T22:22:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "또 줄세우기 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-010",
+      "parentId": "c-2036-000054-v8-004",
+      "timestamp": "2036-04-19T22:25:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "또 줄세우기 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-011",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:26:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "내최애 1위 넣으면 끝",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-012",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:28:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "이런표는 만든사람 팬심이 반임",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-013",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:30:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "표 하나 뜨면 바로 줄세움",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-014",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:32:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "비공식표인데 협회문서처럼 만들었네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-015",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:35:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-016",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:39:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "상성 넣으면 표 다시짜야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-017",
+      "parentId": "c-2036-000054-v8-013",
+      "timestamp": "2036-04-19T22:40:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "비공식표에 왜이리 진심임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-018",
+      "parentId": "c-2036-000054-v8-017",
+      "timestamp": "2036-04-19T22:43:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-019",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:46:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-020",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:48:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-021",
+      "parentId": "c-2036-000054-v8-020",
+      "timestamp": "2036-04-19T22:52:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "비공식표에 왜이리 진심임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-022",
+      "parentId": null,
+      "timestamp": "2036-04-19T22:56:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "요즘 A를 너무 쉽게 말함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-023",
+      "parentId": "c-2036-000054-v8-020",
+      "timestamp": "2036-04-19T23:00:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "또 줄세우기 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-024",
+      "parentId": "c-2036-000054-v8-017",
+      "timestamp": "2036-04-19T23:03:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-025",
+      "parentId": "c-2036-000054-v8-024",
+      "timestamp": "2036-04-19T23:06:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "또 줄세우기 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-026",
+      "parentId": null,
+      "timestamp": "2036-04-19T23:08:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-027",
+      "parentId": null,
+      "timestamp": "2036-04-19T23:11:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000054-v8-028",
+      "parentId": "c-2036-000054-v8-027",
+      "timestamp": "2036-04-19T23:14:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "내최애가 1위임 반박안받음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hg-2040-000013",
+  "displayNo": 3210581,
+  "timestamp": "2040-01-19T15:23:31+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "이번달 장비수리비 실화냐",
+  "author": {
+    "type": "fixed",
+    "name": "영상분석충",
+    "ip": null
+  },
+  "content": "점심먹다가 생각남",
+  "attachments": [],
+  "stats": {
+    "views": 6367,
+    "recommend": 48
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

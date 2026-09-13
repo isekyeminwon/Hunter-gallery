@@ -1,0 +1,39 @@
+{
+  "id": "hg-2039-000055",
+  "displayNo": 3107799,
+  "timestamp": "2039-10-10T23:07:00+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 말리다가 방 하나 다차지함",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "124.53"
+  },
+  "content": "점심먹다가 생각남",
+  "attachments": [],
+  "stats": {
+    "views": 5233,
+    "recommend": 2
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

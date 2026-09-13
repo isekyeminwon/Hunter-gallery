@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000002",
+  "displayNo": 3977109,
+  "timestamp": "2042-02-07T18:19:31+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "전투영상보다 장비세척영상이 더 힐링됨",
+  "author": {
+    "type": "fixed",
+    "name": "별빛단7기",
+    "ip": null
+  },
+  "content": "아무 의미 없음\n퇴근하고싶다",
+  "attachments": [],
+  "stats": {
+    "views": 32765,
+    "recommend": 218
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "hg-2041-000040",
+  "displayNo": 3657028,
+  "timestamp": "2041-05-13T07:38:47+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "B급 파티에서 막내가 할 일 정리",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.62"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 22944,
+    "recommend": 118
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000040-v8-001",
+      "parentId": null,
+      "timestamp": "2041-05-13T07:40:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "입구에서라도 맞추고 들어가",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000040-v8-002",
+      "parentId": null,
+      "timestamp": "2041-05-13T07:42:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000040-v8-003",
+      "parentId": null,
+      "timestamp": "2041-05-13T07:45:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "당해보면 왜 적었는지 앎",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000040-v8-004",
+      "parentId": null,
+      "timestamp": "2041-05-13T07:47:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "다음 현장전에 한번 더봄",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

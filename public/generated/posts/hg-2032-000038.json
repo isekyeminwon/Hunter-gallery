@@ -33,75 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2032-000038-001",
+      "id": "c-2032-000038-v8-001",
       "parentId": null,
-      "timestamp": "2032-11-17T06:09:56+09:00",
+      "timestamp": "2032-11-17T06:10:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "106.248"
       },
-      "content": "다 떠나서 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 난 저렇게는 안봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000038-002",
-      "parentId": null,
-      "timestamp": "2032-11-17T06:18:50+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "글쓴이는 이미 갔는데 댓글끼리 싸우는중ㅋㅋ. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000038-003",
-      "parentId": null,
-      "timestamp": "2032-11-17T06:23:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "내가 협회면 이 댓글창부터 통제함 ㅋㅋ 내일까지 싸워줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000038-004",
-      "parentId": null,
-      "timestamp": "2032-11-17T06:30:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "그래서 저녁 추천좀 근데 왜 이런글에 댓글이 더 많냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000038-005",
-      "parentId": "nat-2032-000038-001",
-      "timestamp": "2032-11-17T06:33:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "누가 여기다 국회 열었냐 / 와중에 추천은 누르고감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000038-006",
-      "parentId": null,
-      "timestamp": "2032-11-17T06:39:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "뇌피셜을 왜 사실처럼 씀 / 그래서 근거가 뭔데",
+      "content": "ㅋㅋ",
       "deleted": false
     }
   ],

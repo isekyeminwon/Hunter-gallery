@@ -1,0 +1,76 @@
+{
+  "id": "hg-2037-000005",
+  "displayNo": 2193641,
+  "timestamp": "2037-05-10T09:47:49+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 장비 세척하다 현타옴",
+  "author": {
+    "type": "fixed",
+    "name": "마석눈팅",
+    "ip": null
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 7978,
+    "recommend": 1
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000005-v8-001",
+      "parentId": null,
+      "timestamp": "2037-05-10T09:50:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "버클이랑 고정끈 은근 자주나감",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000005-v8-002",
+      "parentId": null,
+      "timestamp": "2037-05-10T09:51:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "새거라고 멀쩡한거 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000005-v8-003",
+      "parentId": null,
+      "timestamp": "2037-05-10T09:55:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "작동확인 입구에서 한번 더함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

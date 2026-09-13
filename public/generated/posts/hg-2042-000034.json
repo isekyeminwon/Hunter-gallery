@@ -1,0 +1,76 @@
+{
+  "id": "hg-2042-000034",
+  "displayNo": 4020231,
+  "timestamp": "2042-03-23T12:12:58+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석값·게이트 공략권 질문",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "이제 막 업계 돌아가는 구조 보는중인데 두개가 자꾸 섞여서 헷갈림.\n\n공략권 = 게이트에 들어가서 공략할 권리\n마석 = 공략해서 나오는 실제 자원\n\n이렇게 분리해서 보면 되는거 맞음?\n\n그리고 공략권 가격 비싸다고 그 게이트 마석 수익이 무조건 높은건 아닌거지?\n인원/장비/보험/회수비 빼면 적자나는 경우도 있다던데.\n\n현업 있으면 진짜 단순하게 설명좀.",
+  "attachments": [],
+  "stats": {
+    "views": 19411,
+    "recommend": 118
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000034-v8-001",
+      "parentId": null,
+      "timestamp": "2042-03-23T12:15:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "두개가 같은 보장이라고 생각하면 안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000034-v8-002",
+      "parentId": null,
+      "timestamp": "2042-03-23T12:18:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000034-v8-003",
+      "parentId": null,
+      "timestamp": "2042-03-23T12:20:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "브랜드보다 보장내용 확인해",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

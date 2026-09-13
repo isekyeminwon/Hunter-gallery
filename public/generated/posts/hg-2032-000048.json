@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2032-000048-001",
+      "id": "c-2032-000048-v8-001",
       "parentId": null,
-      "timestamp": "2032-01-25T14:54:17+09:00",
+      "timestamp": "2032-01-25T14:48:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "1.239"
       },
-      "content": "ㄹㅇ",
+      "content": "그 조항 아직 그대로임?",
       "deleted": false
     },
     {
-      "id": "nat-2032-000048-002",
+      "id": "c-2032-000048-v8-002",
       "parentId": null,
-      "timestamp": "2032-01-25T14:59:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "법 얘기는 댓글 믿지말고 공지 원문 봐라 제발",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-003",
-      "parentId": "nat-2032-000048-001",
-      "timestamp": "2032-01-25T15:08:29+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "이 규정 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-004",
-      "parentId": "nat-2032-000048-002",
-      "timestamp": "2032-01-25T15:11:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "뇌피셜을 왜 사실처럼 씀 근데 ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-005",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:16:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "가능하냐랑 해도 되냐는 다른 얘기임 / 내생각은 그럼",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-006",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:21:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "뭔 개소리야 근데 그만 싸워 둘다 시끄러움",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-007",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:22:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함 / 아님말고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-008",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:26:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "기사만 보면 한명 경험담을 전체 룰로 만드는게 제일 위험함 아닌가",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-009",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:31:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "왜 아무도 말 안하냐 이 규정 자체보다 조건이 뭐였는지부터 봐야됨 나중에 결과 보면 알겠지. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-010",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:32:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "커뮤 판례 만들지말고 공식문서 봐라 / 아님말고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-011",
-      "parentId": "nat-2032-000048-004",
-      "timestamp": "2032-01-25T15:37:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "이 규정 얘기하는데 왜 갑자기 딴소리함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-012",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:39:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "글을 읽은거냐 제목만 본거냐 근데 이건 좀 심했다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-013",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:44:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "오피셜 캡처 말고 링크 줘. 그거 어제 올라온 가짜랑 비슷한데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-014",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:51:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "개판이네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-015",
-      "parentId": null,
-      "timestamp": "2032-01-25T15:54:39+09:00",
+      "timestamp": "2032-01-25T14:51:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.38"
       },
-      "content": "내 폰 배터리 3퍼다. 나만 이 생각했냐",
+      "content": "요즘도 그 조항 그대로야?",
       "deleted": false
     },
     {
-      "id": "nat-2032-000048-016",
-      "parentId": "nat-2032-000048-012",
-      "timestamp": "2032-01-25T15:56:25+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "ㄱㅅ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-017",
-      "parentId": "nat-2032-000048-002",
-      "timestamp": "2032-01-25T16:04:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이 규정 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000048-018",
+      "id": "c-2032-000048-v8-003",
       "parentId": null,
-      "timestamp": "2032-01-25T16:07:25+09:00",
+      "timestamp": "2032-01-25T14:52:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "175.194"
       },
-      "content": "기자 이름이라도 알려줘. 그거 어제 올라온 가짜랑 비슷한데",
+      "content": "애매하면 신상은 올리지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000048-v8-004",
+      "parentId": null,
+      "timestamp": "2032-01-25T14:54:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "신고해본사람 있음?",
       "deleted": false
     }
   ],

@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000119",
+  "displayNo": 4149107,
+  "timestamp": "2042-07-12T16:39:31+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "언데드 장비 세척 비용 많이듬?",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "팀마다 말이 달라서 헷갈림.\n보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 19470,
+    "recommend": 115
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000119-v8-001",
+      "parentId": null,
+      "timestamp": "2042-07-12T16:41:54+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "정화계 없다고 무조건 못가는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000119-v8-002",
+      "parentId": null,
+      "timestamp": "2042-07-12T16:44:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "정화계 있으면 편한건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000119-v8-003",
+      "parentId": null,
+      "timestamp": "2042-07-12T16:46:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "공략권 싸도 세척비에서 울수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000119-v8-004",
+      "parentId": null,
+      "timestamp": "2042-07-12T16:48:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "냄새 분진 싫어서 거르는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000119-v8-005",
+      "parentId": null,
+      "timestamp": "2042-07-12T16:51:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "묘지형 두번 가고 손절한놈 봄",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

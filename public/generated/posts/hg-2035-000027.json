@@ -1,0 +1,184 @@
+{
+  "id": "hg-2035-000027",
+  "displayNo": 1787320,
+  "timestamp": "2035-07-15T12:05:09+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "STELLA_GROWTH",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "방송길드 때문에 오늘 일 하나도 못함",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "기사 하나 읽었는데 추천글 다 이거임ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 65004,
+    "recommend": 496
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000027-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:06:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:09:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:12:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-004",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:14:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-005",
+      "parentId": "c-2035-000027-v8-002",
+      "timestamp": "2035-07-15T12:16:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:19:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-007",
+      "parentId": "c-2035-000027-v8-004",
+      "timestamp": "2035-07-15T12:22:45+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:26:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:27:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:30:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:32:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000027-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-15T12:33:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "다른사람은 어땠음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

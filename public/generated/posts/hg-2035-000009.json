@@ -1,0 +1,64 @@
+{
+  "id": "hg-2035-000009",
+  "displayNo": 1723544,
+  "timestamp": "2035-05-15T08:11:41+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 렌탈 처음인데 보증금 원래 이정도?",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 13209,
+    "recommend": 18
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000009-v8-001",
+      "parentId": null,
+      "timestamp": "2035-05-15T08:13:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000009-v8-002",
+      "parentId": null,
+      "timestamp": "2035-05-15T08:14:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "이건 나도 모르겠네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

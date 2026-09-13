@@ -1,0 +1,39 @@
+{
+  "id": "hg-2036-000015",
+  "displayNo": 2023086,
+  "timestamp": "2036-04-18T13:24:18+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "US_SECOND_SS",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[공지] 미국 SS 관련 출처불명 신상·능력정보 정리 안내",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "미국 SS급 관련 확인되지 않은 실명, 사진, 능력명, 소속정보가 다수 게시되고 있습니다.\n공식 출처가 없는 신상추측 및 동일 캡처 도배는 정리합니다.",
+  "attachments": [],
+  "stats": {
+    "views": 24995,
+    "recommend": 1194
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

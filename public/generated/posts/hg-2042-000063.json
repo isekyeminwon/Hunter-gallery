@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000063",
+  "displayNo": 4118514,
+  "timestamp": "2042-06-27T12:27:53+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘도 무사귀환했다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "112.171"
+  },
+  "content": "일끝나고 멍때리는중",
+  "attachments": [],
+  "stats": {
+    "views": 12124,
+    "recommend": 54
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

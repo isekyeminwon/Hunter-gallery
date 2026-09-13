@@ -1,0 +1,39 @@
+{
+  "id": "hg-2040-000019",
+  "displayNo": 3237382,
+  "timestamp": "2040-05-22T23:57:22+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "짐꾼가방 냄새 진짜 영구적이냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.102"
+  },
+  "content": "그냥 그렇다고ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 12063,
+    "recommend": 76
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

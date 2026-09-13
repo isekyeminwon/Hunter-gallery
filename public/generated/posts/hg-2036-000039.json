@@ -1,0 +1,124 @@
+{
+  "id": "hg-2036-000039",
+  "displayNo": 2113382,
+  "timestamp": "2036-07-18T07:57:19+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "강무혁 현역전투력 아직 어디쯤임?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.235"
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 2882,
+    "recommend": 9
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000039-v8-001",
+      "parentId": null,
+      "timestamp": "2036-07-18T07:58:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "옛날 영상 들고오는 틀헌터 곧옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000039-v8-002",
+      "parentId": null,
+      "timestamp": "2036-07-18T08:01:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "김채연/강주아보다 위냐면 난 모르겠음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000039-v8-003",
+      "parentId": "c-2036-000039-v8-001",
+      "timestamp": "2036-07-18T08:03:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "김채연 강주아랑 붙이면 또 밤샘임",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000039-v8-004",
+      "parentId": null,
+      "timestamp": "2036-07-18T08:06:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "협회장 된뒤 실전영상 적어진건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000039-v8-005",
+      "parentId": "c-2036-000039-v8-001",
+      "timestamp": "2036-07-18T08:08:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "결국 아무도 모름ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000039-v8-006",
+      "parentId": "c-2036-000039-v8-003",
+      "timestamp": "2036-07-18T08:10:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "최근 실전영상 적은건 맞지",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000039-v8-007",
+      "parentId": "c-2036-000039-v8-005",
+      "timestamp": "2036-07-18T08:13:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "옛날영상만으로 지금 순위 박긴 애매함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

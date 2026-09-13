@@ -1,0 +1,124 @@
+{
+  "id": "hg-2042-000081",
+  "displayNo": 4226242,
+  "timestamp": "2042-08-30T16:09:47+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회장 강무혁 요즘 왜 빡쳐있음?",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "최근 인터뷰 세개 연달아 보는데 안전규정이랑 부정등록 얘기할때 표정 개무섭네ㅋㅋ\n원래 말수 적은건 아는데 요즘 현장관리 관련 발언 더 세진 느낌임.\n\n공공쪽 사람 빠져나가는 얘기도 계속 하던데 협회 인력부족 심함?",
+  "attachments": [],
+  "stats": {
+    "views": 24388,
+    "recommend": 239
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000081-v8-001",
+      "parentId": null,
+      "timestamp": "2042-08-30T16:12:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "고의로 낮추면 주변이 틀린정보로 판단하게 됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000081-v8-002",
+      "parentId": null,
+      "timestamp": "2042-08-30T16:14:45+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "등급이 출입 보험 파티조건에 실제로 쓰임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000081-v8-003",
+      "parentId": null,
+      "timestamp": "2042-08-30T16:18:01+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "측정오류랑 고의숨김은 구분해야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000081-v8-004",
+      "parentId": null,
+      "timestamp": "2042-08-30T16:20:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "강제소집 회피 이미지까지 붙어서 더 욕먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000081-v8-005",
+      "parentId": null,
+      "timestamp": "2042-08-30T16:21:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "범죄 터지면 대응측 위험도부터 꼬임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000081-v8-006",
+      "parentId": null,
+      "timestamp": "2042-08-30T16:23:52+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000081-v8-007",
+      "parentId": null,
+      "timestamp": "2042-08-30T16:26:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "근거는?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

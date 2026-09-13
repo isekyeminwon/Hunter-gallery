@@ -1,0 +1,112 @@
+{
+  "id": "hg-2042-000024",
+  "displayNo": 3985814,
+  "timestamp": "2042-02-25T11:27:26+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "저위험 파티도 철수담당 정해라",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.250"
+  },
+  "content": "언데드/묘지형 공략권이 싸다고 바로 개꿀인건 아님.\n\n싸지는 이유가 한개가 아니라 여러개 겹치는 경우가 많음.\n\n- 선호도 낮음\n냄새, 분진, 시야 문제 때문에 싫어하는 파티 많음.\n\n- 조합 탐\n정화계 있으면 편한 상황이 많고\n없으면 장비/소모품으로 메워야 할수 있음.\n\n- 뒤처리\n오염장비 세척, 폐기, 보관 때문에 귀찮음.\n\n- 회수 효율\n게이트마다 다르지만\n'공략권 싸다 = 마석 수익률 높다'는 공식은 없음.\n\n- 보험/장비\n싼 공략권 보고 들어갔다가 준비비용에서 먹는 경우 있음.\n\n결론은\n공략권 가격만 보지말고\n예상 회수액 - 인건비 - 장비 - 보험 - 세척/운송까지 대충 계산해봐야됨.\n\n싸게 나온건 이유가 있을수 있음.\n물론 진짜 저평가 매물일 때도 있어서 결국 팀 경험이 중요함.",
+  "attachments": [],
+  "stats": {
+    "views": 32486,
+    "recommend": 70
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000024-pilot001",
+      "parentId": null,
+      "timestamp": "2042-02-25T11:30:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "저위험이라 서로 '누가 말하겠지' 하다가 늦는게 제일 병신같음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000024-pilot002",
+      "parentId": null,
+      "timestamp": "2042-02-25T11:32:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "짐꾼 입장에선 누가 철수콜 하는지 모르는팀이 제일 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000024-pilot003",
+      "parentId": null,
+      "timestamp": "2042-02-25T11:35:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "보통 팀장이 하는거 아님?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000024-pilot004",
+      "parentId": "c-2042-000024-pilot003",
+      "timestamp": "2042-02-25T11:38:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "팀장이 전투중이면 못볼수도 있잖아. 대체콜도 정하는팀 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000024-pilot005",
+      "parentId": null,
+      "timestamp": "2042-02-25T11:39:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "이런건 과하다고 해놓고 사고나면 왜 안정했냐고 함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000024-pilot006",
+      "parentId": null,
+      "timestamp": "2042-02-25T11:42:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

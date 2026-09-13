@@ -33,387 +33,195 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2024-000001-001",
+      "id": "c-2024-000001-v8-001",
       "parentId": null,
-      "timestamp": "2024-03-18T09:44:37+09:00",
+      "timestamp": "2024-03-18T09:47:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "223.62"
       },
-      "content": "뭔 개소리야",
+      "content": "마나수치 낮다고 능력 종류까지 약한건 아니지 않나",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-002",
+      "id": "c-2024-000001-v8-002",
       "parentId": null,
-      "timestamp": "2024-03-18T09:46:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "내가 잘못 아는거 아니면 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 아닌가",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-003",
-      "parentId": null,
-      "timestamp": "2024-03-18T09:49:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "둘 다 개소리중임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-004",
-      "parentId": null,
-      "timestamp": "2024-03-18T09:50:01+09:00",
+      "timestamp": "2024-03-18T09:51:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "110.70"
       },
-      "content": "이거 보험 처리도 똑같음?\n최근글이 잘 안나옴",
+      "content": "등급표 중간 비는건 아직도 어색함",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-005",
-      "parentId": "nat-2024-000001-004",
-      "timestamp": "2024-03-18T09:51:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "광고가 본문보다 눈에 들어오네 ㅋㅋ 퇴근이나 시켜줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-006",
+      "id": "c-2024-000001-v8-003",
       "parentId": null,
-      "timestamp": "2024-03-18T09:52:51+09:00",
+      "timestamp": "2024-03-18T09:54:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "211.58"
       },
-      "content": "모르면 가만히라도 있어라",
+      "content": "스무살 규칙은 이제 거의 굳어진 느낌",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-007",
+      "id": "c-2024-000001-v8-004",
       "parentId": null,
-      "timestamp": "2024-03-18T09:53:07+09:00",
+      "timestamp": "2024-03-18T09:58:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "223.33"
       },
-      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 지금도 그 얘기하면 욕함ㅋㅋ",
+      "content": "재검으로 갑자기 확 뛴다는 썰은 못믿겠음",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-008",
-      "parentId": "nat-2024-000001-005",
-      "timestamp": "2024-03-18T09:54:57+09:00",
+      "id": "c-2024-000001-v8-005",
+      "parentId": "c-2024-000001-v8-003",
+      "timestamp": "2024-03-18T10:01:18+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "14.32"
       },
-      "content": "이거 읽다가 버스 지나침 ㅋㅋ 퇴근이나 시켜줘",
+      "content": "뉴비면 체크해둘만함",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-009",
+      "id": "c-2024-000001-v8-006",
+      "parentId": "c-2024-000001-v8-004",
+      "timestamp": "2024-03-18T10:03:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2024-000001-v8-007",
       "parentId": null,
-      "timestamp": "2024-03-18T09:57:29+09:00",
+      "timestamp": "2024-03-18T10:05:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "211.58"
       },
-      "content": "나 내일 출근인데 왜 이거 보고있냐 ㅋㅋ 작성자 책임져라 시간 날림",
+      "content": "측정소 앞 사람 미쳤더라",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-010",
+      "id": "c-2024-000001-v8-008",
+      "parentId": "c-2024-000001-v8-002",
+      "timestamp": "2024-03-18T10:08:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2024-000001-v8-009",
+      "parentId": "c-2024-000001-v8-006",
+      "timestamp": "2024-03-18T10:10:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2024-000001-v8-010",
+      "parentId": "c-2024-000001-v8-009",
+      "timestamp": "2024-03-18T10:13:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2024-000001-v8-011",
+      "parentId": "c-2024-000001-v8-008",
+      "timestamp": "2024-03-18T10:16:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2024-000001-v8-012",
       "parentId": null,
-      "timestamp": "2024-03-18T09:57:49+09:00",
+      "timestamp": "2024-03-18T10:17:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "211.58"
       },
-      "content": "이런거 볼때마다 측정 하나 보고 업계 전체 결론내는건 너무 감 그럴수도 있긴 함",
+      "content": "난 아닌듯",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-011",
+      "id": "c-2024-000001-v8-013",
       "parentId": null,
-      "timestamp": "2024-03-18T10:00:34+09:00",
+      "timestamp": "2024-03-18T10:19:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "223.62"
       },
-      "content": "등급표 처음 나온 날 중간 문자 어디갔냐는 질문 도배됐음 ㅋㅋ 작성자도 뒤에 정정했으면 좋았을듯",
+      "content": "이건 인정",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-012",
-      "parentId": "nat-2024-000001-001",
-      "timestamp": "2024-03-18T10:02:34+09:00",
+      "id": "c-2024-000001-v8-014",
+      "parentId": "c-2024-000001-v8-008",
+      "timestamp": "2024-03-18T10:21:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "110.70"
       },
-      "content": "ㅇㅇ 해보고 하는말임",
+      "content": "이건 해보면 체감함",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-013",
+      "id": "c-2024-000001-v8-015",
       "parentId": null,
-      "timestamp": "2024-03-18T10:05:05+09:00",
+      "timestamp": "2024-03-18T10:23:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "223.33"
       },
-      "content": "기사 링크부터 가져와 근데 그거 어제 올라온 가짜랑 비슷한데",
+      "content": "그건 좀",
       "deleted": false
     },
     {
-      "id": "nat-2024-000001-014",
-      "parentId": "nat-2024-000001-004",
-      "timestamp": "2024-03-18T10:05:21+09:00",
+      "id": "c-2024-000001-v8-016",
+      "parentId": "c-2024-000001-v8-010",
+      "timestamp": "2024-03-18T10:26:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.109"
+        "ip": "14.32"
       },
-      "content": "뭐가 아닌데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-015",
-      "parentId": "nat-2024-000001-001",
-      "timestamp": "2024-03-18T10:05:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "내가 협회면 이 댓글창부터 통제함\n누가 말리냐 계속해봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-016",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:08:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "글을 읽은거냐 제목만 본거냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-017",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:09:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "친구가 저쪽 일하는데 우리는 바로 철수 얘기부터 꺼냄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-018",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:10:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "수치 낮게 나오면 인생 망한것처럼 구는 분위기도 좀 별로였음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-019",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:11:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "내 장비 배송 아직도 안옴\n답글 달지마 이제 못봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-020",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:12:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "아 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-021",
-      "parentId": "nat-2024-000001-010",
-      "timestamp": "2024-03-18T10:13:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "그럼 반대로 생각해봐 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-022",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:15:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "이 글 보다가 라면 불었다\n작성자 책임져라 시간 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-023",
-      "parentId": "nat-2024-000001-008",
-      "timestamp": "2024-03-18T10:17:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-024",
-      "parentId": "nat-2024-000001-006",
-      "timestamp": "2024-03-18T10:18:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "글쓴이 그 뒤에 후기 없음? / 옛날 기준 말고 지금 기준으로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-025",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:21:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다. 한줄 요약하려다가 꼭 사고남.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-026",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:23:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-027",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:25:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "검사 자체보다 결과 기다리는 시간이 더 무서웠다는 사람 많았음 ㅋㅋ 확인 안된 얘기가 너무 빨리 돌았음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-028",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:26:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "측정 경험자 있으면 체감 좀 알려줘 / 초보라 감이 안옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-029",
-      "parentId": "nat-2024-000001-028",
-      "timestamp": "2024-03-18T10:27:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "제일 중요한건 측정 하나 보고 업계 전체 결론내는건 너무 감 그럴수도 있긴 함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-030",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:30:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이거 읽다가 버스 지나침",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-031",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:31:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "병신아 그건 다른 얘기임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000001-032",
-      "parentId": null,
-      "timestamp": "2024-03-18T10:33:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "뇌피셜을 왜 사실처럼 씀",
+      "content": "뉴비면 체크해둘만함",
       "deleted": false
     }
   ],

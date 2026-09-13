@@ -33,39 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2032-000034-001",
+      "id": "c-2032-000034-v8-001",
       "parentId": null,
-      "timestamp": "2032-03-19T22:04:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "내일 검사인데 이런 글 왜 클릭했지. 작성자 책임져라 시간 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000034-002",
-      "parentId": "nat-2032-000034-001",
-      "timestamp": "2032-03-19T22:11:30+09:00",
+      "timestamp": "2032-03-19T22:01:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "211.246"
       },
-      "content": "개소리를 정성스럽게도 썼네 ㅋㅋ 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000034-003",
-      "parentId": null,
-      "timestamp": "2032-03-19T22:14:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "현장 기준으론 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 반박시 니말맞음",
+      "content": "ㄹㅇ",
       "deleted": false
     }
   ],

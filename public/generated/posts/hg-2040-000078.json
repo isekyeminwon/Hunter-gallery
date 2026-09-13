@@ -1,0 +1,39 @@
+{
+  "id": "hg-2040-000078",
+  "displayNo": 3466622,
+  "timestamp": "2040-11-15T14:12:49+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 B급 끝나고 국밥 두그릇 먹음",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "점심먹다가 생각남",
+  "attachments": [],
+  "stats": {
+    "views": 18095,
+    "recommend": 47
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

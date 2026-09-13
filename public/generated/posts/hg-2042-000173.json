@@ -1,0 +1,124 @@
+{
+  "id": "hg-2042-000173",
+  "displayNo": 4339368,
+  "timestamp": "2042-09-17T06:19:55+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "B급 짐꾼 일당 150이면 낮음?",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "계약 전에 물어볼거 정리중.",
+  "attachments": [],
+  "stats": {
+    "views": 4811,
+    "recommend": 39
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000173-pilot001",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:21:04+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "조건부터. 4시간 150이랑 12시간 150은 다른말임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000173-pilot002",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:22:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "예상 6시간 보험있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000173-pilot003",
+      "parentId": "c-2042-000173-pilot002",
+      "timestamp": "2042-09-17T06:22:42+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "그럼 엄청 낮다고 보긴 애매. 짐무게/팀후기 더봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000173-pilot004",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:23:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "위험수당 별도인지도",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000173-pilot005",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:24:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "나는 150이면 일단 팀검색부터 함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000173-pilot006",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:25:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "요즘 200글 많이 보여서 150이 싸보이는 착시도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000173-pilot007",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:26:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "200은 조건 좋은글만 캡처돼서 도는거지ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -33,363 +33,171 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000041-001",
+      "id": "c-2033-000041-v8-001",
       "parentId": null,
-      "timestamp": "2033-09-20T22:02:45+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "본문 세줄 댓글 오십개가 커뮤지. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-002",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:05:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이런거 볼때마다 SS급는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 결론 내리기 애매함. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-003",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:07:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 근데 가족들은 뉴스만 떠도 전화부터 옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-004",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:10:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "댓글 구경하러 왔다. 왜 이런글에 댓글이 더 많냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-005",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:12:19+09:00",
+      "timestamp": "2033-09-20T22:05:33+09:00",
       "author": {
         "type": "fixed",
         "name": "현장밥차",
         "ip": null
       },
-      "content": "ㅋㅋㅋㅋㅋ",
+      "content": "개웃기네",
       "deleted": false
     },
     {
-      "id": "nat-2033-000041-006",
+      "id": "c-2033-000041-v8-002",
       "parentId": null,
-      "timestamp": "2033-09-20T22:13:26+09:00",
+      "timestamp": "2033-09-20T22:07:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "118.33"
       },
-      "content": "병신아 그건 다른 얘기임. 아무말이나 던지고 튀네",
+      "content": "자라",
       "deleted": false
     },
     {
-      "id": "nat-2033-000041-007",
-      "parentId": "nat-2033-000041-001",
-      "timestamp": "2033-09-20T22:13:52+09:00",
+      "id": "c-2033-000041-v8-003",
+      "parentId": "c-2033-000041-v8-002",
+      "timestamp": "2033-09-20T22:09:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "220.79"
       },
-      "content": "니가 틀림",
+      "content": "ㅋㅋㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2033-000041-008",
+      "id": "c-2033-000041-v8-004",
+      "parentId": "c-2033-000041-v8-001",
+      "timestamp": "2033-09-20T22:12:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000041-v8-005",
       "parentId": null,
-      "timestamp": "2033-09-20T22:16:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "이거 지역마다 차이남?. 옛날 기준 말고 지금 기준으로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-009",
-      "parentId": "nat-2033-000041-003",
-      "timestamp": "2033-09-20T22:18:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "내 폰 배터리 3퍼다 근데 퇴근이나 시켜줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-010",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:20:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이런 상황에서 보통 누가 결정함? ㅋㅋ 진짜 궁금해서 물음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-011",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:23:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "어질어질하네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-012",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:25:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "왜 아무도 말 안하냐 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 확정짓긴 이른듯. 조건 하나만 달라도 얘기 완전 달라짐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-013",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:26:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "여기서 핵심은 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이건 좀 더 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-014",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:27:07+09:00",
+      "timestamp": "2033-09-20T22:16:40+09:00",
       "author": {
         "type": "fixed",
-        "name": "백호복지팀",
+        "name": "현장밥차",
         "ip": null
       },
-      "content": "오히려 SS급 자체보다 조건이 뭐였는지부터 봐야됨 결론 내리기 애매함. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "content": "뭔데",
       "deleted": false
     },
     {
-      "id": "nat-2033-000041-015",
+      "id": "c-2033-000041-v8-006",
       "parentId": null,
-      "timestamp": "2033-09-20T22:29:45+09:00",
+      "timestamp": "2033-09-20T22:20:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "118.33"
       },
-      "content": "이거 최초 출처 누군데. 원문 보면 뉘앙스 다른 경우 있음",
+      "content": "나도 비슷했음",
       "deleted": false
     },
     {
-      "id": "nat-2033-000041-016",
+      "id": "c-2033-000041-v8-007",
       "parentId": null,
-      "timestamp": "2033-09-20T22:30:13+09:00",
+      "timestamp": "2033-09-20T22:22:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "14.32"
       },
-      "content": "이런날도 있어야 게시판이 굴러가지. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
+      "content": "나도그럼",
       "deleted": false
     },
     {
-      "id": "nat-2033-000041-017",
-      "parentId": "nat-2033-000041-008",
-      "timestamp": "2033-09-20T22:32:21+09:00",
+      "id": "c-2033-000041-v8-008",
+      "parentId": null,
+      "timestamp": "2033-09-20T22:23:52+09:00",
       "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
       },
-      "content": "SS급 얘기하는데 왜 갑자기 딴소리함",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2033-000041-018",
+      "id": "c-2033-000041-v8-009",
+      "parentId": "c-2033-000041-v8-005",
+      "timestamp": "2033-09-20T22:27:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000041-v8-010",
+      "parentId": null,
+      "timestamp": "2033-09-20T22:30:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000041-v8-011",
       "parentId": null,
       "timestamp": "2033-09-20T22:32:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "14.32"
       },
-      "content": "한성 지원서버 터진건 사람들 행동 존나 빠르다는 생각만 듦. 실시간으로 본 사람들은 더 정신없었을듯",
+      "content": "이건 인정",
       "deleted": false
     },
     {
-      "id": "nat-2033-000041-019",
+      "id": "c-2033-000041-v8-012",
       "parentId": null,
-      "timestamp": "2033-09-20T22:34:16+09:00",
+      "timestamp": "2033-09-20T22:34:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "211.202"
       },
-      "content": "SS 하나가 S 몇명분이냐는 질문부터가 답이 없는 질문임ㅋㅋ. 지금 보면 웃긴데 당시엔 진지했겠지",
+      "content": "나도 비슷했음",
       "deleted": false
     },
     {
-      "id": "nat-2033-000041-020",
+      "id": "c-2033-000041-v8-013",
+      "parentId": "c-2033-000041-v8-006",
+      "timestamp": "2033-09-20T22:38:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000041-v8-014",
       "parentId": null,
-      "timestamp": "2033-09-20T22:35:47+09:00",
+      "timestamp": "2033-09-20T22:42:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "118.33"
       },
-      "content": "댓글 구경하러 왔다 ㅋㅋ 누가 메뉴 하나만 골라줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-021",
-      "parentId": "nat-2033-000041-001",
-      "timestamp": "2033-09-20T22:36:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "ㅇㅇ 해보고 하는말임. 괜히 아는척하다가 틀리면 개쪽임.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-022",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:38:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "그래서 저녁 추천좀\n갑자기 생각나서 적음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-023",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:40:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "SS급 관련해서 협회에 물어본 사람?\n댓글 싸우지말고 답만좀",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-024",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:40:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "내가 잘못 아는거 아니면 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 그럴수도 있긴 함. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-025",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:42:41+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "이런날도 있어야 게시판이 굴러가지. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-026",
-      "parentId": "nat-2033-000041-007",
-      "timestamp": "2033-09-20T22:43:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "둘 다 개소리중임 ㅋㅋ 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-027",
-      "parentId": "nat-2033-000041-022",
-      "timestamp": "2033-09-20T22:44:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "SS급 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-028",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:47:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "댓글 구경하러 왔다 근데 갑자기 생각나서 적음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-029",
-      "parentId": "nat-2033-000041-025",
-      "timestamp": "2033-09-20T22:49:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "근데 점심 뭐먹냐 근데 이 커뮤는 새벽에도 똑같네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000041-030",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:51:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "작년에 비슷한 조건으로 한번 갔는데. 사람마다 말 다른 이유는 알겠더라",
+      "content": "개웃기네",
       "deleted": false
     }
   ],

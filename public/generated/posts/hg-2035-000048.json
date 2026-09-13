@@ -1,0 +1,184 @@
+{
+  "id": "hg-2035-000048",
+  "displayNo": 1868185,
+  "timestamp": "2035-07-13T18:18:49+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "측정결과 글 진짜 몇개 올라오는거냐 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "175.223"
+  },
+  "content": "회사 단톡도 이 얘기 헌갤도 이 얘기\n도망갈데가없네",
+  "attachments": [],
+  "stats": {
+    "views": 33963,
+    "recommend": 145
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000048-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-13T18:20:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-13T18:23:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-13T18:26:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-004",
+      "parentId": "c-2035-000048-v8-003",
+      "timestamp": "2035-07-13T18:30:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-13T18:31:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-13T18:34:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-007",
+      "parentId": "c-2035-000048-v8-001",
+      "timestamp": "2035-07-13T18:37:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-008",
+      "parentId": "c-2035-000048-v8-002",
+      "timestamp": "2035-07-13T18:40:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-13T18:41:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-13T18:43:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-13T18:46:30+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000048-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-13T18:49:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

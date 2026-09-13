@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000037",
+  "displayNo": 4054171,
+  "timestamp": "2042-04-19T22:47:18+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "보험 갱신문자 보고 한숨나옴",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "그냥 그렇다고ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 4626,
+    "recommend": 39
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

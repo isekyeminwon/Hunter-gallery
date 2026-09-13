@@ -1,0 +1,136 @@
+{
+  "id": "hg-2042-000168",
+  "displayNo": 4327568,
+  "timestamp": "2042-09-17T04:38:29+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회가 공략권 취소시키는 경우 뭐있음? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "220.79"
+  },
+  "content": "팀마다 말이 달라서 헷갈림.\n보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 6334,
+    "recommend": 54
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000168-pilot001",
+      "parentId": null,
+      "timestamp": "2042-09-17T04:39:26+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "내가 본건 제출한 인원조건 안맞아서 출발 전에 보류된 케이스",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000168-pilot002",
+      "parentId": null,
+      "timestamp": "2042-09-17T04:40:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "사고나면 바로 취소임?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000168-pilot003",
+      "parentId": "c-2042-000168-pilot002",
+      "timestamp": "2042-09-17T04:41:20+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "ㄴㄴ 사고=자동취소는 아님. 규정위반했는지 안전조건 깨졌는지 따로 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000168-pilot004",
+      "parentId": null,
+      "timestamp": "2042-09-17T04:41:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "허위서류나 자격문제면 잘리는건 당연한거고",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000168-pilot005",
+      "parentId": null,
+      "timestamp": "2042-09-17T04:42:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "공략중에 너무 위험해지면 협회가 중지시키는것도 있지 않나",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000168-pilot006",
+      "parentId": "c-2042-000168-pilot005",
+      "timestamp": "2042-09-17T04:43:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "중지랑 취소는 구분해야됨. 일단 멈추고 재평가하는 경우도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000168-pilot007",
+      "parentId": null,
+      "timestamp": "2042-09-17T04:44:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "여기 댓글만 보면 협회 직원 8명임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000168-pilot008",
+      "parentId": null,
+      "timestamp": "2042-09-17T04:45:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

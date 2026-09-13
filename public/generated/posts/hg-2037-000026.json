@@ -1,0 +1,112 @@
+{
+  "id": "hg-2037-000026",
+  "displayNo": 2282955,
+  "timestamp": "2037-01-09T12:50:49+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "신입 파티원 장비체크 순서",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 9339,
+    "recommend": 34
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000026-v8-001",
+      "parentId": null,
+      "timestamp": "2037-01-09T12:53:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "예비배터리도 실제로 켜봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000026-v8-002",
+      "parentId": null,
+      "timestamp": "2037-01-09T12:55:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "버클/스트랩부터 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000026-v8-003",
+      "parentId": null,
+      "timestamp": "2037-01-09T12:58:20+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "렌탈은 인수할때 흠집 사진 찍어둬",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000026-v8-004",
+      "parentId": null,
+      "timestamp": "2037-01-09T13:01:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "반납때 싸우기싫으면 상태 기록해둬",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000026-v8-005",
+      "parentId": "c-2037-000026-v8-004",
+      "timestamp": "2037-01-09T13:04:57+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "반납할때 사진있으면 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000026-v8-006",
+      "parentId": null,
+      "timestamp": "2037-01-09T13:07:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "버클이랑 고정끈 은근 자주나감",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

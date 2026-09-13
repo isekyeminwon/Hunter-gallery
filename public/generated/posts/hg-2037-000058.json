@@ -1,0 +1,76 @@
+{
+  "id": "hg-2037-000058",
+  "displayNo": 2408925,
+  "timestamp": "2037-05-25T09:35:59+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "공략권 있는지 구인글에서 확인 가능함?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "14.32"
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 12846,
+    "recommend": 27
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000058-v8-001",
+      "parentId": null,
+      "timestamp": "2037-05-25T09:38:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "싸게 샀다고 무조건 이득은 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000058-v8-002",
+      "parentId": null,
+      "timestamp": "2037-05-25T09:41:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "공략권이랑 마석값은 따로 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000058-v8-003",
+      "parentId": null,
+      "timestamp": "2037-05-25T09:44:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "공략권은 누가 들어가서 공략할 권리냐는거",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

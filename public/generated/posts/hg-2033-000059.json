@@ -33,255 +33,111 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000059-001",
+      "id": "c-2033-000059-v8-001",
       "parentId": null,
-      "timestamp": "2033-08-11T21:02:24+09:00",
+      "timestamp": "2033-08-11T21:02:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "117.111"
       },
-      "content": "이거 보험 처리도 똑같음?. 옛날 기준 말고 지금 기준으로",
+      "content": "팀장 전투중이면 대체콜도 있어야됨",
       "deleted": false
     },
     {
-      "id": "nat-2033-000059-002",
+      "id": "c-2033-000059-v8-002",
       "parentId": null,
-      "timestamp": "2033-08-11T21:11:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-003",
-      "parentId": null,
-      "timestamp": "2033-08-11T21:21:06+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "본인등판 없냐 팝콘 다먹음 ㅋㅋ 관리자도 보고 웃겠다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-004",
-      "parentId": null,
-      "timestamp": "2033-08-11T21:22:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "정산은 들어가기 전에 기준 정해라. 작성자도 너무 확신하진 마라.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-005",
-      "parentId": null,
-      "timestamp": "2033-08-11T21:25:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "뭔 자신감으로 확정짓냐 ㅋㅋ 니 경험 하나가 법은 아님",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-006",
-      "parentId": "nat-2033-000059-005",
-      "timestamp": "2033-08-11T21:30:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "윗댓 말도 틀린건 아닌데 표현이 개같음. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-007",
-      "parentId": "nat-2033-000059-004",
-      "timestamp": "2033-08-11T21:34:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "영상은 보고 말함?. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-008",
-      "parentId": "nat-2033-000059-004",
-      "timestamp": "2033-08-11T21:39:37+09:00",
+      "timestamp": "2033-08-11T21:05:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "니들 둘 다 진정해라. 인터넷 말보다 계약서 한줄이 더 셈.",
+      "content": "철수콜 누가하는지 먼저 정해",
       "deleted": false
     },
     {
-      "id": "nat-2033-000059-009",
-      "parentId": null,
-      "timestamp": "2033-08-11T21:47:39+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "본인등판 없냐 팝콘 다먹음\n오늘도 평화롭다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-010",
-      "parentId": "nat-2033-000059-007",
-      "timestamp": "2033-08-11T21:49:22+09:00",
+      "id": "c-2033-000059-v8-003",
+      "parentId": "c-2033-000059-v8-001",
+      "timestamp": "2033-08-11T21:08:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.109"
+        "ip": "106.102"
       },
-      "content": "뭘 보고 위험하다는건데. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "content": "저위험이어도 퇴로는 잡아야지",
       "deleted": false
     },
     {
-      "id": "nat-2033-000059-011",
-      "parentId": null,
-      "timestamp": "2033-08-11T21:57:15+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "나도 처음엔 별거 아니라고 봤는데. 우리는 바로 철수 얘기부터 꺼냄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-012",
-      "parentId": null,
-      "timestamp": "2033-08-11T22:04:02+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "초보가 제일 먼저 확인할거 뭐임?\n댓글 싸우지말고 답만좀",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-013",
-      "parentId": null,
-      "timestamp": "2033-08-11T22:13:01+09:00",
+      "id": "c-2033-000059-v8-004",
+      "parentId": "c-2033-000059-v8-003",
+      "timestamp": "2033-08-11T21:09:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.52"
       },
-      "content": "장비보다 사람 합이 먼저라는 말 괜히 나오는게 아님 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "content": "철수콜 누가하는지 정해두면 편함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000059-014",
+      "id": "c-2033-000059-v8-005",
       "parentId": null,
-      "timestamp": "2033-08-11T22:22:42+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "아니 시발 뭔 결론이 그렇게 감. 그래서 근거가 뭔데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-015",
-      "parentId": null,
-      "timestamp": "2033-08-11T22:26:26+09:00",
+      "timestamp": "2033-08-11T21:11:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "117.111"
       },
-      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "content": "철수 정했으면 그때는 욕심 접어",
       "deleted": false
     },
     {
-      "id": "nat-2033-000059-016",
+      "id": "c-2033-000059-v8-006",
       "parentId": null,
-      "timestamp": "2033-08-11T22:27:22+09:00",
+      "timestamp": "2033-08-11T21:14:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "211.234"
       },
-      "content": "니가 직접 봤냐고. 이건 좀 심했다",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2033-000059-017",
+      "id": "c-2033-000059-v8-007",
       "parentId": null,
-      "timestamp": "2033-08-11T22:35:13+09:00",
+      "timestamp": "2033-08-11T21:16:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "223.52"
       },
-      "content": "본인등판 없냐 팝콘 다먹음\n내일까지 싸워줘",
+      "content": "이건 인정",
       "deleted": false
     },
     {
-      "id": "nat-2033-000059-018",
+      "id": "c-2033-000059-v8-008",
       "parentId": null,
-      "timestamp": "2033-08-11T22:42:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "현장 보조 몇번 해봤는데 근데 그때 이후로 무조건 두번 확인함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-019",
-      "parentId": "nat-2033-000059-018",
-      "timestamp": "2033-08-11T22:47:52+09:00",
+      "timestamp": "2033-08-11T21:18:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "117.111"
       },
-      "content": "흠",
+      "content": "한번 더 보자는 말이 제일 무서움",
       "deleted": false
     },
     {
-      "id": "nat-2033-000059-020",
+      "id": "c-2033-000059-v8-009",
       "parentId": null,
-      "timestamp": "2033-08-11T22:54:14+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "이 경우에도 같은 기준 적용됨?\n댓글 싸우지말고 답만좀",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000059-021",
-      "parentId": null,
-      "timestamp": "2033-08-11T22:55:35+09:00",
+      "timestamp": "2033-08-11T21:21:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "211.234"
       },
-      "content": "개인적으로 한명 경험담을 전체 룰로 만드는게 제일 위험함 난 저렇게는 안봄. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "content": "저위험이라도 퇴로는 잡고 들어가",
       "deleted": false
     }
   ],

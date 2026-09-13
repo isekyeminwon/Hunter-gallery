@@ -1,0 +1,220 @@
+{
+  "id": "hg-2038-000114",
+  "displayNo": 2841807,
+  "timestamp": "2038-09-20T16:24:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "XIAO_LONG_KOREA_FOLLOWUP",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "한국 체류 뉴비인데 왜 이렇게 난리인거?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
+  "attachments": [],
+  "stats": {
+    "views": 46660,
+    "recommend": 188
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000114-v8-001",
+      "parentId": null,
+      "timestamp": "2038-09-20T16:27:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이거 초보때 은근 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-002",
+      "parentId": null,
+      "timestamp": "2038-09-20T16:29:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이거 답 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-003",
+      "parentId": "c-2038-000114-v8-002",
+      "timestamp": "2038-09-20T16:33:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-004",
+      "parentId": null,
+      "timestamp": "2038-09-20T16:37:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "처음이면 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-005",
+      "parentId": null,
+      "timestamp": "2038-09-20T16:40:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "검색해도 예전얘기만 나와",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-006",
+      "parentId": "c-2038-000114-v8-002",
+      "timestamp": "2038-09-20T16:42:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이건 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-007",
+      "parentId": null,
+      "timestamp": "2038-09-20T16:45:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-008",
+      "parentId": null,
+      "timestamp": "2038-09-20T16:49:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "처음하면 헷갈릴만하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-009",
+      "parentId": "c-2038-000114-v8-005",
+      "timestamp": "2038-09-20T16:52:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-010",
+      "parentId": null,
+      "timestamp": "2038-09-20T16:54:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-011",
+      "parentId": null,
+      "timestamp": "2038-09-20T16:57:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-012",
+      "parentId": "c-2038-000114-v8-007",
+      "timestamp": "2038-09-20T16:59:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-013",
+      "parentId": null,
+      "timestamp": "2038-09-20T17:02:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-014",
+      "parentId": null,
+      "timestamp": "2038-09-20T17:05:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "나도 첫번에 여기서 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-v8-015",
+      "parentId": "c-2038-000114-v8-009",
+      "timestamp": "2038-09-20T17:08:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

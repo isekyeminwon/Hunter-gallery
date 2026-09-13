@@ -1,0 +1,39 @@
+{
+  "id": "hg-2037-000029",
+  "displayNo": 2293089,
+  "timestamp": "2037-04-23T15:10:11+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비점 사장 나 얼굴 외움ㅋㅋ ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.235"
+  },
+  "content": "그냥 궁금해서 물어봄\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 15859,
+    "recommend": 93
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

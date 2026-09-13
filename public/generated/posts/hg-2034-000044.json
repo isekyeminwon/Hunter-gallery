@@ -33,135 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2034-000044-001",
+      "id": "c-2034-000044-v8-001",
       "parentId": null,
-      "timestamp": "2034-05-15T23:26:29+09:00",
+      "timestamp": "2034-05-15T23:20:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "59.10"
       },
-      "content": "짤 하나 잘못 잘리면 하루종일 해명글 올라옴. 괜히 한쪽 말만 듣고 움직이지마.",
+      "content": "공식채널 검색이 제일 낫겠다",
       "deleted": false
     },
     {
-      "id": "nat-2034-000044-002",
+      "id": "c-2034-000044-v8-002",
       "parentId": null,
-      "timestamp": "2034-05-15T23:29:12+09:00",
+      "timestamp": "2034-05-15T23:24:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "118.235"
       },
-      "content": "이 영상 경험자 있으면 체감 좀 알려줘 ㅋㅋ 댓글 싸우지말고 답만좀",
+      "content": "영상보다 밑에서 더 터졌네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2034-000044-003",
-      "parentId": "nat-2034-000044-001",
-      "timestamp": "2034-05-15T23:36:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "니들 둘 다 진정해라. 진짜.. 여기서 싸워봤자 현장 규정 안바뀜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000044-004",
+      "id": "c-2034-000044-v8-003",
       "parentId": null,
-      "timestamp": "2034-05-15T23:44:19+09:00",
+      "timestamp": "2034-05-15T23:25:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "106.248"
       },
-      "content": "이 영상 이거 실제 해본 사람 있음\n옛날 기준 말고 지금 기준으로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000044-005",
-      "parentId": null,
-      "timestamp": "2034-05-15T23:50:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "개판이네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000044-006",
-      "parentId": null,
-      "timestamp": "2034-05-15T23:54:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "팬 아니어도 이 영상은 볼만하네. 아무튼 내 돈 걸라면 난 안검.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000044-007",
-      "parentId": "nat-2034-000044-001",
-      "timestamp": "2034-05-16T00:01:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "한줄에 이렇게 긁힐 일임?. 이러다 제목만 바꿔서 또 싸울듯.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000044-008",
-      "parentId": null,
-      "timestamp": "2034-05-16T00:10:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "제일 중요한건 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 나중에 결과 보면 알겠지",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000044-009",
-      "parentId": null,
-      "timestamp": "2034-05-16T00:15:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "으음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000044-010",
-      "parentId": null,
-      "timestamp": "2034-05-16T00:20:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "뭐 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이라 봄. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000044-011",
-      "parentId": null,
-      "timestamp": "2034-05-16T00:25:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "모르면 가만히라도 있어라. 아무말이나 던지고 튀네",
+      "content": "편집은 잘했네",
       "deleted": false
     }
   ],

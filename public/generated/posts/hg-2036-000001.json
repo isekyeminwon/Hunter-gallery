@@ -1,0 +1,160 @@
+{
+  "id": "hg-2036-000001",
+  "displayNo": 1968894,
+  "timestamp": "2036-01-13T16:00:38+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "B급 베테랑 vs 갓각성 A급 누구 고름",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 4707,
+    "recommend": 23
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000001-v8-001",
+      "parentId": null,
+      "timestamp": "2036-01-13T16:04:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "상성까지 넣으면 순위표 끝도없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000001-v8-002",
+      "parentId": null,
+      "timestamp": "2036-01-13T16:08:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "A급 내려치기 너무 심함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000001-v8-003",
+      "parentId": null,
+      "timestamp": "2036-01-13T16:10:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "또 순위매기네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000001-v8-004",
+      "parentId": "c-2036-000001-v8-002",
+      "timestamp": "2036-01-13T16:12:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "또 줄세우기 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000001-v8-005",
+      "parentId": "c-2036-000001-v8-004",
+      "timestamp": "2036-01-13T16:15:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "최근 실적도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000001-v8-006",
+      "parentId": "c-2036-000001-v8-002",
+      "timestamp": "2036-01-13T16:17:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000001-v8-007",
+      "parentId": "c-2036-000001-v8-004",
+      "timestamp": "2036-01-13T16:20:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "내최애가 1위임 반박안받음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000001-v8-008",
+      "parentId": null,
+      "timestamp": "2036-01-13T16:22:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "오늘 끝나도 내일 또함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000001-v8-009",
+      "parentId": null,
+      "timestamp": "2036-01-13T16:24:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "내가 만들면 내쪽이 1위임",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000001-v8-010",
+      "parentId": null,
+      "timestamp": "2036-01-13T16:26:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "표 디자인만 보면 국가자료임",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

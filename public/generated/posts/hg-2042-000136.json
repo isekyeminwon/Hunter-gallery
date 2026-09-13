@@ -1,0 +1,88 @@
+{
+  "id": "hg-2042-000136",
+  "displayNo": 4292262,
+  "timestamp": "2042-09-14T01:51:26+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "구인글에 보험사 안적혀있으면 물어봐야됨?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.125"
+  },
+  "content": "진짜 몰라서 묻는거임.\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 25442,
+    "recommend": 120
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000136-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-14T01:55:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000136-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-14T01:58:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "개인거 있어도 팀보험은 따로 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000136-v8-003",
+      "parentId": null,
+      "timestamp": "2042-09-14T02:01:35+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "이름보다 현장등급 제한을 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000136-v8-004",
+      "parentId": null,
+      "timestamp": "2042-09-14T02:05:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

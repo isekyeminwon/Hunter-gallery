@@ -1,0 +1,39 @@
+{
+  "id": "hg-2041-000019",
+  "displayNo": 3563321,
+  "timestamp": "2041-10-22T00:55:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "GANGWON_DISAPPEARANCES",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[공지] 강원 실종 피해자 신상·범인추측·현장좌표 게시 제한",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "강원 관련해서 방금 본거 가져옴.\n아는 사람 있으면 팩트만 추가해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 86428,
+    "recommend": 547
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

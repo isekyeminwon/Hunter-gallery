@@ -1,0 +1,232 @@
+{
+  "id": "hg-2037-000009",
+  "displayNo": 2212303,
+  "timestamp": "2037-03-10T10:00:47+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "GATE_VIDEO_EXPANSION",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "공략영상 밈 벌써 생겼네",
+  "author": {
+    "type": "fixed",
+    "name": "영상분석충",
+    "ip": null
+  },
+  "content": "회사 단톡도 이 얘기 헌갤도 이 얘기\n도망갈데가없네",
+  "attachments": [],
+  "stats": {
+    "views": 13170,
+    "recommend": 38
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000009-v8-001",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:02:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "편집본만 보면 15분컷 같음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-002",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:06:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "원본콜 있는 영상이 공부할땐 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-003",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:07:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "촬영팀 붙으면 동선도 달라질수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-004",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:09:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "대기/확인/철수판단이 편집에서 많이 잘림",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-005",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:13:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "영상이 거짓말이라기보다 목적이 다른거",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-006",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:16:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-007",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:19:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "최근에 해본사람 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-008",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:22:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-009",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:26:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-010",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:29:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-011",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:30:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-012",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:34:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-013",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:37:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-014",
+      "parentId": null,
+      "timestamp": "2037-03-10T10:41:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-015",
+      "parentId": "c-2037-000009-v8-014",
+      "timestamp": "2037-03-10T10:44:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "대기시간 잘리니까 쉬워보이는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000009-v8-016",
+      "parentId": "c-2037-000009-v8-013",
+      "timestamp": "2037-03-10T10:48:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "원본콜 있으면 공부는 훨씬 잘됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

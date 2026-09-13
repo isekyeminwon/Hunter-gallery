@@ -33,123 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2029-000020-001",
+      "id": "c-2029-000020-v8-001",
       "parentId": null,
-      "timestamp": "2029-05-17T12:37:43+09:00",
+      "timestamp": "2029-05-17T12:33:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "106.248"
       },
-      "content": "현장마다 다르면 보통 뭘 기준으로 봄?. 검색하면 말이 다 다름",
+      "content": "당일도 있고 며칠뒤도 있음",
       "deleted": false
     },
     {
-      "id": "nat-2029-000020-002",
+      "id": "c-2029-000020-v8-002",
       "parentId": null,
-      "timestamp": "2029-05-17T12:42:34+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000020-003",
-      "parentId": null,
-      "timestamp": "2029-05-17T12:50:41+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "광고가 본문보다 눈에 들어오네 근데 답글 달지마 이제 못봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000020-004",
-      "parentId": null,
-      "timestamp": "2029-05-17T13:00:26+09:00",
+      "timestamp": "2029-05-17T12:34:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "59.5"
       },
-      "content": "제일 중요한건 마석는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 아닌가",
+      "content": "계약할때 정산일 적혀있는게 제일 편함",
       "deleted": false
     },
     {
-      "id": "nat-2029-000020-005",
+      "id": "c-2029-000020-v8-003",
       "parentId": null,
-      "timestamp": "2029-05-17T13:02:47+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "현장 보조 몇번 해봤는데. 결국 서류 먼저 보라고 하더라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000020-006",
-      "parentId": "nat-2029-000020-004",
-      "timestamp": "2029-05-17T13:12:59+09:00",
+      "timestamp": "2029-05-17T12:37:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "106.101"
       },
-      "content": "내 장비 배송 아직도 안옴. 나만 이 생각했냐",
+      "content": "일주일 넘고 말도 없으면 물어봐야지",
       "deleted": false
     },
     {
-      "id": "nat-2029-000020-007",
-      "parentId": "nat-2029-000020-005",
-      "timestamp": "2029-05-17T13:20:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "그건 위험함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000020-008",
+      "id": "c-2029-000020-v8-004",
       "parentId": null,
-      "timestamp": "2029-05-17T13:30:36+09:00",
+      "timestamp": "2029-05-17T12:39:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "106.248"
       },
-      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어 / 아님말고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000020-009",
-      "parentId": null,
-      "timestamp": "2029-05-17T13:31:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "정산은 들어가기 전에 기준 정해라 / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000020-010",
-      "parentId": "nat-2029-000020-005",
-      "timestamp": "2029-05-17T13:40:36+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "개무섭네",
+      "content": "예상금액으로 먼저 싸우지마",
       "deleted": false
     }
   ],

@@ -33,195 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2028-000015-001",
+      "id": "c-2028-000015-v8-001",
       "parentId": null,
-      "timestamp": "2028-06-02T13:09:03+09:00",
+      "timestamp": "2028-06-02T13:03:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "175.223"
       },
-      "content": "당일정산 한줄에 댓글 분위기 달라지는거 웃김. 이러다 제목만 바꿔서 또 싸울듯.",
+      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
       "deleted": false
     },
     {
-      "id": "nat-2028-000015-002",
+      "id": "c-2028-000015-v8-002",
       "parentId": null,
-      "timestamp": "2028-06-02T13:17:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "와",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-003",
-      "parentId": null,
-      "timestamp": "2028-06-02T13:24:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "현장마다 다르면 보통 뭘 기준으로 봄?. 댓글 싸우지말고 답만좀",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-004",
-      "parentId": null,
-      "timestamp": "2028-06-02T13:34:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "보수 좋은데 조건 애매하면 더 무섭다 ㅋㅋ 이래서 댓글보는 맛은 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-005",
-      "parentId": "nat-2028-000015-002",
-      "timestamp": "2028-06-02T13:41:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "근거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-006",
-      "parentId": "nat-2028-000015-002",
-      "timestamp": "2028-06-02T13:45:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "근데 점심 뭐먹냐 ㅋㅋ 왜 이런글에 댓글이 더 많냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-007",
-      "parentId": null,
-      "timestamp": "2028-06-02T13:55:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "공식 공지 뜬거 맞음? ㅋㅋ 링크 없으면 일단 반만 믿음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-008",
-      "parentId": null,
-      "timestamp": "2028-06-02T14:05:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 ㅋㅋ 결국 서류 먼저 보라고 하더라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-009",
-      "parentId": null,
-      "timestamp": "2028-06-02T14:10:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "기자 이름이라도 알려줘 ㅋㅋ 공식이면 금방 다시 뜰테니 기다리면 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-010",
-      "parentId": null,
-      "timestamp": "2028-06-02T14:11:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "시세보다 너무 높으면 왜 높은지부터 물어봐야됨 / 내생각은 그럼",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-011",
-      "parentId": "nat-2028-000015-002",
-      "timestamp": "2028-06-02T14:12:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "진짜냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-012",
-      "parentId": null,
-      "timestamp": "2028-06-02T14:19:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "원문 어디냐. 링크 없으면 일단 반만 믿음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-013",
-      "parentId": "nat-2028-000015-010",
-      "timestamp": "2028-06-02T14:23:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "시세보다 너무 높으면 왜 높은지부터 물어봐야됨. 지금 정보량으로는 누구도 장담 못함.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-014",
-      "parentId": null,
-      "timestamp": "2028-06-02T14:26:34+09:00",
+      "timestamp": "2028-06-02T13:05:36+09:00",
       "author": {
         "type": "fixed",
-        "name": "계약서읽자",
+        "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "댓글이 본문보다 위험등급 높음 ㅋㅋ 아무도 안물어봤는데 다들 진심임",
+      "content": "일주일 넘고 말도 없으면 물어봐야지",
       "deleted": false
     },
     {
-      "id": "nat-2028-000015-015",
-      "parentId": "nat-2028-000015-008",
-      "timestamp": "2028-06-02T14:28:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "짐꾼 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000015-016",
+      "id": "c-2028-000015-v8-003",
       "parentId": null,
-      "timestamp": "2028-06-02T14:38:10+09:00",
+      "timestamp": "2028-06-02T13:08:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "112.171"
       },
-      "content": "중요한 조건 빼놓는 구인글은 일단 거름 ㅋㅋ 또 싸우겠네",
+      "content": "예상금액으로 먼저 싸우지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000015-v8-004",
+      "parentId": "c-2028-000015-v8-003",
+      "timestamp": "2028-06-02T13:09:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "일주일 넘으면 한번 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000015-v8-005",
+      "parentId": "c-2028-000015-v8-002",
+      "timestamp": "2028-06-02T13:11:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "정산일 적혀있으면 덜싸움",
       "deleted": false
     }
   ],

@@ -1,0 +1,148 @@
+{
+  "id": "hg-2042-000145",
+  "displayNo": 4278912,
+  "timestamp": "2042-09-12T09:33:31+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "언데드 상대할때 준비물 몇개",
+  "author": {
+    "type": "fixed",
+    "name": "별빛단7기",
+    "ip": null
+  },
+  "content": "우리팀 방식이라 절대정답은 아님.\n반박 있으면 경험담으로 해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 2963,
+    "recommend": 4
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000145-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-12T09:36:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "묘지형 두번 가고 손절한놈 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000145-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-12T09:37:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "공략권 싸도 세척비에서 울수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000145-v8-003",
+      "parentId": null,
+      "timestamp": "2042-09-12T09:39:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "정화계 없다고 무조건 못가는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000145-v8-004",
+      "parentId": null,
+      "timestamp": "2042-09-12T09:41:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "정화계 있으면 편한건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000145-v8-005",
+      "parentId": null,
+      "timestamp": "2042-09-12T09:42:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "냄새 분진 싫어서 거르는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000145-v8-006",
+      "parentId": "c-2042-000145-v8-004",
+      "timestamp": "2042-09-12T09:45:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "공략권 싼데는 이유가 있을수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000145-v8-007",
+      "parentId": "c-2042-000145-v8-001",
+      "timestamp": "2042-09-12T09:48:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "세척비까지 넣으면 계산 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000145-v8-008",
+      "parentId": null,
+      "timestamp": "2042-09-12T09:51:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000145-v8-009",
+      "parentId": "c-2042-000145-v8-003",
+      "timestamp": "2042-09-12T09:55:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "냄새 분진때문에 싫어하는팀 많음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

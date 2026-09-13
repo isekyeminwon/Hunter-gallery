@@ -1,0 +1,172 @@
+{
+  "id": "hg-2042-000115",
+  "displayNo": 4197129,
+  "timestamp": "2042-08-17T19:40:44+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[후기] 공략영상 편집본 믿고 따라가면 안되는 이유",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "언데드/묘지형 공략권이 싸다고 바로 개꿀인건 아님.\n\n싸지는 이유가 한개가 아니라 여러개 겹치는 경우가 많음.\n\n- 선호도 낮음\n냄새, 분진, 시야 문제 때문에 싫어하는 파티 많음.\n\n- 조합 탐\n정화계 있으면 편한 상황이 많고\n없으면 장비/소모품으로 메워야 할수 있음.\n\n- 뒤처리\n오염장비 세척, 폐기, 보관 때문에 귀찮음.\n\n- 회수 효율\n게이트마다 다르지만\n'공략권 싸다 = 마석 수익률 높다'는 공식은 없음.\n\n- 보험/장비\n싼 공략권 보고 들어갔다가 준비비용에서 먹는 경우 있음.\n\n결론은\n공략권 가격만 보지말고\n예상 회수액 - 인건비 - 장비 - 보험 - 세척/운송까지 대충 계산해봐야됨.\n\n싸게 나온건 이유가 있을수 있음.\n물론 진짜 저평가 매물일 때도 있어서 결국 팀 경험이 중요함.",
+  "attachments": [],
+  "stats": {
+    "views": 51456,
+    "recommend": 508
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000115-pilot001",
+      "parentId": null,
+      "timestamp": "2042-08-17T19:43:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "영상 12분인데 실제 대기+이동 4시간인 경우 흔함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot002",
+      "parentId": null,
+      "timestamp": "2042-08-17T19:46:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "보스방 직전 컷 전환이 제일 사기임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot003",
+      "parentId": null,
+      "timestamp": "2042-08-17T19:49:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "초보때 진짜 저 속도로 진행하는줄 알았음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot004",
+      "parentId": null,
+      "timestamp": "2042-08-17T19:53:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "근데 동선 공부용으론 도움 되지 않냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot005",
+      "parentId": null,
+      "timestamp": "2042-08-17T19:57:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "도움됨. 문제는 잘린 부분이 없는것처럼 생각하는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot006",
+      "parentId": "c-2042-000115-pilot005",
+      "timestamp": "2042-08-17T20:01:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "ㅇㅇ 그말이면 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot007",
+      "parentId": null,
+      "timestamp": "2042-08-17T20:03:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "원본콜 있는 영상이 확실히 좋더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot008",
+      "parentId": "c-2042-000115-pilot007",
+      "timestamp": "2042-08-17T20:06:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "재미는 없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot009",
+      "parentId": "c-2042-000115-pilot008",
+      "timestamp": "2042-08-17T20:09:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "공부가 재밌으면 그게 더 무서움ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot010",
+      "parentId": null,
+      "timestamp": "2042-08-17T20:12:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000115-pilot011",
+      "parentId": null,
+      "timestamp": "2042-08-17T20:14:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "촬영팀 붙으면 동선 자체가 달라지는것도 있음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

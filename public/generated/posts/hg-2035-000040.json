@@ -1,0 +1,100 @@
+{
+  "id": "hg-2035-000040",
+  "displayNo": 1837989,
+  "timestamp": "2035-01-07T22:10:15+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "게이트 취소되면 일당도 취소임?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.44"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 14325,
+    "recommend": 21
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000040-v8-001",
+      "parentId": null,
+      "timestamp": "2035-01-07T22:13:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000040-v8-002",
+      "parentId": null,
+      "timestamp": "2035-01-07T22:15:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이건 나도 모르겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000040-v8-003",
+      "parentId": null,
+      "timestamp": "2035-01-07T22:19:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "검색결과가 죄다 옛날거임",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000040-v8-004",
+      "parentId": null,
+      "timestamp": "2035-01-07T22:21:34+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "이런건 물어봐도 됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000040-v8-005",
+      "parentId": null,
+      "timestamp": "2035-01-07T22:24:44+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "첫번엔 나도 잘못알았음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

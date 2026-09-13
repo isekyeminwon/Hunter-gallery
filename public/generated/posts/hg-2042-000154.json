@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000154",
+  "displayNo": 4286871,
+  "timestamp": "2042-09-12T18:20:16+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "게이트 첫날 멀미하는사람 있음? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "124.53"
+  },
+  "content": "검색해도 옛날글만 나와서 물어봄.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 30183,
+    "recommend": 261
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000154-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:22:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "첫날 긴장해서 속안좋은사람 꽤 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000154-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:25:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "입장전 과식만 안하면 좀 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000154-v8-003",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:27:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "심하면 참지말고 바로 말해",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000154-v8-004",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:30:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "안에서 토하면 본인도 팀도 고생임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000154-v8-005",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:34:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000144",
+  "displayNo": 4237345,
+  "timestamp": "2042-09-04T00:42:47+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "커뮤 끄고 자야되는데 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "이거 나만 그런가",
+  "attachments": [],
+  "stats": {
+    "views": 31435,
+    "recommend": 206
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

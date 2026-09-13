@@ -1,0 +1,268 @@
+{
+  "id": "hg-2036-000018",
+  "displayNo": 2033612,
+  "timestamp": "2036-04-18T17:10:37+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "US_SECOND_SS",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[후기] 해외반응 출처불명 영상 주의하래",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.235"
+  },
+  "content": "미국 두 번째 SS 확인 관련 지금까지 공개된 것만 정리함.\n출처 애매한 신상썰은 뺐음.\n\n확인된 쪽\n- 미국에서 SS급 존재가 공식적으로 확인됨.\n- 세계 기준으로는 이시율 이후 두 번째 SS 확인 사례.\n- 발표 직후 각국 언론에서 국가전력/게이트 대응 얘기가 같이 나오는 중.\n\n아직 확인 안된 쪽\n- 실명이라는 캡처 여러개\n- 능력명\n- 정확한 전투방식\n- 어느 길드와 계약했다는 썰\n- 이시율과 누가 더 세다는 숫자표\n\n특히 능력 영상이라고 도는 거 두개는 출처가 서로 다름.\n그냥 '미국에도 SS가 확인됐다'까지만 사실로 보는게 맞아보임.\n\n추가 오피셜 있으면 링크 달아주셈.",
+  "attachments": [],
+  "stats": {
+    "views": 17101,
+    "recommend": 497
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000018-v8-001",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:13:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "업데이트 된거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-002",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:17:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "기사 뜨자마자 누구탓인지 정했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-003",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:20:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "통제선 있으면 걍 피해가",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-004",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:23:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "출처 링크좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-005",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:25:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "사람부터 괜찮은지 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-006",
+      "parentId": "c-2036-000018-v8-005",
+      "timestamp": "2036-04-18T17:28:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-007",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:32:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "짤 몇개로 사고경위 다아는척은 하지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-008",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:33:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-009",
+      "parentId": "c-2036-000018-v8-006",
+      "timestamp": "2036-04-18T17:37:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-010",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:41:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이쯤되면 본문 재확인 필요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-011",
+      "parentId": "c-2036-000018-v8-009",
+      "timestamp": "2036-04-18T17:43:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-012",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:46:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-013",
+      "parentId": "c-2036-000018-v8-007",
+      "timestamp": "2036-04-18T17:50:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-014",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:53:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이시율 최근거 더 봐야 알듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-015",
+      "parentId": null,
+      "timestamp": "2036-04-18T17:55:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-016",
+      "parentId": "c-2036-000018-v8-013",
+      "timestamp": "2036-04-18T17:58:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-017",
+      "parentId": null,
+      "timestamp": "2036-04-18T18:01:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-018",
+      "parentId": "c-2036-000018-v8-014",
+      "timestamp": "2036-04-18T18:05:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000018-v8-019",
+      "parentId": null,
+      "timestamp": "2036-04-18T18:08:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

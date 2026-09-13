@@ -1,0 +1,172 @@
+{
+  "id": "hg-2042-000175",
+  "displayNo": 4344562,
+  "timestamp": "2042-09-17T06:48:40+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[정리] 신입 파티원 첫날 체크하는거",
+  "author": {
+    "type": "fixed",
+    "name": "마석눈팅",
+    "ip": null
+  },
+  "content": "언데드/묘지형 공략권이 싸다고 바로 개꿀인건 아님.\n\n싸지는 이유가 한개가 아니라 여러개 겹치는 경우가 많음.\n\n- 선호도 낮음\n냄새, 분진, 시야 문제 때문에 싫어하는 파티 많음.\n\n- 조합 탐\n정화계 있으면 편한 상황이 많고\n없으면 장비/소모품으로 메워야 할수 있음.\n\n- 뒤처리\n오염장비 세척, 폐기, 보관 때문에 귀찮음.\n\n- 회수 효율\n게이트마다 다르지만\n'공략권 싸다 = 마석 수익률 높다'는 공식은 없음.\n\n- 보험/장비\n싼 공략권 보고 들어갔다가 준비비용에서 먹는 경우 있음.\n\n결론은\n공략권 가격만 보지말고\n예상 회수액 - 인건비 - 장비 - 보험 - 세척/운송까지 대충 계산해봐야됨.\n\n싸게 나온건 이유가 있을수 있음.\n물론 진짜 저평가 매물일 때도 있어서 결국 팀 경험이 중요함.",
+  "attachments": [],
+  "stats": {
+    "views": 2227,
+    "recommend": 15
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000175-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:51:07+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:54:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-003",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:57:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "개인보험 있다고 구인보험 안보는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-004",
+      "parentId": "c-2042-000175-v8-002",
+      "timestamp": "2042-09-17T07:01:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-005",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:04:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-006",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:07:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "왜 또 싸움ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-007",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:11:47+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-008",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:15:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "브랜드보다 보장내용 확인해",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-009",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:18:09+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-010",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:22:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000175-v8-011",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:23:41+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -31,68 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "nat-2028-000036-001",
-      "parentId": null,
-      "timestamp": "2028-07-08T20:04:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "댓글 보니까 마석 하나 보고 업계 전체 결론내는건 너무 감 아무튼 조심해라. 여기서 싸워봤자 현장 규정 안바뀜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000036-002",
-      "parentId": null,
-      "timestamp": "2028-07-08T20:06:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "닉 보고 내용 까먹음 ㅋㅋ 퇴근이나 시켜줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000036-003",
-      "parentId": null,
-      "timestamp": "2028-07-08T20:11:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "왜 이런글이 정보글보다 댓글 잘달림ㅋㅋ. 어차피 내일 되면 새 글 또 올라옴.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000036-004",
-      "parentId": null,
-      "timestamp": "2028-07-08T20:16:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 ㅋㅋ 결국 서류 먼저 보라고 하더라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000036-005",
-      "parentId": null,
-      "timestamp": "2028-07-08T20:18:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "이런 쓸데없는 글이 은근 오래 살아남음 / 아님말고",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

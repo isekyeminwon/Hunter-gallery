@@ -1,0 +1,256 @@
+{
+  "id": "hg-2042-000035",
+  "displayNo": 3992270,
+  "timestamp": "2042-03-05T13:13:40+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "회복물자 공용가방 운영해본 후기",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "강원 실종 관련 2042년 들어서도 검색하는 사람 많길래\n확인되는 범위만 다시 적음.\n\n확인되는 것\n- 저등급 게이트 관련 실종사건 조사가 계속되고 있음.\n- 협회가 관련 사건을 조사중이라는 공지/기사가 있었음.\n- 현장 구인글에서 강원권을 꺼리는 반응이 늘어난 건 커뮤에서도 보임.\n\n확인 안되는 것\n- 실종이 전부 같은 원인이라는 주장\n- 특정 헌터/길드가 범인이라는 썰\n- 게이트 안에 '무언가가 숨어있다'는 괴담\n- 출처없는 내부수사 문건\n\n사람 실종된 사건이라\n퍼즐 맞추듯 신상 이어붙이는건 하지마라.\n\n현장가는 사람은 평소보다\n입장기록, 보험, 연락시간, 구인주체 확인 더 꼼꼼히 하고\n이상하면 취소하면 됨.\n\n저등급이라는 말은 상대적인 위험도지\n무사고 보증서가 아님.",
+  "attachments": [],
+  "stats": {
+    "views": 57549,
+    "recommend": 443
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000035-v8-001",
+      "parentId": null,
+      "timestamp": "2042-03-05T13:15:15+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-002",
+      "parentId": null,
+      "timestamp": "2042-03-05T13:16:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-003",
+      "parentId": null,
+      "timestamp": "2042-03-05T13:19:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "팀에서 뭘 들어주는지는 별개임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-004",
+      "parentId": null,
+      "timestamp": "2042-03-05T13:22:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "이름보다 현장등급 제한을 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-005",
+      "parentId": null,
+      "timestamp": "2042-03-05T13:26:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-006",
+      "parentId": null,
+      "timestamp": "2042-03-05T13:30:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "현장등급 제한 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-007",
+      "parentId": "c-2042-000035-v8-003",
+      "timestamp": "2042-03-05T13:33:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "보장범위가 제일 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-008",
+      "parentId": null,
+      "timestamp": "2042-03-05T13:37:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "보험사 이름보다 보장범위가 먼저임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-009",
+      "parentId": "c-2042-000035-v8-004",
+      "timestamp": "2042-03-05T13:40:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-010",
+      "parentId": "c-2042-000035-v8-008",
+      "timestamp": "2042-03-05T13:44:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-011",
+      "parentId": "c-2042-000035-v8-006",
+      "timestamp": "2042-03-05T13:47:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-012",
+      "parentId": null,
+      "timestamp": "2042-03-05T13:49:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-013",
+      "parentId": "c-2042-000035-v8-006",
+      "timestamp": "2042-03-05T13:53:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-014",
+      "parentId": "c-2042-000035-v8-009",
+      "timestamp": "2042-03-05T13:56:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-015",
+      "parentId": null,
+      "timestamp": "2042-03-05T13:59:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-016",
+      "parentId": null,
+      "timestamp": "2042-03-05T14:02:05+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-017",
+      "parentId": null,
+      "timestamp": "2042-03-05T14:05:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000035-v8-018",
+      "parentId": "c-2042-000035-v8-011",
+      "timestamp": "2042-03-05T14:09:08+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

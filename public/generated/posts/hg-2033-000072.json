@@ -33,183 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000072-001",
+      "id": "c-2033-000072-v8-001",
       "parentId": null,
-      "timestamp": "2033-01-11T05:34:57+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "이 경우에도 같은 기준 적용됨?\n초보라 감이 안옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-002",
-      "parentId": null,
-      "timestamp": "2033-01-11T05:40:55+09:00",
+      "timestamp": "2033-01-11T05:35:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "211.234"
       },
-      "content": "커뮤 판례 만들지말고 공식문서 봐라 / 경험자 반박환영",
+      "content": "그 규정 아직 안바뀜?",
       "deleted": false
     },
     {
-      "id": "nat-2033-000072-003",
+      "id": "c-2033-000072-v8-002",
       "parentId": null,
-      "timestamp": "2033-01-11T05:47:55+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "애매하면 안하는게 맞음 ㅋㅋ 또 싸우겠네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-004",
-      "parentId": null,
-      "timestamp": "2033-01-11T05:51:35+09:00",
+      "timestamp": "2033-01-11T05:38:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "106.248"
       },
-      "content": "여기서 핵심은 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 이상함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-005",
-      "parentId": "nat-2033-000072-002",
-      "timestamp": "2033-01-11T05:55:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "너무 과장한다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-006",
-      "parentId": null,
-      "timestamp": "2033-01-11T06:03:09+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "기자 이름이라도 알려줘 / 공식이면 금방 다시 뜰테니 기다리면 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-007",
-      "parentId": "nat-2033-000072-002",
-      "timestamp": "2033-01-11T06:06:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "갑자기 왜 화냄ㅋㅋ ㅋㅋ. 지금 정보량으로는 누구도 장담 못함.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-008",
-      "parentId": null,
-      "timestamp": "2033-01-11T06:16:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "확인된 내용만 적어줘 ㅋㅋ 그거 어제 올라온 가짜랑 비슷한데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-009",
-      "parentId": null,
-      "timestamp": "2033-01-11T06:25:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "내 폰 배터리 3퍼다. 누가 메뉴 하나만 골라줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-010",
-      "parentId": "nat-2033-000072-004",
-      "timestamp": "2033-01-11T06:30:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "오",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-011",
-      "parentId": "nat-2033-000072-009",
-      "timestamp": "2033-01-11T06:40:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "그래서 저녁 추천좀. 답글 달지마 이제 못봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-012",
-      "parentId": null,
-      "timestamp": "2033-01-11T06:43:35+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "마석 경험자 있으면 체감 좀 알려줘\n최근글이 잘 안나옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-013",
-      "parentId": null,
-      "timestamp": "2033-01-11T06:47:37+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "마석 이거 실제 해본 사람 있음\n초보라 감이 안옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-014",
-      "parentId": "nat-2033-000072-003",
-      "timestamp": "2033-01-11T06:55:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "공식 뜨기 전엔 모름. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000072-015",
-      "parentId": null,
-      "timestamp": "2033-01-11T07:02:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이 글 왜 개념감ㅋㅋ 근데 이 커뮤는 새벽에도 똑같네",
+      "content": "그 조항 아직 그대로임?",
       "deleted": false
     }
   ],

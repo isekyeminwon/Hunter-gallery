@@ -1,0 +1,52 @@
+{
+  "id": "hg-2040-000083",
+  "displayNo": 3488556,
+  "timestamp": "2040-02-11T11:58:04+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드 면접때 현장영상 가져가도 됨? 질문",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.250"
+  },
+  "content": "그냥 궁금해서 물어봄.\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 16118,
+    "recommend": 50
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000083-v8-001",
+      "parentId": null,
+      "timestamp": "2040-02-11T11:59:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "나도 예전에 이걸로 물어봤었음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

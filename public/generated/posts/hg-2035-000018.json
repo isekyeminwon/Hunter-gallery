@@ -1,0 +1,256 @@
+{
+  "id": "hg-2035-000018",
+  "displayNo": 1758762,
+  "timestamp": "2035-07-15T15:12:19+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "STELLA_GROWTH",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "방송길드 이후 장비점에서 바뀐거 체감",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n댓글에 원문 있으면 링크좀.",
+  "attachments": [],
+  "stats": {
+    "views": 7704,
+    "recommend": 44
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000018-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:14:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:15:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:17:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "우린 저부분만 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-004",
+      "parentId": "c-2035-000018-v8-003",
+      "timestamp": "2035-07-15T15:20:29+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:23:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "출발전에 정해두는게 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:26:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "뉴비면 이런거부터 읽는게 낫지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:29:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "다음 현장전에 한번 더봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:31:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "이건 한번 터지면 평생 챙김",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:35:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:37:01+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "나만 이렇게 하는건가",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:38:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:41:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "뉴비한텐 이런글이 더 도움됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-013",
+      "parentId": "c-2035-000018-v8-012",
+      "timestamp": "2035-07-15T15:44:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-014",
+      "parentId": "c-2035-000018-v8-011",
+      "timestamp": "2035-07-15T15:46:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-015",
+      "parentId": "c-2035-000018-v8-008",
+      "timestamp": "2035-07-15T15:47:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-016",
+      "parentId": "c-2035-000018-v8-012",
+      "timestamp": "2035-07-15T15:51:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-017",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:53:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000018-v8-018",
+      "parentId": null,
+      "timestamp": "2035-07-15T15:56:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "개웃김",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

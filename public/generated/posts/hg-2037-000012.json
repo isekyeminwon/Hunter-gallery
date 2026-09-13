@@ -1,0 +1,184 @@
+{
+  "id": "hg-2037-000012",
+  "displayNo": 2224182,
+  "timestamp": "2037-03-10T11:58:53+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "GATE_VIDEO_EXPANSION",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "촬영팀 때문에 오늘 일 하나도 못함",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "새로고침 할때마다 이 얘기임ㅋㅋ\n오늘 일 다했다",
+  "attachments": [],
+  "stats": {
+    "views": 27732,
+    "recommend": 227
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000012-v8-001",
+      "parentId": null,
+      "timestamp": "2037-03-10T12:01:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "대기/확인/철수판단이 편집에서 많이 잘림",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-002",
+      "parentId": null,
+      "timestamp": "2037-03-10T12:03:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "영상이 거짓말이라기보다 목적이 다른거",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-003",
+      "parentId": "c-2037-000012-v8-002",
+      "timestamp": "2037-03-10T12:07:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "영상이 구라라기보다 목적이 다른거지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-004",
+      "parentId": null,
+      "timestamp": "2037-03-10T12:10:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "촬영팀 붙으면 동선도 달라질수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-005",
+      "parentId": "c-2037-000012-v8-002",
+      "timestamp": "2037-03-10T12:12:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "편집본은 잘린시간 감안하고 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-006",
+      "parentId": null,
+      "timestamp": "2037-03-10T12:16:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "편집본만 보면 15분컷 같음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-007",
+      "parentId": null,
+      "timestamp": "2037-03-10T12:19:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "원본콜 있는 영상이 공부할땐 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-008",
+      "parentId": null,
+      "timestamp": "2037-03-10T12:22:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-009",
+      "parentId": "c-2037-000012-v8-004",
+      "timestamp": "2037-03-10T12:24:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "원본콜 있으면 공부는 훨씬 잘됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-010",
+      "parentId": null,
+      "timestamp": "2037-03-10T12:27:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-011",
+      "parentId": null,
+      "timestamp": "2037-03-10T12:30:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000012-v8-012",
+      "parentId": null,
+      "timestamp": "2037-03-10T12:33:45+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

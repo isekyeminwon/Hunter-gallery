@@ -1,0 +1,39 @@
+{
+  "id": "hg-2041-000088",
+  "displayNo": 3842221,
+  "timestamp": "2041-11-16T16:08:08+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "아무리 헌터여도 치과는 무섭다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.235"
+  },
+  "content": "그냥 그렇다고ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 18360,
+    "recommend": 62
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

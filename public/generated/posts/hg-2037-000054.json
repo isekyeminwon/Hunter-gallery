@@ -1,0 +1,196 @@
+{
+  "id": "hg-2037-000054",
+  "displayNo": 2391403,
+  "timestamp": "2037-08-21T15:48:48+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "A_RANK_2037_GEN",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "길드 영입전 이럴때 현장인력은 뭐부터 체크함?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
+  "attachments": [],
+  "stats": {
+    "views": 28248,
+    "recommend": 39
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000054-v8-001",
+      "parentId": null,
+      "timestamp": "2037-08-21T15:52:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "다음 현장전에 한번 더봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-002",
+      "parentId": null,
+      "timestamp": "2037-08-21T15:55:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "내가 가는팀은 반대로함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-003",
+      "parentId": null,
+      "timestamp": "2037-08-21T15:58:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "출발전에 정해두는게 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-004",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:01:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "한번 고생하면 절대 안빼먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-005",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:05:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "이런게 실제로 도움됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-006",
+      "parentId": "c-2037-000054-v8-003",
+      "timestamp": "2037-08-21T16:07:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-007",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:11:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-008",
+      "parentId": "c-2037-000054-v8-007",
+      "timestamp": "2037-08-21T16:14:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-009",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:16:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-010",
+      "parentId": "c-2037-000054-v8-009",
+      "timestamp": "2037-08-21T16:17:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-011",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:21:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-012",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:23:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000054-v8-013",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:27:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "니들 왜 갑자기 싸우냐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

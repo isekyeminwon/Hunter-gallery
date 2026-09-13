@@ -1,0 +1,52 @@
+{
+  "id": "hg-2040-000053",
+  "displayNo": 3371194,
+  "timestamp": "2040-01-25T14:03:26+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드카페 커피 은근 비쌈",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "112.171"
+  },
+  "content": "이거 나만 그런가",
+  "attachments": [],
+  "stats": {
+    "views": 11656,
+    "recommend": 60
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000053-v8-001",
+      "parentId": null,
+      "timestamp": "2040-01-25T14:06:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "뭔데",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

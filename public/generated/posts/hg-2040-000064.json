@@ -1,0 +1,64 @@
+{
+  "id": "hg-2040-000064",
+  "displayNo": 3408810,
+  "timestamp": "2040-12-20T12:55:05+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "항만현장 위험수당 보통 얼마붙음 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.33"
+  },
+  "content": "그냥 궁금해서 물어봄.\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 4481,
+    "recommend": 32
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000064-v8-001",
+      "parentId": null,
+      "timestamp": "2040-12-20T12:57:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "지원팀 붙으면 평소 파티콜로 안되는 순간 생김",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000064-v8-002",
+      "parentId": null,
+      "timestamp": "2040-12-20T13:00:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "사고원인 뜨기전에 길드탓부터 하던거 기억남",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

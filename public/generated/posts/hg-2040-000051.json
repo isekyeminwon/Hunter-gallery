@@ -1,0 +1,112 @@
+{
+  "id": "hg-2040-000051",
+  "displayNo": 3363551,
+  "timestamp": "2040-11-11T12:58:12+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회 긴급점검 공지 올라옴",
+  "author": {
+    "type": "fixed",
+    "name": "계약서읽자",
+    "ip": null
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 3357,
+    "recommend": 27
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000051-v8-001",
+      "parentId": null,
+      "timestamp": "2040-11-11T13:01:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "사진 몇장으로 원인확정은 무리임",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000051-v8-002",
+      "parentId": null,
+      "timestamp": "2040-11-11T13:03:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "출처 링크좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000051-v8-003",
+      "parentId": "c-2040-000051-v8-002",
+      "timestamp": "2040-11-11T13:05:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000051-v8-004",
+      "parentId": null,
+      "timestamp": "2040-11-11T13:07:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "부상자 상태는 괜찮대?",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000051-v8-005",
+      "parentId": null,
+      "timestamp": "2040-11-11T13:10:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "근처사는 사람은 교통공지 먼저봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000051-v8-006",
+      "parentId": null,
+      "timestamp": "2040-11-11T13:14:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "아직 조사중인데 욕할사람부터 찾음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

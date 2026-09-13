@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000048",
+  "displayNo": 4054991,
+  "timestamp": "2042-04-26T09:09:20+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "이채린 네뷸라 영상 요즘 안나오냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.62"
+  },
+  "content": "팬아닌데 이건 볼만하네.",
+  "attachments": [],
+  "stats": {
+    "views": 44645,
+    "recommend": 229
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000048-v8-001",
+      "parentId": null,
+      "timestamp": "2042-04-26T09:10:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "이채린 단독은 최근 진짜 뜸함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000048-v8-002",
+      "parentId": null,
+      "timestamp": "2042-04-26T09:14:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "짤만 돌면 원본 찾기 빡셈",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

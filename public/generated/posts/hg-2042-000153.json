@@ -1,0 +1,88 @@
+{
+  "id": "hg-2042-000153",
+  "displayNo": 4284997,
+  "timestamp": "2042-09-12T18:04:44+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "협회가 공략권 취소시키는 경우 뭐있음?",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "검색해도 옛날글만 나와서 물어봄.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 33363,
+    "recommend": 222
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000153-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:07:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "인원/자격 조건 깨지면 보류나 취소 얘기 나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000153-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:08:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "허위서류면 당연히 문제지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000153-v8-003",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:11:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "팀 마음대로 결정하는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000153-v8-004",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:15:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "사고 한번=자동취소는 아님",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

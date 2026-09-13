@@ -1,0 +1,208 @@
+{
+  "id": "hg-2035-000069",
+  "displayNo": 1956750,
+  "timestamp": "2035-07-15T17:46:41+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "S급 장비대여 취소 많다네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.33"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
+  "attachments": [],
+  "stats": {
+    "views": 10264,
+    "recommend": 49
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000069-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-15T17:50:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-15T17:53:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-003",
+      "parentId": "c-2035-000069-v8-002",
+      "timestamp": "2035-07-15T17:57:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-004",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:00:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-005",
+      "parentId": "c-2035-000069-v8-004",
+      "timestamp": "2035-07-15T18:03:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "예상시간 몇시간인데",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:06:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-007",
+      "parentId": "c-2035-000069-v8-004",
+      "timestamp": "2035-07-15T18:10:08+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-008",
+      "parentId": "c-2035-000069-v8-006",
+      "timestamp": "2035-07-15T18:12:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:14:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "원글 세줄인데 밑이 더김",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:16:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:18:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-012",
+      "parentId": "c-2035-000069-v8-009",
+      "timestamp": "2035-07-15T18:21:20+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-013",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:23:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-v8-014",
+      "parentId": "c-2035-000069-v8-012",
+      "timestamp": "2035-07-15T18:24:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -33,339 +33,147 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2028-000008-001",
+      "id": "c-2028-000008-v8-001",
       "parentId": null,
-      "timestamp": "2028-01-23T14:34:03+09:00",
+      "timestamp": "2028-01-23T14:34:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "210.178"
       },
-      "content": "정산은 들어가기 전에 기준 정해라. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "content": "인건비 장비 보험 빼면 계산 달라짐",
       "deleted": false
     },
     {
-      "id": "nat-2028-000008-002",
-      "parentId": "nat-2028-000008-001",
-      "timestamp": "2028-01-23T14:35:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "왜 싸우냐ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-003",
+      "id": "c-2028-000008-v8-002",
       "parentId": null,
-      "timestamp": "2028-01-23T14:36:44+09:00",
+      "timestamp": "2028-01-23T14:37:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "112.171"
       },
-      "content": "내가 잘못 아는거 아니면 공략권는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 이건 맞는말임",
+      "content": "낙찰가 높아도 회수 기대 크면 경쟁붙지",
       "deleted": false
     },
     {
-      "id": "nat-2028-000008-004",
-      "parentId": "nat-2028-000008-003",
-      "timestamp": "2028-01-23T14:39:25+09:00",
+      "id": "c-2028-000008-v8-003",
+      "parentId": "c-2028-000008-v8-002",
+      "timestamp": "2028-01-23T14:40:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "125.180"
       },
-      "content": "그래서 결론이 뭐임. 진짜.. 조건 하나만 달라도 얘기 완전 달라짐.",
+      "content": "공략권이랑 마석값은 별개지",
       "deleted": false
     },
     {
-      "id": "nat-2028-000008-005",
-      "parentId": null,
-      "timestamp": "2028-01-23T14:40:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "등급표 들고 계산기 두드리는 애 또 나옴 / ㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-006",
-      "parentId": null,
-      "timestamp": "2028-01-23T14:41:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "아니 공략권 하나 보고 업계 전체 결론내는건 너무 감 좀 에바임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-007",
-      "parentId": "nat-2028-000008-004",
-      "timestamp": "2028-01-23T14:42:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "댓글 잘못 단거 아님? / 둘다 그만해. 괜히 한쪽 말만 듣고 움직이지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-008",
-      "parentId": null,
-      "timestamp": "2028-01-23T14:43:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "D E 어디갔냐는 질문은 지금까지도 안없어짐ㅋㅋ ㅋㅋ 실시간으로 본 사람들은 더 정신없었을듯",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-009",
-      "parentId": null,
-      "timestamp": "2028-01-23T14:43:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "이 댓글창만 게이트 닫으면 안되냐 ㅋㅋ 팝콘 부족함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-010",
-      "parentId": null,
-      "timestamp": "2028-01-23T14:46:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-011",
-      "parentId": null,
-      "timestamp": "2028-01-23T14:47:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "제일 중요한건 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 확정짓긴 이른듯",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-012",
-      "parentId": null,
-      "timestamp": "2028-01-23T14:48:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "한명만 더 화내면 개념글 확정\n관리자도 보고 웃겠다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-013",
-      "parentId": "nat-2028-000008-010",
-      "timestamp": "2028-01-23T14:50:13+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "공략권 얘기하는데 왜 갑자기 딴소리함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-014",
-      "parentId": "nat-2028-000008-002",
-      "timestamp": "2028-01-23T14:52:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "아는척 지랄 좀 그만해라 근데 아무말이나 던지고 튀네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-015",
-      "parentId": null,
-      "timestamp": "2028-01-23T14:55:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "여기서 우승하면 협회장 시켜줌? ㅋㅋ ㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-016",
-      "parentId": "nat-2028-000008-001",
-      "timestamp": "2028-01-23T14:56:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "너 기사 잘못본듯. 작성자도 너무 확신하진 마라.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-017",
-      "parentId": "nat-2028-000008-010",
-      "timestamp": "2028-01-23T14:57:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-018",
-      "parentId": null,
-      "timestamp": "2028-01-23T14:58:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "최근 기준 달라진거 있음? ㅋㅋ 댓글 싸우지말고 답만좀",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-019",
-      "parentId": null,
-      "timestamp": "2028-01-23T15:01:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "뭔 개소리야 근데 아무말이나 던지고 튀네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-020",
-      "parentId": "nat-2028-000008-015",
-      "timestamp": "2028-01-23T15:02:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "공략권 관련해서 협회에 물어본 사람?. 이거만 확인하고싶음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-021",
-      "parentId": null,
-      "timestamp": "2028-01-23T15:03:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "장비보다 사람 합이 먼저라는 말 괜히 나오는게 아님 ㅋㅋ 이래서 댓글보는 맛은 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-022",
-      "parentId": null,
-      "timestamp": "2028-01-23T15:05:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "F급 짐꾼 우습게 보다가 현장에서 짐 보고 입닫는 사람 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000008-023",
-      "parentId": null,
-      "timestamp": "2028-01-23T15:06:21+09:00",
+      "id": "c-2028-000008-v8-004",
+      "parentId": "c-2028-000008-v8-001",
+      "timestamp": "2028-01-23T14:44:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.102"
       },
-      "content": "광고가 본문보다 눈에 들어오네 ㅋㅋ 본문이랑 상관없긴 한데 궁금함",
+      "content": "권리 가진팀 아니면 그냥 들어가는 구조 아님",
       "deleted": false
     },
     {
-      "id": "nat-2028-000008-024",
+      "id": "c-2028-000008-v8-005",
       "parentId": null,
-      "timestamp": "2028-01-23T15:08:58+09:00",
+      "timestamp": "2028-01-23T14:48:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "210.178"
       },
-      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어 / 내생각은 그럼",
+      "content": "공략권이랑 마석값은 따로 봐야됨",
       "deleted": false
     },
     {
-      "id": "nat-2028-000008-025",
+      "id": "c-2028-000008-v8-006",
       "parentId": null,
-      "timestamp": "2028-01-23T15:10:48+09:00",
+      "timestamp": "2028-01-23T14:49:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "125.180"
       },
-      "content": "별거 아닌 팁이 사고 한번 나면 평생 기억남 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "content": "권리 가진팀 아니면 그냥 들어가는 구조가 아님",
       "deleted": false
     },
     {
-      "id": "nat-2028-000008-026",
+      "id": "c-2028-000008-v8-007",
       "parentId": null,
-      "timestamp": "2028-01-23T15:11:01+09:00",
+      "timestamp": "2028-01-23T14:50:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "싸게 샀다고 무조건 이득은 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000008-v8-008",
+      "parentId": null,
+      "timestamp": "2028-01-23T14:52:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "공략권은 누가 들어가서 공략할 권리냐는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000008-v8-009",
+      "parentId": null,
+      "timestamp": "2028-01-23T14:56:31+09:00",
       "author": {
         "type": "fixed",
         "name": "협회노예",
         "ip": null
       },
-      "content": "최근 기준 달라진거 있음? / 최근글이 잘 안나옴",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2028-000008-027",
+      "id": "c-2028-000008-v8-010",
       "parentId": null,
-      "timestamp": "2028-01-23T15:11:34+09:00",
+      "timestamp": "2028-01-23T14:58:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "106.102"
       },
-      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "content": "나도 비슷했음",
       "deleted": false
     },
     {
-      "id": "nat-2028-000008-028",
-      "parentId": null,
-      "timestamp": "2028-01-23T15:13:43+09:00",
+      "id": "c-2028-000008-v8-011",
+      "parentId": "c-2028-000008-v8-008",
+      "timestamp": "2028-01-23T15:01:18+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "112.171"
       },
-      "content": "D E 어디갔냐는 질문은 지금까지도 안없어짐ㅋㅋ. 한시간 뒤 글이랑 내용 또 달라졌던 기억남",
+      "content": "인건비 장비 보험까지 빼야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000008-v8-012",
+      "parentId": null,
+      "timestamp": "2028-01-23T15:04:13+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "난 반대",
       "deleted": false
     }
   ],

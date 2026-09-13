@@ -1,0 +1,256 @@
+{
+  "id": "hg-2039-000017",
+  "displayNo": 2931718,
+  "timestamp": "2039-05-19T11:51:00+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "EAST_SEA_PORT_ACCIDENT",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "오늘 헌갤 새로고침 속도 미쳤다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.235"
+  },
+  "content": "기사 하나 읽었는데 추천글 다 이거임ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 31272,
+    "recommend": 184
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000017-v8-001",
+      "parentId": null,
+      "timestamp": "2039-05-19T11:53:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-002",
+      "parentId": null,
+      "timestamp": "2039-05-19T11:56:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-003",
+      "parentId": "c-2039-000017-v8-002",
+      "timestamp": "2039-05-19T11:58:35+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-004",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:00:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-005",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:02:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-006",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:06:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-007",
+      "parentId": "c-2039-000017-v8-004",
+      "timestamp": "2039-05-19T12:07:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-008",
+      "parentId": "c-2039-000017-v8-001",
+      "timestamp": "2039-05-19T12:10:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-009",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:12:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "댓글끼리 논문쓰네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-010",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:15:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-011",
+      "parentId": "c-2039-000017-v8-009",
+      "timestamp": "2039-05-19T12:17:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-012",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:20:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이쯤되면 본문 재확인 필요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-013",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:22:04+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-014",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:23:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-015",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:26:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-016",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:29:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-017",
+      "parentId": "c-2039-000017-v8-010",
+      "timestamp": "2039-05-19T12:33:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000017-v8-018",
+      "parentId": "c-2039-000017-v8-013",
+      "timestamp": "2039-05-19T12:35:01+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

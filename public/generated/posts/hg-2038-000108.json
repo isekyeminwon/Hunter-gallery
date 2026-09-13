@@ -1,0 +1,76 @@
+{
+  "id": "hg-2038-000108",
+  "displayNo": 2815028,
+  "timestamp": "2038-05-13T23:50:35+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 렌탈 처음인데 보증금 원래 이정도?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "220.79"
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 2928,
+    "recommend": 16
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000108-v8-001",
+      "parentId": null,
+      "timestamp": "2038-05-13T23:53:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "검색결과가 죄다 옛날거임",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000108-v8-002",
+      "parentId": null,
+      "timestamp": "2038-05-13T23:55:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "뉴비면 이거 모를수있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000108-v8-003",
+      "parentId": null,
+      "timestamp": "2038-05-13T23:58:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "이거 초보때 은근 헷갈림",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

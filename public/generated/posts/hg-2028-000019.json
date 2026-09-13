@@ -33,183 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2028-000019-001",
+      "id": "c-2028-000019-v8-001",
       "parentId": null,
-      "timestamp": "2028-10-18T08:28:02+09:00",
+      "timestamp": "2028-10-18T08:25:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "223.38"
       },
-      "content": "금액만 보고 가지말고 보험이랑 계약주체부터 봐",
+      "content": "하루 차이로도 가격 체감날때 있음",
       "deleted": false
     },
     {
-      "id": "nat-2028-000019-002",
+      "id": "c-2028-000019-v8-002",
       "parentId": null,
-      "timestamp": "2028-10-18T08:35:12+09:00",
+      "timestamp": "2028-10-18T08:27:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "118.41"
       },
-      "content": "보수 좋은데 조건 애매하면 더 무섭다 ㅋㅋ 또 싸우겠네",
+      "content": "민간쪽은 조건이 다 달라서 귀찮음",
       "deleted": false
     },
     {
-      "id": "nat-2028-000019-003",
-      "parentId": "nat-2028-000019-002",
-      "timestamp": "2028-10-18T08:36:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "그건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-004",
-      "parentId": "nat-2028-000019-003",
-      "timestamp": "2028-10-18T08:41:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "뭔 개소리야 근데 한번만 더 생각하고 써봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-005",
+      "id": "c-2028-000019-v8-003",
       "parentId": null,
-      "timestamp": "2028-10-18T08:48:03+09:00",
+      "timestamp": "2028-10-18T08:31:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "223.38"
       },
-      "content": "보수 좋은데 조건 애매하면 더 무섭다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-006",
-      "parentId": null,
-      "timestamp": "2028-10-18T08:56:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "예전에 처음 갔을땐 나도 ㅋㅋ 한번 데이고 생각 바뀜",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-007",
-      "parentId": null,
-      "timestamp": "2028-10-18T08:56:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "이거 커뮤발인지 기사발인지부터 말해. 번역짤은 자꾸 내용 잘려서 못믿겠음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-008",
-      "parentId": null,
-      "timestamp": "2028-10-18T09:05:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "글쓴이 그 뒤에 후기 없음?\n진짜 궁금해서 물음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-009",
-      "parentId": null,
-      "timestamp": "2028-10-18T09:07:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "아니 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 좀 에바임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-010",
-      "parentId": "nat-2028-000019-001",
-      "timestamp": "2028-10-18T09:08:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "협회 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-011",
-      "parentId": null,
-      "timestamp": "2028-10-18T09:10:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "계약서 가리고 올리면 봐줄 사람 많을듯",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-012",
-      "parentId": null,
-      "timestamp": "2028-10-18T09:13:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "뭐 협회 얘기만 나오면 갑자기 다들 현장 전문가 됨 결론 내리기 애매함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-013",
-      "parentId": null,
-      "timestamp": "2028-10-18T09:15:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "계약서 가리고 올리면 봐줄 사람 많을듯",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-014",
-      "parentId": "nat-2028-000019-013",
-      "timestamp": "2028-10-18T09:17:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "아니 같은 기사 맞음. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000019-015",
-      "parentId": null,
-      "timestamp": "2028-10-18T09:18:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "개소리를 정성스럽게도 썼네. 말을 해도 꼭 저렇게 함",
+      "content": "조금 높게쳐줘도 수수료 빼면 비슷할수 있음",
       "deleted": false
     }
   ],

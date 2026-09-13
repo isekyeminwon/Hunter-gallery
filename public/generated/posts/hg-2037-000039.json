@@ -1,0 +1,39 @@
+{
+  "id": "hg-2037-000039",
+  "displayNo": 2333206,
+  "timestamp": "2037-09-26T12:26:30+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 현장 취소돼서 개꿀 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 13157,
+    "recommend": 59
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

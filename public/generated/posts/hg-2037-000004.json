@@ -1,0 +1,39 @@
+{
+  "id": "hg-2037-000004",
+  "displayNo": 2191301,
+  "timestamp": "2037-04-03T11:45:08+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 현장 취소돼서 개꿀",
+  "author": {
+    "type": "fixed",
+    "name": "마석눈팅",
+    "ip": null
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 17641,
+    "recommend": 72
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

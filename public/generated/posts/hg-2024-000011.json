@@ -33,123 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2024-000011-001",
+      "id": "c-2024-000011-v8-001",
       "parentId": null,
-      "timestamp": "2024-10-22T17:04:50+09:00",
+      "timestamp": "2024-10-22T17:07:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "211.36"
       },
-      "content": "측정 경험자 있으면 체감 좀 알려줘. 최근글이 잘 안나옴",
+      "content": "스무살 규칙은 이제 거의 굳어진 느낌",
       "deleted": false
     },
     {
-      "id": "nat-2024-000011-002",
-      "parentId": "nat-2024-000011-001",
-      "timestamp": "2024-10-22T17:11:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "반박을 하라고 선언하지 말고ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000011-003",
-      "parentId": "nat-2024-000011-001",
-      "timestamp": "2024-10-22T17:17:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "뭔 개소리야",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000011-004",
+      "id": "c-2024-000011-v8-002",
       "parentId": null,
-      "timestamp": "2024-10-22T17:22:26+09:00",
+      "timestamp": "2024-10-22T17:08:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "118.44"
       },
-      "content": "측정 경험자 있으면 체감 좀 알려줘. 진짜 궁금해서 물음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000011-005",
-      "parentId": null,
-      "timestamp": "2024-10-22T17:26:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "당일정산 한줄에 댓글 분위기 달라지는거 웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000011-006",
-      "parentId": null,
-      "timestamp": "2024-10-22T17:31:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "오히려 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 괜히 엮이지마. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000011-007",
-      "parentId": null,
-      "timestamp": "2024-10-22T17:34:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "당일정산 한줄에 댓글 분위기 달라지는거 웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000011-008",
-      "parentId": null,
-      "timestamp": "2024-10-22T17:37:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "내가 협회면 이 댓글창부터 통제함 ㅋㅋ 이래서 헌갤을 못끊음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000011-009",
-      "parentId": null,
-      "timestamp": "2024-10-22T17:44:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "계약서 가리고 올리면 봐줄 사람 많을듯 / 아님말고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000011-010",
-      "parentId": null,
-      "timestamp": "2024-10-22T17:50:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "애초에 측정는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 괜히 엮이지마",
+      "content": "등급표 중간 비는건 아직도 어색함",
       "deleted": false
     }
   ],

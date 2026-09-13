@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000015",
+  "displayNo": 3982870,
+  "timestamp": "2042-02-15T18:15:26+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "부상보험 청구 처음인데 뭐챙김?",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "검색해도 옛날글만 나와서 물어봄.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 34003,
+    "recommend": 221
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000015-v8-001",
+      "parentId": null,
+      "timestamp": "2042-02-15T18:19:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000015-v8-002",
+      "parentId": null,
+      "timestamp": "2042-02-15T18:21:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000015-v8-003",
+      "parentId": "c-2042-000015-v8-001",
+      "timestamp": "2042-02-15T18:25:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000015-v8-004",
+      "parentId": null,
+      "timestamp": "2042-02-15T18:26:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "보험사 간판보다 약관부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000015-v8-005",
+      "parentId": null,
+      "timestamp": "2042-02-15T18:30:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

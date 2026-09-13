@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000156",
+  "displayNo": 4230544,
+  "timestamp": "2042-09-01T15:19:02+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석 정산표 양식 공유는 못하고 항목만 적음",
+  "author": {
+    "type": "fixed",
+    "name": "마탑첩자",
+    "ip": null
+  },
+  "content": "우리팀 방식이라 절대정답은 아님.\n반박 있으면 경험담으로 해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 15467,
+    "recommend": 79
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000156-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-01T15:22:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "계약할때 정산일 적혀있는게 제일 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000156-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-01T15:24:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000156-v8-003",
+      "parentId": "c-2042-000156-v8-001",
+      "timestamp": "2042-09-01T15:27:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "예상금액으로 먼저 싸우지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000156-v8-004",
+      "parentId": null,
+      "timestamp": "2042-09-01T15:30:29+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000156-v8-005",
+      "parentId": null,
+      "timestamp": "2042-09-01T15:33:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

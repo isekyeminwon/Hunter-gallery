@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000131",
+  "displayNo": 4277355,
+  "timestamp": "2042-09-12T00:21:23+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석모양 예쁜거 보면 아직 신기함 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "182.214"
+  },
+  "content": "오늘 하루 존나길다",
+  "attachments": [],
+  "stats": {
+    "views": 34589,
+    "recommend": 272
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

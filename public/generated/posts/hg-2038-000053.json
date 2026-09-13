@@ -1,0 +1,64 @@
+{
+  "id": "hg-2038-000053",
+  "displayNo": 2611384,
+  "timestamp": "2038-10-14T09:16:43+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "네뷸라 연구영상 은근 재밌다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 10852,
+    "recommend": 5
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000053-v8-001",
+      "parentId": null,
+      "timestamp": "2038-10-14T09:18:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "짤만 돌면 원본 찾기 빡셈",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000053-v8-002",
+      "parentId": null,
+      "timestamp": "2038-10-14T09:21:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "마법계 설명영상은 생각보다 볼만함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

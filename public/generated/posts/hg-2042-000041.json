@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000041",
+  "displayNo": 4046021,
+  "timestamp": "2042-04-18T05:54:53+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 첫끼 뭐먹냐",
+  "author": {
+    "type": "fixed",
+    "name": "현장밥차",
+    "ip": null
+  },
+  "content": "그냥 그렇다고ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 23931,
+    "recommend": 100
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

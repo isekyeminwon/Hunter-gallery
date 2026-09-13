@@ -1,0 +1,39 @@
+{
+  "id": "hg-2039-000014",
+  "displayNo": 2920544,
+  "timestamp": "2039-05-19T11:28:00+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "EAST_SEA_PORT_ACCIDENT",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[공지] 동해항 사고 현장위치·부상자 신상 추측 자제",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "동해항 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
+  "attachments": [],
+  "stats": {
+    "views": 74152,
+    "recommend": 111
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

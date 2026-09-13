@@ -33,411 +33,231 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000009-001",
+      "id": "c-2033-000009-v8-001",
       "parentId": null,
-      "timestamp": "2033-09-14T13:33:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이거 보험 처리도 똑같음?. 진짜 궁금해서 물음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-002",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:35:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 결국 서류 먼저 보라고 하더라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-003",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:36:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "SS 하나가 S 몇명분이냐는 질문부터가 답이 없는 질문임ㅋㅋ. 이래서 원문 날짜 확인이 중요함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-004",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:39:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이거 관련해서 협회에 물어본 사람? / 진짜 궁금해서 물음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-005",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:41:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ ㅋㅋ 댓글 더 달수록 이상해짐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-006",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:42:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "이시율 영상 하나로 서버 터진건 이해됨\n지금 보면 웃긴데 당시엔 진지했겠지",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-007",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:43:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "개소리를 정성스럽게도 썼네 근데 아무말이나 던지고 튀네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-008",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:44:32+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "지금 나온 것만 보면 이거 관련해서 기사마다 말 조금씩 다른게 문제임 반박시 니말맞음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-009",
-      "parentId": "nat-2033-000009-003",
-      "timestamp": "2033-09-14T13:45:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "와 이걸 그렇게 이해함? 근데 그래서 근거가 뭔데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-010",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:46:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "원글 세줄인데 토론회가 열림\n이래서 헌갤을 못끊음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-011",
-      "parentId": "nat-2033-000009-001",
-      "timestamp": "2033-09-14T13:47:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "와 이걸 그렇게 이해함? / ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-012",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:47:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "ㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-013",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:50:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-014",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:51:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "질문자 패지말고 틀린 부분만 말해주면 되잖아. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-015",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:53:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "둘 다 개소리중임. 이건 좀 심했다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-016",
-      "parentId": "nat-2033-000009-010",
-      "timestamp": "2033-09-14T13:55:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-017",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:56:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이시율 영상 하나로 서버 터진건 이해됨. 지금 보면 웃긴데 당시엔 진지했겠지",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-018",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:58:42+09:00",
+      "timestamp": "2033-09-14T13:35:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "124.53"
       },
-      "content": "SS 등급을 사람 한명 때문에 새로 만든다는게 제일 미친 부분임\n이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "content": "이시율 보고도 몇배냐 묻는건 무리",
       "deleted": false
     },
     {
-      "id": "nat-2033-000009-019",
-      "parentId": "nat-2033-000009-003",
-      "timestamp": "2033-09-14T13:58:58+09:00",
+      "id": "c-2033-000009-v8-002",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:38:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "112.171"
       },
-      "content": "조건 하나 빠졌잖아 ㅋㅋ. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "content": "기존 규격 장비로 감당 안되는 얘기 나온적 있음",
       "deleted": false
     },
     {
-      "id": "nat-2033-000009-020",
+      "id": "c-2033-000009-v8-003",
       "parentId": null,
-      "timestamp": "2033-09-14T13:59:10+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 ㅋㅋ 결국 서류 먼저 보라고 하더라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-021",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:59:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "일단 이거 관련해서 기사마다 말 조금씩 다른게 문제임 같음. 아무튼 내 돈 걸라면 난 안검.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-022",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:59:53+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "댓글 보니까 이거 자체보다 조건이 뭐였는지부터 봐야됨 결론 내리기 애매함. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-023",
-      "parentId": "nat-2033-000009-020",
-      "timestamp": "2033-09-14T14:02:36+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "뉴비 질문에 왜 다들 이렇게 화나있냐. 아무튼 내 돈 걸라면 난 안검.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-024",
-      "parentId": null,
-      "timestamp": "2033-09-14T14:03:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "나도 처음엔 여기서 막혔음 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-025",
-      "parentId": null,
-      "timestamp": "2033-09-14T14:05:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이거 이거 실제 해본 사람 있음 / 이거만 확인하고싶음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-026",
-      "parentId": null,
-      "timestamp": "2033-09-14T14:05:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "현장마다 다르면 보통 뭘 기준으로 봄? ㅋㅋ 검색하면 말이 다 다름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-027",
-      "parentId": "nat-2033-000009-022",
-      "timestamp": "2033-09-14T14:06:11+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "너 기사 잘못본듯. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-028",
-      "parentId": null,
-      "timestamp": "2033-09-14T14:06:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "짤만 던지지 말고 원본 좀 근데 공식이면 금방 다시 뜰테니 기다리면 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-029",
-      "parentId": null,
-      "timestamp": "2033-09-14T14:07:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "원문 어디냐 / 링크 없으면 일단 반만 믿음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-030",
-      "parentId": "nat-2033-000009-013",
-      "timestamp": "2033-09-14T14:07:31+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "그 말이면 세상 모든 질문 끝남ㅋㅋ. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-031",
-      "parentId": "nat-2033-000009-013",
-      "timestamp": "2033-09-14T14:09:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "예외 하나 들고와서 전체가 틀렸다고 하면 어떡함. 다시 읽어봐. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-032",
-      "parentId": null,
-      "timestamp": "2033-09-14T14:11:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "글쓴이 도망갔는데 댓글끼리 3차전중 / 오늘도 평화롭다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-033",
-      "parentId": null,
-      "timestamp": "2033-09-14T14:13:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이거 보험 처리도 똑같음? ㅋㅋ 초보라 감이 안옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000009-034",
-      "parentId": "nat-2033-000009-029",
-      "timestamp": "2033-09-14T14:14:13+09:00",
+      "timestamp": "2033-09-14T13:42:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "110.70"
       },
-      "content": "헌갤 평균 IQ 측정 들어갑니다 ㅋㅋ ㅋㅋㅋㅋㅋ",
+      "content": "S 몇명분 이런 계산은 의미없지 않나",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-004",
+      "parentId": "c-2033-000009-v8-001",
+      "timestamp": "2033-09-14T13:44:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-005",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:46:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "SS가 기존 S로 설명 안되는놈 나와서 만든거잖아",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-006",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:48:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-007",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:50:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "최근에 해본사람 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-008",
+      "parentId": "c-2033-000009-v8-004",
+      "timestamp": "2033-09-14T13:52:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "이건 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-009",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:55:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-010",
+      "parentId": "c-2033-000009-v8-007",
+      "timestamp": "2033-09-14T13:57:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-011",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:00:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-012",
+      "parentId": "c-2033-000009-v8-008",
+      "timestamp": "2033-09-14T14:01:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-013",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:04:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-014",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:06:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-015",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:08:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-016",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:12:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-017",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:14:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-018",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:16:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-v8-019",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:19:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "ㅇㅇ",
       "deleted": false
     }
   ],

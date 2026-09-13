@@ -33,291 +33,171 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2032-000008-001",
+      "id": "c-2032-000008-v8-001",
       "parentId": null,
-      "timestamp": "2032-05-08T18:33:35+09:00",
+      "timestamp": "2032-05-08T18:34:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "223.62"
       },
-      "content": "다 떠나서 김채연 관련해서 기사마다 말 조금씩 다른게 문제임 반박시 니말맞음. 이러다 제목만 바꿔서 또 싸울듯.",
+      "content": "후속캠 같이 보면 느낌 더옴",
       "deleted": false
     },
     {
-      "id": "nat-2032-000008-002",
+      "id": "c-2032-000008-v8-002",
       "parentId": null,
-      "timestamp": "2032-05-08T18:34:27+09:00",
+      "timestamp": "2032-05-08T18:38:53+09:00",
       "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
       },
-      "content": "현장마다 다르면 보통 뭘 기준으로 봄? / 이거만 확인하고싶음",
+      "content": "이채린 단독은 요즘 좀 뜸한편",
       "deleted": false
     },
     {
-      "id": "nat-2032-000008-003",
+      "id": "c-2032-000008-v8-003",
       "parentId": null,
-      "timestamp": "2032-05-08T18:35:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "내 장비 배송 아직도 안옴. 왜 이런글에 댓글이 더 많냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-004",
-      "parentId": "nat-2032-000008-003",
-      "timestamp": "2032-05-08T18:38:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "작성자 존나 급하네 ㅋㅋ 그 자신감은 어디서 나옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-005",
-      "parentId": "nat-2032-000008-002",
-      "timestamp": "2032-05-08T18:39:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "김채연 관련해서 협회에 물어본 사람? ㅋㅋ 댓글 싸우지말고 답만좀",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-006",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:41:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "뇌피셜을 왜 사실처럼 씀 근데 댓글 더 달수록 이상해짐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-007",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:43:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "솔직히 김채연 자체보다 조건이 뭐였는지부터 봐야됨 나중에 결과 보면 알겠지",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-008",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:45:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "현장 기준으론 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 난 저렇게는 안봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-009",
-      "parentId": "nat-2032-000008-006",
-      "timestamp": "2032-05-08T18:46:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "니들 둘 다 진정해라 / 둘다 그만해. 괜히 한쪽 말만 듣고 움직이지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-010",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:48:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "훈련장 안전요원 걱정하는 댓글 은근 많았음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-011",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:49:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "그래서 저녁 추천좀\n아무튼 난 밥먹으러감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-012",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:50:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "마법계 장비업체들은 이날 진짜 웃었을듯\n실시간으로 본 사람들은 더 정신없었을듯",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-013",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:51:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "진짜 김채연 얘기만 나오면 갑자기 다들 현장 전문가 됨 결론 내리기 애매함. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-014",
-      "parentId": "nat-2032-000008-003",
-      "timestamp": "2032-05-08T18:53:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "한줄에 이렇게 긁힐 일임? ㅋㅋ. 어차피 내일 되면 새 글 또 올라옴.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-015",
-      "parentId": "nat-2032-000008-002",
-      "timestamp": "2032-05-08T18:56:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "김채연 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐. 한줄 요약하려다가 꼭 사고남.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-016",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:56:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "뭔 개소리야 ㅋㅋ 니 경험 하나가 법은 아님",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-017",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:58:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "예전에 처음 갔을땐 나도 근데 가족들은 뉴스만 떠도 전화부터 옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-018",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:59:17+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "팬이랑 안티 동시에 몰려와서 댓글창 개판남ㅋㅋ / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-019",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:59:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "원본보다 2차짤이 더 유명해지는거 순식간임 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-020",
-      "parentId": null,
-      "timestamp": "2032-05-08T19:01:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "아니ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-021",
-      "parentId": null,
-      "timestamp": "2032-05-08T19:02:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "이거 커뮤발인지 기사발인지부터 말해 ㅋㅋ 오늘 카더라 너무 많이 돎",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-022",
-      "parentId": null,
-      "timestamp": "2032-05-08T19:05:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "예전에 처음 갔을땐 나도 ㅋㅋ 사람마다 말 다른 이유는 알겠더라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-023",
-      "parentId": null,
-      "timestamp": "2032-05-08T19:07:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "작성자 IP 왤케 낯익냐 근데 답글 달지마 이제 못봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000008-024",
-      "parentId": null,
-      "timestamp": "2032-05-08T19:09:12+09:00",
+      "timestamp": "2032-05-08T18:42:10+09:00",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "제일 중요한건 김채연 자체보다 조건이 뭐였는지부터 봐야됨 난 저렇게는 안봄",
+      "content": "네뷸라 공식채널 은근 자료 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-004",
+      "parentId": null,
+      "timestamp": "2032-05-08T18:44:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "마법계 설명영상은 생각보다 볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-005",
+      "parentId": null,
+      "timestamp": "2032-05-08T18:45:55+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "김채연 영상은 범위 잡히는 장면이 제일 미침",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-006",
+      "parentId": "c-2032-000008-v8-005",
+      "timestamp": "2032-05-08T18:47:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "단독영상은 요즘 뜸하긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-007",
+      "parentId": null,
+      "timestamp": "2032-05-08T18:48:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "김채연 영상은 광역장면에서 조회수 터짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-008",
+      "parentId": null,
+      "timestamp": "2032-05-08T18:50:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "짤만 돌면 원본 찾기 빡셈",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-009",
+      "parentId": null,
+      "timestamp": "2032-05-08T18:52:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-010",
+      "parentId": null,
+      "timestamp": "2032-05-08T18:55:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-011",
+      "parentId": "c-2032-000008-v8-004",
+      "timestamp": "2032-05-08T18:57:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "김채연 영상이면 후속캠도 같이 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-012",
+      "parentId": null,
+      "timestamp": "2032-05-08T18:58:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-013",
+      "parentId": null,
+      "timestamp": "2032-05-08T19:00:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "김채연 최근거 더 봐야 알듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-v8-014",
+      "parentId": null,
+      "timestamp": "2032-05-08T19:03:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "ㅋㅋㅋㅋ",
       "deleted": false
     }
   ],

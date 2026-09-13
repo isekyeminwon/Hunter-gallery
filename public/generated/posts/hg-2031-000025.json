@@ -31,32 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "nat-2031-000025-001",
-      "parentId": null,
-      "timestamp": "2031-06-05T08:36:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "대충 봐도 이 글는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 좀 에바임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000025-002",
-      "parentId": null,
-      "timestamp": "2031-06-05T08:44:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "본인등판 없냐 팝콘 다먹음 ㅋㅋ 이쯤되면 정들겠다",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

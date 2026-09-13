@@ -1,0 +1,52 @@
+{
+  "id": "hg-2042-000152",
+  "displayNo": 4255980,
+  "timestamp": "2042-09-06T13:59:03+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "커뮤 끄고 자야되는데 아는사람",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.250"
+  },
+  "content": "일끝나고 멍때리는중",
+  "attachments": [],
+  "stats": {
+    "views": 28691,
+    "recommend": 61
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000152-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-06T14:02:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "나도 못자고있음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

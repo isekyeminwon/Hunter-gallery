@@ -1,0 +1,184 @@
+{
+  "id": "hg-2041-000092",
+  "displayNo": 3859367,
+  "timestamp": "2041-07-06T00:48:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "STELLA_VIDEO_PROJECT_2041",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "스텔라 영상 댓글 1만 넘었네 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.163"
+  },
+  "content": "스텔라 관련해서 방금 본거 가져옴.\n기사마다 표현이 좀 달라서 확인된 것만 보는게 맞을듯.",
+  "attachments": [],
+  "stats": {
+    "views": 41454,
+    "recommend": 266
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000092-v8-001",
+      "parentId": null,
+      "timestamp": "2041-07-06T00:49:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "팬아닌데 이번건 볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-002",
+      "parentId": null,
+      "timestamp": "2041-07-06T00:51:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "이번 편집 진짜 잘뽑았네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-003",
+      "parentId": "c-2041-000092-v8-002",
+      "timestamp": "2041-07-06T00:54:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "이번 편집은 진짜 잘뽑힘",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-004",
+      "parentId": null,
+      "timestamp": "2041-07-06T00:56:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "보스방 들어갈때 음악 끊는거 좋았음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-005",
+      "parentId": null,
+      "timestamp": "2041-07-06T01:00:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "중간 이동구간 엄청 잘라냈더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-006",
+      "parentId": null,
+      "timestamp": "2041-07-06T01:01:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "촬영팀 고생한 티 남",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-007",
+      "parentId": null,
+      "timestamp": "2041-07-06T01:04:06+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "{{con:kwah}}{{con:kwah}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-008",
+      "parentId": null,
+      "timestamp": "2041-07-06T01:07:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "별하나 표정 짤 바로 돌겠네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-009",
+      "parentId": "c-2041-000092-v8-005",
+      "timestamp": "2041-07-06T01:10:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-010",
+      "parentId": "c-2041-000092-v8-005",
+      "timestamp": "2041-07-06T01:11:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "풀버전도 보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-011",
+      "parentId": "c-2041-000092-v8-010",
+      "timestamp": "2041-07-06T01:13:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000092-v8-012",
+      "parentId": null,
+      "timestamp": "2041-07-06T01:16:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "풀버전도 풀어줬으면",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

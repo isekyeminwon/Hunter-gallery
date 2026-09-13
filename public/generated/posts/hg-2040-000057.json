@@ -1,0 +1,76 @@
+{
+  "id": "hg-2040-000057",
+  "displayNo": 3388340,
+  "timestamp": "2040-04-21T17:20:29+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "언데드 상대할때 빛보다 중요한거",
+  "author": {
+    "type": "fixed",
+    "name": "틀헌터",
+    "ip": null
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 7456,
+    "recommend": 2
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000057-v8-001",
+      "parentId": null,
+      "timestamp": "2040-04-21T17:23:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "냄새 분진 싫어서 거르는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000057-v8-002",
+      "parentId": null,
+      "timestamp": "2040-04-21T17:24:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "보호구/소모품까지 넣으면 수익 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000057-v8-003",
+      "parentId": null,
+      "timestamp": "2040-04-21T17:28:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "묘지형 두번 가고 손절한놈 봄",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

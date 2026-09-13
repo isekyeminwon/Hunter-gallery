@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000032",
+  "displayNo": 4030071,
+  "timestamp": "2042-03-25T22:20:07+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "커뮤 끄고 자야되는데",
+  "author": {
+    "type": "fixed",
+    "name": "틀헌터",
+    "ip": null
+  },
+  "content": "오늘 하루 존나길다",
+  "attachments": [],
+  "stats": {
+    "views": 34487,
+    "recommend": 124
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -33,159 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2034-000047-001",
+      "id": "c-2034-000047-v8-001",
       "parentId": null,
-      "timestamp": "2034-08-07T14:13:32+09:00",
+      "timestamp": "2034-08-07T14:16:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "121.140"
       },
-      "content": "애매하면 안하는게 맞음. 괜히 아는척하다가 틀리면 개쪽임.",
+      "content": "신고해본사람 있음?",
       "deleted": false
     },
     {
-      "id": "nat-2034-000047-002",
-      "parentId": "nat-2034-000047-001",
-      "timestamp": "2034-08-07T14:22:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "없으면 확정처럼 말하지마. 왜 이런 글만 뜨면 전문가가 증식하냐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-003",
+      "id": "c-2034-000047-v8-002",
       "parentId": null,
-      "timestamp": "2034-08-07T14:31:31+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "와",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-004",
-      "parentId": null,
-      "timestamp": "2034-08-07T14:34:51+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-005",
-      "parentId": null,
-      "timestamp": "2034-08-07T14:36:29+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "지금 나온 것만 보면 이 규정 자체보다 조건이 뭐였는지부터 봐야됨 이상함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-006",
-      "parentId": null,
-      "timestamp": "2034-08-07T14:41:57+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "법 얘기는 댓글 믿지말고 공지 원문 봐라 제발. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-007",
-      "parentId": "nat-2034-000047-003",
-      "timestamp": "2034-08-07T14:49:57+09:00",
+      "timestamp": "2034-08-07T14:18:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "117.111"
       },
-      "content": "원글 세줄인데 토론회가 열림 / 관리자도 보고 웃겠다",
+      "content": "명의 빌려주는건 괜히 엮이지마",
       "deleted": false
     },
     {
-      "id": "nat-2034-000047-008",
+      "id": "c-2034-000047-v8-003",
       "parentId": null,
-      "timestamp": "2034-08-07T14:52:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ. 니 경험 하나가 법은 아님",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-009",
-      "parentId": null,
-      "timestamp": "2034-08-07T14:56:40+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "커뮤 판례 만들지말고 공식문서 봐라. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-010",
-      "parentId": "nat-2034-000047-008",
-      "timestamp": "2034-08-07T15:05:46+09:00",
+      "timestamp": "2034-08-07T14:19:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "121.140"
       },
-      "content": "그건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-011",
-      "parentId": null,
-      "timestamp": "2034-08-07T15:07:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "가능하냐랑 해도 되냐는 다른 얘기임 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-012",
-      "parentId": null,
-      "timestamp": "2034-08-07T15:13:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "댓글 다읽은 내가 제일 병신임 ㅋㅋ 누가 메뉴 하나만 골라줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000047-013",
-      "parentId": null,
-      "timestamp": "2034-08-07T15:21:01+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "아는 형이 장비팀이라 물어봤었는데. 괜히 싸게 하려다 돈 더들었음",
+      "content": "그 조항 아직 그대로임?",
       "deleted": false
     }
   ],

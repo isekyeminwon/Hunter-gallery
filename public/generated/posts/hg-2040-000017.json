@@ -1,0 +1,52 @@
+{
+  "id": "hg-2040-000017",
+  "displayNo": 3227572,
+  "timestamp": "2040-04-15T14:12:36+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "여름 게이트장비 냄새 진짜 최악 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.33"
+  },
+  "content": "이거 나만 그런가",
+  "attachments": [],
+  "stats": {
+    "views": 13525,
+    "recommend": 14
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000017-v8-001",
+      "parentId": null,
+      "timestamp": "2040-04-15T14:16:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

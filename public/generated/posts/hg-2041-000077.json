@@ -1,0 +1,196 @@
+{
+  "id": "hg-2041-000077",
+  "displayNo": 3805131,
+  "timestamp": "2041-02-21T08:27:25+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "NEW_GEN_2041",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "김민찬 B면 그래도 충분히 잘뜬거 아님? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "새로고침할때마다 이 얘기임ㅋㅋ\n오늘 일 다했다",
+  "attachments": [],
+  "stats": {
+    "views": 44578,
+    "recommend": 332
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000077-v8-001",
+      "parentId": null,
+      "timestamp": "2041-02-21T08:31:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-002",
+      "parentId": null,
+      "timestamp": "2041-02-21T08:34:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-003",
+      "parentId": null,
+      "timestamp": "2041-02-21T08:37:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-004",
+      "parentId": null,
+      "timestamp": "2041-02-21T08:41:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-005",
+      "parentId": null,
+      "timestamp": "2041-02-21T08:43:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-006",
+      "parentId": null,
+      "timestamp": "2041-02-21T08:46:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-007",
+      "parentId": null,
+      "timestamp": "2041-02-21T08:48:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-008",
+      "parentId": null,
+      "timestamp": "2041-02-21T08:52:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-009",
+      "parentId": "c-2041-000077-v8-002",
+      "timestamp": "2041-02-21T08:55:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-010",
+      "parentId": null,
+      "timestamp": "2041-02-21T08:59:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-011",
+      "parentId": null,
+      "timestamp": "2041-02-21T09:02:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-012",
+      "parentId": "c-2041-000077-v8-008",
+      "timestamp": "2041-02-21T09:05:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000077-v8-013",
+      "parentId": null,
+      "timestamp": "2041-02-21T09:08:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "김민찬 얘기는 맨날 갈리네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

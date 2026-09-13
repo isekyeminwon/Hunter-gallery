@@ -1,0 +1,220 @@
+{
+  "id": "hg-2035-000035",
+  "displayNo": 1820422,
+  "timestamp": "2035-07-14T04:14:41+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "각성발표 반응 보니까 팬덤전쟁 각인데",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n오늘 이 얘기만 몇번째인지 모르겠다ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 45945,
+    "recommend": 110
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000035-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:17:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "능력상성 넣는순간 표 다시만들어야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:20:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "또 누구 위아래 싸움이냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:24:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "사설랭킹에 그래프까지 넣었네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-004",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:26:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "어차피 제작자 최애가 위임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-005",
+      "parentId": "c-2035-000035-v8-002",
+      "timestamp": "2035-07-14T04:29:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "내최애가 1위임 반박안받음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:31:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이거 며칠뒤 또 싸운다",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:33:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "S SS 보다보니 A를 우습게봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:37:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:40:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:43:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-011",
+      "parentId": "c-2035-000035-v8-007",
+      "timestamp": "2035-07-14T04:47:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "최근 실적도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-012",
+      "parentId": "c-2035-000035-v8-005",
+      "timestamp": "2035-07-14T04:51:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-013",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:53:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-014",
+      "parentId": null,
+      "timestamp": "2035-07-14T04:56:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "또 줄세우기 시작했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000035-v8-015",
+      "parentId": null,
+      "timestamp": "2035-07-14T05:00:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

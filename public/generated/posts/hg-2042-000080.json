@@ -1,0 +1,136 @@
+{
+  "id": "hg-2042-000080",
+  "displayNo": 4097021,
+  "timestamp": "2042-05-31T07:26:38+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "강제소집 대상 기준 다시 알려줘",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "부정등록이 단순히 '겸손하게 낮게 적는거'가 아닌 이유.\n\n등급은 그냥 커뮤 명함이 아니라\n게이트 출입, 안전기준, 파티구성, 보험, 긴급대응에서 실제 기준으로 쓰임.\n\n진짜 전력이 높은 사람이 낮은 등급으로 숨어버리면\n\n- 낮은 위험도 게이트에 예상 밖 전력이 들어감\n- 범죄 저질렀을때 수사기관이 처음부터 잘못된 위험도로 대응할 수 있음\n- 긴급동원/등록관리 체계에서 빠지려는 의심을 받음\n- 파티원이나 고용주가 계약 판단을 잘못함\n\n그래서 업계에서 인식이 나쁨.\n\n물론 측정 오류나 서류갱신 지연이랑\n고의로 전력을 숨기는건 같은 얘기가 아님.\n\n커뮤에서 누구 하나 수상하다고 바로 부정등록자 확정하는것도 하지마라.\n그건 협회가 조사할 일임.",
+  "attachments": [],
+  "stats": {
+    "views": 27400,
+    "recommend": 235
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000080-pilot001",
+      "parentId": null,
+      "timestamp": "2042-05-31T07:27:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "C급 이상 등록헌터가 국가재난급 상황에서 대상 될 수 있음. 평소 게이트마다 부르는거 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000080-pilot002",
+      "parentId": null,
+      "timestamp": "2042-05-31T07:28:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "C면 바로 끌려가는줄 알았네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000080-pilot003",
+      "parentId": "c-2042-000080-pilot002",
+      "timestamp": "2042-05-31T07:29:20+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "민간/길드/협회 전력으로 해결 안되는 급에서 나오는 얘기임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000080-pilot004",
+      "parentId": null,
+      "timestamp": "2042-05-31T07:30:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "S도 대상임?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000080-pilot005",
+      "parentId": "c-2042-000080-pilot004",
+      "timestamp": "2042-05-31T07:31:01+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "법 바깥에 있는건 아님. 실제 운용이 똑같냐는건 별개고",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000080-pilot006",
+      "parentId": null,
+      "timestamp": "2042-05-31T07:31:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "거부하면 몇년임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000080-pilot007",
+      "parentId": "c-2042-000080-pilot006",
+      "timestamp": "2042-05-31T07:33:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "숫자 박는 댓글 거르셈. 상황/조항 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000080-pilot008",
+      "parentId": null,
+      "timestamp": "2042-05-31T07:35:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "ㅇㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

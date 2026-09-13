@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000026",
+  "displayNo": 4015467,
+  "timestamp": "2042-03-21T13:57:46+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 협회 대기실 사람 미쳤네",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "그냥 그렇다고ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 36595,
+    "recommend": 263
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

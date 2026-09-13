@@ -1,0 +1,244 @@
+{
+  "id": "hg-2039-000060",
+  "displayNo": 3121970,
+  "timestamp": "2039-05-22T17:13:00+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "EAST_SEA_PORT_ACCIDENT",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[후기] 통제선 밖 지원으로 하루종일 대기한 썰",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n댓글에 원문 있으면 링크좀.",
+  "attachments": [],
+  "stats": {
+    "views": 36234,
+    "recommend": 200
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000060-v8-001",
+      "parentId": null,
+      "timestamp": "2039-05-22T17:14:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "다음 현장전에 한번 더봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-002",
+      "parentId": null,
+      "timestamp": "2039-05-22T17:18:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "우린 이거랑 좀 다르게 굴림",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-003",
+      "parentId": null,
+      "timestamp": "2039-05-22T17:20:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "처음가는사람은 이런거 봐둬",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-004",
+      "parentId": "c-2039-000060-v8-003",
+      "timestamp": "2039-05-22T17:22:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-005",
+      "parentId": "c-2039-000060-v8-003",
+      "timestamp": "2039-05-22T17:25:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-006",
+      "parentId": "c-2039-000060-v8-001",
+      "timestamp": "2039-05-22T17:28:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-007",
+      "parentId": "c-2039-000060-v8-005",
+      "timestamp": "2039-05-22T17:30:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-008",
+      "parentId": null,
+      "timestamp": "2039-05-22T17:34:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-009",
+      "parentId": "c-2039-000060-v8-004",
+      "timestamp": "2039-05-22T17:36:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-010",
+      "parentId": null,
+      "timestamp": "2039-05-22T17:39:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-011",
+      "parentId": "c-2039-000060-v8-005",
+      "timestamp": "2039-05-22T17:41:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-012",
+      "parentId": "c-2039-000060-v8-006",
+      "timestamp": "2039-05-22T17:43:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-013",
+      "parentId": "c-2039-000060-v8-008",
+      "timestamp": "2039-05-22T17:46:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-014",
+      "parentId": null,
+      "timestamp": "2039-05-22T17:50:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-015",
+      "parentId": null,
+      "timestamp": "2039-05-22T17:54:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "헐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-016",
+      "parentId": "c-2039-000060-v8-013",
+      "timestamp": "2039-05-22T17:56:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000060-v8-017",
+      "parentId": null,
+      "timestamp": "2039-05-22T17:59:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "들어가기전에 얘기 끝내야됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

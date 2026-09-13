@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000042",
+  "displayNo": 4040725,
+  "timestamp": "2042-04-12T22:49:50+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "짐꾼이 파티콜 알아들어야 하는 이유 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "별빛단7기",
+    "ip": null
+  },
+  "content": "최근 세번 해보고 체감온거 적음.\n한두번은 우연일수도 있음.",
+  "attachments": [],
+  "stats": {
+    "views": 24359,
+    "recommend": 221
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000042-v8-001",
+      "parentId": null,
+      "timestamp": "2042-04-12T22:52:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "짧은 공통콜로 다시 맞추는게 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000042-v8-002",
+      "parentId": null,
+      "timestamp": "2042-04-12T22:54:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "파티 섞이면 장비보다 말부터 맞춰야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000042-v8-003",
+      "parentId": null,
+      "timestamp": "2042-04-12T22:57:17+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "길드마다 용어 조금씩 달라서 처음엔 꼬임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000042-v8-004",
+      "parentId": "c-2042-000042-v8-002",
+      "timestamp": "2042-04-12T22:59:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "지원인력도 철수콜은 알아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000042-v8-005",
+      "parentId": null,
+      "timestamp": "2042-04-12T23:02:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

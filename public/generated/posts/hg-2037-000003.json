@@ -1,0 +1,196 @@
+{
+  "id": "hg-2037-000003",
+  "displayNo": 2185401,
+  "timestamp": "2037-08-21T11:00:43+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "A_RANK_2037_GEN",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "올해 A급 이럴때 현장인력은 뭐부터 체크함?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "A급 관련해서 방금 본거 가져옴.\n댓글에 원문 있으면 링크좀.",
+  "attachments": [],
+  "stats": {
+    "views": 33568,
+    "recommend": 27
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000003-v8-001",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:04:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이건 한번 터지면 평생 챙김",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-002",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:05:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-003",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:07:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "우리쪽은 방식이 살짝 다름",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-004",
+      "parentId": "c-2037-000003-v8-001",
+      "timestamp": "2037-08-21T11:09:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-005",
+      "parentId": "c-2037-000003-v8-004",
+      "timestamp": "2037-08-21T11:13:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-006",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:15:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "체크할때 다시본다",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-007",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:17:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "화려한 공략보다 이게 초보한텐 나음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-008",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:20:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "이건 사전에 맞춰놔야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-009",
+      "parentId": "c-2037-000003-v8-003",
+      "timestamp": "2037-08-21T11:24:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-010",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:27:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-011",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:29:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "다른사람은 어땠음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-012",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:30:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-v8-013",
+      "parentId": "c-2037-000003-v8-009",
+      "timestamp": "2037-08-21T11:33:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

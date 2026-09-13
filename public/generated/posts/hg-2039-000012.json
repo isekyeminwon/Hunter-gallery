@@ -1,0 +1,39 @@
+{
+  "id": "hg-2039-000012",
+  "displayNo": 2908738,
+  "timestamp": "2039-06-19T09:24:52+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드카페 커피 은근 비쌈",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "아무 의미 없음\n퇴근하고싶다",
+  "attachments": [],
+  "stats": {
+    "views": 5226,
+    "recommend": 21
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

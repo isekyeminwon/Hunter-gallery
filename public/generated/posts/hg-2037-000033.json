@@ -1,0 +1,39 @@
+{
+  "id": "hg-2037-000033",
+  "displayNo": 2311710,
+  "timestamp": "2037-03-10T19:00:08+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "GATE_VIDEO_EXPANSION",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[공지] 게이트 영상 업로드 시 현장 위치·개인정보 노출 주의",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "공략영상 및 캡처 업로드 시 실시간 현장 위치, 파티원 개인정보, 비공개 연락처가 노출되지 않도록 확인해 주세요.\n사고 현장 영상의 무분별한 재업은 제한될 수 있습니다.",
+  "attachments": [],
+  "stats": {
+    "views": 29836,
+    "recommend": 119
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

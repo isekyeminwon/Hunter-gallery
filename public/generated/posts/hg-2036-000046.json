@@ -1,0 +1,112 @@
+{
+  "id": "hg-2036-000046",
+  "displayNo": 2139069,
+  "timestamp": "2036-10-07T11:45:52+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "게이트 취소되면 일당도 취소임?",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 12983,
+    "recommend": 11
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000046-v8-001",
+      "parentId": null,
+      "timestamp": "2036-10-07T11:49:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "검색해도 예전얘기만 나와",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000046-v8-002",
+      "parentId": null,
+      "timestamp": "2036-10-07T11:50:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "나도 옆에서 질문좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000046-v8-003",
+      "parentId": "c-2036-000046-v8-002",
+      "timestamp": "2036-10-07T11:54:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000046-v8-004",
+      "parentId": null,
+      "timestamp": "2036-10-07T11:55:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "이건 첫번엔 잘모름",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000046-v8-005",
+      "parentId": "c-2036-000046-v8-004",
+      "timestamp": "2036-10-07T11:57:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "이건 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000046-v8-006",
+      "parentId": null,
+      "timestamp": "2036-10-07T12:00:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "이거 초보때 은근 헷갈림",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hg-2038-000059",
+  "displayNo": 2635363,
+  "timestamp": "2038-11-21T15:30:36+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "팀장 카톡 말투 왜 다 똑같냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.7"
+  },
+  "content": "그냥 궁금해서 물어봄\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 5772,
+    "recommend": 27
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000059-v8-001",
+      "parentId": null,
+      "timestamp": "2038-11-21T15:33:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000059-v8-002",
+      "parentId": null,
+      "timestamp": "2038-11-21T15:37:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "뭔데",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

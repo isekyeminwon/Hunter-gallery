@@ -1,0 +1,184 @@
+{
+  "id": "hg-2035-000060",
+  "displayNo": 1921218,
+  "timestamp": "2035-07-16T00:30:42+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "STELLA_GROWTH",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "콘텐츠 오늘 방송 댓글창 터지겠네",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n댓글에 원문 있으면 링크좀.",
+  "attachments": [],
+  "stats": {
+    "views": 14548,
+    "recommend": 65
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000060-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:32:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "댓글이 영상보다 재밌음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:36:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "편집은 잘했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:39:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "걍 공채널부터 뒤져봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-004",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:41:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "댓글구경이 본편이다",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:42:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "원본 어디임",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:46:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "원본 어디임",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:50:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:52:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:56:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-010",
+      "parentId": "c-2035-000060-v8-004",
+      "timestamp": "2035-07-16T00:58:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "편집 잘했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-16T01:02:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "본문보다 댓글이 더길어졌네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000060-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-16T01:04:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

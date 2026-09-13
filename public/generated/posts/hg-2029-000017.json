@@ -33,231 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2029-000017-001",
+      "id": "c-2029-000017-v8-001",
       "parentId": null,
-      "timestamp": "2029-02-25T22:27:01+09:00",
+      "timestamp": "2029-02-25T22:24:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "175.194"
       },
-      "content": "팀장한테 비슷한거 물어봤는데. 지금도 그 얘기하면 욕함ㅋㅋ",
+      "content": "초보는 이런글이 더 필요함",
       "deleted": false
     },
     {
-      "id": "nat-2029-000017-002",
-      "parentId": "nat-2029-000017-001",
-      "timestamp": "2029-02-25T22:27:54+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "뇌피셜을 왜 사실처럼 씀 / 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-003",
+      "id": "c-2029-000017-v8-002",
       "parentId": null,
-      "timestamp": "2029-02-25T22:37:11+09:00",
+      "timestamp": "2029-02-25T22:26:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "175.194"
       },
-      "content": "모르면 묻는게 아는척하다 꼬이는 것보다 낫다 / 경험자 반박환영",
+      "content": "나중에 보려고 스크랩함",
       "deleted": false
     },
     {
-      "id": "nat-2029-000017-004",
+      "id": "c-2029-000017-v8-003",
+      "parentId": "c-2029-000017-v8-001",
+      "timestamp": "2029-02-25T22:29:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2029-000017-v8-004",
       "parentId": null,
-      "timestamp": "2029-02-25T22:42:47+09:00",
+      "timestamp": "2029-02-25T22:31:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "211.58"
       },
-      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-005",
-      "parentId": null,
-      "timestamp": "2029-02-25T22:49:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "뭐 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 반박시 니말맞음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-006",
-      "parentId": null,
-      "timestamp": "2029-02-25T22:59:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "아 배고파",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-007",
-      "parentId": "nat-2029-000017-004",
-      "timestamp": "2029-02-25T23:00:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "ㅇㅇ 해보고 하는말임. 왜 이런 글만 뜨면 전문가가 증식하냐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-008",
-      "parentId": "nat-2029-000017-004",
-      "timestamp": "2029-02-25T23:05:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "글을 읽은거냐 제목만 본거냐. 그건 니 파티 얘기고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-009",
-      "parentId": null,
-      "timestamp": "2029-02-25T23:06:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "좆문가 또 왔네 / 말을 해도 꼭 저렇게 함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-010",
-      "parentId": null,
-      "timestamp": "2029-02-25T23:09:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-011",
-      "parentId": "nat-2029-000017-001",
-      "timestamp": "2029-02-25T23:14:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "갑자기 왜 화냄ㅋㅋ ㅋㅋ. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-012",
-      "parentId": null,
-      "timestamp": "2029-02-25T23:21:16+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "진짜 헛소리도 당당하게 하네 / 그만 싸워 둘다 시끄러움",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-013",
-      "parentId": "nat-2029-000017-004",
-      "timestamp": "2029-02-25T23:30:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "왜 아무도 말 안하냐 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 그냥 그렇다고. 여기서 싸워봤자 현장 규정 안바뀜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-014",
-      "parentId": "nat-2029-000017-005",
-      "timestamp": "2029-02-25T23:38:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "아는척 지랄 좀 그만해라 / 댓글 더 달수록 이상해짐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-015",
-      "parentId": null,
-      "timestamp": "2029-02-25T23:41:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "별거 아닌 팁이 사고 한번 나면 평생 기억남 ㅋㅋ 또 싸우겠네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-016",
-      "parentId": null,
-      "timestamp": "2029-02-25T23:50:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "개소리를 정성스럽게도 썼네 / 반박은 내용으로 해라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-017",
-      "parentId": null,
-      "timestamp": "2029-02-25T23:55:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "모르겠음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-018",
-      "parentId": null,
-      "timestamp": "2029-02-26T00:00:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "협회 직원 댓글에만 지금 42명 있음. 이래서 헌갤을 못끊음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000017-019",
-      "parentId": "nat-2029-000017-012",
-      "timestamp": "2029-02-26T00:07:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "뭔 개소리야",
+      "content": "정성추",
       "deleted": false
     }
   ],

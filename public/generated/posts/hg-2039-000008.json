@@ -1,0 +1,112 @@
+{
+  "id": "hg-2039-000008",
+  "displayNo": 2895301,
+  "timestamp": "2039-03-05T09:58:10+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "부상보험 청구해본사람",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 6675,
+    "recommend": 31
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000008-v8-001",
+      "parentId": null,
+      "timestamp": "2039-03-05T10:00:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "이름보다 현장등급 제한을 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000008-v8-002",
+      "parentId": null,
+      "timestamp": "2039-03-05T10:02:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000008-v8-003",
+      "parentId": "c-2039-000008-v8-002",
+      "timestamp": "2039-03-05T10:04:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000008-v8-004",
+      "parentId": null,
+      "timestamp": "2039-03-05T10:07:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "팀에서 뭘 들어주는지는 별개임",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000008-v8-005",
+      "parentId": null,
+      "timestamp": "2039-03-05T10:10:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000008-v8-006",
+      "parentId": "c-2039-000008-v8-002",
+      "timestamp": "2039-03-05T10:12:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

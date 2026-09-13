@@ -33,339 +33,147 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000065-001",
+      "id": "c-2033-000065-v8-001",
       "parentId": null,
-      "timestamp": "2033-02-21T14:27:58+09:00",
+      "timestamp": "2033-02-21T14:25:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.33"
       },
-      "content": "같은 등급 안에서도 차이 큼. 어차피 내일 되면 새 글 또 올라옴.",
+      "content": "헌터활동이랑 콘텐츠 붙는거 싫으면 안맞음",
       "deleted": false
     },
     {
-      "id": "nat-2033-000065-002",
+      "id": "c-2033-000065-v8-002",
       "parentId": null,
-      "timestamp": "2033-02-21T14:30:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "뭔 자신감으로 확정짓냐 / 말을 해도 꼭 저렇게 함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-003",
-      "parentId": "nat-2033-000065-002",
-      "timestamp": "2033-02-21T14:38:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "댓글 잘못 단거 아님? / 둘다 그만해. 여기서 싸워봤자 현장 규정 안바뀜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-004",
-      "parentId": null,
-      "timestamp": "2033-02-21T14:42:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "내가 보기엔 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 괜히 엮이지마. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-005",
-      "parentId": null,
-      "timestamp": "2033-02-21T14:43:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "기사 세줄도 안읽고 댓글부터 쓰냐 / 그래서 근거가 뭔데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-006",
-      "parentId": null,
-      "timestamp": "2033-02-21T14:46:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "작성자 존나 급하네 / 이건 좀 심했다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-007",
-      "parentId": "nat-2033-000065-002",
-      "timestamp": "2033-02-21T14:49:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "그럼 반대로 생각해봐 ㅋㅋ. 지금 정보량으로는 누구도 장담 못함.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-008",
-      "parentId": null,
-      "timestamp": "2033-02-21T14:58:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "출처가 뭐임 근데 출처 없이 퍼지는 속도만 존나 빠름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-009",
-      "parentId": "nat-2033-000065-001",
-      "timestamp": "2033-02-21T14:59:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "작성자 말대로면 내 고양이도 A급임 / 진짜 가지가지한다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-010",
-      "parentId": null,
-      "timestamp": "2033-02-21T15:02:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "공식 공지 뜬거 맞음? / 번역짤은 자꾸 내용 잘려서 못믿겠음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-011",
-      "parentId": "nat-2033-000065-003",
-      "timestamp": "2033-02-21T15:08:52+09:00",
+      "timestamp": "2033-02-21T14:29:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.125"
       },
-      "content": "내가 협회면 이 댓글창부터 통제함 / ㅋㅋㅋㅋㅋ",
+      "content": "길드 전투순위로 직장 고르는건 좀ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2033-000065-012",
+      "id": "c-2033-000065-v8-003",
+      "parentId": "c-2033-000065-v8-002",
+      "timestamp": "2033-02-21T14:32:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "취업이면 복지/교육도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000065-v8-004",
+      "parentId": "c-2033-000065-v8-001",
+      "timestamp": "2033-02-21T14:33:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "셋다 붙고 고민하고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000065-v8-005",
       "parentId": null,
-      "timestamp": "2033-02-21T15:18:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이 경우에도 같은 기준 적용됨?. 진짜 궁금해서 물음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-013",
-      "parentId": "nat-2033-000065-012",
-      "timestamp": "2033-02-21T15:27:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-014",
-      "parentId": null,
-      "timestamp": "2033-02-21T15:36:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "기사만 보면 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 이건 좀 더 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-015",
-      "parentId": null,
-      "timestamp": "2033-02-21T15:37:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "작성자 존나 급하네 근데 말을 해도 꼭 저렇게 함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-016",
-      "parentId": "nat-2033-000065-013",
-      "timestamp": "2033-02-21T15:43:40+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "내가 보기엔 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 이건 좀 더 봐야됨. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-017",
-      "parentId": null,
-      "timestamp": "2033-02-21T15:49:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "이 글 보다가 라면 불었다 ㅋㅋ 아무튼 난 밥먹으러감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-018",
-      "parentId": null,
-      "timestamp": "2033-02-21T15:58:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "영상 몇개 보고 순위 정하는게 제일 재밌긴 함ㅋㅋ / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-019",
-      "parentId": "nat-2033-000065-008",
-      "timestamp": "2033-02-21T16:08:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "아니 윗댓은 그말이 아니잖아. 진짜.. 조건 하나만 달라도 얘기 완전 달라짐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-020",
-      "parentId": null,
-      "timestamp": "2033-02-21T16:11:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "출처가 뭐임 ㅋㅋ 원문 보면 뉘앙스 다른 경우 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-021",
-      "parentId": "nat-2033-000065-006",
-      "timestamp": "2033-02-21T16:15:33+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "아니 윗댓은 그말이 아니잖아 / 둘다 그만해. 모르면 물어보는게 낫지 괜히 개돌하지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-022",
-      "parentId": null,
-      "timestamp": "2033-02-21T16:18:46+09:00",
+      "timestamp": "2033-02-21T14:35:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.33"
       },
-      "content": "나도 비슷한 일 한번 겪었는데 ㅋㅋ 그때 이후로 무조건 두번 확인함",
+      "content": "네뷸라는 교육을 복지로 치냐에서 갈릴듯",
       "deleted": false
     },
     {
-      "id": "nat-2033-000065-023",
-      "parentId": null,
-      "timestamp": "2033-02-21T16:23:12+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "아니 시발 뭔 결론이 그렇게 감 / 한번만 더 생각하고 써봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000065-024",
-      "parentId": null,
-      "timestamp": "2033-02-21T16:30:12+09:00",
+      "id": "c-2033-000065-v8-006",
+      "parentId": "c-2033-000065-v8-002",
+      "timestamp": "2033-02-21T14:37:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "39.125"
       },
-      "content": "글쓴이 그 뒤에 후기 없음?\n댓글 싸우지말고 답만좀",
+      "content": "마법계면 네뷸라가 끌릴만함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000065-025",
+      "id": "c-2033-000065-v8-007",
       "parentId": null,
-      "timestamp": "2033-02-21T16:33:13+09:00",
+      "timestamp": "2033-02-21T14:40:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "223.52"
       },
-      "content": "이 글 읽고 장비점 사장 싱글벙글 / 오늘도 평화롭다",
+      "content": "이쯤되면 본문 재확인 필요함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000065-026",
+      "id": "c-2033-000065-v8-008",
       "parentId": null,
-      "timestamp": "2033-02-21T16:35:03+09:00",
+      "timestamp": "2033-02-21T14:44:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "39.125"
       },
-      "content": "한명만 더 화내면 개념글 확정\nㅋㅋㅋㅋㅋ",
+      "content": "한성 합격부터 하고 고민하라는 댓글 곧온다",
       "deleted": false
     },
     {
-      "id": "nat-2033-000065-027",
-      "parentId": "nat-2033-000065-014",
-      "timestamp": "2033-02-21T16:39:23+09:00",
+      "id": "c-2033-000065-v8-009",
+      "parentId": null,
+      "timestamp": "2033-02-21T14:47:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "1.239"
       },
-      "content": "글을 읽은거냐 제목만 본거냐. 진짜로",
+      "content": "한성 복지후기는 상대적으로 덜보이긴함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000065-028",
+      "id": "c-2033-000065-v8-010",
       "parentId": null,
-      "timestamp": "2033-02-21T16:40:51+09:00",
+      "timestamp": "2033-02-21T14:50:22+09:00",
       "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
       },
-      "content": "와 이걸 그렇게 이해함? ㅋㅋ 현장가서 그렇게 말해봐라",
+      "content": "지원자 입장에선 붙는곳이 1순위",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000065-v8-011",
+      "parentId": null,
+      "timestamp": "2033-02-21T14:53:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "지원체계 얘기는 백호쪽 후기가 많더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000065-v8-012",
+      "parentId": null,
+      "timestamp": "2033-02-21T14:55:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "마법계면 선택지에서 네뷸라 못빼지",
       "deleted": false
     }
   ],

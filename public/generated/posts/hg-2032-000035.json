@@ -31,68 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "nat-2032-000035-001",
-      "parentId": null,
-      "timestamp": "2032-08-25T11:24:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "본문 세줄 댓글 오십개가 커뮤지. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000035-002",
-      "parentId": null,
-      "timestamp": "2032-08-25T11:27:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "흠",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000035-003",
-      "parentId": "nat-2032-000035-001",
-      "timestamp": "2032-08-25T11:30:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "윗댓 말도 틀린건 아닌데 표현이 개같음 / 둘다 그만해. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000035-004",
-      "parentId": null,
-      "timestamp": "2032-08-25T11:36:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "현장마다 다르면 보통 뭘 기준으로 봄? ㅋㅋ 댓글 싸우지말고 답만좀",
-      "deleted": false
-    },
-    {
-      "id": "nat-2032-000035-005",
-      "parentId": null,
-      "timestamp": "2032-08-25T11:37:24+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "글쓴이는 이미 갔는데 댓글끼리 싸우는중ㅋㅋ. 왜 이런 글만 뜨면 전문가가 증식하냐.",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

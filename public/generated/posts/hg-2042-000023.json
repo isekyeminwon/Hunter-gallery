@@ -1,0 +1,76 @@
+{
+  "id": "hg-2042-000023",
+  "displayNo": 3935611,
+  "timestamp": "2042-01-11T20:22:07+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "전투영상보다 장비세척영상이 더 힐링됨 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "영상분석충",
+    "ip": null
+  },
+  "content": "일끝나고 멍때리는중",
+  "attachments": [],
+  "stats": {
+    "views": 36565,
+    "recommend": 112
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000023-v8-001",
+      "parentId": null,
+      "timestamp": "2042-01-11T20:24:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "작동확인 입구에서 한번 더함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000023-v8-002",
+      "parentId": null,
+      "timestamp": "2042-01-11T20:27:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "렌탈은 인수할때 흠집 사진 찍어둬",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000023-v8-003",
+      "parentId": null,
+      "timestamp": "2042-01-11T20:31:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "반납때 싸우기싫으면 상태 기록해둬",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000076",
+  "displayNo": 4085680,
+  "timestamp": "2042-05-27T22:38:05+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "보험 갱신문자 보고 한숨나옴 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "계약서읽자",
+    "ip": null
+  },
+  "content": "아무 의미 없음\n퇴근하고싶다",
+  "attachments": [],
+  "stats": {
+    "views": 32971,
+    "recommend": 227
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

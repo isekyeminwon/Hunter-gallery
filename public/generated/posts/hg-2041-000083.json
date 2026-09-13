@@ -1,0 +1,184 @@
+{
+  "id": "hg-2041-000083",
+  "displayNo": 3827280,
+  "timestamp": "2041-02-21T05:10:11+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "NEW_GEN_2041",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "올해 길드 스카우트 기사 진짜 많다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.36"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n댓글에 원문 있으면 링크좀.",
+  "attachments": [],
+  "stats": {
+    "views": 77188,
+    "recommend": 564
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000083-v8-001",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:12:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-002",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:16:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-003",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:18:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-004",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:20:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-005",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:23:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "예상시간 몇시간인데",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-006",
+      "parentId": "c-2041-000083-v8-002",
+      "timestamp": "2041-02-21T05:25:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-007",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:27:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-008",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:31:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "이 글 왜 아래가 더길어ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-009",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:34:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-010",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:37:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-011",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:39:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000083-v8-012",
+      "parentId": null,
+      "timestamp": "2041-02-21T05:41:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "난 반대",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

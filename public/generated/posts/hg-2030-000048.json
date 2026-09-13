@@ -31,44 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "nat-2030-000048-001",
-      "parentId": null,
-      "timestamp": "2030-01-17T23:47:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "기사 세줄도 안읽고 댓글부터 쓰냐. 반박은 내용으로 해라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000048-002",
-      "parentId": "nat-2030-000048-001",
-      "timestamp": "2030-01-17T23:49:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "이 글 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000048-003",
-      "parentId": null,
-      "timestamp": "2030-01-17T23:58:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "원글 세줄인데 토론회가 열림. 진짜 가지가지한다",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

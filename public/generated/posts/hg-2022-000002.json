@@ -34,315 +34,171 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2022-000002-001",
+      "id": "c-2022-000002-v8-001",
       "parentId": null,
-      "timestamp": "2022-02-12T09:19:47+09:00",
+      "timestamp": "2022-02-12T09:20:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "1.239"
       },
-      "content": "에반데",
+      "content": "저거 아직도 안사라졌냐",
       "deleted": false
     },
     {
-      "id": "nat-2022-000002-002",
-      "parentId": "nat-2022-000002-001",
-      "timestamp": "2022-02-12T09:21:53+09:00",
+      "id": "c-2022-000002-v8-002",
+      "parentId": null,
+      "timestamp": "2022-02-12T09:22:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "방송사 화면에도 잡혔는데 합성은 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000002-v8-003",
+      "parentId": null,
+      "timestamp": "2022-02-12T09:25:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.246"
       },
-      "content": "지금 나온 것만 보면 이거 하나 보고 업계 전체 결론내는건 너무 감 이건 경험자 말 들어봐야됨. 본문보다 대댓글이 더 길어질 각이다.",
+      "content": "통제선 더 넓어졌네",
       "deleted": false
     },
     {
-      "id": "nat-2022-000002-003",
-      "parentId": "nat-2022-000002-002",
-      "timestamp": "2022-02-12T09:22:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ / 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-004",
+      "id": "c-2022-000002-v8-004",
       "parentId": null,
-      "timestamp": "2022-02-12T09:24:15+09:00",
+      "timestamp": "2022-02-12T09:29:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.223"
       },
-      "content": "개판이네",
+      "content": "동네사람이면 걍 멀리있어라",
       "deleted": false
     },
     {
-      "id": "nat-2022-000002-005",
-      "parentId": "nat-2022-000002-002",
-      "timestamp": "2022-02-12T09:26:04+09:00",
+      "id": "c-2022-000002-v8-005",
+      "parentId": "c-2022-000002-v8-001",
+      "timestamp": "2022-02-12T09:32:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "223.62"
       },
-      "content": "반박을 하라고 선언하지 말고ㅋㅋ",
+      "content": "나도 처음엔 헷갈렸음",
       "deleted": false
     },
     {
-      "id": "nat-2022-000002-006",
-      "parentId": null,
-      "timestamp": "2022-02-12T09:28:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "이런거 볼때마다 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 말은 된다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-007",
-      "parentId": null,
-      "timestamp": "2022-02-12T09:31:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "통제선 구경하겠다고 몰려간 사람들 진짜 많았음\n이걸로 또 진영 나뉜게 제일 헌갤같음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-008",
-      "parentId": "nat-2022-000002-007",
-      "timestamp": "2022-02-12T09:32:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "뭐가 아닌데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-009",
-      "parentId": null,
-      "timestamp": "2022-02-12T09:34:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "뭐 이거 관련해서 기사마다 말 조금씩 다른게 문제임 존나 웃김. 어차피 내일 되면 새 글 또 올라옴.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-010",
-      "parentId": "nat-2022-000002-001",
-      "timestamp": "2022-02-12T09:36:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-011",
-      "parentId": null,
-      "timestamp": "2022-02-12T09:37:13+09:00",
+      "id": "c-2022-000002-v8-006",
+      "parentId": "c-2022-000002-v8-003",
+      "timestamp": "2022-02-12T09:35:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.223"
       },
-      "content": "아니ㅋㅋ",
+      "content": "최근기준 아는사람?",
       "deleted": false
     },
     {
-      "id": "nat-2022-000002-012",
+      "id": "c-2022-000002-v8-007",
       "parentId": null,
-      "timestamp": "2022-02-12T09:39:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "처음이면 헷갈릴만한데 답을 좀 해줘라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-013",
-      "parentId": "nat-2022-000002-001",
-      "timestamp": "2022-02-12T09:41:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이 글 왜 개념감ㅋㅋ 근데 갑자기 생각나서 적음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-014",
-      "parentId": "nat-2022-000002-004",
-      "timestamp": "2022-02-12T09:42:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "글쓴이 도망갔는데 댓글끼리 3차전중 / 아무도 안물어봤는데 다들 진심임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-015",
-      "parentId": null,
-      "timestamp": "2022-02-12T09:44:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "원글 세줄인데 토론회가 열림. 팝콘 부족함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-016",
-      "parentId": null,
-      "timestamp": "2022-02-12T09:45:22+09:00",
+      "timestamp": "2022-02-12T09:37:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.246"
       },
-      "content": "기사 링크부터 가져와 ㅋㅋ 그거 어제 올라온 가짜랑 비슷한데",
+      "content": "가까이 가서 찍는놈들은 겁도없냐",
       "deleted": false
     },
     {
-      "id": "nat-2022-000002-017",
+      "id": "c-2022-000002-v8-008",
       "parentId": null,
-      "timestamp": "2022-02-12T09:46:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "검색해도 안나오는데 어디서 봄 / 원문 보면 뉘앙스 다른 경우 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-018",
-      "parentId": "nat-2022-000002-009",
-      "timestamp": "2022-02-12T09:47:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "현장에서는 다름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-019",
-      "parentId": "nat-2022-000002-012",
-      "timestamp": "2022-02-12T09:49:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "동기 하나가 저거 때문에 한동안 고생했는데 근데 한번 데이고 생각 바뀜",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-020",
-      "parentId": null,
-      "timestamp": "2022-02-12T09:51:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "아니 이거 자체보다 조건이 뭐였는지부터 봐야됨 반박시 니말맞음. 조건 하나만 달라도 얘기 완전 달라짐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-021",
-      "parentId": "nat-2022-000002-007",
-      "timestamp": "2022-02-12T09:54:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "한줄에 이렇게 긁힐 일임?",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-022",
-      "parentId": "nat-2022-000002-015",
-      "timestamp": "2022-02-12T09:54:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "댓글 구경하러 왔다\n본문이랑 상관없긴 한데 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-023",
-      "parentId": "nat-2022-000002-004",
-      "timestamp": "2022-02-12T09:55:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "아니 같은 기사 맞음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-024",
-      "parentId": null,
-      "timestamp": "2022-02-12T09:56:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "댓글 다읽은 내가 제일 병신임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2022-000002-025",
-      "parentId": null,
-      "timestamp": "2022-02-12T09:58:08+09:00",
+      "timestamp": "2022-02-12T09:38:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.223"
       },
-      "content": "개인적으로 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 괜히 엮이지마. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "content": "며칠째 그대로인게 제일 소름임",
       "deleted": false
     },
     {
-      "id": "nat-2022-000002-026",
-      "parentId": "nat-2022-000002-020",
-      "timestamp": "2022-02-12T10:00:30+09:00",
+      "id": "c-2022-000002-v8-009",
+      "parentId": null,
+      "timestamp": "2022-02-12T09:41:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "1.239"
       },
-      "content": "본인등판 없냐 팝콘 다먹음 / 오늘도 평화롭다",
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000002-v8-010",
+      "parentId": null,
+      "timestamp": "2022-02-12T09:43:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000002-v8-011",
+      "parentId": null,
+      "timestamp": "2022-02-12T09:47:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000002-v8-012",
+      "parentId": null,
+      "timestamp": "2022-02-12T09:49:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000002-v8-013",
+      "parentId": null,
+      "timestamp": "2022-02-12T09:53:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000002-v8-014",
+      "parentId": "c-2022-000002-v8-011",
+      "timestamp": "2022-02-12T09:56:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이건 물어볼만함",
       "deleted": false
     }
   ],

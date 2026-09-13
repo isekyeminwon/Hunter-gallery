@@ -1,0 +1,124 @@
+{
+  "id": "hg-2042-000132",
+  "displayNo": 4303861,
+  "timestamp": "2042-09-16T16:49:45+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "이시율 실물후기 댓글 왜이럼ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.52"
+  },
+  "content": "팬아닌데 이건 볼만하네.",
+  "attachments": [],
+  "stats": {
+    "views": 6687,
+    "recommend": 37
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000132-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-16T16:51:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이시율 단독 뜨면 조회수 바로튀더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000132-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-16T16:54:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "검신 영상은 옛날거도 계속 재생됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000132-v8-003",
+      "parentId": "c-2042-000132-v8-002",
+      "timestamp": "2042-09-16T16:58:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이시율 뜨면 조회수 바로튀지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000132-v8-004",
+      "parentId": null,
+      "timestamp": "2042-09-16T17:00:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "한성은 영상보다 기사로 더 자주 보는 느낌",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000132-v8-005",
+      "parentId": null,
+      "timestamp": "2042-09-16T17:04:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "한성 공식영상 말수 진짜 적음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000132-v8-006",
+      "parentId": null,
+      "timestamp": "2042-09-16T17:07:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "한성 공식은 편집보다 담백한맛임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000132-v8-007",
+      "parentId": "c-2042-000132-v8-003",
+      "timestamp": "2042-09-16T17:08:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "한성 공식은 원래 좀 담백함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

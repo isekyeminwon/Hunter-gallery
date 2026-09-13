@@ -1,0 +1,364 @@
+{
+  "id": "hg-2041-000034",
+  "displayNo": 3624117,
+  "timestamp": "2041-10-24T19:53:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "GANGWON_DISAPPEARANCES",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "강원쪽 추가 실종 기사 올라옴 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.250"
+  },
+  "content": "강원 관련해서 방금 본거 가져옴.\n아는 사람 있으면 팩트만 추가해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 78468,
+    "recommend": 2521
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000034-v8-001",
+      "parentId": null,
+      "timestamp": "2041-10-24T19:54:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "저등급=무사고 보증은 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-002",
+      "parentId": null,
+      "timestamp": "2041-10-24T19:56:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "실종건 전부 같은원인이라는건 확인된거 없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-003",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:00:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "강원 구인 전부 위험하다고 하는것도 오바",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-004",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:02:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "입장기록/보험/연락시간 더 빡세게 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-005",
+      "parentId": "c-2041-000034-v8-004",
+      "timestamp": "2041-10-24T20:04:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "저등급이라고 사고 0은 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-006",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:05:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "사람 실종된걸 괴담놀이 하는건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-007",
+      "parentId": "c-2041-000034-v8-006",
+      "timestamp": "2041-10-24T20:09:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "범인특정글은 거르는게 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-008",
+      "parentId": "c-2041-000034-v8-003",
+      "timestamp": "2041-10-24T20:11:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "강원 구인 전부 위험하다는것도 오바",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-009",
+      "parentId": "c-2041-000034-v8-005",
+      "timestamp": "2041-10-24T20:13:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "전부 같은원인이라는건 확인안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-010",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:15:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-011",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:17:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-012",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:19:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "이거 경험자 하나만 더 와봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-013",
+      "parentId": "c-2041-000034-v8-009",
+      "timestamp": "2041-10-24T20:22:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "현장가면 기록/보험 더 잘봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-014",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:24:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-015",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:25:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-016",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:29:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-017",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:32:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-018",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:34:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-019",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:37:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-020",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:39:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-021",
+      "parentId": "c-2041-000034-v8-016",
+      "timestamp": "2041-10-24T20:43:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "전부 같은원인이라는건 확인안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-022",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:45:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-023",
+      "parentId": "c-2041-000034-v8-016",
+      "timestamp": "2041-10-24T20:47:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "강원 구인 전부 위험하다는것도 오바",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-024",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:50:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-025",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:54:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-026",
+      "parentId": null,
+      "timestamp": "2041-10-24T20:56:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000034-v8-027",
+      "parentId": "c-2041-000034-v8-024",
+      "timestamp": "2041-10-24T20:59:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "강원 구인 전부 위험하다는것도 오바",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "hg-2037-000027",
+  "displayNo": 2284878,
+  "timestamp": "2037-02-16T22:17:19+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 렌탈 처음인데 보증금 원래 이정도?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.62"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 3269,
+    "recommend": 15
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000027-v8-001",
+      "parentId": null,
+      "timestamp": "2037-02-16T22:19:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "처음부터 알기 힘든거 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000027-v8-002",
+      "parentId": null,
+      "timestamp": "2037-02-16T22:22:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000027-v8-003",
+      "parentId": null,
+      "timestamp": "2037-02-16T22:25:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "나도 처음엔 이거 몰랐음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

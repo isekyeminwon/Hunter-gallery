@@ -33,351 +33,159 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2030-000008-001",
+      "id": "c-2030-000008-v8-001",
       "parentId": null,
-      "timestamp": "2030-04-22T10:06:19+09:00",
+      "timestamp": "2030-04-22T10:08:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.235"
       },
-      "content": "S 한명 들어오면 길드 체급이 통째로 달라지는구나 싶었음",
+      "content": "나도그럼",
       "deleted": false
     },
     {
-      "id": "nat-2030-000008-002",
+      "id": "c-2030-000008-v8-002",
       "parentId": null,
-      "timestamp": "2030-04-22T10:08:29+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "본문 세줄 댓글 오십개가 커뮤지 ㅋㅋ 이래서 댓글보는 맛은 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-003",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:08:49+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "공식 공지 뜬거 맞음? ㅋㅋ 원문 보면 뉘앙스 다른 경우 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-004",
-      "parentId": "nat-2030-000008-002",
-      "timestamp": "2030-04-22T10:10:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "작년에 비슷한 조건으로 한번 갔는데 결국 서류 먼저 보라고 하더라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-005",
-      "parentId": "nat-2030-000008-004",
-      "timestamp": "2030-04-22T10:10:56+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "댓글이 본문보다 위험등급 높음 / ㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-006",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:12:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "최근 기준 달라진거 있음?. 진짜 궁금해서 물음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-007",
-      "parentId": "nat-2030-000008-001",
-      "timestamp": "2030-04-22T10:14:35+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "읽었는데 니 해석이 더 이상함. 이러다 제목만 바꿔서 또 싸울듯.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-008",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:15:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "웃긴게 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 나중에 결과 보면 알겠지. 조건 하나만 달라도 얘기 완전 달라짐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-009",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:15:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "백호 채용페이지 터진 건 지금 생각해도 웃김 ㅋㅋ 실시간으로 본 사람들은 더 정신없었을듯",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-010",
-      "parentId": "nat-2030-000008-008",
-      "timestamp": "2030-04-22T10:18:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "그럴수도",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-011",
-      "parentId": "nat-2030-000008-009",
-      "timestamp": "2030-04-22T10:19:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "팀장한테 비슷한거 물어봤는데. 괜히 싸게 하려다 돈 더들었음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-012",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:21:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "이런거 볼때마다 강주아 관련해서 기사마다 말 조금씩 다른게 문제임 난 저렇게는 안봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-013",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:23:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "문제는 강주아 관련해서 기사마다 말 조금씩 다른게 문제임 존나 웃김. 괜히 한쪽 말만 듣고 움직이지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-014",
-      "parentId": "nat-2030-000008-009",
-      "timestamp": "2030-04-22T10:24:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "댓글 하나에 왜 이렇게 긁힘 / 현장가서 그렇게 말해봐라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-015",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:26:40+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "백호 채용페이지 터진 건 지금 생각해도 웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-016",
-      "parentId": "nat-2030-000008-003",
-      "timestamp": "2030-04-22T10:29:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "개소리를 정성스럽게도 썼네 근데 그래서 근거가 뭔데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-017",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:30:39+09:00",
+      "timestamp": "2030-04-22T10:11:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "124.53"
       },
-      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 ㅋㅋ 한번 데이고 생각 바뀜",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2030-000008-018",
+      "id": "c-2030-000008-v8-003",
       "parentId": null,
-      "timestamp": "2030-04-22T10:33:01+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "백호 채용페이지 터진 건 지금 생각해도 웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-019",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:33:30+09:00",
+      "timestamp": "2030-04-22T10:13:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "124.53"
       },
-      "content": "왜 이런글이 정보글보다 댓글 잘달림ㅋㅋ / 내생각은 그럼",
+      "content": "개웃기네",
       "deleted": false
     },
     {
-      "id": "nat-2030-000008-020",
+      "id": "c-2030-000008-v8-004",
       "parentId": null,
-      "timestamp": "2030-04-22T10:36:24+09:00",
+      "timestamp": "2030-04-22T10:14:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "211.235"
       },
-      "content": "이거 읽다가 버스 지나침 근데 나만 이 생각했냐",
+      "content": "나도그럼",
       "deleted": false
     },
     {
-      "id": "nat-2030-000008-021",
-      "parentId": "nat-2030-000008-012",
-      "timestamp": "2030-04-22T10:37:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "없으면 확정처럼 말하지마. 어차피 내일 되면 새 글 또 올라옴.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-022",
+      "id": "c-2030-000008-v8-005",
       "parentId": null,
-      "timestamp": "2030-04-22T10:38:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "ㄷㄷ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-023",
-      "parentId": "nat-2030-000008-009",
-      "timestamp": "2030-04-22T10:39:30+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "엥",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000008-024",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:42:05+09:00",
+      "timestamp": "2030-04-22T10:18:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "121.163"
       },
-      "content": "본문 세줄 댓글 오십개가 커뮤지. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "content": "뭔데",
       "deleted": false
     },
     {
-      "id": "nat-2030-000008-025",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:43:48+09:00",
+      "id": "c-2030-000008-v8-006",
+      "parentId": "c-2030-000008-v8-001",
+      "timestamp": "2030-04-22T10:21:30+09:00",
       "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
       },
-      "content": "인터뷰 담백하다고 좋아하다가 또 팬들끼리 싸움남",
+      "content": "ㅋㅋㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2030-000008-026",
+      "id": "c-2030-000008-v8-007",
       "parentId": null,
-      "timestamp": "2030-04-22T10:46:27+09:00",
+      "timestamp": "2030-04-22T10:25:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000008-v8-008",
+      "parentId": null,
+      "timestamp": "2030-04-22T10:28:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "59.10"
       },
-      "content": "동기 하나가 저거 때문에 한동안 고생했는데. 그때 이후로 무조건 두번 확인함",
+      "content": "ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2030-000008-027",
-      "parentId": "nat-2030-000008-016",
-      "timestamp": "2030-04-22T10:49:07+09:00",
+      "id": "c-2030-000008-v8-009",
+      "parentId": null,
+      "timestamp": "2030-04-22T10:30:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "211.235"
       },
-      "content": "친구가 저쪽 일하는데 결국 서류 먼저 보라고 하더라",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2030-000008-028",
-      "parentId": "nat-2030-000008-012",
-      "timestamp": "2030-04-22T10:49:33+09:00",
+      "id": "c-2030-000008-v8-010",
+      "parentId": "c-2030-000008-v8-004",
+      "timestamp": "2030-04-22T10:32:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "61.79"
       },
-      "content": "뭔 개소리야. 아무말이나 던지고 튀네",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2030-000008-029",
-      "parentId": "nat-2030-000008-008",
-      "timestamp": "2030-04-22T10:51:21+09:00",
+      "id": "c-2030-000008-v8-011",
+      "parentId": null,
+      "timestamp": "2030-04-22T10:35:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "59.10"
       },
-      "content": "아무 의미 없는 글에 다들 진심이네 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "content": "강주아 얘기는 맨날 갈리네",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000008-v8-012",
+      "parentId": null,
+      "timestamp": "2030-04-22T10:37:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000008-v8-013",
+      "parentId": null,
+      "timestamp": "2030-04-22T10:39:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "난 반대",
       "deleted": false
     }
   ],

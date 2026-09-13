@@ -1,0 +1,196 @@
+{
+  "id": "hg-2037-000015",
+  "displayNo": 2240449,
+  "timestamp": "2037-08-21T15:39:43+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "A_RANK_2037_GEN",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "올해 A급 인터뷰 영상 봤냐",
+  "author": {
+    "type": "fixed",
+    "name": "영상분석충",
+    "ip": null
+  },
+  "content": "A급 관련해서 방금 본거 가져옴.\n오늘 이 얘기만 몇번째인지 모르겠다ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 26032,
+    "recommend": 201
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000015-v8-001",
+      "parentId": null,
+      "timestamp": "2037-08-21T15:41:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "걍 공채널부터 뒤져봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-002",
+      "parentId": null,
+      "timestamp": "2037-08-21T15:44:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "원본 어디임",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-003",
+      "parentId": null,
+      "timestamp": "2037-08-21T15:47:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "영상 다보고 댓글에서 한참있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-004",
+      "parentId": null,
+      "timestamp": "2037-08-21T15:48:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "편집은 잘했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-005",
+      "parentId": "c-2037-000015-v8-001",
+      "timestamp": "2037-08-21T15:50:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "편집 잘했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-006",
+      "parentId": "c-2037-000015-v8-005",
+      "timestamp": "2037-08-21T15:54:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "그장면 봤음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-007",
+      "parentId": null,
+      "timestamp": "2037-08-21T15:57:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "공식채널부터 봐야겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-008",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:01:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "원본 어디임",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-009",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:03:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "댓글이 영상보다 재밌음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-010",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:05:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-011",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:08:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-012",
+      "parentId": "c-2037-000015-v8-007",
+      "timestamp": "2037-08-21T16:10:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "풀버전 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000015-v8-013",
+      "parentId": null,
+      "timestamp": "2037-08-21T16:13:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

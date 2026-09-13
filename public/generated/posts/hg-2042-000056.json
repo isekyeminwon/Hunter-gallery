@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000056",
+  "displayNo": 4091468,
+  "timestamp": "2042-05-29T09:56:23+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "야식먹을까 말까",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "58.29"
+  },
+  "content": "아무 의미 없음\n퇴근하고싶다",
+  "attachments": [],
+  "stats": {
+    "views": 37651,
+    "recommend": 344
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000056-v8-001",
+      "parentId": null,
+      "timestamp": "2042-05-29T09:59:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "배고프다",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000056-v8-002",
+      "parentId": null,
+      "timestamp": "2042-05-29T10:02:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

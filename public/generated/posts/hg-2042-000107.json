@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000107",
+  "displayNo": 4141950,
+  "timestamp": "2042-07-09T01:36:25+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "팀장 새벽카톡 진짜 금지해야됨 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.246"
+  },
+  "content": "오늘 하루 존나길다",
+  "attachments": [],
+  "stats": {
+    "views": 33128,
+    "recommend": 71
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000107-v8-001",
+      "parentId": null,
+      "timestamp": "2042-07-09T01:39:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000107-v8-002",
+      "parentId": null,
+      "timestamp": "2042-07-09T01:41:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

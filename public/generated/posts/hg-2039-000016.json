@@ -1,0 +1,76 @@
+{
+  "id": "hg-2039-000016",
+  "displayNo": 2925609,
+  "timestamp": "2039-07-26T17:59:21+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "짐꾼 첫날 신발 뭐신음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "182.214"
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 12148,
+    "recommend": 100
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000016-v8-001",
+      "parentId": null,
+      "timestamp": "2039-07-26T18:01:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "방수는 현장타는데 젖는곳 한번가면 찾게됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000016-v8-002",
+      "parentId": null,
+      "timestamp": "2039-07-26T18:04:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "양말 여분 챙겨라 은근 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000016-v8-003",
+      "parentId": null,
+      "timestamp": "2039-07-26T18:08:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "발에 이미 길든게 제일 편했음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

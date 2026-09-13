@@ -33,27 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2028-000033-001",
+      "id": "c-2028-000033-v8-001",
       "parentId": null,
-      "timestamp": "2028-04-20T22:49:25+09:00",
+      "timestamp": "2028-04-20T22:46:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "211.235"
       },
-      "content": "내일 검사인데 이런 글 왜 클릭했지 ㅋㅋ 이 커뮤는 새벽에도 똑같네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000033-002",
-      "parentId": "nat-2028-000033-001",
-      "timestamp": "2028-04-20T22:55:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "니들 둘 다 진정해라. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "content": "개웃기네",
       "deleted": false
     }
   ],

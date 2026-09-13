@@ -1,0 +1,184 @@
+{
+  "id": "hg-2037-000021",
+  "displayNo": 2263508,
+  "timestamp": "2037-03-11T02:27:14+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "GATE_VIDEO_EXPANSION",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "게이트영상 때문에 보험 문의 폭주라는데",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.102"
+  },
+  "content": "게이트영상 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
+  "attachments": [],
+  "stats": {
+    "views": 9020,
+    "recommend": 1
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000021-v8-001",
+      "parentId": null,
+      "timestamp": "2037-03-11T02:29:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-002",
+      "parentId": null,
+      "timestamp": "2037-03-11T02:32:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-003",
+      "parentId": "c-2037-000021-v8-001",
+      "timestamp": "2037-03-11T02:36:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-004",
+      "parentId": "c-2037-000021-v8-001",
+      "timestamp": "2037-03-11T02:39:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-005",
+      "parentId": "c-2037-000021-v8-001",
+      "timestamp": "2037-03-11T02:42:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "보장범위가 제일 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-006",
+      "parentId": "c-2037-000021-v8-003",
+      "timestamp": "2037-03-11T02:44:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-007",
+      "parentId": "c-2037-000021-v8-002",
+      "timestamp": "2037-03-11T02:47:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-008",
+      "parentId": "c-2037-000021-v8-005",
+      "timestamp": "2037-03-11T02:50:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-009",
+      "parentId": null,
+      "timestamp": "2037-03-11T02:53:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-010",
+      "parentId": "c-2037-000021-v8-003",
+      "timestamp": "2037-03-11T02:55:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-011",
+      "parentId": null,
+      "timestamp": "2037-03-11T02:59:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000021-v8-012",
+      "parentId": null,
+      "timestamp": "2037-03-11T03:02:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

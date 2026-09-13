@@ -1,0 +1,39 @@
+{
+  "id": "hg-2040-000003",
+  "displayNo": 3180164,
+  "timestamp": "2040-02-24T19:09:54+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 현장 취소돼서 낮잠 잤다",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "220.79"
+  },
+  "content": "이거 나만 그런가",
+  "attachments": [],
+  "stats": {
+    "views": 11543,
+    "recommend": 11
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

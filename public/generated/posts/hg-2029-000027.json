@@ -33,279 +33,123 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2029-000027-001",
+      "id": "c-2029-000027-v8-001",
       "parentId": null,
-      "timestamp": "2029-04-07T15:15:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "또 줄세우기 시작했네ㅋㅋ / 내생각은 그럼",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-002",
-      "parentId": null,
-      "timestamp": "2029-04-07T15:21:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "기사 링크부터 가져와 / 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-003",
-      "parentId": "nat-2029-000027-002",
-      "timestamp": "2029-04-07T15:22:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "이걸로 싸우는게 더 웃김 ㅋㅋ. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-004",
-      "parentId": "nat-2029-000027-002",
-      "timestamp": "2029-04-07T15:23:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "윗댓 말도 틀린건 아닌데 표현이 개같음. 여기서 싸워봤자 현장 규정 안바뀜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-005",
-      "parentId": null,
-      "timestamp": "2029-04-07T15:31:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "여기서 우승하면 협회장 시켜줌?. 이래서 헌갤을 못끊음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-006",
-      "parentId": "nat-2029-000027-002",
-      "timestamp": "2029-04-07T15:36:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "이거 보고 우리팀 막내 또 아는척할까봐 무섭다 / 아무도 안물어봤는데 다들 진심임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-007",
-      "parentId": null,
-      "timestamp": "2029-04-07T15:38:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "다 떠나서 한성 얘기만 나오면 갑자기 다들 현장 전문가 됨 확정짓긴 이른듯. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-008",
-      "parentId": "nat-2029-000027-007",
-      "timestamp": "2029-04-07T15:39:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-009",
-      "parentId": "nat-2029-000027-002",
-      "timestamp": "2029-04-07T15:41:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "한성 관련해서 협회에 물어본 사람? ㅋㅋ 댓글 싸우지말고 답만좀",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-010",
-      "parentId": "nat-2029-000027-001",
-      "timestamp": "2029-04-07T15:51:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "동기 하나가 저거 때문에 한동안 고생했는데. 막상 가면 매뉴얼 찾게 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-011",
-      "parentId": null,
-      "timestamp": "2029-04-07T15:51:29+09:00",
+      "timestamp": "2029-04-07T15:15:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.235"
       },
-      "content": "와",
+      "content": "한성 붙으면 왜 고민하냐는놈 곧옴ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2029-000027-012",
+      "id": "c-2029-000027-v8-002",
       "parentId": null,
-      "timestamp": "2029-04-07T15:55:09+09:00",
+      "timestamp": "2029-04-07T15:17:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "211.36"
       },
-      "content": "이 글 결론 안나고 다음주에 제목 바꿔서 또 올라옴. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
       "deleted": false
     },
     {
-      "id": "nat-2029-000027-013",
+      "id": "c-2029-000027-v8-003",
       "parentId": null,
-      "timestamp": "2029-04-07T16:04:01+09:00",
+      "timestamp": "2029-04-07T15:21:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "1.239"
       },
-      "content": "현장 상성도 봐야지 ㅋㅋ 이래서 댓글보는 맛은 있음",
+      "content": "취업은 전투서열이랑 다름",
       "deleted": false
     },
     {
-      "id": "nat-2029-000027-014",
+      "id": "c-2029-000027-v8-004",
       "parentId": null,
-      "timestamp": "2029-04-07T16:13:31+09:00",
+      "timestamp": "2029-04-07T15:25:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "118.41"
       },
-      "content": "영상 몇개 보고 순위 정하는게 제일 재밌긴 함ㅋㅋ / 내생각은 그럼",
+      "content": "스텔라는 방송 싫으면 호불호 씨게 갈림",
       "deleted": false
     },
     {
-      "id": "nat-2029-000027-015",
+      "id": "c-2029-000027-v8-005",
       "parentId": null,
-      "timestamp": "2029-04-07T16:16:37+09:00",
+      "timestamp": "2029-04-07T15:28:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "211.36"
       },
-      "content": "영상 몇개 보고 순위 정하는게 제일 재밌긴 함ㅋㅋ",
+      "content": "마법계면 네뷸라 끌릴만함",
       "deleted": false
     },
     {
-      "id": "nat-2029-000027-016",
+      "id": "c-2029-000027-v8-006",
       "parentId": null,
-      "timestamp": "2029-04-07T16:19:55+09:00",
+      "timestamp": "2029-04-07T15:31:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "118.41"
       },
-      "content": "초보가 제일 먼저 확인할거 뭐임? ㅋㅋ 진짜 궁금해서 물음",
+      "content": "결론 붙여주는곳 감",
       "deleted": false
     },
     {
-      "id": "nat-2029-000027-017",
-      "parentId": null,
-      "timestamp": "2029-04-07T16:29:19+09:00",
+      "id": "c-2029-000027-v8-007",
+      "parentId": "c-2029-000027-v8-004",
+      "timestamp": "2029-04-07T15:34:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "1.239"
       },
-      "content": "팬심 빼자더니 제일 팬심 가득한 놈들만 모임 / 경험자 반박환영",
+      "content": "셋다 붙고 고민하고싶다",
       "deleted": false
     },
     {
-      "id": "nat-2029-000027-018",
-      "parentId": "nat-2029-000027-013",
-      "timestamp": "2029-04-07T16:35:53+09:00",
+      "id": "c-2029-000027-v8-008",
+      "parentId": "c-2029-000027-v8-005",
+      "timestamp": "2029-04-07T15:36:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "211.36"
       },
-      "content": "내가 협회면 이 댓글창부터 통제함\n진짜 가지가지한다",
+      "content": "취업이면 복지/교육도 봐야지",
       "deleted": false
     },
     {
-      "id": "nat-2029-000027-019",
-      "parentId": "nat-2029-000027-016",
-      "timestamp": "2029-04-07T16:42:53+09:00",
+      "id": "c-2029-000027-v8-009",
+      "parentId": "c-2029-000027-v8-007",
+      "timestamp": "2029-04-07T15:39:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "1.239"
       },
-      "content": "확인된 내용만 적어줘 ㅋㅋ 오늘 카더라 너무 많이 돎",
+      "content": "백호 복지후기 많은건 맞음",
       "deleted": false
     },
     {
-      "id": "nat-2029-000027-020",
-      "parentId": null,
-      "timestamp": "2029-04-07T16:46:47+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "또 줄세우기 시작했네ㅋㅋ / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-021",
-      "parentId": "nat-2029-000027-012",
-      "timestamp": "2029-04-07T16:52:29+09:00",
+      "id": "c-2029-000027-v8-010",
+      "parentId": "c-2029-000027-v8-007",
+      "timestamp": "2029-04-07T15:40:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "211.36"
       },
-      "content": "댓글 하나에 왜 이렇게 긁힘 ㅋㅋ 니 경험 하나가 법은 아님",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-022",
-      "parentId": null,
-      "timestamp": "2029-04-07T17:01:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "오피셜 캡처 말고 링크 줘 / 공식이면 금방 다시 뜰테니 기다리면 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000027-023",
-      "parentId": null,
-      "timestamp": "2029-04-07T17:04:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "또 줄세우기 시작했네ㅋㅋ ㅋㅋ 근데 이해는 감",
+      "content": "마법계면 네뷸라가 끌릴만함",
       "deleted": false
     }
   ],

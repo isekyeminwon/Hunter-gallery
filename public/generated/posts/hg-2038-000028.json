@@ -1,0 +1,88 @@
+{
+  "id": "hg-2038-000028",
+  "displayNo": 2524271,
+  "timestamp": "2038-04-11T12:16:30+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "C급 파티 첫지원인데 자기소개 뭐적음",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.140"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 3425,
+    "recommend": 0
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000028-v8-001",
+      "parentId": null,
+      "timestamp": "2038-04-11T12:18:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "처음하면 헷갈릴만하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000028-v8-002",
+      "parentId": null,
+      "timestamp": "2038-04-11T12:20:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000028-v8-003",
+      "parentId": null,
+      "timestamp": "2038-04-11T12:22:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "최신 후기 찾기가 더힘듦",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000028-v8-004",
+      "parentId": null,
+      "timestamp": "2038-04-11T12:25:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "나도 이거 궁금했음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

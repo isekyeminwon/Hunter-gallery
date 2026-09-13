@@ -1,0 +1,76 @@
+{
+  "id": "hg-2042-000184",
+  "displayNo": 4361951,
+  "timestamp": "2042-09-17T08:23:18+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "강제소집 대상 기준 다시 알려줘 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "현장밥차",
+    "ip": null
+  },
+  "content": "법 얘기라 최신기준 아는사람 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 8148,
+    "recommend": 73
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000184-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:25:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "C급 이상이 진짜 국가재난급에서 대상될수 있는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000184-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:29:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "S도 법밖에 있는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000184-v8-003",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:31:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "평소 게이트마다 싹 끌고가는거 아님",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

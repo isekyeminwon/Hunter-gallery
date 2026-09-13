@@ -1,0 +1,52 @@
+{
+  "id": "hg-2042-000163",
+  "displayNo": 4316697,
+  "timestamp": "2042-09-17T02:17:02+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "부상보험 청구 처음인데 뭐챙김? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.125"
+  },
+  "content": "팀마다 말이 달라서 헷갈림.\n보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 2213,
+    "recommend": 12
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000163-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-17T02:20:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "보험사 이름보다 보장범위가 먼저임",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

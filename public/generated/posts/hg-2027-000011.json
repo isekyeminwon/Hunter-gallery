@@ -33,171 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2027-000011-001",
+      "id": "c-2027-000011-v8-001",
       "parentId": null,
-      "timestamp": "2027-05-19T12:21:30+09:00",
+      "timestamp": "2027-05-19T12:21:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "211.36"
       },
-      "content": "팬이랑 안티 동시에 몰려와서 댓글창 개판남ㅋㅋ. 아무튼 내 돈 걸라면 난 안검.",
+      "content": "공식채널부터 봐야겠다",
       "deleted": false
     },
     {
-      "id": "nat-2027-000011-002",
-      "parentId": "nat-2027-000011-001",
-      "timestamp": "2027-05-19T12:29:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "아는척 지랄 좀 그만해라 근데 ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-003",
+      "id": "c-2027-000011-v8-002",
       "parentId": null,
-      "timestamp": "2027-05-19T12:33:23+09:00",
+      "timestamp": "2027-05-19T12:24:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.234"
       },
-      "content": "니 말이 맞으면 협회가 왜 있겠냐 ㅋㅋ 현장가서 그렇게 말해봐라",
+      "content": "댓글이 영상보다 재밌음",
       "deleted": false
     },
     {
-      "id": "nat-2027-000011-004",
-      "parentId": null,
-      "timestamp": "2027-05-19T12:38:50+09:00",
+      "id": "c-2027-000011-v8-003",
+      "parentId": "c-2027-000011-v8-001",
+      "timestamp": "2027-05-19T12:27:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "223.38"
       },
-      "content": "미쳤네",
+      "content": "그장면 봤음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2027-000011-005",
-      "parentId": null,
-      "timestamp": "2027-05-19T12:45:01+09:00",
+      "id": "c-2027-000011-v8-004",
+      "parentId": "c-2027-000011-v8-001",
+      "timestamp": "2027-05-19T12:28:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "211.234"
       },
-      "content": "이 글 읽고 장비점 사장 싱글벙글 / 관리자도 보고 웃겠다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-006",
-      "parentId": null,
-      "timestamp": "2027-05-19T12:50:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "제일 중요한건 한명 경험담을 전체 룰로 만드는게 제일 위험함 존나 웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-007",
-      "parentId": "nat-2027-000011-005",
-      "timestamp": "2027-05-19T12:53:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "뇌피셜을 왜 사실처럼 씀. 이건 좀 심했다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-008",
-      "parentId": "nat-2027-000011-005",
-      "timestamp": "2027-05-19T13:02:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "정보글 보러왔다가 원숭이 싸움 구경중 ㅋㅋ 내일까지 싸워줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-009",
-      "parentId": null,
-      "timestamp": "2027-05-19T13:11:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "나 내일 출근인데 왜 이거 보고있냐 ㅋㅋ 본문이랑 상관없긴 한데 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-010",
-      "parentId": "nat-2027-000011-002",
-      "timestamp": "2027-05-19T13:15:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "글을 읽은거냐 제목만 본거냐 ㅋㅋ 댓글 더 달수록 이상해짐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-011",
-      "parentId": null,
-      "timestamp": "2027-05-19T13:23:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "이 경우에도 같은 기준 적용됨? ㅋㅋ 검색하면 말이 다 다름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-012",
-      "parentId": "nat-2027-000011-002",
-      "timestamp": "2027-05-19T13:24:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-013",
-      "parentId": null,
-      "timestamp": "2027-05-19T13:27:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "내일 검사인데 이런 글 왜 클릭했지 근데 왜 이런글에 댓글이 더 많냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000011-014",
-      "parentId": null,
-      "timestamp": "2027-05-19T13:32:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "댓글 구경하러 왔다\n왜 이런글에 댓글이 더 많냐",
+      "content": "편집 잘했네",
       "deleted": false
     }
   ],

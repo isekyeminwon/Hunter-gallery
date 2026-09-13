@@ -31,44 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "nat-2031-000029-001",
-      "parentId": null,
-      "timestamp": "2031-02-03T01:17:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "최근 기준 달라진거 있음?\n이거만 확인하고싶음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000029-002",
-      "parentId": null,
-      "timestamp": "2031-02-03T01:27:52+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "본문 세줄 댓글 오십개가 커뮤지. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000029-003",
-      "parentId": null,
-      "timestamp": "2031-02-03T01:33:23+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "본문 세줄 댓글 오십개가 커뮤지 ㅋㅋ 또 싸우겠네",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

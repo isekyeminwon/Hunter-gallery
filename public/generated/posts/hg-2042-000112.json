@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000112",
+  "displayNo": 4189809,
+  "timestamp": "2042-08-07T10:05:39+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[공지] 구인글 외부 메신저 유도·보험 미표기 주의",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "최근 짐꾼·보조인력 구인글에서 보수·보험 정보를 숨긴 채 외부 메신저로 이동을 유도하는 사례가 반복되고 있습니다.\n구인글에는 지역, 예상 등급, 집결시간, 보수, 보험 여부를 가능한 범위에서 명확히 적어주세요.\n의심스러운 외부 링크·개인정보 요구 글은 신고 바랍니다.",
+  "attachments": [],
+  "stats": {
+    "views": 53158,
+    "recommend": 0
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

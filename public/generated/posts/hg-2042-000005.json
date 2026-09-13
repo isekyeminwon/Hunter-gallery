@@ -1,0 +1,208 @@
+{
+  "id": "hg-2042-000005",
+  "displayNo": 3929764,
+  "timestamp": "2042-01-04T06:25:57+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "F급인데 헌터 계속 하는 게 맞냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.58"
+  },
+  "content": "스무살에 F 뜨고 2년째 짐꾼이랑 현장보조 왔다갔다 하는중.\n친구들은 그냥 다른 일 알아보라는데 괜히 면허 따고 버틴게 아까움.\nF로 오래 일한 사람 있음?",
+  "attachments": [],
+  "stats": {
+    "views": 100678,
+    "recommend": 1096
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000005-pilot001",
+      "parentId": null,
+      "timestamp": "2042-01-04T06:30:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "F면 전투로 뜨겠다는 생각은 접고 현장지원으로 먹고살건지부터 정해",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot002",
+      "parentId": null,
+      "timestamp": "2042-01-04T06:33:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "2년 했으면 본인이 제일 잘알지 않냐 힘든지 버틸만한지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot003",
+      "parentId": null,
+      "timestamp": "2042-01-04T06:35:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "나도 F인데 사무직하다 주말만 짐꾼뜀. 꼭 하나만 고를 필요도 없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot004",
+      "parentId": null,
+      "timestamp": "2042-01-04T06:38:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "친구들 말도 틀린건 아님. 위험한데 돈이 압도적으로 좋은것도 아니면",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot005",
+      "parentId": null,
+      "timestamp": "2042-01-04T06:41:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "좋은 팀 잡으면 반복으로 가는게 제일 큼. 일당 20 더준다고 팀 바꾸는거 비추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot006",
+      "parentId": "c-2042-000005-pilot005",
+      "timestamp": "2042-01-04T06:45:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "B급 짐꾼이면 200도 받는다며",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot007",
+      "parentId": "c-2042-000005-pilot006",
+      "timestamp": "2042-01-04T06:49:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "항상 200 아님. 위험/시간/팀 따라 다름. 숫자만 보고 오면 후회함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot008",
+      "parentId": null,
+      "timestamp": "2042-01-04T06:51:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "등급이 안오른다는게 제일 현타올듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot009",
+      "parentId": "c-2042-000005-pilot008",
+      "timestamp": "2042-01-04T06:55:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "원래 초기등급 거의 평생가는거 알고 시작한거 아님?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot010",
+      "parentId": "c-2042-000005-pilot009",
+      "timestamp": "2042-01-04T06:57:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "알아도 사람 마음이 그렇지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot011",
+      "parentId": null,
+      "timestamp": "2042-01-04T07:00:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "면허 아까워서 인생 걸 필요는 없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot012",
+      "parentId": null,
+      "timestamp": "2042-01-04T07:04:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "반대로 2년 했으면 경력 자체는 이미 쓸데가 있겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot013",
+      "parentId": null,
+      "timestamp": "2042-01-04T07:06:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "일단 허리부터 챙겨라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000005-pilot014",
+      "parentId": null,
+      "timestamp": "2042-01-04T07:10:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "{{con:idk}} 나도 진로고민중",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

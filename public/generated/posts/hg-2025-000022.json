@@ -33,75 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2025-000022-001",
+      "id": "c-2025-000022-v8-001",
       "parentId": null,
-      "timestamp": "2025-12-18T09:35:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "와",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000022-002",
-      "parentId": null,
-      "timestamp": "2025-12-18T09:42:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "엥",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000022-003",
-      "parentId": null,
-      "timestamp": "2025-12-18T09:47:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "출처가 뭐임 / 오늘 카더라 너무 많이 돎",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000022-004",
-      "parentId": null,
-      "timestamp": "2025-12-18T09:57:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "와",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000022-005",
-      "parentId": null,
-      "timestamp": "2025-12-18T10:04:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "보수 좋은데 조건 애매하면 더 무섭다 ㅋㅋ 이래서 댓글보는 맛은 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000022-006",
-      "parentId": "nat-2025-000022-002",
-      "timestamp": "2025-12-18T10:07:36+09:00",
+      "timestamp": "2025-12-18T09:27:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.246"
       },
-      "content": "아니 한명 경험담을 전체 룰로 만드는게 제일 위험함 이상함. 괜히 아는척하다가 틀리면 개쪽임.",
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000022-v8-002",
+      "parentId": null,
+      "timestamp": "2025-12-18T09:29:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "계약주체 누구임",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000022-v8-003",
+      "parentId": null,
+      "timestamp": "2025-12-18T09:32:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "보험 있냐",
       "deleted": false
     }
   ],

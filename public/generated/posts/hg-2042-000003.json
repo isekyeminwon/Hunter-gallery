@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000003",
+  "displayNo": 3971741,
+  "timestamp": "2042-02-06T07:13:00+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "부정등록 잡히면 면허 바로 정지임?",
+  "author": {
+    "type": "fixed",
+    "name": "영상분석충",
+    "ip": null
+  },
+  "content": "이거 신고대상 맞음?\n애매해서 손 안대고있음.",
+  "attachments": [],
+  "stats": {
+    "views": 17351,
+    "recommend": 110
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000003-v8-001",
+      "parentId": null,
+      "timestamp": "2042-02-06T07:14:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "범죄 터지면 대응측 위험도부터 꼬임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000003-v8-002",
+      "parentId": null,
+      "timestamp": "2042-02-06T07:18:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "등급이 출입 보험 파티조건에 실제로 쓰임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000003-v8-003",
+      "parentId": "c-2042-000003-v8-002",
+      "timestamp": "2042-02-06T07:21:36+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "측정오류랑 고의숨김은 다르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000003-v8-004",
+      "parentId": null,
+      "timestamp": "2042-02-06T07:24:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "강제소집 회피 이미지까지 붙어서 더 욕먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000003-v8-005",
+      "parentId": null,
+      "timestamp": "2042-02-06T07:27:21+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "고의로 낮추면 주변이 틀린정보로 판단하게 됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

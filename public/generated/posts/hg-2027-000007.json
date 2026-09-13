@@ -33,87 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2027-000007-001",
+      "id": "c-2027-000007-v8-001",
       "parentId": null,
-      "timestamp": "2027-01-12T23:19:39+09:00",
+      "timestamp": "2027-01-12T23:16:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "223.33"
       },
-      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함 / 내생각은 그럼",
+      "content": "이건 최신 공지 봐야됨",
       "deleted": false
     },
     {
-      "id": "nat-2027-000007-002",
+      "id": "c-2027-000007-v8-002",
       "parentId": null,
-      "timestamp": "2027-01-12T23:22:50+09:00",
+      "timestamp": "2027-01-12T23:18:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "106.250"
       },
-      "content": "뭔 자신감으로 확정짓냐 근데 이건 좀 심했다",
+      "content": "그 조항 아직 그대로임?",
       "deleted": false
     },
     {
-      "id": "nat-2027-000007-003",
+      "id": "c-2027-000007-v8-003",
       "parentId": null,
-      "timestamp": "2027-01-12T23:30:00+09:00",
+      "timestamp": "2027-01-12T23:20:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.33"
       },
-      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함",
+      "content": "명의 빌려주는건 괜히 엮이지마",
       "deleted": false
     },
     {
-      "id": "nat-2027-000007-004",
+      "id": "c-2027-000007-v8-004",
       "parentId": null,
-      "timestamp": "2027-01-12T23:30:43+09:00",
+      "timestamp": "2027-01-12T23:22:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "106.250"
       },
-      "content": "공식 공지 뜬거 맞음? 근데 링크 없으면 일단 반만 믿음",
+      "content": "신고해본사람 있음?",
       "deleted": false
     },
     {
-      "id": "nat-2027-000007-005",
+      "id": "c-2027-000007-v8-005",
       "parentId": null,
-      "timestamp": "2027-01-12T23:31:14+09:00",
+      "timestamp": "2027-01-12T23:24:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "124.53"
       },
-      "content": "작성자 존나 급하네 근데 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000007-006",
-      "parentId": null,
-      "timestamp": "2027-01-12T23:34:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이 댓글창만 게이트 닫으면 안되냐. 제발 계속해",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000007-007",
-      "parentId": null,
-      "timestamp": "2027-01-12T23:43:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "이거 보험 처리도 똑같음? / 검색하면 말이 다 다름",
+      "content": "규정이랑 관행은 또 다를수 있음",
       "deleted": false
     }
   ],

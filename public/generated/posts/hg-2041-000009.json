@@ -1,0 +1,88 @@
+{
+  "id": "hg-2041-000009",
+  "displayNo": 3530918,
+  "timestamp": "2041-05-07T20:44:18+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "C급이면 진짜 회사 그만둬도 먹고삼?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.246"
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 12160,
+    "recommend": 35
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000009-v8-001",
+      "parentId": null,
+      "timestamp": "2041-05-07T20:46:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "이건 나도 모르겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000009-v8-002",
+      "parentId": null,
+      "timestamp": "2041-05-07T20:49:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "검색해도 예전얘기만 나와",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000009-v8-003",
+      "parentId": null,
+      "timestamp": "2041-05-07T20:53:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000009-v8-004",
+      "parentId": null,
+      "timestamp": "2041-05-07T20:55:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "첫번엔 나도 잘못알았음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

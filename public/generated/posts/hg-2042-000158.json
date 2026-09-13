@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000158",
+  "displayNo": 4307043,
+  "timestamp": "2042-09-17T00:19:44+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "구인글 보험미표기면 바로 거름? ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "요즘 시세 아는사람?\n작년글밖에 안나옴.",
+  "attachments": [],
+  "stats": {
+    "views": 2047,
+    "recommend": 8
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000158-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-17T00:21:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000158-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-17T00:23:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "현장등급 제한 먼저 봐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

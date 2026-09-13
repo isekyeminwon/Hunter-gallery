@@ -1,0 +1,124 @@
+{
+  "id": "hg-2037-000001",
+  "displayNo": 2180762,
+  "timestamp": "2037-01-14T18:02:24+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "한성 네뷸라 백호 복지만 놓고 어디감?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 8697,
+    "recommend": 69
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000001-v8-001",
+      "parentId": null,
+      "timestamp": "2037-01-14T18:04:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "복지만 보면 백호 쪽 손드는 사람 많지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000001-v8-002",
+      "parentId": null,
+      "timestamp": "2037-01-14T18:05:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "복지글 검색하면 백호 얘기 많이 뜸",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000001-v8-003",
+      "parentId": null,
+      "timestamp": "2037-01-14T18:08:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "마법계면 선택지에서 네뷸라 못빼지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000001-v8-004",
+      "parentId": null,
+      "timestamp": "2037-01-14T18:10:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "선택권부터 달라는 댓글 예상함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000001-v8-005",
+      "parentId": null,
+      "timestamp": "2037-01-14T18:13:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "입사선호랑 길드전력은 따로봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000001-v8-006",
+      "parentId": null,
+      "timestamp": "2037-01-14T18:16:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "일단 오퍼부터 주세요",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000001-v8-007",
+      "parentId": null,
+      "timestamp": "2037-01-14T18:19:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "한성 복지후기는 상대적으로 덜보이긴함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

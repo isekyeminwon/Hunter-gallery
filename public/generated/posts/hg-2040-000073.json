@@ -1,0 +1,112 @@
+{
+  "id": "hg-2040-000073",
+  "displayNo": 3440080,
+  "timestamp": "2040-06-12T18:15:57+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[정리] 비오는날 현장장비 관리 팁",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "마석 정산 때문에 파티 두번 깨지는거 보고 내가 쓰는 방식 공유.\n\n입장 전\n- 고정수당 있는 사람 체크\n- 회수품 배분비율 적기\n- 특별보상 따로 처리할지 합의\n- 장비수리비를 공용비용으로 보는지 확인\n\n현장\n- 회수한 시간/위치 대충 기록\n- 누가 개인가방에 임시보관했으면 바로 표시\n- 파손되거나 못가져오는건 사진 남김\n\n복귀 후\n- 매입가 확정 전 예상금액으로 싸우지 않음\n- 거래수수료/운반비 먼저 빼고 배분\n- 정산표 단톡에 올리고 이의받음\n- 송금내역 남김\n\n이렇게까지 해야되냐 싶은데\n돈 얘기 시작하면 친한사람도 갑자기 기억이 달라짐ㅋㅋ\n\n구두합의는 진짜 추천 안함.",
+  "attachments": [],
+  "stats": {
+    "views": 5744,
+    "recommend": 27
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000073-v8-001",
+      "parentId": null,
+      "timestamp": "2040-06-12T18:18:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000073-v8-002",
+      "parentId": null,
+      "timestamp": "2040-06-12T18:20:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "당일도 있고 며칠뒤도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000073-v8-003",
+      "parentId": null,
+      "timestamp": "2040-06-12T18:23:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "예상금액으로 먼저 싸우지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000073-v8-004",
+      "parentId": null,
+      "timestamp": "2040-06-12T18:27:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "계약할때 정산일 적혀있는게 제일 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000073-v8-005",
+      "parentId": null,
+      "timestamp": "2040-06-12T18:31:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000073-v8-006",
+      "parentId": null,
+      "timestamp": "2040-06-12T18:32:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

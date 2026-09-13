@@ -1,0 +1,196 @@
+{
+  "id": "hg-2039-000009",
+  "displayNo": 2898923,
+  "timestamp": "2039-09-03T11:19:01+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "A_RANK_2039_GEN",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "A급 둘 뜨니까 또 길드팬들 신났네",
+  "author": {
+    "type": "fixed",
+    "name": "별빛단7기",
+    "ip": null
+  },
+  "content": "회사 단톡도 이 얘기 헌갤도 이 얘기\n도망갈데가없네",
+  "attachments": [],
+  "stats": {
+    "views": 28044,
+    "recommend": 60
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000009-v8-001",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:20:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-002",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:24:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-003",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:27:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-004",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:29:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-005",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:32:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-006",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:34:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "댓글보다가 원글 다시읽음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-007",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:35:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-008",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:38:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-009",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:42:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-010",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:44:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-011",
+      "parentId": "c-2039-000009-v8-005",
+      "timestamp": "2039-09-03T11:45:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-012",
+      "parentId": null,
+      "timestamp": "2039-09-03T11:47:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000009-v8-013",
+      "parentId": "c-2039-000009-v8-012",
+      "timestamp": "2039-09-03T11:49:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "뭔데",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

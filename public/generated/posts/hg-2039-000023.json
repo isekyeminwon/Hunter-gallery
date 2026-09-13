@@ -1,0 +1,484 @@
+{
+  "id": "hg-2039-000023",
+  "displayNo": 2959123,
+  "timestamp": "2039-05-19T12:57:00+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "EAST_SEA_PORT_ACCIDENT",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[정보] 사고영상 보고 '저기서 왜 저럼?' 하기 쉬운 이유",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.36"
+  },
+  "content": "현장일 오래한 사람들은 다 아는 내용인데 뉴비 질문이 계속 보여서 적음.\n\n입장 전에 내가 보는 순서\n\n1. 계약\n보수만 보지말고 보험, 철수시 지급, 장비파손 책임부터 봄.\n특히 '현장 상황에 따라 변동' 같은 문장 있으면 정확히 뭐가 변동인지 물어봄.\n\n2. 파티\n누가 선두인지, 누가 철수콜 하는지, 보조가 어느 위치인지 확인.\n이거 안 정하고 들어가면 막상 상황 터졌을때 다 서로 눈봄.\n\n3. 장비\n새 장비보다 익숙한 장비가 낫다고 생각함.\n작동확인, 예비전원, 고정끈, 조명은 입구에서 한번 더.\n\n4. 짐\n공용물자 / 개인물자 / 회수품 가방을 섞지마라.\n끝날때 꼭 뭐 하나 없어짐.\n\n5. 정산\n마석이든 기타 회수품이든 기록 먼저.\n사람 기억 믿고 나중에 맞추면 싸움.\n\n별거 없어보이는데\n현장에서는 화려한 기술보다 이런게 사고를 덜냄.\n\n정성추 달라고 쓴건 아니고 나도 예전에 이런글 보고 도움받아서 씀.",
+  "attachments": [],
+  "stats": {
+    "views": 38249,
+    "recommend": 1023
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000023-v8-001",
+      "parentId": null,
+      "timestamp": "2039-05-19T12:59:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-002",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:01:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-003",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:03:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-004",
+      "parentId": "c-2039-000023-v8-002",
+      "timestamp": "2039-05-19T13:06:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-005",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:08:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-006",
+      "parentId": "c-2039-000023-v8-005",
+      "timestamp": "2039-05-19T13:10:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "보장범위가 제일 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-007",
+      "parentId": "c-2039-000023-v8-003",
+      "timestamp": "2039-05-19T13:12:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-008",
+      "parentId": "c-2039-000023-v8-007",
+      "timestamp": "2039-05-19T13:15:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-009",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:18:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "두개가 같은 보장이라고 생각하면 안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-010",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:20:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "회사명보다 뭘 보장하는지가 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-011",
+      "parentId": "c-2039-000023-v8-009",
+      "timestamp": "2039-05-19T13:23:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-012",
+      "parentId": "c-2039-000023-v8-007",
+      "timestamp": "2039-05-19T13:25:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-013",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:27:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-014",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:30:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-015",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:32:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-016",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:34:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-017",
+      "parentId": "c-2039-000023-v8-012",
+      "timestamp": "2039-05-19T13:38:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-018",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:39:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "이 글 왜 아래가 더길어ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-019",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:43:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-020",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:46:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-021",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:48:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-022",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:51:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-023",
+      "parentId": "c-2039-000023-v8-017",
+      "timestamp": "2039-05-19T13:54:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-024",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:56:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-025",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:00:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-026",
+      "parentId": "c-2039-000023-v8-022",
+      "timestamp": "2039-05-19T14:03:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-027",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:05:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-028",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:09:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-029",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:12:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-030",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:15:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-031",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:17:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-032",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:21:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-033",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:23:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-034",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:26:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-035",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:28:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-036",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:32:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000023-v8-037",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:34:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "비슷하게 해본놈 더없냐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

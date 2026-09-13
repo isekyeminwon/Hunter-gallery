@@ -1,0 +1,196 @@
+{
+  "id": "hg-2042-000088",
+  "displayNo": 4222235,
+  "timestamp": "2042-08-28T12:42:51+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "언데드 게이트 공략권 왜 이렇게 쌈?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "요즘 공략권 눈팅중인데 비슷한 등급 다른 게이트보다\n묘지형/언데드 쪽이 싸게 올라오는 경우가 은근 많네.\n\n내가 들은 이유는\n- 선호 파티가 적음\n- 정화/특수대응 준비 때문에 조합 가림\n- 장비 세척이나 회수 뒤처리가 귀찮음\n- 방송각도 생각보다 별로라 영상팀이 덜붙음\n\n이 정도인데 실제론 뭐가 제일 큼?\n\n'싸니까 개꿀' 하고 덥석 잡기엔\n준비비용까지 보면 싼게 아닐수도 있을거같음.",
+  "attachments": [],
+  "stats": {
+    "views": 101552,
+    "recommend": 1784
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000088-pilot001",
+      "parentId": null,
+      "timestamp": "2042-08-28T12:47:15+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "냄새 분진 세척 귀찮아서 싫어하는 팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot002",
+      "parentId": null,
+      "timestamp": "2042-08-28T12:49:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "정화계 없으면 사실상 못가는거 아님?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot003",
+      "parentId": null,
+      "timestamp": "2042-08-28T12:50:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "그건 또 오바. 파티랑 게이트 따라 다름",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot004",
+      "parentId": null,
+      "timestamp": "2042-08-28T12:51:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "공략권 싸다고 이득인줄 알고 샀다가 준비비에서 죽는거지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot005",
+      "parentId": null,
+      "timestamp": "2042-08-28T12:52:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "방송각 안나와서 영상팀 덜붙는것도 있음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot006",
+      "parentId": null,
+      "timestamp": "2042-08-28T12:57:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "보호구+세척+폐기까지 계산해야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot007",
+      "parentId": "c-2042-000088-pilot006",
+      "timestamp": "2042-08-28T12:59:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "세척비 그렇게 큼?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot008",
+      "parentId": "c-2042-000088-pilot007",
+      "timestamp": "2042-08-28T13:01:55+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "장비 많이 오염되면 체감 큼. 파티장비면 더",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot009",
+      "parentId": null,
+      "timestamp": "2042-08-28T13:03:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "그래도 마석 잘나오면 남는거 아님?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot010",
+      "parentId": "c-2042-000088-pilot009",
+      "timestamp": "2042-08-28T13:06:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "그걸 들어가기 전에 확정 못하니까 공략권 가격이 있는거잖아",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot011",
+      "parentId": "c-2042-000088-pilot010",
+      "timestamp": "2042-08-28T13:11:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "하긴",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot012",
+      "parentId": null,
+      "timestamp": "2042-08-28T13:15:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "묘지형 두번 가고 냄새때문에 손절함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000088-pilot013",
+      "parentId": null,
+      "timestamp": "2042-08-28T13:18:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "나는 오히려 사람 적어서 좋던데",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -33,27 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2027-000017-001",
+      "id": "c-2027-000017-v8-001",
       "parentId": null,
-      "timestamp": "2027-05-19T11:08:34+09:00",
+      "timestamp": "2027-05-19T11:11:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "220.79"
       },
-      "content": "지금 나온 것만 보면 협회 관련해서 기사마다 말 조금씩 다른게 문제임 그래서 난 아직 보류",
+      "content": "나도그럼",
       "deleted": false
     },
     {
-      "id": "nat-2027-000017-002",
+      "id": "c-2027-000017-v8-002",
       "parentId": null,
-      "timestamp": "2027-05-19T11:10:14+09:00",
+      "timestamp": "2027-05-19T11:14:10+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000017-v8-003",
+      "parentId": null,
+      "timestamp": "2027-05-19T11:18:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "220.79"
       },
-      "content": "출처가 뭐임 ㅋㅋ 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000017-v8-004",
+      "parentId": null,
+      "timestamp": "2027-05-19T11:19:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㅋㅋ",
       "deleted": false
     }
   ],

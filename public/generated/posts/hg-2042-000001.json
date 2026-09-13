@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000001",
+  "displayNo": 3937432,
+  "timestamp": "2042-01-12T22:35:35+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[정보] 장비로그 적기 시작하고 좋은점",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "게이트 하나로 돈 도는 구조를 엄청 단순하게 적으면\n\n1. 공략권\n누가 해당 게이트를 공략할지에 대한 권리.\n\n2. 공략비용\n헌터 인건비, 짐꾼/지원, 장비, 소모품, 보험, 운송.\n\n3. 회수\n마석 포함 회수 가능한 자원.\n\n4. 거래\n회수품 판매하고 수수료/운송비 등 빠짐.\n\n5. 정산\n계약한 비율이나 고정수당대로 나눔.\n\n그래서\n'B급 게이트니까 무조건 돈 많이범'\n'공략권 싸게 샀으니 개이득'\n둘다 아님.\n\n언데드처럼 선호도 때문에 공략권은 싸도\n준비/뒤처리 비용이 먹을수 있고,\n반대로 비싼 공략권도 회수 기대가 높으면 경쟁 붙음.\n\n결국 공략 자체가 사업이 된지 오래라\n전투력만 보고 돈계산하면 안됨.",
+  "attachments": [],
+  "stats": {
+    "views": 35937,
+    "recommend": 15
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000001-v8-001",
+      "parentId": null,
+      "timestamp": "2042-01-12T22:38:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000001-v8-002",
+      "parentId": null,
+      "timestamp": "2042-01-12T22:41:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "현장등급 제한 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000001-v8-003",
+      "parentId": null,
+      "timestamp": "2042-01-12T22:44:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000001-v8-004",
+      "parentId": "c-2042-000001-v8-003",
+      "timestamp": "2042-01-12T22:47:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000001-v8-005",
+      "parentId": null,
+      "timestamp": "2042-01-12T22:49:06+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "회사명보다 뭘 보장하는지가 중요함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

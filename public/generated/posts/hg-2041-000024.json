@@ -1,0 +1,256 @@
+{
+  "id": "hg-2041-000024",
+  "displayNo": 3584084,
+  "timestamp": "2041-10-24T00:41:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "GANGWON_DISAPPEARANCES",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "저등급인데 실종이라는 말 자체가 이상하네",
+  "author": {
+    "type": "fixed",
+    "name": "계약서읽자",
+    "ip": null
+  },
+  "content": "나만 이제 봤냐\n댓글 속도 미쳤음",
+  "attachments": [],
+  "stats": {
+    "views": 32734,
+    "recommend": 181
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000024-v8-001",
+      "parentId": null,
+      "timestamp": "2041-10-24T00:42:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "강원 구인 전부 위험하다고 하는것도 오바",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-002",
+      "parentId": null,
+      "timestamp": "2041-10-24T00:45:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "입장기록/보험/연락시간 더 빡세게 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-003",
+      "parentId": null,
+      "timestamp": "2041-10-24T00:49:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "사람 실종된걸 괴담놀이 하는건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-004",
+      "parentId": null,
+      "timestamp": "2041-10-24T00:51:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "실종건 전부 같은원인이라는건 확인된거 없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-005",
+      "parentId": null,
+      "timestamp": "2041-10-24T00:53:26+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "범인 특정글은 거르는게 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-006",
+      "parentId": "c-2041-000024-v8-002",
+      "timestamp": "2041-10-24T00:56:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "저등급이라고 사고 0은 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-007",
+      "parentId": "c-2041-000024-v8-006",
+      "timestamp": "2041-10-24T00:57:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "강원 구인 전부 위험하다는것도 오바",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-008",
+      "parentId": null,
+      "timestamp": "2041-10-24T00:59:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-009",
+      "parentId": "c-2041-000024-v8-007",
+      "timestamp": "2041-10-24T01:01:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "범인특정글은 거르는게 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-010",
+      "parentId": null,
+      "timestamp": "2041-10-24T01:03:30+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-011",
+      "parentId": "c-2041-000024-v8-006",
+      "timestamp": "2041-10-24T01:07:05+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "현장가면 기록/보험 더 잘봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-012",
+      "parentId": null,
+      "timestamp": "2041-10-24T01:09:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-013",
+      "parentId": "c-2041-000024-v8-011",
+      "timestamp": "2041-10-24T01:12:51+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "전부 같은원인이라는건 확인안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-014",
+      "parentId": null,
+      "timestamp": "2041-10-24T01:15:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "비슷하게 해본놈 더없냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-015",
+      "parentId": "c-2041-000024-v8-009",
+      "timestamp": "2041-10-24T01:17:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "현장가면 기록/보험 더 잘봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-016",
+      "parentId": null,
+      "timestamp": "2041-10-24T01:21:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-017",
+      "parentId": null,
+      "timestamp": "2041-10-24T01:24:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000024-v8-018",
+      "parentId": "c-2041-000024-v8-013",
+      "timestamp": "2041-10-24T01:27:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "강원 구인 전부 위험하다는것도 오바",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

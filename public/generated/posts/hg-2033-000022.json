@@ -33,483 +33,195 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000022-001",
+      "id": "c-2033-000022-v8-001",
       "parentId": null,
-      "timestamp": "2033-09-17T00:22:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "세계 최초라는 단어 붙으니까 해외댓글까지 한꺼번에 몰려옴 ㅋㅋ 근데 저때 댓글 분위기는 이해됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-002",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:23:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "모르면 가만히라도 있어라 ㅋㅋ ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-003",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:24:29+09:00",
+      "timestamp": "2033-09-17T00:24:11+09:00",
       "author": {
         "type": "fixed",
         "name": "백호복지팀",
         "ip": null
       },
-      "content": "니 말이 맞으면 협회가 왜 있겠냐 ㅋㅋ ㅋㅋㅋㅋ",
+      "content": "보험 있냐",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-004",
+      "id": "c-2033-000022-v8-002",
       "parentId": null,
-      "timestamp": "2033-09-17T00:27:04+09:00",
+      "timestamp": "2033-09-17T00:26:57+09:00",
       "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
       },
-      "content": "S 위에 뭐 만들거냐던 농담이 진짜 돼버림ㅋㅋ\n이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "content": "보험 있냐",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-005",
+      "id": "c-2033-000022-v8-003",
       "parentId": null,
-      "timestamp": "2033-09-17T00:28:16+09:00",
+      "timestamp": "2033-09-17T00:30:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "106.250"
       },
-      "content": "계약서 가리고 올리면 봐줄 사람 많을듯. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
+      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-006",
+      "id": "c-2033-000022-v8-004",
       "parentId": null,
-      "timestamp": "2033-09-17T00:29:40+09:00",
+      "timestamp": "2033-09-17T00:33:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "59.5"
       },
-      "content": "다 떠나서 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 반박시 니말맞음",
+      "content": "계약주체 누구임",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-007",
-      "parentId": "nat-2033-000022-003",
-      "timestamp": "2033-09-17T00:30:08+09:00",
+      "id": "c-2033-000022-v8-005",
+      "parentId": "c-2033-000022-v8-004",
+      "timestamp": "2033-09-17T00:36:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "211.202"
       },
-      "content": "아니 같은 기사 맞음. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-008",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:31:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 입구부터 꼬여서 하루 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-009",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:33:10+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "웃긴게 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이건 맞는말임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-010",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:35:30+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "",
-      "deleted": true
-    },
-    {
-      "id": "nat-2033-000022-011",
-      "parentId": "nat-2033-000022-005",
-      "timestamp": "2033-09-17T00:36:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "반박을 하라고 선언하지 말고ㅋㅋ. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-012",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:37:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "이시율 vs 국내 S 셋 글은 하루종일 싸웠음\n실시간으로 본 사람들은 더 정신없었을듯",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-013",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:39:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "댓글 보니까 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-014",
-      "parentId": "nat-2033-000022-008",
-      "timestamp": "2033-09-17T00:41:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "내일 검사인데 이런 글 왜 클릭했지\n답글 달지마 이제 못봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-015",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:42:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "댓글 구경하러 왔다\n아무튼 난 밥먹으러감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-016",
-      "parentId": "nat-2033-000022-005",
-      "timestamp": "2033-09-17T00:44:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "좆문가 또 왔네 ㅋㅋ 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-017",
-      "parentId": "nat-2033-000022-012",
-      "timestamp": "2033-09-17T00:45:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "그건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-018",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:46:01+09:00",
+      "id": "c-2033-000022-v8-006",
+      "parentId": "c-2033-000022-v8-003",
+      "timestamp": "2033-09-17T00:39:37+09:00",
       "author": {
         "type": "fixed",
         "name": "백호복지팀",
         "ip": null
       },
-      "content": "작성자 존나 급하네 / 댓글 더 달수록 이상해짐",
+      "content": "예상시간 몇시간인데",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-019",
-      "parentId": "nat-2033-000022-008",
-      "timestamp": "2033-09-17T00:48:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "작성자 존나 급하네. 한번만 더 생각하고 써봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-020",
-      "parentId": "nat-2033-000022-018",
-      "timestamp": "2033-09-17T00:50:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "병신아 그건 다른 얘기임 ㅋㅋ 현장가서 그렇게 말해봐라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-021",
+      "id": "c-2033-000022-v8-007",
       "parentId": null,
-      "timestamp": "2033-09-17T00:51:32+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "예전에 처음 갔을땐 나도 근데 별거 아닌 실수가 제일 오래감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-022",
-      "parentId": "nat-2033-000022-004",
-      "timestamp": "2033-09-17T00:52:43+09:00",
+      "timestamp": "2033-09-17T00:43:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "211.58"
       },
-      "content": "문맥 좀 읽어라. 진짜.. 괜히 한쪽 말만 듣고 움직이지마.",
+      "content": "시세보다 너무 좋으면 이유부터 궁금함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-023",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:53:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "내 주변은 이시율 관련해서 기사마다 말 조금씩 다른게 문제임 그냥 그렇다고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-024",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:53:31+09:00",
+      "id": "c-2033-000022-v8-008",
+      "parentId": "c-2033-000022-v8-002",
+      "timestamp": "2033-09-17T00:46:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "106.250"
       },
-      "content": "오피셜 캡처 말고 링크 줘. 오늘 카더라 너무 많이 돎",
+      "content": "예상시간 몇시간인데",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-025",
-      "parentId": "nat-2033-000022-023",
-      "timestamp": "2033-09-17T00:56:06+09:00",
+      "id": "c-2033-000022-v8-009",
+      "parentId": null,
+      "timestamp": "2033-09-17T00:50:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000022-v8-010",
+      "parentId": null,
+      "timestamp": "2033-09-17T00:53:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000022-v8-011",
+      "parentId": "c-2033-000022-v8-009",
+      "timestamp": "2033-09-17T00:55:46+09:00",
       "author": {
         "type": "fixed",
         "name": "백호복지팀",
         "ip": null
       },
-      "content": "그래서 결론이 뭐임. 진짜.. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "content": "보험 있냐",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-026",
-      "parentId": "nat-2033-000022-023",
-      "timestamp": "2033-09-17T00:57:08+09:00",
+      "id": "c-2033-000022-v8-012",
+      "parentId": null,
+      "timestamp": "2033-09-17T00:57:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "106.250"
       },
-      "content": "없으면 확정처럼 말하지마. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "content": "이건 인정",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-027",
+      "id": "c-2033-000022-v8-013",
       "parentId": null,
-      "timestamp": "2033-09-17T00:57:58+09:00",
+      "timestamp": "2033-09-17T01:00:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "106.250"
       },
-      "content": "야구 보다가 여기까지 왔다 근데 작성자 책임져라 시간 날림",
+      "content": "다른팀은 어케함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-028",
+      "id": "c-2033-000022-v8-014",
       "parentId": null,
-      "timestamp": "2033-09-17T01:00:32+09:00",
+      "timestamp": "2033-09-17T01:03:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.109"
+        "ip": "211.58"
       },
-      "content": "웃긴게 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 이건 경험자 말 들어봐야됨. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
+      "content": "근거는?",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-029",
+      "id": "c-2033-000022-v8-015",
       "parentId": null,
-      "timestamp": "2033-09-17T01:02:33+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "오히려 이시율 자체보다 조건이 뭐였는지부터 봐야됨 존나 웃김. 아무튼 내 돈 걸라면 난 안검.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-030",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:05:13+09:00",
+      "timestamp": "2033-09-17T01:05:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "220.79"
       },
-      "content": "댓글 구경하러 왔다 근데 갑자기 생각나서 적음",
+      "content": "ㅅㅂ",
       "deleted": false
     },
     {
-      "id": "nat-2033-000022-031",
-      "parentId": "nat-2033-000022-015",
-      "timestamp": "2033-09-17T01:07:00+09:00",
+      "id": "c-2033-000022-v8-016",
+      "parentId": null,
+      "timestamp": "2033-09-17T01:08:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "211.202"
       },
-      "content": "아니 시발 뭔 결론이 그렇게 감 ㅋㅋ 한번만 더 생각하고 써봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-032",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:07:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "원문 어디냐 근데 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-033",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:09:17+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "우리 파티는 저런 상황 오면. 한번 데이고 생각 바뀜",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-034",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:09:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "정보글 보러왔다가 원숭이 싸움 구경중. 이래서 헌갤을 못끊음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-035",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:10:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "SS 표기 자체가 낯설어서 오타인줄 안 사람도 있었음. 댓글만 봐도 당시 혼란이 느껴짐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-036",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:10:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "근데 점심 뭐먹냐 근데 작성자 책임져라 시간 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-037",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:11:45+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "누가 여기다 국회 열었냐\n와중에 추천은 누르고감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-038",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:14:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "기사만 보면 이시율는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 이건 경험자 말 들어봐야됨. 왜 이런 글만 뜨면 전문가가 증식하냐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-039",
-      "parentId": "nat-2033-000022-017",
-      "timestamp": "2033-09-17T01:15:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "니 말이 맞으면 협회가 왜 있겠냐 근데 그 자신감은 어디서 나옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000022-040",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:16:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "작성자 IP 왤케 낯익냐. 퇴근이나 시켜줘",
+      "content": "예상시간 몇시간인데",
       "deleted": false
     }
   ],

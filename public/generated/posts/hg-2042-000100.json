@@ -1,0 +1,148 @@
+{
+  "id": "hg-2042-000100",
+  "displayNo": 4185610,
+  "timestamp": "2042-08-07T07:13:20+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "통신 꼬이면 제일 먼저 할거",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "182.214"
+  },
+  "content": "별거 아닌데 초보때 이거 몰라서 한번 고생함.\n현장가는 사람만 참고하셈.",
+  "attachments": [],
+  "stats": {
+    "views": 39460,
+    "recommend": 390
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000100-v8-001",
+      "parentId": null,
+      "timestamp": "2042-08-07T07:16:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "우리쪽은 방식이 살짝 다름",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000100-v8-002",
+      "parentId": null,
+      "timestamp": "2042-08-07T07:19:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "안에서 정하려면 늦음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000100-v8-003",
+      "parentId": null,
+      "timestamp": "2042-08-07T07:22:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "초보는 이런글이 더 필요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000100-v8-004",
+      "parentId": null,
+      "timestamp": "2042-08-07T07:24:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "당해보면 왜 적었는지 앎",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000100-v8-005",
+      "parentId": null,
+      "timestamp": "2042-08-07T07:28:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "다음 현장전에 한번 더봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000100-v8-006",
+      "parentId": "c-2042-000100-v8-004",
+      "timestamp": "2042-08-07T07:31:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000100-v8-007",
+      "parentId": "c-2042-000100-v8-006",
+      "timestamp": "2042-08-07T07:33:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000100-v8-008",
+      "parentId": null,
+      "timestamp": "2042-08-07T07:36:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000100-v8-009",
+      "parentId": "c-2042-000100-v8-002",
+      "timestamp": "2042-08-07T07:38:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

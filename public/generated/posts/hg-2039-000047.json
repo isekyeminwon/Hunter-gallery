@@ -1,0 +1,232 @@
+{
+  "id": "hg-2039-000047",
+  "displayNo": 3067180,
+  "timestamp": "2039-09-03T16:10:55+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "A_RANK_2039_GEN",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "각성자 신상공개 범위 정확히 어디까지임?",
+  "author": {
+    "type": "fixed",
+    "name": "계약서읽자",
+    "ip": null
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
+  "attachments": [],
+  "stats": {
+    "views": 65169,
+    "recommend": 175
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000047-v8-001",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:12:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "이건 최신 공지 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-002",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:16:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "명의 빌려주는건 괜히 엮이지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-003",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:19:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "규정이랑 관행은 또 다를수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-004",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:21:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "최신기준도 같음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-005",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:23:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "신고해본사람 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-006",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:26:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "애매하면 신상은 올리지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-007",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:27:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-008",
+      "parentId": "c-2039-000047-v8-005",
+      "timestamp": "2039-09-03T16:30:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "실제 신고사례 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-009",
+      "parentId": "c-2039-000047-v8-004",
+      "timestamp": "2039-09-03T16:32:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "규정 바뀐거 없는지 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-010",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:35:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-011",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:37:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-012",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:39:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "이 글 왜 아래가 더길어ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-013",
+      "parentId": "c-2039-000047-v8-012",
+      "timestamp": "2039-09-03T16:41:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "최신 공지 한번 봐야겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-014",
+      "parentId": "c-2039-000047-v8-011",
+      "timestamp": "2039-09-03T16:45:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "실제 신고사례 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-015",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:48:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000047-v8-016",
+      "parentId": null,
+      "timestamp": "2039-09-03T16:49:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "근거는?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

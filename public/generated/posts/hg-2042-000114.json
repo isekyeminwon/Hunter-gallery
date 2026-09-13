@@ -1,0 +1,52 @@
+{
+  "id": "hg-2042-000114",
+  "displayNo": 4193464,
+  "timestamp": "2042-08-14T14:11:22+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "헌터보험 광고 모델 또 바뀜",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "아무 의미 없음\n퇴근하고싶다",
+  "attachments": [],
+  "stats": {
+    "views": 33187,
+    "recommend": 109
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000114-v8-001",
+      "parentId": null,
+      "timestamp": "2042-08-14T14:13:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

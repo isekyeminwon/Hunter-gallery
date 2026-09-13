@@ -1,0 +1,76 @@
+{
+  "id": "hg-2040-000058",
+  "displayNo": 3390856,
+  "timestamp": "2040-05-03T19:48:40+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드 면접때 현장영상 가져가도 됨? ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "백호복지팀",
+    "ip": null
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 18329,
+    "recommend": 126
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000058-v8-001",
+      "parentId": null,
+      "timestamp": "2040-05-03T19:52:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "첫번엔 나도 잘못알았음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000058-v8-002",
+      "parentId": null,
+      "timestamp": "2040-05-03T19:54:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "검색해도 예전얘기만 나와",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000058-v8-003",
+      "parentId": null,
+      "timestamp": "2040-05-03T19:56:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "나도 옆에서 질문좀",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

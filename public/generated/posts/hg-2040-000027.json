@@ -1,0 +1,76 @@
+{
+  "id": "hg-2040-000027",
+  "displayNo": 3271356,
+  "timestamp": "2040-01-21T10:10:46+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "별하나 라이브 오늘 몇시임",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.201"
+  },
+  "content": "그냥 궁금해서 물어봄.\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 13452,
+    "recommend": 24
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000027-v8-001",
+      "parentId": null,
+      "timestamp": "2040-01-21T10:12:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "팬아닌데 이번건 볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000027-v8-002",
+      "parentId": null,
+      "timestamp": "2040-01-21T10:16:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "풀버전도 풀어줬으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000027-v8-003",
+      "parentId": null,
+      "timestamp": "2040-01-21T10:17:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "이번 편집 진짜 잘뽑았네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

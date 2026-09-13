@@ -1,0 +1,64 @@
+{
+  "id": "hg-2038-000120",
+  "displayNo": 2862438,
+  "timestamp": "2038-06-20T16:58:51+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "내일 첫출근인데 잠안옴",
+  "author": {
+    "type": "fixed",
+    "name": "계약서읽자",
+    "ip": null
+  },
+  "content": "그냥 궁금해서 물어봄\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 19715,
+    "recommend": 94
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000120-v8-001",
+      "parentId": null,
+      "timestamp": "2038-06-20T17:01:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000120-v8-002",
+      "parentId": null,
+      "timestamp": "2038-06-20T17:04:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

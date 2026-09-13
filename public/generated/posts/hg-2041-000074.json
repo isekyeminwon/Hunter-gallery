@@ -1,0 +1,232 @@
+{
+  "id": "hg-2041-000074",
+  "displayNo": 3790156,
+  "timestamp": "2041-07-04T07:42:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "STELLA_VIDEO_PROJECT_2041",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "스텔라 합동 공략영상 실제 촬영은 며칠함?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.33"
+  },
+  "content": "스텔라 관련해서 방금 본거 가져옴.\n기사마다 표현이 좀 달라서 확인된 것만 보는게 맞을듯.",
+  "attachments": [],
+  "stats": {
+    "views": 24648,
+    "recommend": 179
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000074-v8-001",
+      "parentId": null,
+      "timestamp": "2041-07-04T07:45:30+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "영상이 거짓말이라기보다 목적이 다른거",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-002",
+      "parentId": null,
+      "timestamp": "2041-07-04T07:48:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "대기/확인/철수판단이 편집에서 많이 잘림",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-003",
+      "parentId": "c-2041-000074-v8-001",
+      "timestamp": "2041-07-04T07:49:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "대기시간 잘리니까 쉬워보이는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-004",
+      "parentId": "c-2041-000074-v8-001",
+      "timestamp": "2041-07-04T07:51:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "영상이 구라라기보다 목적이 다른거지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-005",
+      "parentId": null,
+      "timestamp": "2041-07-04T07:53:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "원본콜 있는 영상이 공부할땐 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-006",
+      "parentId": "c-2041-000074-v8-001",
+      "timestamp": "2041-07-04T07:56:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "원본콜 있으면 공부는 훨씬 잘됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-007",
+      "parentId": "c-2041-000074-v8-004",
+      "timestamp": "2041-07-04T07:58:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "촬영팀 붙으면 동선도 달라질수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-008",
+      "parentId": "c-2041-000074-v8-002",
+      "timestamp": "2041-07-04T08:02:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "편집본은 잘린시간 감안하고 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-009",
+      "parentId": null,
+      "timestamp": "2041-07-04T08:04:26+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-010",
+      "parentId": null,
+      "timestamp": "2041-07-04T08:08:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-011",
+      "parentId": "c-2041-000074-v8-006",
+      "timestamp": "2041-07-04T08:09:41+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "대기시간 잘리니까 쉬워보이는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-012",
+      "parentId": null,
+      "timestamp": "2041-07-04T08:12:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-013",
+      "parentId": null,
+      "timestamp": "2041-07-04T08:16:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-014",
+      "parentId": "c-2041-000074-v8-007",
+      "timestamp": "2041-07-04T08:18:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "대기시간 잘리니까 쉬워보이는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-015",
+      "parentId": "c-2041-000074-v8-008",
+      "timestamp": "2041-07-04T08:20:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "영상이 구라라기보다 목적이 다른거지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000074-v8-016",
+      "parentId": null,
+      "timestamp": "2041-07-04T08:24:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "스텔라 최근거 더 봐야 알듯",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

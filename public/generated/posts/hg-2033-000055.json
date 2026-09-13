@@ -33,243 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000055-001",
+      "id": "c-2033-000055-v8-001",
       "parentId": null,
-      "timestamp": "2033-12-13T17:07:41+09:00",
+      "timestamp": "2033-12-13T17:05:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "118.235"
       },
-      "content": "오히려 이거는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 그럴수도 있긴 함",
+      "content": "해본사람 있냐",
       "deleted": false
     },
     {
-      "id": "nat-2033-000055-002",
-      "parentId": "nat-2033-000055-001",
-      "timestamp": "2033-12-13T17:14:09+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "기사 세줄도 안읽고 댓글부터 쓰냐 근데 그래서 근거가 뭔데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-003",
-      "parentId": "nat-2033-000055-002",
-      "timestamp": "2033-12-13T17:21:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "나 내일 출근인데 왜 이거 보고있냐\n본문이랑 상관없긴 한데 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-004",
-      "parentId": "nat-2033-000055-003",
-      "timestamp": "2033-12-13T17:27:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "그 경우랑 이 경우는 다름. 내말 틀림?. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-005",
+      "id": "c-2033-000055-v8-002",
       "parentId": null,
-      "timestamp": "2033-12-13T17:29:44+09:00",
+      "timestamp": "2033-12-13T17:07:07+09:00",
       "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
       },
-      "content": "모르면 가만히라도 있어라 근데 니 경험 하나가 법은 아님",
+      "content": "요즘 기준 글이 잘안보이더라",
       "deleted": false
     },
     {
-      "id": "nat-2033-000055-006",
+      "id": "c-2033-000055-v8-003",
       "parentId": null,
-      "timestamp": "2033-12-13T17:34:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "동기 하나가 저거 때문에 한동안 고생했는데 ㅋㅋ 지금도 그 얘기하면 욕함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-007",
-      "parentId": "nat-2033-000055-005",
-      "timestamp": "2033-12-13T17:42:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "와",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-008",
-      "parentId": "nat-2033-000055-005",
-      "timestamp": "2033-12-13T17:52:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "현장 만능론 또 나왔네. 한줄 요약하려다가 꼭 사고남.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-009",
-      "parentId": null,
-      "timestamp": "2033-12-13T17:55:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이거 이거 실제 해본 사람 있음\n검색하면 말이 다 다름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-010",
-      "parentId": null,
-      "timestamp": "2033-12-13T17:58:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 근데 가족들은 뉴스만 떠도 전화부터 옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-011",
-      "parentId": null,
-      "timestamp": "2033-12-13T18:06:02+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "짤만 던지지 말고 원본 좀 / 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-012",
-      "parentId": "nat-2033-000055-010",
-      "timestamp": "2033-12-13T18:11:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "이 글 왜 개념감ㅋㅋ. 작성자 책임져라 시간 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-013",
-      "parentId": null,
-      "timestamp": "2033-12-13T18:16:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "뭐 한명 경험담을 전체 룰로 만드는게 제일 위험함 그냥 그렇다고. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-014",
-      "parentId": null,
-      "timestamp": "2033-12-13T18:24:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-015",
-      "parentId": null,
-      "timestamp": "2033-12-13T18:26:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "뭔 개소리야. 반박은 내용으로 해라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-016",
-      "parentId": "nat-2033-000055-014",
-      "timestamp": "2033-12-13T18:32:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "니 말이 맞으면 협회가 왜 있겠냐 / 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-017",
-      "parentId": null,
-      "timestamp": "2033-12-13T18:39:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임. 댓글에서 벌써 결론 다 내린게 더 웃김.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-018",
-      "parentId": null,
-      "timestamp": "2033-12-13T18:41:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이거 지역마다 차이남? / 옛날 기준 말고 지금 기준으로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000055-019",
-      "parentId": null,
-      "timestamp": "2033-12-13T18:43:00+09:00",
+      "timestamp": "2033-12-13T17:08:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.235"
       },
-      "content": "대충 봐도 이거 얘기만 나오면 갑자기 다들 현장 전문가 됨 반박시 니말맞음",
+      "content": "이거 초보때 은근 헷갈림",
       "deleted": false
     },
     {
-      "id": "nat-2033-000055-020",
+      "id": "c-2033-000055-v8-004",
       "parentId": null,
-      "timestamp": "2033-12-13T18:52:58+09:00",
+      "timestamp": "2033-12-13T17:12:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "118.235"
       },
-      "content": "댓글이 본문보다 위험등급 높음 ㅋㅋ 관리자도 보고 웃겠다",
+      "content": "처음하면 헷갈릴만하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000055-v8-005",
+      "parentId": "c-2033-000055-v8-004",
+      "timestamp": "2033-12-13T17:15:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "해본사람 말 더 들어보고싶다",
       "deleted": false
     }
   ],

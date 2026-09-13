@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000069",
+  "displayNo": 4106654,
+  "timestamp": "2042-06-15T07:44:16+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비렌탈 월정액 써본사람 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "조건 봐주라.\n돈보다 먼저 체크할거 있으면 말해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 18195,
+    "recommend": 84
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000069-v8-001",
+      "parentId": null,
+      "timestamp": "2042-06-15T07:47:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000069-v8-002",
+      "parentId": null,
+      "timestamp": "2042-06-15T07:49:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

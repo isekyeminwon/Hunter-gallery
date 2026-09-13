@@ -33,267 +33,159 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2025-000021-001",
+      "id": "c-2025-000021-v8-001",
       "parentId": null,
-      "timestamp": "2025-06-25T02:55:38+09:00",
+      "timestamp": "2025-06-25T02:56:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "211.58"
       },
-      "content": "뭐 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 나중에 결과 보면 알겠지. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "content": "나도 첫번에 여기서 헷갈림",
       "deleted": false
     },
     {
-      "id": "nat-2025-000021-002",
+      "id": "c-2025-000021-v8-002",
       "parentId": null,
-      "timestamp": "2025-06-25T02:55:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "정보글 보러왔다가 원숭이 싸움 구경중\nㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-003",
-      "parentId": "nat-2025-000021-002",
       "timestamp": "2025-06-25T02:58:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "좆문가 또 왔네 근데 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-004",
-      "parentId": "nat-2025-000021-003",
-      "timestamp": "2025-06-25T03:00:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "작성자 IP 왤케 낯익냐\n답글 달지마 이제 못봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-005",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:02:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이런 상황에서 보통 누가 결정함?\n진짜 궁금해서 물음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-006",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:04:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "국내 첫 S인데 글 도배되는게 당연하지ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-007",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:06:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "둘 다 개소리중임 / 웃겨서 화도 안남",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-008",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:08:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이 글 읽고 장비점 사장 싱글벙글 ㅋㅋ 누가 말리냐 계속해봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-009",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:09:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "현장 보조 몇번 해봤는데. 한번 데이고 생각 바뀜",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-010",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:12:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임 / 아님말고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-011",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:12:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.223"
       },
-      "content": "글을 읽은거냐 제목만 본거냐 ㅋㅋ 진짜로",
+      "content": "검색하면 옛날글만 나옴",
       "deleted": false
     },
     {
-      "id": "nat-2025-000021-012",
-      "parentId": "nat-2025-000021-003",
-      "timestamp": "2025-06-25T03:13:30+09:00",
+      "id": "c-2025-000021-v8-003",
+      "parentId": "c-2025-000021-v8-002",
+      "timestamp": "2025-06-25T03:02:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "211.58"
       },
-      "content": "그 말이면 세상 모든 질문 끝남ㅋㅋ. 여기서 싸워봤자 현장 규정 안바뀜.",
+      "content": "이건 물어볼만함",
       "deleted": false
     },
     {
-      "id": "nat-2025-000021-013",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:15:46+09:00",
+      "id": "c-2025-000021-v8-004",
+      "parentId": "c-2025-000021-v8-001",
+      "timestamp": "2025-06-25T03:05:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "175.223"
       },
-      "content": "검색해도 안나오는데 어디서 봄 ㅋㅋ 공식이면 금방 다시 뜰테니 기다리면 됨",
+      "content": "나도 처음엔 헷갈렸음",
       "deleted": false
     },
     {
-      "id": "nat-2025-000021-014",
+      "id": "c-2025-000021-v8-005",
       "parentId": null,
-      "timestamp": "2025-06-25T03:18:24+09:00",
+      "timestamp": "2025-06-25T03:09:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "175.223"
       },
-      "content": "출처가 뭐임 ㅋㅋ 오늘 카더라 너무 많이 돎",
+      "content": "처음이면 물어볼만함",
       "deleted": false
     },
     {
-      "id": "nat-2025-000021-015",
+      "id": "c-2025-000021-v8-006",
+      "parentId": "c-2025-000021-v8-003",
+      "timestamp": "2025-06-25T03:11:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000021-v8-007",
+      "parentId": "c-2025-000021-v8-002",
+      "timestamp": "2025-06-25T03:15:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000021-v8-008",
       "parentId": null,
-      "timestamp": "2025-06-25T03:20:33+09:00",
+      "timestamp": "2025-06-25T03:18:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "이건 나도 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000021-v8-009",
+      "parentId": null,
+      "timestamp": "2025-06-25T03:21:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000021-v8-010",
+      "parentId": "c-2025-000021-v8-003",
+      "timestamp": "2025-06-25T03:23:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000021-v8-011",
+      "parentId": null,
+      "timestamp": "2025-06-25T03:26:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000021-v8-012",
+      "parentId": null,
+      "timestamp": "2025-06-25T03:29:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000021-v8-013",
+      "parentId": null,
+      "timestamp": "2025-06-25T03:31:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.33"
       },
-      "content": "대충 봐도 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 결론 내리기 애매함. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-016",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:23:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "여기서 우승하면 협회장 시켜줌?\n관리자도 보고 웃겠다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-017",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:23:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "으음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-018",
-      "parentId": "nat-2025-000021-013",
-      "timestamp": "2025-06-25T03:24:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "그건 팀마다 다름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-019",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:26:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "질문 자체는 멀쩡한데 댓글이 왜 전쟁임 / 내생각은 그럼",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-020",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:27:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "S급이면 총 맞아도 되냐는 질문은 지금봐도 개웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-021",
-      "parentId": null,
-      "timestamp": "2025-06-25T03:28:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "아니ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2025-000021-022",
-      "parentId": "nat-2025-000021-005",
-      "timestamp": "2025-06-25T03:30:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "이거 보고 우리팀 막내 또 아는척할까봐 무섭다. 와중에 추천은 누르고감",
+      "content": "그럴수도 있지",
       "deleted": false
     }
   ],

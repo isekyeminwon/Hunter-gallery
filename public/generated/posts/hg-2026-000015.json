@@ -31,56 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "nat-2026-000015-001",
-      "parentId": null,
-      "timestamp": "2026-09-05T19:04:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "나도 비슷한 일 한번 겪었는데 근데 우리는 바로 철수 얘기부터 꺼냄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000015-002",
-      "parentId": null,
-      "timestamp": "2026-09-05T19:10:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "이거 최초 출처 누군데 근데 그거 어제 올라온 가짜랑 비슷한데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000015-003",
-      "parentId": null,
-      "timestamp": "2026-09-05T19:13:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "출처가 뭐임. 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000015-004",
-      "parentId": "nat-2026-000015-003",
-      "timestamp": "2026-09-05T19:20:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "니 말대로면 앞댓글이랑 충돌함",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

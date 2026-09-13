@@ -33,195 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2034-000040-001",
+      "id": "c-2034-000040-v8-001",
       "parentId": null,
-      "timestamp": "2034-09-17T00:22:00+09:00",
+      "timestamp": "2034-09-17T00:20:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "61.79"
       },
-      "content": "미친",
+      "content": "나중에 보려고 스크랩함",
       "deleted": false
     },
     {
-      "id": "nat-2034-000040-002",
-      "parentId": "nat-2034-000040-001",
-      "timestamp": "2034-09-17T00:23:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "그건 좀 아닌듯. 조건 하나만 달라도 얘기 완전 달라짐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-003",
-      "parentId": "nat-2034-000040-001",
-      "timestamp": "2034-09-17T00:26:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "한명만 더 화내면 개념글 확정. 와중에 추천은 누르고감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-004",
+      "id": "c-2034-000040-v8-002",
       "parentId": null,
-      "timestamp": "2034-09-17T00:33:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "출처가 뭐임 ㅋㅋ 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-005",
-      "parentId": null,
-      "timestamp": "2034-09-17T00:42:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "원문 어디냐 / 공식이면 금방 다시 뜰테니 기다리면 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-006",
-      "parentId": null,
-      "timestamp": "2034-09-17T00:46:08+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "글쓴이 도망갔는데 댓글끼리 3차전중 ㅋㅋ 이쯤되면 정들겠다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-007",
-      "parentId": null,
-      "timestamp": "2034-09-17T00:52:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "닉 보고 내용 까먹음 ㅋㅋ 이 커뮤는 새벽에도 똑같네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-008",
-      "parentId": null,
-      "timestamp": "2034-09-17T01:00:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-009",
-      "parentId": null,
-      "timestamp": "2034-09-17T01:01:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "기사 세줄도 안읽고 댓글부터 쓰냐 근데 그건 니 파티 얘기고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-010",
-      "parentId": null,
-      "timestamp": "2034-09-17T01:06:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "현장 관련해서 협회에 물어본 사람? ㅋㅋ 최근글이 잘 안나옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-011",
-      "parentId": null,
-      "timestamp": "2034-09-17T01:09:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "지금 나온 것만 보면 현장 자체보다 조건이 뭐였는지부터 봐야됨 나중에 결과 보면 알겠지. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-012",
-      "parentId": null,
-      "timestamp": "2034-09-17T01:15:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "병신아 그건 다른 얘기임 근데 웃겨서 화도 안남",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-013",
-      "parentId": null,
-      "timestamp": "2034-09-17T01:22:41+09:00",
+      "timestamp": "2034-09-17T00:23:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.101"
       },
-      "content": "아니 현장 얘기만 나오면 갑자기 다들 현장 전문가 됨 아닌가",
+      "content": "정성추",
       "deleted": false
     },
     {
-      "id": "nat-2034-000040-014",
+      "id": "c-2034-000040-v8-003",
       "parentId": null,
-      "timestamp": "2034-09-17T01:30:23+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "모르면 가만히라도 있어라 근데 진짜로",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-015",
-      "parentId": null,
-      "timestamp": "2034-09-17T01:38:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "개무섭네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000040-016",
-      "parentId": null,
-      "timestamp": "2034-09-17T01:41:46+09:00",
+      "timestamp": "2034-09-17T00:25:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.36"
       },
-      "content": "정산은 들어가기 전에 기준 정해라. 본문보다 대댓글이 더 길어질 각이다.",
+      "content": "이건 경험값 한번 내면 기억남",
       "deleted": false
     }
   ],

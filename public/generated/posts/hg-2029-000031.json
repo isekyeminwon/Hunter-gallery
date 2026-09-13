@@ -33,219 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2029-000031-001",
+      "id": "c-2029-000031-v8-001",
       "parentId": null,
-      "timestamp": "2029-12-05T07:12:56+09:00",
+      "timestamp": "2029-12-05T07:14:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2029-000031-v8-002",
+      "parentId": null,
+      "timestamp": "2029-12-05T07:16:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.101"
       },
-      "content": "????",
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
       "deleted": false
     },
     {
-      "id": "nat-2029-000031-002",
-      "parentId": "nat-2029-000031-001",
-      "timestamp": "2029-12-05T07:16:17+09:00",
+      "id": "c-2029-000031-v8-003",
+      "parentId": "c-2029-000031-v8-002",
+      "timestamp": "2029-12-05T07:19:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "14.32"
       },
-      "content": "그건 위험함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-003",
-      "parentId": null,
-      "timestamp": "2029-12-05T07:21:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "와",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-004",
-      "parentId": null,
-      "timestamp": "2029-12-05T07:22:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "나 내일 출근인데 왜 이거 보고있냐. 왜 이런글에 댓글이 더 많냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-005",
-      "parentId": "nat-2029-000031-001",
-      "timestamp": "2029-12-05T07:28:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "뇌피셜을 왜 사실처럼 씀 근데 현장가서 그렇게 말해봐라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-006",
-      "parentId": "nat-2029-000031-001",
-      "timestamp": "2029-12-05T07:39:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "뭔 자신감으로 확정짓냐 근데 반박은 내용으로 해라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-007",
-      "parentId": "nat-2029-000031-006",
-      "timestamp": "2029-12-05T07:40:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "뭐임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-008",
-      "parentId": null,
-      "timestamp": "2029-12-05T07:47:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "중요한 조건 빼놓는 구인글은 일단 거름. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-009",
-      "parentId": null,
-      "timestamp": "2029-12-05T07:53:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "보수 좋은데 조건 애매하면 더 무섭다 / 아님말고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-010",
-      "parentId": "nat-2029-000031-003",
-      "timestamp": "2029-12-05T08:00:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "아 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-011",
-      "parentId": null,
-      "timestamp": "2029-12-05T08:07:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "시세보다 너무 높으면 왜 높은지부터 물어봐야됨. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-012",
-      "parentId": null,
-      "timestamp": "2029-12-05T08:09:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "작성자 말대로면 내 고양이도 A급임\n팝콘 부족함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-013",
-      "parentId": "nat-2029-000031-001",
-      "timestamp": "2029-12-05T08:15:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "아 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-014",
-      "parentId": "nat-2029-000031-013",
-      "timestamp": "2029-12-05T08:23:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "중요한 조건 빼놓는 구인글은 일단 거름 / 내생각은 그럼",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-015",
-      "parentId": "nat-2029-000031-012",
-      "timestamp": "2029-12-05T08:31:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "근데 거기서 결론이 왜 그렇게 감. 아무튼 내 돈 걸라면 난 안검.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-016",
-      "parentId": null,
-      "timestamp": "2029-12-05T08:38:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "계약서 가리고 올리면 봐줄 사람 많을듯 / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-017",
-      "parentId": "nat-2029-000031-002",
-      "timestamp": "2029-12-05T08:40:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "니들 둘 다 진정해라 / 둘다 그만해. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000031-018",
-      "parentId": null,
-      "timestamp": "2029-12-05T08:48:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "주변에 저거 믿고 움직였다가 헛걸음한 사람 있었는데 한번 데이고 생각 바뀜",
+      "content": "팀보험이랑 개인거는 따로 봐야지",
       "deleted": false
     }
   ],

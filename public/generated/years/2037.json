@@ -1,1 +1,1682 @@
-[]
+[
+  {
+    "id": "hg-2037-000050",
+    "displayNo": 2378383,
+    "timestamp": "2037-12-22T12:47:06+09:00",
+    "year": 2037,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "보험 두개 겹쳐도 됨?",
+    "author": {
+      "type": "fixed",
+      "name": "틀헌터",
+      "ip": null
+    },
+    "stats": {
+      "views": 13948,
+      "recommend": 16
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 35
+  },
+  {
+    "id": "hg-2037-000025",
+    "displayNo": 2280165,
+    "timestamp": "2037-12-02T16:02:26+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "협회앞 국밥집 아직도 줄기네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.235"
+    },
+    "stats": {
+      "views": 5209,
+      "recommend": 33
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 66
+  },
+  {
+    "id": "hg-2037-000023",
+    "displayNo": 2271482,
+    "timestamp": "2037-11-20T20:41:13+09:00",
+    "year": 2037,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "공략권 명의대여 아직도 하는놈 있냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "58.29"
+    },
+    "stats": {
+      "views": 7533,
+      "recommend": 19
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 7,
+    "popularityScore": 45
+  },
+  {
+    "id": "hg-2037-000044",
+    "displayNo": 2353673,
+    "timestamp": "2037-11-15T09:24:51+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "헌터들도 월요병 있음?",
+    "author": {
+      "type": "fixed",
+      "name": "계약서읽자",
+      "ip": null
+    },
+    "stats": {
+      "views": 7551,
+      "recommend": 48
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 2,
+    "popularityScore": 98
+  },
+  {
+    "id": "hg-2037-000022",
+    "displayNo": 2268044,
+    "timestamp": "2037-10-13T22:03:26+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "오늘 장비 세척하다 현타옴 ㅋㅋ",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 13981,
+      "recommend": 85
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 2,
+    "popularityScore": 172
+  },
+  {
+    "id": "hg-2037-000040",
+    "displayNo": 2335668,
+    "timestamp": "2037-10-08T08:45:01+09:00",
+    "year": 2037,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "공략영상 편집자들 실력 진짜 늘었네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "117.111"
+    },
+    "stats": {
+      "views": 5358,
+      "recommend": 15
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 5,
+    "popularityScore": 35
+  },
+  {
+    "id": "hg-2037-000039",
+    "displayNo": 2333206,
+    "timestamp": "2037-09-26T12:26:30+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "오늘 현장 취소돼서 개꿀 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "121.140"
+    },
+    "stats": {
+      "views": 13157,
+      "recommend": 59
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 118
+  },
+  {
+    "id": "hg-2037-000016",
+    "displayNo": 2245473,
+    "timestamp": "2037-09-06T09:00:57+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "게이트 끝나고 먹는 라면이 제일 맛있음",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.234"
+    },
+    "stats": {
+      "views": 4910,
+      "recommend": 11
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 2,
+    "popularityScore": 24
+  },
+  {
+    "id": "hg-2037-000055",
+    "displayNo": 2395790,
+    "timestamp": "2037-08-22T14:00:05+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "올해 A급 때문에 오늘 일 하나도 못함",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "121.140"
+    },
+    "stats": {
+      "views": 71000,
+      "recommend": 546
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 20,
+    "popularityScore": 1112
+  },
+  {
+    "id": "hg-2037-000019",
+    "displayNo": 2256378,
+    "timestamp": "2037-08-21T23:00:34+09:00",
+    "year": 2037,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "올해 A급 인터뷰 영상 봤냐 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 28884,
+      "recommend": 194
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 13,
+    "popularityScore": 401
+  },
+  {
+    "id": "hg-2037-000017",
+    "displayNo": 2249624,
+    "timestamp": "2037-08-21T17:16:07+09:00",
+    "year": 2037,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "신인 A급 영상 진짜인지 구분 어케함",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "61.79"
+    },
+    "stats": {
+      "views": 21122,
+      "recommend": 72
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 14,
+    "popularityScore": 158
+  },
+  {
+    "id": "hg-2037-000011",
+    "displayNo": 2218622,
+    "timestamp": "2037-08-21T16:42:28+09:00",
+    "year": 2037,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "신인 A급 출처불명 영상 주의하래",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 68270,
+      "recommend": 2041
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 23,
+    "popularityScore": 4105
+  },
+  {
+    "id": "hg-2037-000024",
+    "displayNo": 2275538,
+    "timestamp": "2037-08-21T16:18:03+09:00",
+    "year": 2037,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "A급 신인 이거 정확히 뭐가 확정임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 37975,
+      "recommend": 196
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 26,
+    "popularityScore": 418
+  },
+  {
+    "id": "hg-2037-000054",
+    "displayNo": 2391403,
+    "timestamp": "2037-08-21T15:48:48+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "길드 영입전 이럴때 현장인력은 뭐부터 체크함?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.101"
+    },
+    "stats": {
+      "views": 28248,
+      "recommend": 39
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 13,
+    "popularityScore": 91
+  },
+  {
+    "id": "hg-2037-000015",
+    "displayNo": 2240449,
+    "timestamp": "2037-08-21T15:39:43+09:00",
+    "year": 2037,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "올해 A급 인터뷰 영상 봤냐",
+    "author": {
+      "type": "fixed",
+      "name": "영상분석충",
+      "ip": null
+    },
+    "stats": {
+      "views": 26032,
+      "recommend": 201
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 13,
+    "popularityScore": 415
+  },
+  {
+    "id": "hg-2037-000045",
+    "displayNo": 2355733,
+    "timestamp": "2037-08-21T15:19:59+09:00",
+    "year": 2037,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "올해 A급 오늘 방송 댓글창 터지겠네",
+    "author": {
+      "type": "fixed",
+      "name": "별빛단7기",
+      "ip": null
+    },
+    "stats": {
+      "views": 46059,
+      "recommend": 178
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 368
+  },
+  {
+    "id": "hg-2037-000006",
+    "displayNo": 2197862,
+    "timestamp": "2037-08-21T11:37:54+09:00",
+    "year": 2037,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "신인 A급 때문에 또 순위표 갈아엎겠네ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 25318,
+      "recommend": 33
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 21,
+    "popularityScore": 87
+  },
+  {
+    "id": "hg-2037-000003",
+    "displayNo": 2185401,
+    "timestamp": "2037-08-21T11:00:43+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "올해 A급 이럴때 현장인력은 뭐부터 체크함?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "117.111"
+    },
+    "stats": {
+      "views": 33568,
+      "recommend": 27
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 13,
+    "popularityScore": 67
+  },
+  {
+    "id": "hg-2037-000008",
+    "displayNo": 2208955,
+    "timestamp": "2037-07-24T20:11:31+09:00",
+    "year": 2037,
+    "internalCategory": "시장·구인",
+    "displayCategory": "구인",
+    "title": "내일 B급 짐꾼 1명 구함",
+    "author": {
+      "type": "fixed",
+      "name": "마석눈팅",
+      "ip": null
+    },
+    "stats": {
+      "views": 7365,
+      "recommend": 31
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 65
+  },
+  {
+    "id": "hg-2037-000037",
+    "displayNo": 2324309,
+    "timestamp": "2037-07-19T16:17:07+09:00",
+    "year": 2037,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "한성 네뷸라 백호 복지만 놓고 어디감? ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "182.214"
+    },
+    "stats": {
+      "views": 13307,
+      "recommend": 48
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 7,
+    "popularityScore": 103
+  },
+  {
+    "id": "hg-2037-000060",
+    "displayNo": 2416171,
+    "timestamp": "2037-07-14T22:58:45+09:00",
+    "year": 2037,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "A급 TOP10 또 바뀌었네ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 15447,
+      "recommend": 126
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 14,
+    "popularityScore": 266
+  },
+  {
+    "id": "hg-2037-000007",
+    "displayNo": 2203705,
+    "timestamp": "2037-06-17T10:29:45+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "장비점 사장 나 얼굴 외움ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "61.79"
+    },
+    "stats": {
+      "views": 8672,
+      "recommend": 25
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 2,
+    "popularityScore": 52
+  },
+  {
+    "id": "hg-2037-000036",
+    "displayNo": 2320930,
+    "timestamp": "2037-06-12T14:51:11+09:00",
+    "year": 2037,
+    "internalCategory": "시장·구인",
+    "displayCategory": "구인",
+    "title": "마석 매입가 오늘 왜이럼",
+    "author": {
+      "type": "fixed",
+      "name": "영상분석충",
+      "ip": null
+    },
+    "stats": {
+      "views": 2855,
+      "recommend": 14
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 31
+  },
+  {
+    "id": "hg-2037-000059",
+    "displayNo": 2410607,
+    "timestamp": "2037-06-07T18:43:35+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "짐꾼이랑 동선 미리 맞춰야 하는 이유",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "14.32"
+    },
+    "stats": {
+      "views": 5131,
+      "recommend": 1008
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 4,
+    "popularityScore": 2020
+  },
+  {
+    "id": "hg-2037-000058",
+    "displayNo": 2408925,
+    "timestamp": "2037-05-25T09:35:59+09:00",
+    "year": 2037,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "공략권 있는지 구인글에서 확인 가능함?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "14.32"
+    },
+    "stats": {
+      "views": 12846,
+      "recommend": 27
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 57
+  },
+  {
+    "id": "hg-2037-000005",
+    "displayNo": 2193641,
+    "timestamp": "2037-05-10T09:47:49+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "오늘 장비 세척하다 현타옴",
+    "author": {
+      "type": "fixed",
+      "name": "마석눈팅",
+      "ip": null
+    },
+    "stats": {
+      "views": 7978,
+      "recommend": 1
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 5
+  },
+  {
+    "id": "hg-2037-000035",
+    "displayNo": 2318972,
+    "timestamp": "2037-05-05T13:04:46+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "팀장 카톡 말투 왜 다 똑같냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "59.10"
+    },
+    "stats": {
+      "views": 3271,
+      "recommend": 27
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 54
+  },
+  {
+    "id": "hg-2037-000029",
+    "displayNo": 2293089,
+    "timestamp": "2037-04-23T15:10:11+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "장비점 사장 나 얼굴 외움ㅋㅋ ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.235"
+    },
+    "stats": {
+      "views": 15859,
+      "recommend": 93
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 186
+  },
+  {
+    "id": "hg-2037-000057",
+    "displayNo": 2402794,
+    "timestamp": "2037-04-18T10:06:41+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "장비점 사장 나 얼굴 외움ㅋㅋ 질문",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.246"
+    },
+    "stats": {
+      "views": 13782,
+      "recommend": 43
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 86
+  },
+  {
+    "id": "hg-2037-000004",
+    "displayNo": 2191301,
+    "timestamp": "2037-04-03T11:45:08+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "오늘 현장 취소돼서 개꿀",
+    "author": {
+      "type": "fixed",
+      "name": "마석눈팅",
+      "ip": null
+    },
+    "stats": {
+      "views": 17641,
+      "recommend": 72
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 144
+  },
+  {
+    "id": "hg-2037-000056",
+    "displayNo": 2398024,
+    "timestamp": "2037-03-13T02:24:38+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 촬영팀 안전교육 내용 추가됐다네",
+    "author": {
+      "type": "fixed",
+      "name": "틀헌터",
+      "ip": null
+    },
+    "stats": {
+      "views": 119017,
+      "recommend": 2081
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 42,
+    "popularityScore": 4204
+  },
+  {
+    "id": "hg-2037-000041",
+    "displayNo": 2339590,
+    "timestamp": "2037-03-12T06:30:57+09:00",
+    "year": 2037,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "마석카메라 오늘자 최강논쟁 벌써 시작함",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "125.180"
+    },
+    "stats": {
+      "views": 20295,
+      "recommend": 166
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 15,
+    "popularityScore": 347
+  },
+  {
+    "id": "hg-2037-000047",
+    "displayNo": 2365153,
+    "timestamp": "2037-03-12T06:01:02+09:00",
+    "year": 2037,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "마석카메라 관련 추가 브리핑 나옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "125.180"
+    },
+    "stats": {
+      "views": 64190,
+      "recommend": 1889
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 28,
+    "popularityScore": 3806
+  },
+  {
+    "id": "hg-2037-000048",
+    "displayNo": 2371227,
+    "timestamp": "2037-03-12T03:20:17+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "마석카메라 글 진짜 몇개 올라오는거냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "14.32"
+    },
+    "stats": {
+      "views": 11697,
+      "recommend": 48
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 17,
+    "popularityScore": 113
+  },
+  {
+    "id": "hg-2037-000042",
+    "displayNo": 2345719,
+    "timestamp": "2037-03-12T03:04:17+09:00",
+    "year": 2037,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "[후기] 게이트영상 이거 정확히 뭐가 확정임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 236876,
+      "recommend": 2497
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 48,
+    "popularityScore": 5042
+  },
+  {
+    "id": "hg-2037-000053",
+    "displayNo": 2388492,
+    "timestamp": "2037-03-11T23:02:11+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "촬영팀 글 진짜 몇개 올라오는거냐",
+    "author": {
+      "type": "fixed",
+      "name": "계약서읽자",
+      "ip": null
+    },
+    "stats": {
+      "views": 18572,
+      "recommend": 97
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 206
+  },
+  {
+    "id": "hg-2037-000046",
+    "displayNo": 2360094,
+    "timestamp": "2037-03-11T22:18:04+09:00",
+    "year": 2037,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "공략영상 인터뷰 영상 봤냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "125.180"
+    },
+    "stats": {
+      "views": 24646,
+      "recommend": 42
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 14,
+    "popularityScore": 98
+  },
+  {
+    "id": "hg-2037-000032",
+    "displayNo": 2307688,
+    "timestamp": "2037-03-11T19:00:57+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "현장영상 영상 보고 따라하면 안되는 부분",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "112.171"
+    },
+    "stats": {
+      "views": 238092,
+      "recommend": 1125
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 44,
+    "popularityScore": 2294
+  },
+  {
+    "id": "hg-2037-000043",
+    "displayNo": 2350970,
+    "timestamp": "2037-03-11T10:05:52+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "공략영상 영상 보고 따라하면 안되는 부분",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.102"
+    },
+    "stats": {
+      "views": 27385,
+      "recommend": 497
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 26,
+    "popularityScore": 1020
+  },
+  {
+    "id": "hg-2037-000034",
+    "displayNo": 2316679,
+    "timestamp": "2037-03-11T09:37:09+09:00",
+    "year": 2037,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "공략영상 영상 조회수 미쳤다",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 32406,
+      "recommend": 247
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 15,
+    "popularityScore": 509
+  },
+  {
+    "id": "hg-2037-000030",
+    "displayNo": 2298364,
+    "timestamp": "2037-03-11T07:45:26+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 공략영상 프레임만 보고 공략짜면 안됨",
+    "author": {
+      "type": "fixed",
+      "name": "틀헌터",
+      "ip": null
+    },
+    "stats": {
+      "views": 38761,
+      "recommend": 1480
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 34,
+    "popularityScore": 2994
+  },
+  {
+    "id": "hg-2037-000038",
+    "displayNo": 2328252,
+    "timestamp": "2037-03-11T04:12:56+09:00",
+    "year": 2037,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "게이트영상 기사마다 말 다른데 뭐가 맞음",
+    "author": {
+      "type": "fixed",
+      "name": "짐꾼3년차",
+      "ip": null
+    },
+    "stats": {
+      "views": 31653,
+      "recommend": 126
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 15,
+    "popularityScore": 267
+  },
+  {
+    "id": "hg-2037-000021",
+    "displayNo": 2263508,
+    "timestamp": "2037-03-11T02:27:14+09:00",
+    "year": 2037,
+    "internalCategory": "시장·구인",
+    "displayCategory": "구인",
+    "title": "게이트영상 때문에 보험 문의 폭주라는데",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.102"
+    },
+    "stats": {
+      "views": 9020,
+      "recommend": 1
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 14
+  },
+  {
+    "id": "hg-2037-000020",
+    "displayNo": 2258137,
+    "timestamp": "2037-03-11T00:24:07+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 게이트영상 관련 현장팀에서 오늘 들은 얘기",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "220.79"
+    },
+    "stats": {
+      "views": 13900,
+      "recommend": 1172
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 40,
+    "popularityScore": 2384
+  },
+  {
+    "id": "hg-2037-000014",
+    "displayNo": 2235555,
+    "timestamp": "2037-03-10T20:52:23+09:00",
+    "year": 2037,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "게이트영상 하나로 길드서열 바뀐다는건 오바 아님?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 22032,
+      "recommend": 124
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 32,
+    "popularityScore": 280
+  },
+  {
+    "id": "hg-2037-000018",
+    "displayNo": 2254334,
+    "timestamp": "2037-03-10T19:50:06+09:00",
+    "year": 2037,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "촬영팀 현장 통제 확대 기사",
+    "author": {
+      "type": "fixed",
+      "name": "백호복지팀",
+      "ip": null
+    },
+    "stats": {
+      "views": 16947,
+      "recommend": 60
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 132
+  },
+  {
+    "id": "hg-2037-000033",
+    "displayNo": 2311710,
+    "timestamp": "2037-03-10T19:00:08+09:00",
+    "year": 2037,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "[공지] 게이트 영상 업로드 시 현장 위치·개인정보 노출 주의",
+    "author": {
+      "type": "admin",
+      "name": "운영자",
+      "ip": null
+    },
+    "stats": {
+      "views": 29836,
+      "recommend": 119
+    },
+    "flags": {
+      "notice": true,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": true
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 238
+  },
+  {
+    "id": "hg-2037-000049",
+    "displayNo": 2375451,
+    "timestamp": "2037-03-10T18:45:27+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "마석카메라 관련 현장팀에서 오늘 들은 얘기",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.38"
+    },
+    "stats": {
+      "views": 193248,
+      "recommend": 1513
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 42,
+    "popularityScore": 3068
+  },
+  {
+    "id": "hg-2037-000013",
+    "displayNo": 2229647,
+    "timestamp": "2037-03-10T18:42:58+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "마석카메라 밈 벌써 생겼네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.101"
+    },
+    "stats": {
+      "views": 14526,
+      "recommend": 19
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 50
+  },
+  {
+    "id": "hg-2037-000028",
+    "displayNo": 2289335,
+    "timestamp": "2037-03-10T18:16:30+09:00",
+    "year": 2037,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "게이트영상 인터뷰 영상 봤냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.234"
+    },
+    "stats": {
+      "views": 33304,
+      "recommend": 103
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 18,
+    "popularityScore": 224
+  },
+  {
+    "id": "hg-2037-000031",
+    "displayNo": 2302613,
+    "timestamp": "2037-03-10T17:00:58+09:00",
+    "year": 2037,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "마석카메라 하나로 길드서열 바뀐다는건 오바 아님?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 13179,
+      "recommend": 2
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 17,
+    "popularityScore": 21
+  },
+  {
+    "id": "hg-2037-000012",
+    "displayNo": 2224182,
+    "timestamp": "2037-03-10T11:58:53+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "촬영팀 때문에 오늘 일 하나도 못함",
+    "author": {
+      "type": "fixed",
+      "name": "협회노예",
+      "ip": null
+    },
+    "stats": {
+      "views": 27732,
+      "recommend": 227
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 466
+  },
+  {
+    "id": "hg-2037-000010",
+    "displayNo": 2214533,
+    "timestamp": "2037-03-10T11:02:01+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "촬영팀 이후 장비점에서 바뀐거 체감",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "125.180"
+    },
+    "stats": {
+      "views": 50634,
+      "recommend": 383
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 23,
+    "popularityScore": 789
+  },
+  {
+    "id": "hg-2037-000009",
+    "displayNo": 2212303,
+    "timestamp": "2037-03-10T10:00:47+09:00",
+    "year": 2037,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "공략영상 밈 벌써 생겼네",
+    "author": {
+      "type": "fixed",
+      "name": "영상분석충",
+      "ip": null
+    },
+    "stats": {
+      "views": 13170,
+      "recommend": 38
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 16,
+    "popularityScore": 92
+  },
+  {
+    "id": "hg-2037-000002",
+    "displayNo": 2183617,
+    "timestamp": "2037-02-21T13:16:15+09:00",
+    "year": 2037,
+    "internalCategory": "시장·구인",
+    "displayCategory": "구인",
+    "title": "공략대 보조 구인 조건 봐주라",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "220.79"
+    },
+    "stats": {
+      "views": 13471,
+      "recommend": 78
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 159
+  },
+  {
+    "id": "hg-2037-000027",
+    "displayNo": 2284878,
+    "timestamp": "2037-02-16T22:17:19+09:00",
+    "year": 2037,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "장비 렌탈 처음인데 보증금 원래 이정도?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.62"
+    },
+    "stats": {
+      "views": 3269,
+      "recommend": 15
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 33
+  },
+  {
+    "id": "hg-2037-000052",
+    "displayNo": 2386809,
+    "timestamp": "2037-02-11T08:52:02+09:00",
+    "year": 2037,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "공략영상 편집자들 실력 진짜 늘었네 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "58.29"
+    },
+    "stats": {
+      "views": 11632,
+      "recommend": 33
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 69
+  },
+  {
+    "id": "hg-2037-000001",
+    "displayNo": 2180762,
+    "timestamp": "2037-01-14T18:02:24+09:00",
+    "year": 2037,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "한성 네뷸라 백호 복지만 놓고 어디감?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "110.70"
+    },
+    "stats": {
+      "views": 8697,
+      "recommend": 69
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 7,
+    "popularityScore": 145
+  },
+  {
+    "id": "hg-2037-000026",
+    "displayNo": 2282955,
+    "timestamp": "2037-01-09T12:50:49+09:00",
+    "year": 2037,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "신입 파티원 장비체크 순서",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "117.111"
+    },
+    "stats": {
+      "views": 9339,
+      "recommend": 34
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 6,
+    "popularityScore": 74
+  },
+  {
+    "id": "hg-2037-000051",
+    "displayNo": 2383452,
+    "timestamp": "2037-01-04T08:53:36+09:00",
+    "year": 2037,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "장비 렌탈 처음인데 보증금 원래 이정도? ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 13845,
+      "recommend": 53
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 4,
+    "popularityScore": 110
+  }
+]

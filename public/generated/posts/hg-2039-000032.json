@@ -1,0 +1,136 @@
+{
+  "id": "hg-2039-000032",
+  "displayNo": 2994400,
+  "timestamp": "2039-11-22T22:17:19+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "한성 들어가면 진짜 A도 평범해짐?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.163"
+  },
+  "content": "그냥 궁금해서 물어봄.\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 12570,
+    "recommend": 102
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000032-v8-001",
+      "parentId": null,
+      "timestamp": "2039-11-22T22:19:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "헌터활동이랑 콘텐츠 붙는거 싫으면 안맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000032-v8-002",
+      "parentId": null,
+      "timestamp": "2039-11-22T22:23:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "장비지원 후기는 백호가 제일 자주보임",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000032-v8-003",
+      "parentId": null,
+      "timestamp": "2039-11-22T22:25:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "취업이랑 누가세냐는 다른문제지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000032-v8-004",
+      "parentId": "c-2039-000032-v8-002",
+      "timestamp": "2039-11-22T22:26:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000032-v8-005",
+      "parentId": null,
+      "timestamp": "2039-11-22T22:28:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "셋다 붙으면 그때 고민한다ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000032-v8-006",
+      "parentId": "c-2039-000032-v8-003",
+      "timestamp": "2039-11-22T22:32:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "셋다 붙고 고민하고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000032-v8-007",
+      "parentId": null,
+      "timestamp": "2039-11-22T22:35:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "한성 지원서 통과부터 하라는 소리 나온다",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000032-v8-008",
+      "parentId": null,
+      "timestamp": "2039-11-22T22:39:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "연구/교육 보면 네뷸라가 매력있지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

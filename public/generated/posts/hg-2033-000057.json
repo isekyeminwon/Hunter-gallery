@@ -33,219 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000057-001",
+      "id": "c-2033-000057-v8-001",
       "parentId": null,
-      "timestamp": "2033-10-25T14:03:52+09:00",
+      "timestamp": "2033-10-25T14:00:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "211.201"
       },
-      "content": "정산은 들어가기 전에 기준 정해라. 근데 또 현장에서는 다르게 굴러갈 수도 있음.",
+      "content": "안에서 정하려면 늦음",
       "deleted": false
     },
     {
-      "id": "nat-2033-000057-002",
+      "id": "c-2033-000057-v8-002",
       "parentId": null,
-      "timestamp": "2033-10-25T14:09:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "아이고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-003",
-      "parentId": "nat-2033-000057-001",
-      "timestamp": "2033-10-25T14:18:10+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "어디서부터 꼬인거냐 이 대화 ㅋㅋ. 어차피 내일 되면 새 글 또 올라옴.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-004",
-      "parentId": "nat-2033-000057-003",
-      "timestamp": "2033-10-25T14:26:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면. 막상 가면 매뉴얼 찾게 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-005",
-      "parentId": null,
-      "timestamp": "2033-10-25T14:27:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "초보면 멋있는 장비보다 체크리스트부터 만들어. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-006",
-      "parentId": "nat-2033-000057-005",
-      "timestamp": "2033-10-25T14:37:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "댓글 잘못 단거 아님? / 둘다 그만해. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-007",
-      "parentId": null,
-      "timestamp": "2033-10-25T14:39:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "동기 하나가 저거 때문에 한동안 고생했는데. 한번 데이고 생각 바뀜",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-008",
-      "parentId": null,
-      "timestamp": "2033-10-25T14:46:13+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "닉 보고 내용 까먹음 ㅋㅋ 답글 달지마 이제 못봄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-009",
-      "parentId": null,
-      "timestamp": "2033-10-25T14:56:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨. 지금 정보량으로는 누구도 장담 못함.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-010",
-      "parentId": "nat-2033-000057-008",
-      "timestamp": "2033-10-25T15:01:22+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "맞긴 한데 여기서는 그 얘기 아니지. 여기서 싸워봤자 현장 규정 안바뀜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-011",
-      "parentId": "nat-2033-000057-002",
-      "timestamp": "2033-10-25T15:11:41+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "원글 세줄인데 토론회가 열림 ㅋㅋ 아무도 안물어봤는데 다들 진심임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-012",
-      "parentId": null,
-      "timestamp": "2033-10-25T15:18:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-013",
-      "parentId": null,
-      "timestamp": "2033-10-25T15:27:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "현장 이거 실제 해본 사람 있음\n초보라 감이 안옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-014",
-      "parentId": null,
-      "timestamp": "2033-10-25T15:32:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "모르겠음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-015",
-      "parentId": null,
-      "timestamp": "2033-10-25T15:37:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "뭐 현장 관련해서 기사마다 말 조금씩 다른게 문제임 결론 내리기 애매함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-016",
-      "parentId": null,
-      "timestamp": "2033-10-25T15:46:05+09:00",
+      "timestamp": "2033-10-25T14:03:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "220.79"
       },
-      "content": "댓글 보니까 현장 하나 보고 업계 전체 결론내는건 너무 감 괜히 엮이지마",
+      "content": "내가 가는팀은 반대로함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000057-017",
-      "parentId": null,
-      "timestamp": "2033-10-25T15:46:42+09:00",
+      "id": "c-2033-000057-v8-003",
+      "parentId": "c-2033-000057-v8-001",
+      "timestamp": "2033-10-25T14:07:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "118.33"
       },
-      "content": "이거 커뮤발인지 기사발인지부터 말해 ㅋㅋ 링크 없으면 일단 반만 믿음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000057-018",
-      "parentId": null,
-      "timestamp": "2033-10-25T15:49:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "내가 잘못 아는거 아니면 한명 경험담을 전체 룰로 만드는게 제일 위험함 반박시 니말맞음",
+      "content": "한번 고생하면 안까먹음",
       "deleted": false
     }
   ],

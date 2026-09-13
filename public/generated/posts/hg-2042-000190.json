@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000190",
+  "displayNo": 4372194,
+  "timestamp": "2042-09-17T08:53:01+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "회복물자 공용가방 운영해본 후기 아는사람",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.41"
+  },
+  "content": "최근 세번 해보고 체감온거 적음.\n한두번은 우연일수도 있음.",
+  "attachments": [],
+  "stats": {
+    "views": 3701,
+    "recommend": 15
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000190-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:53:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000190-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:54:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "화려한 공략보다 이게 초보한텐 나음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000190-v8-003",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:55:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "이건 경험값 한번 내면 기억남",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000190-v8-004",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:56:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "우리쪽은 방식이 살짝 다름",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000190-v8-005",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:57:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "이건 사전에 맞춰놔야지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

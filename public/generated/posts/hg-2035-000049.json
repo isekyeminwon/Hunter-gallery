@@ -1,0 +1,208 @@
+{
+  "id": "hg-2035-000049",
+  "displayNo": 1872267,
+  "timestamp": "2035-07-13T08:22:21+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "별하나 관련해서 하나만 물어봄",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "125.180"
+  },
+  "content": "별하나 관련해서 방금 본거 가져옴.\n기사마다 표현이 달라서 확인된 것만 보는게 맞을듯.",
+  "attachments": [],
+  "stats": {
+    "views": 37540,
+    "recommend": 261
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000049-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:25:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:29:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "뉴비면 이거 모를수있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:32:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "나도 답 기다림",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-004",
+      "parentId": "c-2035-000049-v8-003",
+      "timestamp": "2035-07-13T08:35:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:39:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "찾아보면 몇년전 글만 뜸",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:40:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "나도 처음엔 이거 몰랐음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:44:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:46:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "비슷하게 해본놈 더없냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:47:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:49:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "대댓글만 따로 글파도 되겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:51:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "별하나 최근거 더 봐야 알듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:52:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-013",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:54:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "나도 첫번에 여기서 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000049-v8-014",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:57:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

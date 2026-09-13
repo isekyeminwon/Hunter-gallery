@@ -1,0 +1,52 @@
+{
+  "id": "hg-2036-000004",
+  "displayNo": 1979403,
+  "timestamp": "2036-03-02T12:01:06+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 현장 취소돼서 개꿀",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "124.53"
+  },
+  "content": "그냥 궁금해서 물어봄\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 9339,
+    "recommend": 71
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000004-v8-001",
+      "parentId": null,
+      "timestamp": "2036-03-02T12:03:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

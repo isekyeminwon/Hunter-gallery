@@ -1,0 +1,76 @@
+{
+  "id": "hg-2042-000089",
+  "displayNo": 4227461,
+  "timestamp": "2042-08-30T19:21:22+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석 직접 들고 거래소 가도됨? ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "검색해도 옛날글만 나와서 물어봄.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 45842,
+    "recommend": 420
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000089-v8-001",
+      "parentId": null,
+      "timestamp": "2042-08-30T19:24:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "나도 처음엔 이거 몰랐음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000089-v8-002",
+      "parentId": null,
+      "timestamp": "2042-08-30T19:27:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "뉴비면 이거 모를수있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000089-v8-003",
+      "parentId": null,
+      "timestamp": "2042-08-30T19:30:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "검색해도 예전얘기만 나와",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

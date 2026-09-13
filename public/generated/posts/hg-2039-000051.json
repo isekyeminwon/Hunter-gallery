@@ -1,0 +1,340 @@
+{
+  "id": "hg-2039-000051",
+  "displayNo": 3087640,
+  "timestamp": "2039-05-20T14:06:00+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "EAST_SEA_PORT_ACCIDENT",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "협회랑 민간길드 같이 들어간거 맞음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "125.180"
+  },
+  "content": "협회 관련해서 방금 본거 가져옴.\n아는 사람 있으면 팩트만 추가해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 20469,
+    "recommend": 59
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000051-v8-001",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:08:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-002",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:10:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "찾아보면 몇년전 글만 뜸",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-003",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:13:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "처음할때 여기서 한번 막힘",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-004",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:17:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이런건 물어봐도 됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-005",
+      "parentId": "c-2039-000051-v8-003",
+      "timestamp": "2039-05-20T14:20:38+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "이건 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-006",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:23:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "나도 이거 궁금했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-007",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:25:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-008",
+      "parentId": "c-2039-000051-v8-001",
+      "timestamp": "2039-05-20T14:28:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-009",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:32:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-010",
+      "parentId": "c-2039-000051-v8-006",
+      "timestamp": "2039-05-20T14:34:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-011",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:37:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-012",
+      "parentId": "c-2039-000051-v8-011",
+      "timestamp": "2039-05-20T14:40:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-013",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:44:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-014",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:45:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "나도 첫번에 여기서 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-015",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:49:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "처음이면 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-016",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:52:11+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-017",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:55:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "말하다 왜 싸움이 됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-018",
+      "parentId": null,
+      "timestamp": "2039-05-20T14:59:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-019",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:02:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-020",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:04:52+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-021",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:07:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "검색하면 옛날글만 나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-022",
+      "parentId": "c-2039-000051-v8-017",
+      "timestamp": "2039-05-20T15:10:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-023",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:12:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-024",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:16:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000051-v8-025",
+      "parentId": "c-2039-000051-v8-024",
+      "timestamp": "2039-05-20T15:18:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

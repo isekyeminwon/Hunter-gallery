@@ -33,159 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2029-000035-001",
+      "id": "c-2029-000035-v8-001",
       "parentId": null,
-      "timestamp": "2029-08-03T09:47:41+09:00",
+      "timestamp": "2029-08-03T09:48:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "124.53"
       },
-      "content": "댓글 보니까 이 규정 관련해서 기사마다 말 조금씩 다른게 문제임 아무튼 조심해라",
+      "content": "이건 최신 공지 봐야됨",
       "deleted": false
     },
     {
-      "id": "nat-2029-000035-002",
+      "id": "c-2029-000035-v8-002",
       "parentId": null,
-      "timestamp": "2029-08-03T09:54:25+09:00",
+      "timestamp": "2029-08-03T09:50:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "121.163"
       },
-      "content": "아 ㅋㅋ",
+      "content": "규정이랑 관행은 또 다를수 있음",
       "deleted": false
     },
     {
-      "id": "nat-2029-000035-003",
-      "parentId": null,
-      "timestamp": "2029-08-03T09:56:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "애매하면 안하는게 맞음 / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000035-004",
-      "parentId": null,
-      "timestamp": "2029-08-03T10:00:41+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "왜 아무도 말 안하냐 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000035-005",
-      "parentId": null,
-      "timestamp": "2029-08-03T10:06:55+09:00",
+      "id": "c-2029-000035-v8-003",
+      "parentId": "c-2029-000035-v8-002",
+      "timestamp": "2029-08-03T09:53:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "실제 계약서에는 뭐라고 적힘?. 최근글이 잘 안나옴",
+      "content": "최신 공지 한번 봐야겠네",
       "deleted": false
     },
     {
-      "id": "nat-2029-000035-006",
+      "id": "c-2029-000035-v8-004",
       "parentId": null,
-      "timestamp": "2029-08-03T10:16:33+09:00",
+      "timestamp": "2029-08-03T09:56:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "211.234"
       },
-      "content": "뭔 개소리야",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000035-007",
-      "parentId": null,
-      "timestamp": "2029-08-03T10:24:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "오피셜 캡처 말고 링크 줘. 그거 어제 올라온 가짜랑 비슷한데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000035-008",
-      "parentId": null,
-      "timestamp": "2029-08-03T10:28:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "미쳤네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000035-009",
-      "parentId": null,
-      "timestamp": "2029-08-03T10:37:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "뭔 자신감으로 확정짓냐. 그만 싸워 둘다 시끄러움",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000035-010",
-      "parentId": "nat-2029-000035-007",
-      "timestamp": "2029-08-03T10:44:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "둘이 서로 다른 얘기하고 있음ㅋㅋ. 진짜.. 괜히 아는척하다가 틀리면 개쪽임.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000035-011",
-      "parentId": null,
-      "timestamp": "2029-08-03T10:44:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함 ㅋㅋ 이래서 댓글보는 맛은 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000035-012",
-      "parentId": "nat-2029-000035-008",
-      "timestamp": "2029-08-03T10:47:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "닉 보고 내용 까먹음 근데 누가 메뉴 하나만 골라줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000035-013",
-      "parentId": null,
-      "timestamp": "2029-08-03T10:48:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "일단 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 말은 된다",
+      "content": "신고해본사람 있음?",
       "deleted": false
     }
   ],

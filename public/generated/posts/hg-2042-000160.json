@@ -1,0 +1,52 @@
+{
+  "id": "hg-2042-000160",
+  "displayNo": 4311164,
+  "timestamp": "2042-09-17T01:03:51+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "파티 단톡방 이름 공개한다ㅋㅋ ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "틀헌터",
+    "ip": null
+  },
+  "content": "오늘 하루 존나길다",
+  "attachments": [],
+  "stats": {
+    "views": 8660,
+    "recommend": 50
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000160-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-17T01:07:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

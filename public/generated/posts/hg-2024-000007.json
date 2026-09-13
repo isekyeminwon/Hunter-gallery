@@ -33,327 +33,147 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2024-000007-001",
+      "id": "c-2024-000007-v8-001",
       "parentId": null,
-      "timestamp": "2024-03-19T03:56:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "둘 다 개소리중임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-002",
-      "parentId": "nat-2024-000007-001",
-      "timestamp": "2024-03-19T03:58:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "갑자기 왜 화냄ㅋㅋ. 진짜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-003",
-      "parentId": null,
-      "timestamp": "2024-03-19T03:58:37+09:00",
+      "timestamp": "2024-03-19T03:58:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "121.140"
       },
-      "content": "확인된 내용만 적어줘 ㅋㅋ 그거 어제 올라온 가짜랑 비슷한데",
+      "content": "마나수치 낮다고 능력 종류까지 약한건 아니지 않나",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-004",
-      "parentId": "nat-2024-000007-001",
-      "timestamp": "2024-03-19T03:59:43+09:00",
+      "id": "c-2024-000007-v8-002",
+      "parentId": null,
+      "timestamp": "2024-03-19T04:02:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "175.194"
       },
-      "content": "작성자 말대로면 내 고양이도 A급임 ㅋㅋ 진짜 가지가지한다",
+      "content": "스무살 규칙은 이제 거의 굳어진 느낌",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-005",
+      "id": "c-2024-000007-v8-003",
+      "parentId": "c-2024-000007-v8-002",
+      "timestamp": "2024-03-19T04:03:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2024-000007-v8-004",
       "parentId": null,
-      "timestamp": "2024-03-19T04:02:17+09:00",
+      "timestamp": "2024-03-19T04:07:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "59.10"
       },
-      "content": "아는척 지랄 좀 그만해라 ㅋㅋ 아무말이나 던지고 튀네",
+      "content": "측정소 앞 사람 미쳤더라",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-006",
+      "id": "c-2024-000007-v8-005",
       "parentId": null,
-      "timestamp": "2024-03-19T04:02:46+09:00",
+      "timestamp": "2024-03-19T04:09:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "59.5"
       },
-      "content": "글쓴이 그 뒤에 후기 없음? / 옛날 기준 말고 지금 기준으로",
+      "content": "등급표 중간 비는건 아직도 어색함",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-007",
-      "parentId": null,
-      "timestamp": "2024-03-19T04:03:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "초기 결과지는 지금이랑 표기 달라서 헷갈릴만함. 한시간 뒤 글이랑 내용 또 달라졌던 기억남",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-008",
-      "parentId": "nat-2024-000007-007",
-      "timestamp": "2024-03-19T04:04:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "말투만 보면 둘이 원수임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-009",
-      "parentId": "nat-2024-000007-003",
-      "timestamp": "2024-03-19T04:05:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "아는척 지랄 좀 그만해라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-010",
-      "parentId": null,
-      "timestamp": "2024-03-19T04:07:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "최근 기준 달라진거 있음? / 아는척 말고 해본사람만",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-011",
-      "parentId": "nat-2024-000007-001",
-      "timestamp": "2024-03-19T04:09:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "직접 해봄?",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-012",
-      "parentId": null,
-      "timestamp": "2024-03-19T04:09:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "현장마다 다르면 보통 뭘 기준으로 봄? ㅋㅋ 최근글이 잘 안나옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-013",
-      "parentId": null,
+      "id": "c-2024-000007-v8-006",
+      "parentId": "c-2024-000007-v8-002",
       "timestamp": "2024-03-19T04:10:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "59.10"
       },
-      "content": "수치 낮게 나오면 인생 망한것처럼 구는 분위기도 좀 별로였음 ㅋㅋ 이걸로 또 진영 나뉜게 제일 헌갤같음",
+      "content": "최근기준 아는사람?",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-014",
+      "id": "c-2024-000007-v8-007",
       "parentId": null,
-      "timestamp": "2024-03-19T04:13:09+09:00",
+      "timestamp": "2024-03-19T04:12:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.101"
       },
-      "content": "실제 계약서에는 뭐라고 적힘? ㅋㅋ 아는척 말고 해본사람만",
+      "content": "재검으로 갑자기 확 뛴다는 썰은 못믿겠음",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-015",
+      "id": "c-2024-000007-v8-008",
       "parentId": null,
-      "timestamp": "2024-03-19T04:14:24+09:00",
+      "timestamp": "2024-03-19T04:15:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "175.194"
       },
-      "content": "부모가 본인보다 더 긴장하는 집 존나 많았지. 지금 보면 웃긴데 당시엔 진지했겠지",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-016",
-      "parentId": "nat-2024-000007-015",
-      "timestamp": "2024-03-19T04:15:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "동기 하나가 저거 때문에 한동안 고생했는데. 사람마다 말 다른 이유는 알겠더라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-017",
-      "parentId": "nat-2024-000007-012",
-      "timestamp": "2024-03-19T04:18:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "한줄에 이렇게 긁힐 일임?. 진짜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-018",
+      "id": "c-2024-000007-v8-009",
       "parentId": null,
-      "timestamp": "2024-03-19T04:20:58+09:00",
+      "timestamp": "2024-03-19T04:18:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "106.101"
       },
-      "content": "현장 기준으론 각성 관련해서 기사마다 말 조금씩 다른게 문제임 난 저렇게는 안봄. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
+      "content": "이건 처음듣네",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-019",
+      "id": "c-2024-000007-v8-010",
       "parentId": null,
-      "timestamp": "2024-03-19T04:22:35+09:00",
+      "timestamp": "2024-03-19T04:19:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "121.140"
       },
-      "content": "오",
+      "content": "근거는?",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-020",
-      "parentId": "nat-2024-000007-015",
-      "timestamp": "2024-03-19T04:23:29+09:00",
+      "id": "c-2024-000007-v8-011",
+      "parentId": "c-2024-000007-v8-007",
+      "timestamp": "2024-03-19T04:22:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "106.101"
       },
-      "content": "아니 같은 기사 맞음. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "content": "해본사람 말 더 들어보고싶다",
       "deleted": false
     },
     {
-      "id": "nat-2024-000007-021",
-      "parentId": "nat-2024-000007-001",
-      "timestamp": "2024-03-19T04:24:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "니 말이 맞으면 협회가 왜 있겠냐 / 그 자신감은 어디서 나옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-022",
+      "id": "c-2024-000007-v8-012",
       "parentId": null,
-      "timestamp": "2024-03-19T04:26:07+09:00",
+      "timestamp": "2024-03-19T04:24:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "59.5"
       },
-      "content": "협회 직원 댓글에만 지금 42명 있음 / 진짜 가지가지한다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-023",
-      "parentId": "nat-2024-000007-009",
-      "timestamp": "2024-03-19T04:28:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "닉 보고 내용 까먹음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-024",
-      "parentId": null,
-      "timestamp": "2024-03-19T04:29:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "나도 처음엔 여기서 막혔음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-025",
-      "parentId": null,
-      "timestamp": "2024-03-19T04:30:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "여기서 우승하면 협회장 시켜줌?\nㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-026",
-      "parentId": null,
-      "timestamp": "2024-03-19T04:31:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2024-000007-027",
-      "parentId": null,
-      "timestamp": "2024-03-19T04:33:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "아 ㅋㅋ",
+      "content": "난 반대",
       "deleted": false
     }
   ],

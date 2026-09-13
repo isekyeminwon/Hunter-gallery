@@ -1,0 +1,184 @@
+{
+  "id": "hg-2037-000013",
+  "displayNo": 2229647,
+  "timestamp": "2037-03-10T18:42:58+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "GATE_VIDEO_EXPANSION",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "마석카메라 밈 벌써 생겼네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "기사 하나 읽었는데 추천글 다 이거임ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 14526,
+    "recommend": 19
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000013-v8-001",
+      "parentId": null,
+      "timestamp": "2037-03-10T18:46:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "원본파일 존나 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-002",
+      "parentId": null,
+      "timestamp": "2037-03-10T18:49:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "마운트 되는지 꼭 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-003",
+      "parentId": null,
+      "timestamp": "2037-03-10T18:53:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "가격보다 배터리/저조도/저장 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-004",
+      "parentId": null,
+      "timestamp": "2037-03-10T18:56:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "일반카메라랑 마석식은 다르게 생각해야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-005",
+      "parentId": null,
+      "timestamp": "2037-03-10T18:58:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "촬영담당 없으면 손에 들고찍는건 비추",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-006",
+      "parentId": "c-2037-000013-v8-003",
+      "timestamp": "2037-03-10T19:00:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-007",
+      "parentId": "c-2037-000013-v8-001",
+      "timestamp": "2037-03-10T19:03:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-008",
+      "parentId": null,
+      "timestamp": "2037-03-10T19:05:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-009",
+      "parentId": null,
+      "timestamp": "2037-03-10T19:09:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "렌탈비보다 백업이 귀찮을때 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-010",
+      "parentId": "c-2037-000013-v8-008",
+      "timestamp": "2037-03-10T19:13:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-011",
+      "parentId": null,
+      "timestamp": "2037-03-10T19:14:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-v8-012",
+      "parentId": null,
+      "timestamp": "2037-03-10T19:18:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

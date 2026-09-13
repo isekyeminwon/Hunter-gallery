@@ -1,0 +1,39 @@
+{
+  "id": "hg-2041-000091",
+  "displayNo": 3853871,
+  "timestamp": "2041-11-02T20:11:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "GANGWON_DISAPPEARANCES",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "강원쪽 현장사진 하나 주웠는데",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 45664,
+    "recommend": 164
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "MODERATOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

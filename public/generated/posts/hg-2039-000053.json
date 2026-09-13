@@ -1,0 +1,484 @@
+{
+  "id": "hg-2039-000053",
+  "displayNo": 3098025,
+  "timestamp": "2039-05-20T15:34:00+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "EAST_SEA_PORT_ACCIDENT",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "협회 공동대응 들어간거 공식 확인",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "협회 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
+  "attachments": [],
+  "stats": {
+    "views": 234108,
+    "recommend": 2430
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000053-v8-001",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:37:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "새로 뜬 내용 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-002",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:39:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "원인보다 범인부터 찾네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-003",
+      "parentId": "c-2039-000053-v8-001",
+      "timestamp": "2039-05-20T15:42:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-004",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:44:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "사진으로 결론까지 가는건 너무빠름",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-005",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:46:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "다친사람 괜찮다냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-006",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:48:06+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "부상자 추가소식 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-007",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:51:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "근처사는 사람은 교통공지 먼저봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-008",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:53:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "원기사 보고싶은데",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-009",
+      "parentId": null,
+      "timestamp": "2039-05-20T15:56:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-010",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:00:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-011",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:02:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-012",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:04:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-013",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:06:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-014",
+      "parentId": "c-2039-000053-v8-011",
+      "timestamp": "2039-05-20T16:09:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-015",
+      "parentId": "c-2039-000053-v8-012",
+      "timestamp": "2039-05-20T16:11:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-016",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:15:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "헐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-017",
+      "parentId": "c-2039-000053-v8-012",
+      "timestamp": "2039-05-20T16:18:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-018",
+      "parentId": "c-2039-000053-v8-017",
+      "timestamp": "2039-05-20T16:20:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-019",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:23:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-020",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:24:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "이거 경험자 하나만 더 와봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-021",
+      "parentId": "c-2039-000053-v8-020",
+      "timestamp": "2039-05-20T16:26:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-022",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:28:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-023",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:30:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-024",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:34:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-025",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:35:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-026",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:37:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "통제중이면 근처사람은 안내부터 들어",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-027",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:38:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-028",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:40:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-029",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:42:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-030",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:44:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "원문 링크 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-031",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:47:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-032",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:50:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-033",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:51:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-034",
+      "parentId": "c-2039-000053-v8-031",
+      "timestamp": "2039-05-20T16:53:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-035",
+      "parentId": "c-2039-000053-v8-032",
+      "timestamp": "2039-05-20T16:56:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-036",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:59:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-v8-037",
+      "parentId": "c-2039-000053-v8-032",
+      "timestamp": "2039-05-20T17:01:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -33,291 +33,111 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000064-001",
+      "id": "c-2033-000064-v8-001",
       "parentId": null,
-      "timestamp": "2033-09-15T20:14:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "이 글 보다가 라면 불었다 ㅋㅋ 누가 메뉴 하나만 골라줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-002",
-      "parentId": "nat-2033-000064-001",
-      "timestamp": "2033-09-15T20:16:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "으음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-003",
-      "parentId": null,
-      "timestamp": "2033-09-15T20:24:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "현장 상성도 봐야지. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-004",
-      "parentId": null,
-      "timestamp": "2033-09-15T20:32:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "왜 아무도 말 안하냐 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이건 맞는말임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-005",
-      "parentId": null,
-      "timestamp": "2033-09-15T20:40:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이거 보고 우리팀 막내 또 아는척할까봐 무섭다 / 진짜 가지가지한다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-006",
-      "parentId": "nat-2033-000064-002",
-      "timestamp": "2033-09-15T20:50:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "왜 아무도 말 안하냐 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 이건 경험자 말 들어봐야됨. 괜히 아는척하다가 틀리면 개쪽임.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-007",
-      "parentId": null,
-      "timestamp": "2033-09-15T20:51:27+09:00",
+      "timestamp": "2033-09-15T20:17:25+09:00",
       "author": {
         "type": "fixed",
-        "name": "계약서읽자",
+        "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "좆문가 또 왔네 근데 니 경험 하나가 법은 아님",
+      "content": "카메라 싫어하면 스텔라는 좀 힘들듯",
       "deleted": false
     },
     {
-      "id": "nat-2033-000064-008",
+      "id": "c-2033-000064-v8-002",
       "parentId": null,
-      "timestamp": "2033-09-15T20:59:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "근데 점심 뭐먹냐. 누가 메뉴 하나만 골라줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-009",
-      "parentId": "nat-2033-000064-008",
-      "timestamp": "2033-09-15T21:03:42+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "그건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-010",
-      "parentId": null,
-      "timestamp": "2033-09-15T21:08:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 ㅋㅋ 지금도 그 얘기하면 욕함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-011",
-      "parentId": null,
-      "timestamp": "2033-09-15T21:17:56+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "또 줄세우기 시작했네ㅋㅋ. 괜히 한쪽 말만 듣고 움직이지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-012",
-      "parentId": "nat-2033-000064-001",
-      "timestamp": "2033-09-15T21:24:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "예외 하나 들고와서 전체가 틀렸다고 하면 어떡함 ㅋㅋ. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-013",
-      "parentId": null,
-      "timestamp": "2033-09-15T21:31:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "오늘 비오는데 장비 말리기 개귀찮음. 본문이랑 상관없긴 한데 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-014",
-      "parentId": "nat-2033-000064-003",
-      "timestamp": "2033-09-15T21:38:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "그래서 저녁 추천좀. 본문이랑 상관없긴 한데 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-015",
-      "parentId": "nat-2033-000064-005",
-      "timestamp": "2033-09-15T21:40:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "맞긴 한데 여기서는 그 얘기 아니지. 다시 읽어봐. 한줄 요약하려다가 꼭 사고남.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-016",
-      "parentId": null,
-      "timestamp": "2033-09-15T21:42:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "현장마다 다르면 보통 뭘 기준으로 봄?. 아는척 말고 해본사람만",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-017",
-      "parentId": "nat-2033-000064-007",
-      "timestamp": "2033-09-15T21:48:49+09:00",
+      "timestamp": "2033-09-15T20:19:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "에반데",
+      "content": "마법계 지인이 네뷸라 선호하긴하더라",
       "deleted": false
     },
     {
-      "id": "nat-2033-000064-018",
-      "parentId": null,
-      "timestamp": "2033-09-15T21:57:52+09:00",
+      "id": "c-2033-000064-v8-003",
+      "parentId": "c-2033-000064-v8-001",
+      "timestamp": "2033-09-15T20:20:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "59.10"
       },
-      "content": "같은 등급 안에서도 차이 큼. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
+      "content": "마법계면 네뷸라가 끌릴만함",
       "deleted": false
     },
     {
-      "id": "nat-2033-000064-019",
+      "id": "c-2033-000064-v8-004",
       "parentId": null,
-      "timestamp": "2033-09-15T22:06:20+09:00",
+      "timestamp": "2033-09-15T20:22:55+09:00",
       "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
       },
-      "content": "내 주변은 이 비교 관련해서 기사마다 말 조금씩 다른게 문제임 이라 봄",
+      "content": "한성 지원서 통과부터 하라는 소리 나온다",
       "deleted": false
     },
     {
-      "id": "nat-2033-000064-020",
+      "id": "c-2033-000064-v8-005",
       "parentId": null,
-      "timestamp": "2033-09-15T22:15:46+09:00",
+      "timestamp": "2033-09-15T20:25:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.7"
       },
-      "content": "영상 몇개 보고 순위 정하는게 제일 재밌긴 함ㅋㅋ. 본문보다 대댓글이 더 길어질 각이다.",
+      "content": "장비지원 후기는 백호가 제일 자주보임",
       "deleted": false
     },
     {
-      "id": "nat-2033-000064-021",
-      "parentId": "nat-2033-000064-016",
-      "timestamp": "2033-09-15T22:18:47+09:00",
+      "id": "c-2033-000064-v8-006",
+      "parentId": "c-2033-000064-v8-005",
+      "timestamp": "2033-09-15T20:26:27+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "그러니까 확정처럼 쓰지 말라고. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2033-000064-022",
+      "id": "c-2033-000064-v8-007",
       "parentId": null,
-      "timestamp": "2033-09-15T22:25:08+09:00",
+      "timestamp": "2033-09-15T20:29:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "211.234"
       },
-      "content": "또 줄세우기 시작했네ㅋㅋ. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "content": "일단 오퍼부터 주세요",
       "deleted": false
     },
     {
-      "id": "nat-2033-000064-023",
-      "parentId": "nat-2033-000064-012",
-      "timestamp": "2033-09-15T22:30:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "이거 보고 우리팀 막내 또 아는척할까봐 무섭다 ㅋㅋ 누가 말리냐 계속해봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000064-024",
+      "id": "c-2033-000064-v8-008",
       "parentId": null,
-      "timestamp": "2033-09-15T22:36:36+09:00",
+      "timestamp": "2033-09-15T20:31:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "취업이랑 누가세냐는 다른문제지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000064-v8-009",
+      "parentId": "c-2033-000064-v8-006",
+      "timestamp": "2033-09-15T20:35:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "39.7"
       },
-      "content": "ㅅㅂ",
+      "content": "셋다 붙고 고민하고싶다",
       "deleted": false
     }
   ],

@@ -1,0 +1,39 @@
+{
+  "id": "hg-2038-000015",
+  "displayNo": 2472256,
+  "timestamp": "2038-08-03T13:57:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "CHINA_SS_DISASTER",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[공지] 중국 SS게이트 출처불명 영상·구조자 신상추측 제한",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "중국 SS급 게이트 관련 출처가 확인되지 않은 현장영상, 조작 지도, 사망·실종 단정글이 급증하고 있습니다.\n구조자·피해자 신상추측 및 실시간 위치 공유 게시물은 정리될 수 있습니다.",
+  "attachments": [],
+  "stats": {
+    "views": 44736,
+    "recommend": 269
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

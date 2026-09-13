@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000128",
+  "displayNo": 4252334,
+  "timestamp": "2042-09-06T01:12:43+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘따라 사람 없네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.36"
+  },
+  "content": "이거 나만 그런가",
+  "attachments": [],
+  "stats": {
+    "views": 3523,
+    "recommend": 26
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000128-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-06T01:14:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000128-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-06T01:17:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

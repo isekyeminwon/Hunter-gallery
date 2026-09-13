@@ -1,0 +1,76 @@
+{
+  "id": "hg-2042-000055",
+  "displayNo": 4107567,
+  "timestamp": "2042-06-15T21:12:57+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "새벽 현장 끝나고 해뜨는거 봄",
+  "author": {
+    "type": "fixed",
+    "name": "마탑첩자",
+    "ip": null
+  },
+  "content": "아무 의미 없음\n퇴근하고싶다",
+  "attachments": [],
+  "stats": {
+    "views": 39668,
+    "recommend": 262
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000055-v8-001",
+      "parentId": null,
+      "timestamp": "2042-06-15T21:14:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000055-v8-002",
+      "parentId": null,
+      "timestamp": "2042-06-15T21:16:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000055-v8-003",
+      "parentId": null,
+      "timestamp": "2042-06-15T21:19:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

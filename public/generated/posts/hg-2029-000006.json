@@ -33,27 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2029-000006-001",
+      "id": "c-2029-000006-v8-001",
       "parentId": null,
-      "timestamp": "2029-07-11T16:32:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "왜 이런글이 정보글보다 댓글 잘달림ㅋㅋ ㅋㅋ 또 싸우겠네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000006-002",
-      "parentId": "nat-2029-000006-001",
-      "timestamp": "2029-07-11T16:34:35+09:00",
+      "timestamp": "2029-07-11T16:27:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "61.79"
       },
-      "content": "본문 세줄 댓글 오십개가 커뮤지 / 내생각은 그럼",
+      "content": "ㅋㅋ",
       "deleted": false
     }
   ],

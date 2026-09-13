@@ -1,0 +1,112 @@
+{
+  "id": "hg-2042-000141",
+  "displayNo": 4300629,
+  "timestamp": "2042-09-16T11:59:13+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "공략팀 경상 기사 확인됨 아는사람",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.125"
+  },
+  "content": "캡처말고 원문 있는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 16495,
+    "recommend": 126
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000141-pilot001",
+      "parentId": null,
+      "timestamp": "2042-09-16T12:00:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "공식기사 떴고 경상 2명이라고 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000141-pilot002",
+      "parentId": null,
+      "timestamp": "2042-09-16T12:02:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "철수함?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000141-pilot003",
+      "parentId": "c-2042-000141-pilot002",
+      "timestamp": "2042-09-16T12:04:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "기사엔 공략 중단 후 전원 복귀라고 써있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000141-pilot004",
+      "parentId": null,
+      "timestamp": "2042-09-16T12:06:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "어디 길드임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000141-pilot005",
+      "parentId": null,
+      "timestamp": "2042-09-16T12:08:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "길드명은 기사에 안나왔던데",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000141-pilot006",
+      "parentId": "c-2042-000141-pilot005",
+      "timestamp": "2042-09-16T12:10:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "ㅇㅋ 괜히 특정하면 안되겠네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

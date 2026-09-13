@@ -1,0 +1,160 @@
+{
+  "id": "hg-2036-000026",
+  "displayNo": 2064436,
+  "timestamp": "2036-12-26T11:36:44+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[정리] 정산표 직접 만들어본 후기",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "지원쪽 시점도 한번 적어봄.\n\n출발 전 체크\n- 인원별 개인가방 무게 기록\n- 공용물자 누가 들고가는지 고정\n- 소비한 물자는 중간중간 체크\n- 회수품 가방이랑 개인가방 섞지 않기\n- 부상자 나오면 누가 장비 버리고 사람 붙을지 미리 정하기\n\n현장에서는 전투 끝나고부터 일이 몰림.\n앞줄은 지쳐있고 뒤쪽은 정리해야되고 시간은 계속 감.\n이때 '아무나 들면 되지' 식으로 하면 꼭 하나 사라짐.\n\n짐꾼 처음 쓰는 파티면 일당 몇십 아끼려고 경험자 거르지 마라.\n길 알고 짐 정리할 줄 아는 사람 하나 있으면 체감 엄청 큼.\n\n공격력 얘기는 다른 사람들이 잘하니까 난 이쪽만 적음.",
+  "attachments": [],
+  "stats": {
+    "views": 7270,
+    "recommend": 1158
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000026-v8-001",
+      "parentId": null,
+      "timestamp": "2036-12-26T11:38:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000026-v8-002",
+      "parentId": null,
+      "timestamp": "2036-12-26T11:42:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "당일도 있고 며칠뒤도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000026-v8-003",
+      "parentId": "c-2036-000026-v8-002",
+      "timestamp": "2036-12-26T11:44:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "당일정산이 편하긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000026-v8-004",
+      "parentId": null,
+      "timestamp": "2036-12-26T11:47:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000026-v8-005",
+      "parentId": null,
+      "timestamp": "2036-12-26T11:51:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000026-v8-006",
+      "parentId": null,
+      "timestamp": "2036-12-26T11:54:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "계약할때 정산일 적혀있는게 제일 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000026-v8-007",
+      "parentId": "c-2036-000026-v8-006",
+      "timestamp": "2036-12-26T11:56:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "일주일 넘으면 한번 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000026-v8-008",
+      "parentId": "c-2036-000026-v8-001",
+      "timestamp": "2036-12-26T11:59:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "매입가 확정뒤 보내는팀도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000026-v8-009",
+      "parentId": "c-2036-000026-v8-006",
+      "timestamp": "2036-12-26T12:03:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "정산일 적혀있으면 덜싸움",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000026-v8-010",
+      "parentId": null,
+      "timestamp": "2036-12-26T12:05:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "예상금액으로 먼저 싸우지마",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

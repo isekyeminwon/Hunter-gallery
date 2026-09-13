@@ -1,0 +1,172 @@
+{
+  "id": "hg-2042-000101",
+  "displayNo": 4135290,
+  "timestamp": "2042-07-02T13:06:21+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[정보] 파티섞이면 용어부터 맞춰라 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "언데드/묘지형 공략권이 싸다고 바로 개꿀인건 아님.\n\n싸지는 이유가 한개가 아니라 여러개 겹치는 경우가 많음.\n\n- 선호도 낮음\n냄새, 분진, 시야 문제 때문에 싫어하는 파티 많음.\n\n- 조합 탐\n정화계 있으면 편한 상황이 많고\n없으면 장비/소모품으로 메워야 할수 있음.\n\n- 뒤처리\n오염장비 세척, 폐기, 보관 때문에 귀찮음.\n\n- 회수 효율\n게이트마다 다르지만\n'공략권 싸다 = 마석 수익률 높다'는 공식은 없음.\n\n- 보험/장비\n싼 공략권 보고 들어갔다가 준비비용에서 먹는 경우 있음.\n\n결론은\n공략권 가격만 보지말고\n예상 회수액 - 인건비 - 장비 - 보험 - 세척/운송까지 대충 계산해봐야됨.\n\n싸게 나온건 이유가 있을수 있음.\n물론 진짜 저평가 매물일 때도 있어서 결국 팀 경험이 중요함.",
+  "attachments": [],
+  "stats": {
+    "views": 27644,
+    "recommend": 257
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000101-v8-001",
+      "parentId": null,
+      "timestamp": "2042-07-02T13:09:17+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-002",
+      "parentId": null,
+      "timestamp": "2042-07-02T13:11:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "현장등급 제한 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-003",
+      "parentId": "c-2042-000101-v8-001",
+      "timestamp": "2042-07-02T13:14:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "보장범위가 제일 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-004",
+      "parentId": null,
+      "timestamp": "2042-07-02T13:16:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-005",
+      "parentId": "c-2042-000101-v8-002",
+      "timestamp": "2042-07-02T13:20:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-006",
+      "parentId": null,
+      "timestamp": "2042-07-02T13:22:24+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "보험사 이름보다 보장범위가 먼저임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-007",
+      "parentId": null,
+      "timestamp": "2042-07-02T13:25:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-008",
+      "parentId": null,
+      "timestamp": "2042-07-02T13:26:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "개인보험만 믿고 팀조건 넘기진마",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-009",
+      "parentId": "c-2042-000101-v8-005",
+      "timestamp": "2042-07-02T13:29:39+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-010",
+      "parentId": null,
+      "timestamp": "2042-07-02T13:33:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "보험사는 나중이고 범위가 먼저",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000101-v8-011",
+      "parentId": null,
+      "timestamp": "2042-07-02T13:35:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

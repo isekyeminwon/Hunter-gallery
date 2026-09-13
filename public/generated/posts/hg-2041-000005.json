@@ -1,0 +1,232 @@
+{
+  "id": "hg-2041-000005",
+  "displayNo": 3514315,
+  "timestamp": "2041-02-20T09:00:34+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "NEW_GEN_2041",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "신인 뜨면 대형길드 채용공고도 같이 늘어남?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "175.223"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n기사마다 표현이 좀 달라서 확인된 것만 보는게 맞을듯.",
+  "attachments": [],
+  "stats": {
+    "views": 10500,
+    "recommend": 49
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000005-v8-001",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:04:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-002",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:06:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-003",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:08:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "계약주체 누구임",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-004",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:10:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-005",
+      "parentId": "c-2041-000005-v8-001",
+      "timestamp": "2041-02-20T09:11:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-006",
+      "parentId": "c-2041-000005-v8-002",
+      "timestamp": "2041-02-20T09:14:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-007",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:17:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-008",
+      "parentId": "c-2041-000005-v8-003",
+      "timestamp": "2041-02-20T09:20:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-009",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:24:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-010",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:27:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "예상시간 몇시간인데",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-011",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:29:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-012",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:31:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-013",
+      "parentId": "c-2041-000005-v8-009",
+      "timestamp": "2041-02-20T09:32:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-014",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:34:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-015",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:35:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "비슷하게 해본놈 더없냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000005-v8-016",
+      "parentId": null,
+      "timestamp": "2041-02-20T09:38:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

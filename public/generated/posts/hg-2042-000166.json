@@ -1,0 +1,76 @@
+{
+  "id": "hg-2042-000166",
+  "displayNo": 4322217,
+  "timestamp": "2042-09-17T03:44:57+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "철수콜 늦게해서 하루 날린 후기",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "우리팀 방식이라 절대정답은 아님.\n반박 있으면 경험담으로 해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 800,
+    "recommend": 0
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000166-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-17T03:48:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "한번 더 보자는 말이 제일 무서움",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000166-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-17T03:51:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "철수콜 누가하는지 먼저 정해",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000166-v8-003",
+      "parentId": null,
+      "timestamp": "2042-09-17T03:54:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "철수 정했으면 그때는 욕심 접어",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

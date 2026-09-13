@@ -1,0 +1,244 @@
+{
+  "id": "hg-2035-000042",
+  "displayNo": 1845673,
+  "timestamp": "2035-07-15T03:52:50+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[정리] S급 영상 진짜인지 구분 어케함",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.246"
+  },
+  "content": "별하나 S급 관련해서 과거 공연장 사고 끌고와서 이상한 소리하는 글 너무 많아서 공개된 것만 적음.\n\n- 과거 아이돌 활동 당시 공연장 게이트 사고 생존자였던 건 공개적으로 알려진 사실.\n- 이후 활동 중단/복귀 과정도 기사 많이 남아있음.\n- 이번 측정에서 S급 확인.\n- 스텔라 쪽 공식 발표도 나옴.\n\n여기까지만 보면 됨.\n\n'그 사고 때문에 능력이 이렇게 됐다'\n'그때 이미 각성해 있었다'\n같은 소리는 근거 없음.\n\n팬이면 더더욱 옛날 사고영상 재업하면서 추억팔이 하지 좀 마라.\n좋은 소식 떴는데 왜 굳이 최악의 날 영상을 다시 퍼옴.\n\n전투영상 나오면 그때 능력 얘기하면 되지\n오늘은 그냥 축하할 일이라 봄.",
+  "attachments": [],
+  "stats": {
+    "views": 54548,
+    "recommend": 820
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000042-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-15T03:55:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-15T03:59:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "이런건 물어봐도 됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-15T04:03:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "요즘 기준 글이 잘안보이더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-004",
+      "parentId": null,
+      "timestamp": "2035-07-15T04:06:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "이거 초보때 은근 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-005",
+      "parentId": "c-2035-000042-v8-002",
+      "timestamp": "2035-07-15T04:07:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-15T04:10:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-15T04:13:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-15T04:16:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-009",
+      "parentId": "c-2035-000042-v8-005",
+      "timestamp": "2035-07-15T04:20:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "이건 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-010",
+      "parentId": "c-2035-000042-v8-009",
+      "timestamp": "2035-07-15T04:22:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-15T04:24:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "나도 첫번에 여기서 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-012",
+      "parentId": "c-2035-000042-v8-005",
+      "timestamp": "2035-07-15T04:28:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-013",
+      "parentId": null,
+      "timestamp": "2035-07-15T04:31:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "나도 옆에서 질문좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-014",
+      "parentId": "c-2035-000042-v8-007",
+      "timestamp": "2035-07-15T04:35:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-015",
+      "parentId": null,
+      "timestamp": "2035-07-15T04:38:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-016",
+      "parentId": null,
+      "timestamp": "2035-07-15T04:41:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "별하나 얘기는 맨날 갈리네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000042-v8-017",
+      "parentId": "c-2035-000042-v8-012",
+      "timestamp": "2035-07-15T04:44:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이건 물어볼만함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "hg-2042-000018",
+  "displayNo": 3966520,
+  "timestamp": "2042-01-29T19:54:54+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "CHINA_SS_DISASTER",
+    "phase": "AFTERMATH",
+    "related": true
+  },
+  "title": "중국 SS급 게이트 아직도 이계화 중임?",
+  "author": {
+    "type": "fixed",
+    "name": "영상분석충",
+    "ip": null
+  },
+  "content": "2038년 사고 이후 기사 띄엄띄엄 봐서 지금 상황이 감이 안옴.\n\n내가 확인한 건\n- 대규모 이계화 지역이 아직 재난지역으로 남아있다는 것\n- 구조/복구 관련 기사가 계속 나온다는 것\n- 샤오룽 관련 과거 구조영상이 아직도 자주 재조명된다는 정도임.\n\n정확한 경계나 '어디까지 회복됐다'는 지도는 출처가 다 제각각이라 못믿겠음.\n\n최근 공식 기사 정리해둔 사람 있으면 링크좀.\n옛날 사고영상 말고 현재 상황 위주로 보고싶음.",
+  "attachments": [],
+  "stats": {
+    "views": 53322,
+    "recommend": 2241
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000018-pilot001",
+      "parentId": null,
+      "timestamp": "2042-01-29T19:55:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "복구기사 계속 나오긴 하는데 '끝났다'고 할 상태는 아닌걸로 앎",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-pilot002",
+      "parentId": null,
+      "timestamp": "2042-01-29T19:56:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "지도 캡처 하나 돌던데 그거 맞음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-pilot003",
+      "parentId": null,
+      "timestamp": "2042-01-29T19:57:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "출처 없는 색칠지도면 버려",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-pilot004",
+      "parentId": null,
+      "timestamp": "2042-01-29T19:58:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "2038 사고영상 재업을 최근영상처럼 올리는 계정도 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-pilot005",
+      "parentId": null,
+      "timestamp": "2042-01-29T19:58:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "샤오룽 구조영상 또 떠서 나도 최근건줄 알았음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-pilot006",
+      "parentId": null,
+      "timestamp": "2042-01-29T19:59:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "정확한 경계나 정치얘기는 여기서 확정할 정보가 없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-pilot007",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:00:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "공식 복구기사 날짜순으로 보는게 제일 나음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

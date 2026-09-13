@@ -10,13 +10,24 @@ function AuthorLabel({ row }: { row: PostIndexItem }) {
 }
 
 export function NoticeRow({ row }: { row: PostIndexItem }) {
-  return <tr className="notice-row">
-    <td className="col-no"><span className="notice-pill">공지</span></td>
-    <td className="col-category">{row.displayCategory}</td>
-    <td className="col-title"><Link to={`/post/${row.id}`}>{row.title}</Link></td>
-    <td className="col-author"><AuthorLabel row={row} /></td>
-    <td className="col-date">{formatBoardDate(row.timestamp)}</td>
-    <td className="col-views">{row.stats.views.toLocaleString("ko-KR")}</td>
-    <td className="col-recommend">{row.stats.recommend ? row.stats.recommend.toLocaleString("ko-KR") : "-"}</td>
-  </tr>;
+  return (
+    <article className="feed-item notice-row">
+      <div className="feed-vote notice-vote" aria-hidden="true">
+        <span className="notice-dot" />
+        <strong>공지</strong>
+      </div>
+      <div className="feed-main">
+        <div className="feed-title-line">
+          <span className="category-badge">{row.displayCategory}</span>
+          <Link className="feed-title" to={`/post/${row.id}`}>{row.title}</Link>
+        </div>
+        <div className="feed-meta">
+          <span><AuthorLabel row={row} /></span>
+          <span>{formatBoardDate(row.timestamp)}</span>
+          <span>댓글 {row.commentCount.toLocaleString("ko-KR")}</span>
+          <span>조회 {row.stats.views.toLocaleString("ko-KR")}</span>
+        </div>
+      </div>
+    </article>
+  );
 }

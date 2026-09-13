@@ -1,0 +1,160 @@
+{
+  "id": "hg-2042-000036",
+  "displayNo": 4002303,
+  "timestamp": "2042-03-09T16:11:57+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "공략팀 경상 기사 확인됨",
+  "author": {
+    "type": "fixed",
+    "name": "계약서읽자",
+    "ip": null
+  },
+  "content": "캡처말고 원문 있는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 19235,
+    "recommend": 179
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000036-v8-001",
+      "parentId": null,
+      "timestamp": "2042-03-09T16:15:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "다친사람 수는 기사마다 같은거 맞음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000036-v8-002",
+      "parentId": null,
+      "timestamp": "2042-03-09T16:17:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "괜히 신상부터 캐지는 말자",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000036-v8-003",
+      "parentId": null,
+      "timestamp": "2042-03-09T16:18:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "경상이라니 그나마 다행이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000036-v8-004",
+      "parentId": null,
+      "timestamp": "2042-03-09T16:20:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "추가기사 뜨면 원인도 나오겠지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000036-v8-005",
+      "parentId": null,
+      "timestamp": "2042-03-09T16:23:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "공략 중단하고 복귀했다는 기사까진 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000036-v8-006",
+      "parentId": null,
+      "timestamp": "2042-03-09T16:25:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "어느길드인지는 기사에 안나왔던데",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000036-v8-007",
+      "parentId": "c-2042-000036-v8-005",
+      "timestamp": "2042-03-09T16:27:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "공략 중단하고 복귀했다는건 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000036-v8-008",
+      "parentId": null,
+      "timestamp": "2042-03-09T16:29:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000036-v8-009",
+      "parentId": "c-2042-000036-v8-002",
+      "timestamp": "2042-03-09T16:33:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "사람 괜찮은지가 먼저지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000036-v8-010",
+      "parentId": null,
+      "timestamp": "2042-03-09T16:37:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "근거는?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

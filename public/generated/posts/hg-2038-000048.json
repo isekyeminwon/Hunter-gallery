@@ -1,0 +1,124 @@
+{
+  "id": "hg-2038-000048",
+  "displayNo": 2592372,
+  "timestamp": "2038-06-25T23:27:08+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "요즘 A급 기준 눈 너무 높아진거 아님?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.201"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 7507,
+    "recommend": 8
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000048-v8-001",
+      "parentId": null,
+      "timestamp": "2038-06-25T23:30:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "상성 얘기 시작하면 2차전임",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000048-v8-002",
+      "parentId": null,
+      "timestamp": "2038-06-25T23:33:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "랭킹충들 출근했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000048-v8-003",
+      "parentId": null,
+      "timestamp": "2038-06-25T23:37:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "A 평범취급은 갤에서만 가능",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000048-v8-004",
+      "parentId": "c-2038-000048-v8-001",
+      "timestamp": "2038-06-25T23:40:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000048-v8-005",
+      "parentId": null,
+      "timestamp": "2038-06-25T23:43:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "비공식표인데 협회문서처럼 만들었네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000048-v8-006",
+      "parentId": null,
+      "timestamp": "2038-06-25T23:45:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "이런표는 만든사람 팬심이 반임",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000048-v8-007",
+      "parentId": null,
+      "timestamp": "2038-06-25T23:48:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "이 떡밥은 안죽네ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

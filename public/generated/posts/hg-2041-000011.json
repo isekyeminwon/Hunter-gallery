@@ -1,0 +1,64 @@
+{
+  "id": "hg-2041-000011",
+  "displayNo": 3540138,
+  "timestamp": "2041-06-14T12:32:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "한성 공식영상 말수 너무없음ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "14.32"
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 12591,
+    "recommend": 58
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000011-v8-001",
+      "parentId": null,
+      "timestamp": "2041-06-14T12:35:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "한성은 영상보다 기사로 더 자주 보는 느낌",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000011-v8-002",
+      "parentId": null,
+      "timestamp": "2041-06-14T12:38:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "검신 영상은 옛날거도 계속 재생됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

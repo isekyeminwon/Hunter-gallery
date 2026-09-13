@@ -33,303 +33,159 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2026-000005-001",
-      "parentId": null,
-      "timestamp": "2026-04-07T00:33:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "친구가 저쪽 일하는데 ㅋㅋ 가족들은 뉴스만 떠도 전화부터 옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-002",
+      "id": "c-2026-000005-v8-001",
       "parentId": null,
       "timestamp": "2026-04-07T00:34:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "39.125"
       },
-      "content": "협회 대기실 의자 욕은 왜 시대가 지나도 똑같냐ㅋㅋ ㅋㅋ 지금 보면 웃긴데 당시엔 진지했겠지",
+      "content": "해본사람 있냐",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-003",
+      "id": "c-2026-000005-v8-002",
       "parentId": null,
-      "timestamp": "2026-04-07T00:36:10+09:00",
+      "timestamp": "2026-04-07T00:37:49+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
       },
-      "content": "댓글 다읽은 내가 제일 병신임\n작성자 책임져라 시간 날림",
+      "content": "이건 나도 궁금함",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-004",
-      "parentId": "nat-2026-000005-001",
-      "timestamp": "2026-04-07T00:36:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "아",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-005",
+      "id": "c-2026-000005-v8-003",
       "parentId": null,
-      "timestamp": "2026-04-07T00:38:48+09:00",
+      "timestamp": "2026-04-07T00:40:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.33"
       },
-      "content": "개빡세네",
+      "content": "나도 첫번에 여기서 헷갈림",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-006",
+      "id": "c-2026-000005-v8-004",
       "parentId": null,
-      "timestamp": "2026-04-07T00:40:50+09:00",
+      "timestamp": "2026-04-07T00:42:31+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
       },
-      "content": "팀장한테 비슷한거 물어봤는데. 사람마다 말 다른 이유는 알겠더라",
+      "content": "처음이면 물어볼만함",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-007",
+      "id": "c-2026-000005-v8-005",
       "parentId": null,
-      "timestamp": "2026-04-07T00:41:32+09:00",
+      "timestamp": "2026-04-07T00:44:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "118.33"
       },
-      "content": "이런 상황에서 보통 누가 결정함?\n검색하면 말이 다 다름",
+      "content": "검색하면 옛날글만 나옴",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-008",
+      "id": "c-2026-000005-v8-006",
       "parentId": null,
-      "timestamp": "2026-04-07T00:43:40+09:00",
+      "timestamp": "2026-04-07T00:47:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "39.125"
       },
-      "content": "오히려 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 그냥 그렇다고",
+      "content": "그건맞음",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-009",
+      "id": "c-2026-000005-v8-007",
       "parentId": null,
-      "timestamp": "2026-04-07T00:46:01+09:00",
+      "timestamp": "2026-04-07T00:50:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "14.32"
       },
-      "content": "개웃김",
+      "content": "댓글 읽다 본문 다시봄",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-010",
+      "id": "c-2026-000005-v8-008",
+      "parentId": "c-2026-000005-v8-004",
+      "timestamp": "2026-04-07T00:52:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2026-000005-v8-009",
       "parentId": null,
-      "timestamp": "2026-04-07T00:48:28+09:00",
+      "timestamp": "2026-04-07T00:53:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.109"
+        "ip": "118.33"
       },
-      "content": "기사 세줄도 안읽고 댓글부터 쓰냐 ㅋㅋ 아무말이나 던지고 튀네",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-011",
+      "id": "c-2026-000005-v8-010",
       "parentId": null,
-      "timestamp": "2026-04-07T00:49:34+09:00",
+      "timestamp": "2026-04-07T00:56:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "14.32"
       },
-      "content": "원글 세줄인데 토론회가 열림. 관리자도 보고 웃겠다",
+      "content": "근거는?",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-012",
+      "id": "c-2026-000005-v8-011",
+      "parentId": "c-2026-000005-v8-008",
+      "timestamp": "2026-04-07T00:59:58+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2026-000005-v8-012",
       "parentId": null,
-      "timestamp": "2026-04-07T00:52:08+09:00",
+      "timestamp": "2026-04-07T01:02:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "14.32"
       },
-      "content": "병신아 그건 다른 얘기임 근데 현장가서 그렇게 말해봐라",
+      "content": "왜 여기서 싸우냐",
       "deleted": false
     },
     {
-      "id": "nat-2026-000005-013",
+      "id": "c-2026-000005-v8-013",
       "parentId": null,
-      "timestamp": "2026-04-07T00:52:23+09:00",
+      "timestamp": "2026-04-07T01:04:58+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
       },
-      "content": "협회 대기실 의자 욕은 왜 시대가 지나도 똑같냐ㅋㅋ. 지금 보면 웃긴데 당시엔 진지했겠지",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-014",
-      "parentId": "nat-2026-000005-006",
-      "timestamp": "2026-04-07T00:54:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "진짜 헛소리도 당당하게 하네 근데 이건 좀 심했다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-015",
-      "parentId": null,
-      "timestamp": "2026-04-07T00:55:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이거 읽다가 버스 지나침. 본문이랑 상관없긴 한데 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-016",
-      "parentId": null,
-      "timestamp": "2026-04-07T00:56:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "정보글 보러왔다가 원숭이 싸움 구경중. 팝콘 부족함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-017",
-      "parentId": "nat-2026-000005-006",
-      "timestamp": "2026-04-07T00:58:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "그럼 반대로 생각해봐. 내말 틀림?",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-018",
-      "parentId": null,
-      "timestamp": "2026-04-07T00:59:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "기사만 보면 협회 자체보다 조건이 뭐였는지부터 봐야됨 이건 좀 더 봐야됨. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-019",
-      "parentId": null,
-      "timestamp": "2026-04-07T01:01:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "저때 협회 사칭문자 미친듯이 돌았음. 작성자도 뒤에 정정했으면 좋았을듯",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-020",
-      "parentId": "nat-2026-000005-003",
-      "timestamp": "2026-04-07T01:01:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이런 글에서 안싸우면 헌갤 망함. 괜히 한쪽 말만 듣고 움직이지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-021",
-      "parentId": null,
-      "timestamp": "2026-04-07T01:02:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "내가 잘못 아는거 아니면 협회 자체보다 조건이 뭐였는지부터 봐야됨 아무튼 조심해라. 지금 정보량으로는 누구도 장담 못함.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-022",
-      "parentId": null,
-      "timestamp": "2026-04-07T01:04:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "팀장한테 비슷한거 물어봤는데 ㅋㅋ 별거 아닌 실수가 제일 오래감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-023",
-      "parentId": null,
-      "timestamp": "2026-04-07T01:04:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "개소리를 정성스럽게도 썼네 근데 그건 니 파티 얘기고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-024",
-      "parentId": "nat-2026-000005-015",
-      "timestamp": "2026-04-07T01:05:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "그럼 반대로 생각해봐. 다시 읽어봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000005-025",
-      "parentId": null,
-      "timestamp": "2026-04-07T01:07:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "글쓴이 그 뒤에 후기 없음? / 아는척 말고 해본사람만",
+      "content": "나도 비슷했음",
       "deleted": false
     }
   ],

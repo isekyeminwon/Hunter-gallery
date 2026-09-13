@@ -1,0 +1,39 @@
+{
+  "id": "hg-2040-000023",
+  "displayNo": 3252938,
+  "timestamp": "2040-10-25T08:34:42+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 현장 취소돼서 낮잠 잤다 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "오늘 하루 개피곤하다",
+  "attachments": [],
+  "stats": {
+    "views": 17850,
+    "recommend": 40
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "id": "hg-2040-000006",
+  "displayNo": 3187716,
+  "timestamp": "2040-05-20T14:48:29+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[정리] 다친사람 장비 누가 들지 미리 정해놔라",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "175.223"
+  },
+  "content": "묘지형/언데드 계열 몇번 다녀와서 준비물 적어봄.\n공략법은 파티마다 다르니까 장비/운영 위주.\n\n- 조명 예비 하나 더\n- 장갑 여분\n- 냄새/분진 막을 보호구\n- 오염된 장비 따로 넣을 봉투\n- 좁은 길에서 짐 걸리지 않게 가방 외부부착 줄이기\n- 퇴로 표시 확실히\n\n그리고 정화계가 있으면 편한건 맞는데\n없다고 무조건 못가는 식으로 단순하게 말하긴 어려움.\n게이트 구조, 마물 종류, 파티 화력 따라서 완전 달라짐.\n\n중요한건 '없어도 된다' 듣고\n자기 파티 조건 확인 안하고 들어가는게 제일 위험하다는거.\n\n나는 입장 전에\n누가 처리 못하는 상황 나오면 바로 빠질지부터 정함.\n\n언데드라고 괜히 분위기타서 겁먹을 필요도 없고\n반대로 게임 던전처럼 생각할 필요도 없음.",
+  "attachments": [],
+  "stats": {
+    "views": 8367,
+    "recommend": 549
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000006-v8-001",
+      "parentId": null,
+      "timestamp": "2040-05-20T14:50:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "정화계 없다고 무조건 못가는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-002",
+      "parentId": null,
+      "timestamp": "2040-05-20T14:52:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "묘지형 두번 가고 손절한놈 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-003",
+      "parentId": "c-2040-000006-v8-002",
+      "timestamp": "2040-05-20T14:56:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "냄새 분진때문에 싫어하는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-004",
+      "parentId": "c-2040-000006-v8-002",
+      "timestamp": "2040-05-20T14:59:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "없다고 무조건 못가는건 아니고",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-005",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:03:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "공략권 싸도 세척비에서 울수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-006",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:06:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "정화계 있으면 편한건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-007",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:10:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "이쯤되면 본문 재확인 필요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-008",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:13:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "원글 세줄인데 밑이 더김",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-009",
+      "parentId": "c-2040-000006-v8-007",
+      "timestamp": "2040-05-20T15:16:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "공략권 싼데는 이유가 있을수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-010",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:18:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "보호구/소모품까지 넣으면 수익 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-011",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:21:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-012",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:22:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-013",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:26:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-014",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:29:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-015",
+      "parentId": "c-2040-000006-v8-011",
+      "timestamp": "2040-05-20T15:33:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "세척비까지 넣으면 계산 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-016",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:36:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-017",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:38:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-018",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:41:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000006-v8-019",
+      "parentId": null,
+      "timestamp": "2040-05-20T15:43:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "근거는?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

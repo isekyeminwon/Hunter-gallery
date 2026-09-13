@@ -1,0 +1,39 @@
+{
+  "id": "hg-2038-000023",
+  "displayNo": 2501624,
+  "timestamp": "2038-08-19T21:56:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "XIAO_LONG_KOREA_FOLLOWUP",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "중국 현장 내부영상이라는거 가져옴",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 66780,
+    "recommend": 45
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "MODERATOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

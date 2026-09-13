@@ -33,147 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2028-000032-001",
+      "id": "c-2028-000032-v8-001",
       "parentId": null,
-      "timestamp": "2028-12-16T17:59:33+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "진짜 헛소리도 당당하게 하네 근데 이건 좀 심했다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000032-002",
-      "parentId": "nat-2028-000032-001",
-      "timestamp": "2028-12-16T18:08:28+09:00",
+      "timestamp": "2028-12-16T17:59:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "117.111"
       },
-      "content": "갑자기 왜 화냄ㅋㅋ. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "content": "신고해본사람 있음?",
       "deleted": false
     },
     {
-      "id": "nat-2028-000032-003",
+      "id": "c-2028-000032-v8-002",
       "parentId": null,
-      "timestamp": "2028-12-16T18:18:11+09:00",
+      "timestamp": "2028-12-16T18:03:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "14.32"
       },
-      "content": "실제 계약서에는 뭐라고 적힘? / 검색하면 말이 다 다름",
+      "content": "애매하면 신상은 올리지마",
       "deleted": false
     },
     {
-      "id": "nat-2028-000032-004",
-      "parentId": null,
-      "timestamp": "2028-12-16T18:27:11+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "초보가 제일 먼저 확인할거 뭐임? ㅋㅋ 이거만 확인하고싶음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000032-005",
-      "parentId": null,
-      "timestamp": "2028-12-16T18:28:36+09:00",
+      "id": "c-2028-000032-v8-003",
+      "parentId": "c-2028-000032-v8-002",
+      "timestamp": "2028-12-16T18:05:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "210.178"
       },
-      "content": "가능하냐랑 해도 되냐는 다른 얘기임",
+      "content": "실제 신고사례 있음?",
       "deleted": false
     },
     {
-      "id": "nat-2028-000032-006",
+      "id": "c-2028-000032-v8-004",
       "parentId": null,
-      "timestamp": "2028-12-16T18:37:49+09:00",
+      "timestamp": "2028-12-16T18:07:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "117.111"
       },
-      "content": "공식 공지 뜬거 맞음? ㅋㅋ 오늘 카더라 너무 많이 돎",
+      "content": "이건 최신 공지 봐야됨",
       "deleted": false
     },
     {
-      "id": "nat-2028-000032-007",
-      "parentId": null,
-      "timestamp": "2028-12-16T18:41:41+09:00",
+      "id": "c-2028-000032-v8-005",
+      "parentId": "c-2028-000032-v8-003",
+      "timestamp": "2028-12-16T18:09:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "14.32"
       },
-      "content": "와 이걸 그렇게 이해함? 근데 댓글 더 달수록 이상해짐",
+      "content": "규정 바뀐거 없는지 봐야됨",
       "deleted": false
     },
     {
-      "id": "nat-2028-000032-008",
-      "parentId": null,
-      "timestamp": "2028-12-16T18:51:59+09:00",
+      "id": "c-2028-000032-v8-006",
+      "parentId": "c-2028-000032-v8-004",
+      "timestamp": "2028-12-16T18:12:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "14.32"
       },
-      "content": "가능하냐랑 해도 되냐는 다른 얘기임 ㅋㅋ 또 싸우겠네",
+      "content": "최신 공지 한번 봐야겠네",
       "deleted": false
     },
     {
-      "id": "nat-2028-000032-009",
-      "parentId": null,
-      "timestamp": "2028-12-16T18:55:23+09:00",
+      "id": "c-2028-000032-v8-007",
+      "parentId": "c-2028-000032-v8-002",
+      "timestamp": "2028-12-16T18:15:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "210.178"
       },
-      "content": "기사 링크부터 가져와 / 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000032-010",
-      "parentId": null,
-      "timestamp": "2028-12-16T19:03:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "정보글 보러왔다가 원숭이 싸움 구경중\n내일까지 싸워줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000032-011",
-      "parentId": "nat-2028-000032-003",
-      "timestamp": "2028-12-16T19:04:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "맞긴 한데 여기서는 그 얘기 아니지. 다시 읽어봐. 댓글에서 벌써 결론 다 내린게 더 웃김.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000032-012",
-      "parentId": null,
-      "timestamp": "2028-12-16T19:13:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "다 떠나서 정보글이랑 썰글 구분만 해도 싸움 절반은 줄겠다 개빡셈",
+      "content": "실제 신고사례 있음?",
       "deleted": false
     }
   ],

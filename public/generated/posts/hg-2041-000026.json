@@ -1,0 +1,88 @@
+{
+  "id": "hg-2041-000026",
+  "displayNo": 3591711,
+  "timestamp": "2041-01-24T21:01:50+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "짐꾼 첫날 신발 뭐신음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "61.79"
+  },
+  "content": "그냥 궁금해서 물어봄.\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 24198,
+    "recommend": 186
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000026-v8-001",
+      "parentId": null,
+      "timestamp": "2041-01-24T21:05:38+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "방수는 현장타는데 젖는곳 한번가면 찾게됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000026-v8-002",
+      "parentId": null,
+      "timestamp": "2041-01-24T21:08:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "바닥 안미끄럽고 발목 잡히는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000026-v8-003",
+      "parentId": "c-2041-000026-v8-001",
+      "timestamp": "2041-01-24T21:10:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000026-v8-004",
+      "parentId": null,
+      "timestamp": "2041-01-24T21:12:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "양말 여분 챙겨라 은근 큼",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

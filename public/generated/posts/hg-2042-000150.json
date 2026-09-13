@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000150",
+  "displayNo": 4253621,
+  "timestamp": "2042-09-06T13:07:55+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "새로 산 가방 냄새 개심함",
+  "author": {
+    "type": "fixed",
+    "name": "마탑첩자",
+    "ip": null
+  },
+  "content": "점심먹다가 생각남",
+  "attachments": [],
+  "stats": {
+    "views": 32675,
+    "recommend": 265
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

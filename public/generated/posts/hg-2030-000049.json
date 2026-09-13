@@ -33,39 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2030-000049-001",
+      "id": "c-2030-000049-v8-001",
       "parentId": null,
-      "timestamp": "2030-06-23T05:51:00+09:00",
+      "timestamp": "2030-06-23T05:46:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "118.44"
       },
-      "content": "왜 이런글이 정보글보다 댓글 잘달림ㅋㅋ / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000049-002",
-      "parentId": null,
-      "timestamp": "2030-06-23T05:58:44+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "아무 의미 없는 글에 다들 진심이네 / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2030-000049-003",
-      "parentId": null,
-      "timestamp": "2030-06-23T06:07:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "오히려 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 아닌가",
+      "content": "ㄹㅇ",
       "deleted": false
     }
   ],

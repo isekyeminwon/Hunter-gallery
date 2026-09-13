@@ -33,219 +33,159 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2034-000043-001",
+      "id": "c-2034-000043-v8-001",
       "parentId": null,
-      "timestamp": "2034-12-09T21:13:23+09:00",
+      "timestamp": "2034-12-09T21:06:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "117.111"
       },
-      "content": "출처가 뭐임. 오늘 카더라 너무 많이 돎",
+      "content": "오전안에 풀리면 다행이고",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-002",
+      "id": "c-2034-000043-v8-002",
       "parentId": null,
-      "timestamp": "2034-12-09T21:17:25+09:00",
+      "timestamp": "2034-12-09T21:09:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "112.171"
       },
-      "content": "이런날 카더라가 공식보다 세배 빨리 돎. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "content": "근처면 그냥 우회하는게 답",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-003",
-      "parentId": "nat-2034-000043-001",
-      "timestamp": "2034-12-09T21:26:28+09:00",
+      "id": "c-2034-000043-v8-003",
+      "parentId": null,
+      "timestamp": "2034-12-09T21:12:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "117.111"
       },
-      "content": "글쓴이 도망갔는데 댓글끼리 3차전중. 팝콘 부족함",
+      "content": "현장 구경간다고 차끌고 가는놈 없지?",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-004",
-      "parentId": null,
-      "timestamp": "2034-12-09T21:34:19+09:00",
+      "id": "c-2034-000043-v8-004",
+      "parentId": "c-2034-000043-v8-002",
+      "timestamp": "2034-12-09T21:14:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "117.111"
       },
-      "content": "으음",
+      "content": "근처면 그냥 피하는게 맞음",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-005",
-      "parentId": null,
-      "timestamp": "2034-12-09T21:44:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이 글 왜 개념감ㅋㅋ\n본문이랑 상관없긴 한데 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000043-006",
-      "parentId": null,
-      "timestamp": "2034-12-09T21:50:00+09:00",
+      "id": "c-2034-000043-v8-005",
+      "parentId": "c-2034-000043-v8-003",
+      "timestamp": "2034-12-09T21:17:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "1.239"
       },
-      "content": "사진 하나로 위치 특정하려는 놈들 좀 자제해. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
+      "content": "현장사진 찍으러 갈건 아니고",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-007",
-      "parentId": "nat-2034-000043-006",
-      "timestamp": "2034-12-09T21:51:53+09:00",
+      "id": "c-2034-000043-v8-006",
+      "parentId": "c-2034-000043-v8-003",
+      "timestamp": "2034-12-09T21:19:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "14.32"
       },
-      "content": "왜 싸우냐ㅋㅋ",
+      "content": "통제 풀리는 시간 나왔음?",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-008",
-      "parentId": "nat-2034-000043-002",
-      "timestamp": "2034-12-09T21:58:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "그 말이면 세상 모든 질문 끝남ㅋㅋ. 여기서 싸워봤자 현장 규정 안바뀜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000043-009",
+      "id": "c-2034-000043-v8-007",
       "parentId": null,
-      "timestamp": "2034-12-09T22:07:16+09:00",
+      "timestamp": "2034-12-09T21:22:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "1.239"
       },
-      "content": "일단 한명 경험담을 전체 룰로 만드는게 제일 위험함 이라 봄. 웃자고 한 말이면 성공했고 진지한거면 좀 무섭다.",
+      "content": "협회차량 많이 들어갔네",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-010",
-      "parentId": null,
-      "timestamp": "2034-12-09T22:11:56+09:00",
+      "id": "c-2034-000043-v8-008",
+      "parentId": "c-2034-000043-v8-006",
+      "timestamp": "2034-12-09T21:25:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "14.32"
       },
-      "content": "우리 파티는 저런 상황 오면 ㅋㅋ 사람마다 말 다른 이유는 알겠더라",
+      "content": "차끌고 구경갈 생각은 접자",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-011",
-      "parentId": null,
-      "timestamp": "2034-12-09T22:12:52+09:00",
+      "id": "c-2034-000043-v8-009",
+      "parentId": "c-2034-000043-v8-003",
+      "timestamp": "2034-12-09T21:29:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "1.239"
       },
-      "content": "이 글 보다가 라면 불었다 ㅋㅋ 답글 달지마 이제 못봄",
+      "content": "안내방송부터 듣는게 낫지",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-012",
+      "id": "c-2034-000043-v8-010",
       "parentId": null,
-      "timestamp": "2034-12-09T22:17:40+09:00",
+      "timestamp": "2034-12-09T21:31:47+09:00",
       "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
       },
-      "content": "뭔 개소리야 ㅋㅋ 이건 좀 심했다",
+      "content": "기사엔 통제중이라고만 나옴",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-013",
-      "parentId": "nat-2034-000043-002",
-      "timestamp": "2034-12-09T22:23:35+09:00",
+      "id": "c-2034-000043-v8-011",
+      "parentId": null,
+      "timestamp": "2034-12-09T21:33:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "182.214"
       },
-      "content": "제발 실종 사망 이런건 확정 전에 단정하지마. 괜히 아는척하다가 틀리면 개쪽임.",
+      "content": "통제 풀리는 시간 나온거 있음?",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-014",
-      "parentId": "nat-2034-000043-008",
-      "timestamp": "2034-12-09T22:29:09+09:00",
+      "id": "c-2034-000043-v8-012",
+      "parentId": null,
+      "timestamp": "2034-12-09T21:36:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.109"
+        "ip": "117.111"
       },
-      "content": "이 글 왜 개념감ㅋㅋ ㅋㅋ 작성자 책임져라 시간 날림",
+      "content": "ㅇㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2034-000043-015",
+      "id": "c-2034-000043-v8-013",
       "parentId": null,
-      "timestamp": "2034-12-09T22:36:24+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "제발 실종 사망 이런건 확정 전에 단정하지마. 조건 하나만 달라도 얘기 완전 달라짐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000043-016",
-      "parentId": null,
-      "timestamp": "2034-12-09T22:40:11+09:00",
+      "timestamp": "2034-12-09T21:39:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "14.32"
       },
-      "content": "개소리를 정성스럽게도 썼네. ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000043-017",
-      "parentId": "nat-2034-000043-006",
-      "timestamp": "2034-12-09T22:50:00+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "글을 읽은거냐 제목만 본거냐 근데 아무말이나 던지고 튀네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000043-018",
-      "parentId": null,
-      "timestamp": "2034-12-09T22:51:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "미친",
+      "content": "ㅋㅋㅋㅋ",
       "deleted": false
     }
   ],

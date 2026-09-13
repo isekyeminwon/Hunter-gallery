@@ -1,0 +1,76 @@
+{
+  "id": "hg-2037-000050",
+  "displayNo": 2378383,
+  "timestamp": "2037-12-22T12:47:06+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "보험 두개 겹쳐도 됨?",
+  "author": {
+    "type": "fixed",
+    "name": "틀헌터",
+    "ip": null
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 13948,
+    "recommend": 16
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000050-v8-001",
+      "parentId": null,
+      "timestamp": "2037-12-22T12:51:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000050-v8-002",
+      "parentId": null,
+      "timestamp": "2037-12-22T12:52:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "현장등급 제한 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000050-v8-003",
+      "parentId": "c-2037-000050-v8-001",
+      "timestamp": "2037-12-22T12:55:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

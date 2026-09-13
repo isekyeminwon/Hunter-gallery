@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2030-000047-001",
+      "id": "c-2030-000047-v8-001",
       "parentId": null,
-      "timestamp": "2030-08-11T20:05:02+09:00",
+      "timestamp": "2030-08-11T19:59:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.36"
       },
-      "content": "오피셜 캡처 말고 링크 줘 근데 번역짤은 자꾸 내용 잘려서 못믿겠음",
+      "content": "나도그럼",
       "deleted": false
     },
     {
-      "id": "nat-2030-000047-002",
-      "parentId": "nat-2030-000047-001",
-      "timestamp": "2030-08-11T20:06:21+09:00",
+      "id": "c-2030-000047-v8-002",
+      "parentId": null,
+      "timestamp": "2030-08-11T20:02:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "117.111"
       },
-      "content": "이 글 얘기하는데 왜 갑자기 딴소리함. 내말 틀림?",
+      "content": "ㄹㅇ",
       "deleted": false
     }
   ],

@@ -1,0 +1,136 @@
+{
+  "id": "hg-2040-000062",
+  "displayNo": 3401215,
+  "timestamp": "2040-10-06T21:54:42+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "한성 들어가면 진짜 A도 평범해짐?",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 9230,
+    "recommend": 45
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000062-v8-001",
+      "parentId": null,
+      "timestamp": "2040-10-06T21:56:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "방송쪽 거부감 있으면 호불호 세겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000062-v8-002",
+      "parentId": null,
+      "timestamp": "2040-10-06T21:59:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "일단 셋다 붙고 고민하자ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000062-v8-003",
+      "parentId": "c-2040-000062-v8-002",
+      "timestamp": "2040-10-06T22:03:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000062-v8-004",
+      "parentId": null,
+      "timestamp": "2040-10-06T22:04:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "마법계면 선택지에서 네뷸라 못빼지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000062-v8-005",
+      "parentId": null,
+      "timestamp": "2040-10-06T22:06:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "지원체계 얘기는 백호쪽 후기가 많더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000062-v8-006",
+      "parentId": null,
+      "timestamp": "2040-10-06T22:10:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "길드 전투순위로 직장 고르는건 좀ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000062-v8-007",
+      "parentId": null,
+      "timestamp": "2040-10-06T22:13:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "지원자 입장에선 붙는곳이 1순위",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000062-v8-008",
+      "parentId": null,
+      "timestamp": "2040-10-06T22:17:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "취업은 전투서열이랑 다름",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

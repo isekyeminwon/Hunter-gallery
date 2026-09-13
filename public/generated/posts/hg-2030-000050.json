@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2030-000050-001",
+      "id": "c-2030-000050-v8-001",
       "parentId": null,
-      "timestamp": "2030-11-03T23:29:50+09:00",
+      "timestamp": "2030-11-03T23:31:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "14.32"
       },
-      "content": "광고가 본문보다 눈에 들어오네. 갑자기 생각나서 적음",
+      "content": "촬영팀 붙으면 동선도 달라질수 있음",
       "deleted": false
     },
     {
-      "id": "nat-2030-000050-002",
+      "id": "c-2030-000050-v8-002",
       "parentId": null,
-      "timestamp": "2030-11-03T23:35:23+09:00",
+      "timestamp": "2030-11-03T23:34:25+09:00",
       "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
       },
-      "content": "다 떠나서 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 이건 경험자 말 들어봐야됨. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
+      "content": "영상이 거짓말이라기보다 목적이 다른거",
       "deleted": false
     }
   ],

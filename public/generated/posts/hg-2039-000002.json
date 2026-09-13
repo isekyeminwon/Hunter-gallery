@@ -1,0 +1,268 @@
+{
+  "id": "hg-2039-000002",
+  "displayNo": 2869564,
+  "timestamp": "2039-09-03T09:30:13+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "A_RANK_2039_GEN",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "A급 신인 뜨면 길드 계약금 시장도 움직임?",
+  "author": {
+    "type": "fixed",
+    "name": "마석눈팅",
+    "ip": null
+  },
+  "content": "A급 관련해서 방금 본거 가져옴.\n기사마다 표현이 좀 달라서 확인된 것만 보는게 맞을듯.",
+  "attachments": [],
+  "stats": {
+    "views": 30064,
+    "recommend": 157
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000002-v8-001",
+      "parentId": null,
+      "timestamp": "2039-09-03T09:32:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-002",
+      "parentId": null,
+      "timestamp": "2039-09-03T09:34:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-003",
+      "parentId": "c-2039-000002-v8-001",
+      "timestamp": "2039-09-03T09:38:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-004",
+      "parentId": null,
+      "timestamp": "2039-09-03T09:41:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "계약주체 누구임",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-005",
+      "parentId": "c-2039-000002-v8-002",
+      "timestamp": "2039-09-03T09:43:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "예상시간 몇시간인데",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-006",
+      "parentId": null,
+      "timestamp": "2039-09-03T09:45:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-007",
+      "parentId": null,
+      "timestamp": "2039-09-03T09:49:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "대댓글이 본문 잡아먹었네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-008",
+      "parentId": "c-2039-000002-v8-001",
+      "timestamp": "2039-09-03T09:51:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-009",
+      "parentId": "c-2039-000002-v8-004",
+      "timestamp": "2039-09-03T09:55:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-010",
+      "parentId": "c-2039-000002-v8-007",
+      "timestamp": "2039-09-03T09:58:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-011",
+      "parentId": null,
+      "timestamp": "2039-09-03T10:00:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "예상시간 몇시간인데",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-012",
+      "parentId": null,
+      "timestamp": "2039-09-03T10:04:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-013",
+      "parentId": "c-2039-000002-v8-009",
+      "timestamp": "2039-09-03T10:07:20+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-014",
+      "parentId": "c-2039-000002-v8-007",
+      "timestamp": "2039-09-03T10:10:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-015",
+      "parentId": null,
+      "timestamp": "2039-09-03T10:11:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-016",
+      "parentId": null,
+      "timestamp": "2039-09-03T10:13:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-017",
+      "parentId": null,
+      "timestamp": "2039-09-03T10:17:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-018",
+      "parentId": null,
+      "timestamp": "2039-09-03T10:20:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000002-v8-019",
+      "parentId": null,
+      "timestamp": "2039-09-03T10:23:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

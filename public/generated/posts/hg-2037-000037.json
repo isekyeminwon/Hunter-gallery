@@ -1,0 +1,124 @@
+{
+  "id": "hg-2037-000037",
+  "displayNo": 2324309,
+  "timestamp": "2037-07-19T16:17:07+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "한성 네뷸라 백호 복지만 놓고 어디감? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "182.214"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 13307,
+    "recommend": 48
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000037-v8-001",
+      "parentId": null,
+      "timestamp": "2037-07-19T16:19:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "네뷸라는 교육을 복지로 치냐에서 갈릴듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000037-v8-002",
+      "parentId": null,
+      "timestamp": "2037-07-19T16:23:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "지원자 입장에선 붙는곳이 1순위",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000037-v8-003",
+      "parentId": null,
+      "timestamp": "2037-07-19T16:26:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "마법쪽이면 네뷸라 생각날수밖에",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000037-v8-004",
+      "parentId": null,
+      "timestamp": "2037-07-19T16:29:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "한성 합격부터 하고 고민하라는 댓글 곧온다",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000037-v8-005",
+      "parentId": "c-2037-000037-v8-002",
+      "timestamp": "2037-07-19T16:31:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "마법계면 네뷸라가 끌릴만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000037-v8-006",
+      "parentId": null,
+      "timestamp": "2037-07-19T16:33:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "한성 복지후기는 상대적으로 덜보이긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000037-v8-007",
+      "parentId": null,
+      "timestamp": "2037-07-19T16:37:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "복지만 보면 백호 쪽 손드는 사람 많지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

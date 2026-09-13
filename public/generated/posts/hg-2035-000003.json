@@ -1,0 +1,39 @@
+{
+  "id": "hg-2035-000003",
+  "displayNo": 1702696,
+  "timestamp": "2035-07-12T10:49:30+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[공지] 별하나 관련 과거 사고영상 재업·신상추측 자제",
+  "author": {
+    "type": "admin",
+    "name": "운영자",
+    "ip": null
+  },
+  "content": "별하나 S급 관련 게시물이 급증하고 있습니다.\n과거 공연장 사고 영상 재업로드, 피해자 신상추측, 출처 없는 합성물 게시를 자제해 주세요.\n동일 기사·짤 도배는 정리될 수 있습니다.",
+  "attachments": [],
+  "stats": {
+    "views": 121566,
+    "recommend": 784
+  },
+  "flags": {
+    "notice": true,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": true
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

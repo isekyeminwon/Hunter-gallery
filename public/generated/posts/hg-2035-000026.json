@@ -1,0 +1,604 @@
+{
+  "id": "hg-2035-000026",
+  "displayNo": 1784215,
+  "timestamp": "2035-07-15T19:56:34+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "STELLA_GROWTH",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[후기] 스텔라 프레임만 보고 공략짜면 안됨",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.102"
+  },
+  "content": "지난달부터 비슷한 유형 세번 갔다와서 적어봄.\n공략법이라기보다 하지 말아야 할 것 위주임.\n\n- 초입 안전하다고 장비 풀지 말기\n- 선두 멈췄는데 뒤에서 밀고 들어가지 말기\n- 미확인 통로 혼자 확인하겠다고 빠지지 말기\n- 짐 위치 계속 바꾸지 말기. 급할때 물건 못찾음\n- 마석/드랍 정산은 현장에서 말로 끝내지 말기\n- 철수 결정 나왔는데 한 번만 더 보자는 소리 하지 말기\n\n특히 마지막거.\n한 명이 욕심내기 시작하면 나머지가 거절하기 애매해지는 순간이 있음.\n철수 콜 나오면 일단 나오는 문화가 진짜 중요함.\n\n뉴비 데려가면 설명 길게 하지말고\n'멈춰 / 따라와 / 손대지마' 세개부터 확실히 알아듣게 하는게 낫더라.\n\n내 경험 기준이라 반박은 받음.",
+  "attachments": [],
+  "stats": {
+    "views": 237398,
+    "recommend": 1302
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": true,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000026-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:00:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "당일도 있고 며칠뒤도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:02:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "계약할때 정산일 적혀있는게 제일 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:04:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-004",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:06:56+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-005",
+      "parentId": "c-2035-000026-v8-002",
+      "timestamp": "2035-07-15T20:09:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "매입가 확정뒤 보내는팀도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:13:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "뭔글이었나 위로 올라갔다옴ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-007",
+      "parentId": "c-2035-000026-v8-003",
+      "timestamp": "2035-07-15T20:15:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "당일정산이 편하긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:17:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "예상금액으로 먼저 싸우지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:19:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:20:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-011",
+      "parentId": "c-2035-000026-v8-009",
+      "timestamp": "2035-07-15T20:22:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "일주일 넘으면 한번 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:25:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-013",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:28:06+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-014",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:30:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "스텔라 얘기는 맨날 갈리네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-015",
+      "parentId": "c-2035-000026-v8-014",
+      "timestamp": "2035-07-15T20:33:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "정산일 적혀있으면 덜싸움",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-016",
+      "parentId": "c-2035-000026-v8-011",
+      "timestamp": "2035-07-15T20:35:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "매입가 확정뒤 보내는팀도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-017",
+      "parentId": "c-2035-000026-v8-013",
+      "timestamp": "2035-07-15T20:36:38+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "정산일 적혀있으면 덜싸움",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-018",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:40:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-019",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:42:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-020",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:44:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-021",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:46:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-022",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:50:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-023",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:53:22+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-024",
+      "parentId": null,
+      "timestamp": "2035-07-15T20:57:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-025",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:00:29+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-026",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:03:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-027",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:06:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "스텔라 최근거 더 봐야 알듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-028",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:09:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-029",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:11:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-030",
+      "parentId": "c-2035-000026-v8-026",
+      "timestamp": "2035-07-15T21:14:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "일주일 넘으면 한번 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-031",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:16:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-032",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:19:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-033",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:21:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-034",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:25:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-035",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:27:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-036",
+      "parentId": "c-2035-000026-v8-031",
+      "timestamp": "2035-07-15T21:30:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "예상금액으로 먼저 싸우지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-037",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:34:25+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-038",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:37:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-039",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:41:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-040",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:44:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-041",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:45:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-042",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:47:40+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-043",
+      "parentId": "c-2035-000026-v8-036",
+      "timestamp": "2035-07-15T21:50:15+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "매입가 확정뒤 보내는팀도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-044",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:52:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-045",
+      "parentId": "c-2035-000026-v8-040",
+      "timestamp": "2035-07-15T21:54:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "매입가 확정뒤 보내는팀도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-046",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:55:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000026-v8-047",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:58:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

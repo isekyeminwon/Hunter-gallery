@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000014",
+  "displayNo": 3950629,
+  "timestamp": "2042-01-20T09:43:29+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "백호 이적설 뜨면 장비시장도 움직임?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "14.32"
+  },
+  "content": "요즘 시세 아는사람?\n작년글밖에 안나옴.",
+  "attachments": [],
+  "stats": {
+    "views": 24898,
+    "recommend": 4
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000014-v8-001",
+      "parentId": null,
+      "timestamp": "2042-01-20T09:46:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "계약주체 누구임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000014-v8-002",
+      "parentId": null,
+      "timestamp": "2042-01-20T09:49:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000014-v8-003",
+      "parentId": null,
+      "timestamp": "2042-01-20T09:50:30+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000014-v8-004",
+      "parentId": "c-2042-000014-v8-001",
+      "timestamp": "2042-01-20T09:53:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000014-v8-005",
+      "parentId": null,
+      "timestamp": "2042-01-20T09:55:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

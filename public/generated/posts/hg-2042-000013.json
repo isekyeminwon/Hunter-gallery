@@ -1,0 +1,112 @@
+{
+  "id": "hg-2042-000013",
+  "displayNo": 3944312,
+  "timestamp": "2042-01-17T20:57:39+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "강주아 계약능력 상성빨 많이탐?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.44"
+  },
+  "content": "공식순위 없는거 암.\n그냥 싸우라고 올림ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 45933,
+    "recommend": 109
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000013-v8-001",
+      "parentId": null,
+      "timestamp": "2042-01-17T21:01:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "어차피 제작자 최애가 위임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000013-v8-002",
+      "parentId": null,
+      "timestamp": "2042-01-17T21:05:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "사설랭킹에 그래프까지 넣었네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000013-v8-003",
+      "parentId": "c-2042-000013-v8-001",
+      "timestamp": "2042-01-17T21:06:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "또 줄세우기 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000013-v8-004",
+      "parentId": "c-2042-000013-v8-002",
+      "timestamp": "2042-01-17T21:09:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000013-v8-005",
+      "parentId": "c-2042-000013-v8-001",
+      "timestamp": "2042-01-17T21:11:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "내최애가 1위임 반박안받음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000013-v8-006",
+      "parentId": "c-2042-000013-v8-003",
+      "timestamp": "2042-01-17T21:15:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "비공식표에 왜이리 진심임ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -33,231 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000066-001",
+      "id": "c-2033-000066-v8-001",
       "parentId": null,
-      "timestamp": "2033-07-01T18:03:00+09:00",
+      "timestamp": "2033-07-01T17:58:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "106.250"
       },
-      "content": "오히려 A급 자체보다 조건이 뭐였는지부터 봐야됨 아무튼 조심해라",
+      "content": "이거 며칠뒤 또 싸운다",
       "deleted": false
     },
     {
-      "id": "nat-2033-000066-002",
+      "id": "c-2033-000066-v8-002",
       "parentId": null,
-      "timestamp": "2033-07-01T18:13:12+09:00",
+      "timestamp": "2033-07-01T18:02:37+09:00",
       "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
       },
-      "content": "헌갤 평균 IQ 측정 들어갑니다\n관리자도 보고 웃겠다",
+      "content": "표 디자인만 보면 국가자료임",
       "deleted": false
     },
     {
-      "id": "nat-2033-000066-003",
+      "id": "c-2033-000066-v8-003",
       "parentId": null,
-      "timestamp": "2033-07-01T18:20:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "공식 공지 뜬거 맞음? 근데 원문 보면 뉘앙스 다른 경우 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-004",
-      "parentId": "nat-2033-000066-002",
-      "timestamp": "2033-07-01T18:26:04+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "아니 같은 기사 맞음. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-005",
-      "parentId": null,
-      "timestamp": "2033-07-01T18:35:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "기사 세줄도 안읽고 댓글부터 쓰냐 ㅋㅋ 니 경험 하나가 법은 아님",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-006",
-      "parentId": null,
-      "timestamp": "2033-07-01T18:38:05+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "문제는 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 나중에 결과 보면 알겠지. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-007",
-      "parentId": "nat-2033-000066-006",
-      "timestamp": "2033-07-01T18:45:37+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "지랄하지마셈 개새끼야 ㅋㅋㅋㅋㅋ / 그 자신감은 어디서 나옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-008",
-      "parentId": "nat-2033-000066-002",
-      "timestamp": "2033-07-01T18:47:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "너무 과장한다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-009",
-      "parentId": null,
-      "timestamp": "2033-07-01T18:54:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "제일 중요한건 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 같음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-010",
-      "parentId": "nat-2033-000066-008",
-      "timestamp": "2033-07-01T18:56:46+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "댓글이 본문보다 위험등급 높음 / 관리자도 보고 웃겠다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-011",
-      "parentId": "nat-2033-000066-005",
-      "timestamp": "2033-07-01T19:04:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "그건 팀마다 다름. 댓글에서 벌써 결론 다 내린게 더 웃김.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-012",
-      "parentId": "nat-2033-000066-001",
-      "timestamp": "2033-07-01T19:06:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "글을 읽은거냐 제목만 본거냐 근데 현장가서 그렇게 말해봐라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-013",
-      "parentId": null,
-      "timestamp": "2033-07-01T19:12:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "같은 등급 안에서도 차이 큼 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-014",
-      "parentId": "nat-2033-000066-001",
-      "timestamp": "2033-07-01T19:15:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "조건 하나 빠졌잖아. 다시 읽어봐. 여기서 싸워봤자 현장 규정 안바뀜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-015",
-      "parentId": "nat-2033-000066-006",
-      "timestamp": "2033-07-01T19:22:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "그래서 결론이 뭐임 ㅋㅋ. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-016",
-      "parentId": null,
-      "timestamp": "2033-07-01T19:31:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-017",
-      "parentId": null,
-      "timestamp": "2033-07-01T19:40:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "등급표 들고 계산기 두드리는 애 또 나옴. 이쯤되면 정들겠다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-018",
-      "parentId": "nat-2033-000066-016",
-      "timestamp": "2033-07-01T19:47:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "글을 읽은거냐 제목만 본거냐 / 아무말이나 던지고 튀네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000066-019",
-      "parentId": "nat-2033-000066-005",
-      "timestamp": "2033-07-01T19:48:43+09:00",
+      "timestamp": "2033-07-01T18:04:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.101"
       },
-      "content": "글쓴이 도망갔는데 댓글끼리 3차전중\n와중에 추천은 누르고감",
+      "content": "표 하나 뜨면 바로 줄세움",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000066-v8-004",
+      "parentId": null,
+      "timestamp": "2033-07-01T18:08:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "A 평범취급은 갤에서만 가능",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000066-v8-005",
+      "parentId": null,
+      "timestamp": "2033-07-01T18:11:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "상성 변수 빼고 몇위가 뭔의미냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000066-v8-006",
+      "parentId": null,
+      "timestamp": "2033-07-01T18:13:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "팬이 만들면 답 정해져있지",
       "deleted": false
     }
   ],

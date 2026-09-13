@@ -1,0 +1,88 @@
+{
+  "id": "hg-2036-000036",
+  "displayNo": 2101960,
+  "timestamp": "2036-06-11T21:43:32+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 스텔라 영상 편집 개잘했네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.38"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 4321,
+    "recommend": 27
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000036-v8-001",
+      "parentId": null,
+      "timestamp": "2036-06-11T21:45:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "중간 이동구간 엄청 잘라냈더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000036-v8-002",
+      "parentId": null,
+      "timestamp": "2036-06-11T21:48:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "이번 편집 진짜 잘뽑았네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000036-v8-003",
+      "parentId": "c-2036-000036-v8-001",
+      "timestamp": "2036-06-11T21:51:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000036-v8-004",
+      "parentId": null,
+      "timestamp": "2036-06-11T21:54:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "풀버전도 풀어줬으면",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

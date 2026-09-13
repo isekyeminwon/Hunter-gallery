@@ -1,0 +1,88 @@
+{
+  "id": "hg-2040-000052",
+  "displayNo": 3365092,
+  "timestamp": "2040-12-18T17:12:31+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "공략권 낙찰팀 확인 어디서함? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.36"
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 17820,
+    "recommend": 136
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000052-v8-001",
+      "parentId": null,
+      "timestamp": "2040-12-18T17:15:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "공략권은 누가 들어가서 공략할 권리냐는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000052-v8-002",
+      "parentId": null,
+      "timestamp": "2040-12-18T17:17:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "권리 가진팀 아니면 그냥 들어가는 구조가 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000052-v8-003",
+      "parentId": null,
+      "timestamp": "2040-12-18T17:21:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "인건비 장비 보험 빼면 계산 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000052-v8-004",
+      "parentId": "c-2040-000052-v8-001",
+      "timestamp": "2040-12-18T17:24:55+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "싸게샀다고 무조건 이득 아님",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

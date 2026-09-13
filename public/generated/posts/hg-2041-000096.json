@@ -1,0 +1,100 @@
+{
+  "id": "hg-2041-000096",
+  "displayNo": 3876388,
+  "timestamp": "2041-03-12T13:42:34+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "F급인데 헌터 계속 하는게 맞냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.235"
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 18594,
+    "recommend": 49
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000096-v8-001",
+      "parentId": null,
+      "timestamp": "2041-03-12T13:45:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "등급 오르길 기다리면서 버티는건 비추",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000096-v8-002",
+      "parentId": null,
+      "timestamp": "2041-03-12T13:48:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "F로 전투직 먹고살기는 빡센편",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000096-v8-003",
+      "parentId": null,
+      "timestamp": "2041-03-12T13:50:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "짐꾼/지원으로 오래 하는사람은 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000096-v8-004",
+      "parentId": null,
+      "timestamp": "2041-03-12T13:52:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "좋은팀 반복해서 가면 경력은 쌓임",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000096-v8-005",
+      "parentId": null,
+      "timestamp": "2041-03-12T13:55:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "면허 땄다고 이 일만 해야되는건 아니지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

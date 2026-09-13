@@ -1,0 +1,460 @@
+{
+  "id": "hg-2038-000074",
+  "displayNo": 2681000,
+  "timestamp": "2038-08-04T16:29:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": "CHINA_SS_DISASTER",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "중국 SS게이트 하나로 길드서열 바뀐다는건 오바 아님?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "중국 SS 관련해서 방금 본거 가져옴.\n댓글에 원문 있으면 링크좀.",
+  "attachments": [],
+  "stats": {
+    "views": 172100,
+    "recommend": 1261
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000074-v8-001",
+      "parentId": null,
+      "timestamp": "2038-08-04T16:30:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "S 몇명분 이런 계산은 의미없지 않나",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-002",
+      "parentId": null,
+      "timestamp": "2038-08-04T16:33:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "기존 규격 장비로 감당 안되는 얘기 나온적 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-003",
+      "parentId": "c-2038-000074-v8-001",
+      "timestamp": "2038-08-04T16:36:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "내쪽이 이김 반박안받음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-004",
+      "parentId": null,
+      "timestamp": "2038-08-04T16:38:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "이시율 보고도 몇배냐 묻는건 무리",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-005",
+      "parentId": "c-2038-000074-v8-002",
+      "timestamp": "2038-08-04T16:40:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "상성 얘기 나오겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-006",
+      "parentId": null,
+      "timestamp": "2038-08-04T16:43:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "SS가 기존 S로 설명 안되는놈 나와서 만든거잖아",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-007",
+      "parentId": "c-2038-000074-v8-003",
+      "timestamp": "2038-08-04T16:46:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "또 싸운다ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-008",
+      "parentId": "c-2038-000074-v8-005",
+      "timestamp": "2038-08-04T16:48:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "또 싸운다ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-009",
+      "parentId": null,
+      "timestamp": "2038-08-04T16:50:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-010",
+      "parentId": null,
+      "timestamp": "2038-08-04T16:54:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-011",
+      "parentId": null,
+      "timestamp": "2038-08-04T16:56:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-012",
+      "parentId": null,
+      "timestamp": "2038-08-04T16:59:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-013",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:01:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "이쯤되면 본문 재확인 필요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-014",
+      "parentId": "c-2038-000074-v8-010",
+      "timestamp": "2038-08-04T17:03:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "또 싸운다ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-015",
+      "parentId": "c-2038-000074-v8-014",
+      "timestamp": "2038-08-04T17:07:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "내쪽이 이김 반박안받음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-016",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:10:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-017",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:14:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-018",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:16:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-019",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:18:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-020",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:22:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-021",
+      "parentId": "c-2038-000074-v8-019",
+      "timestamp": "2038-08-04T17:25:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "상성 얘기 나오겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-022",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:28:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-023",
+      "parentId": "c-2038-000074-v8-019",
+      "timestamp": "2038-08-04T17:30:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "상성 얘기 나오겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-024",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:34:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-025",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:36:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-026",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:38:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-027",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:40:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-028",
+      "parentId": "c-2038-000074-v8-027",
+      "timestamp": "2038-08-04T17:42:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-029",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:43:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-030",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:47:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-031",
+      "parentId": "c-2038-000074-v8-030",
+      "timestamp": "2038-08-04T17:51:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "상성 얘기 나오겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-032",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:54:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-033",
+      "parentId": null,
+      "timestamp": "2038-08-04T17:56:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-034",
+      "parentId": "c-2038-000074-v8-027",
+      "timestamp": "2038-08-04T17:59:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "상성 얘기 나오겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000074-v8-035",
+      "parentId": null,
+      "timestamp": "2038-08-04T18:01:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

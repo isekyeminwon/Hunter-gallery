@@ -1,0 +1,184 @@
+{
+  "id": "hg-2041-000071",
+  "displayNo": 3780206,
+  "timestamp": "2041-07-06T06:09:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "STELLA_VIDEO_PROJECT_2041",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "스텔라 영상 댓글 1만 넘었네",
+  "author": {
+    "type": "fixed",
+    "name": "현장밥차",
+    "ip": null
+  },
+  "content": "스텔라 관련해서 방금 본거 가져옴.\n오늘 이 얘기만 몇번째인지 모르겠다ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 53640,
+    "recommend": 331
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000071-v8-001",
+      "parentId": null,
+      "timestamp": "2041-07-06T06:10:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "댓글보다 영상 타임스탬프 공유하는게 낫다ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-002",
+      "parentId": null,
+      "timestamp": "2041-07-06T06:12:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "풀버전도 풀어줬으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-003",
+      "parentId": null,
+      "timestamp": "2041-07-06T06:15:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "엔딩컷 노린 티 나는데 잘나오긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-004",
+      "parentId": null,
+      "timestamp": "2041-07-06T06:18:36+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "이번 편집 진짜 잘뽑았네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-005",
+      "parentId": "c-2041-000071-v8-001",
+      "timestamp": "2041-07-06T06:20:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-006",
+      "parentId": null,
+      "timestamp": "2041-07-06T06:22:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "중간 이동구간 엄청 잘라냈더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-007",
+      "parentId": "c-2041-000071-v8-003",
+      "timestamp": "2041-07-06T06:26:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-008",
+      "parentId": "c-2041-000071-v8-002",
+      "timestamp": "2041-07-06T06:28:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "이번 편집은 진짜 잘뽑힘",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-009",
+      "parentId": null,
+      "timestamp": "2041-07-06T06:30:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "별하나 표정 짤 바로 돌겠네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-010",
+      "parentId": null,
+      "timestamp": "2041-07-06T06:32:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "{{con:kwah}}{{con:kwah}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-011",
+      "parentId": null,
+      "timestamp": "2041-07-06T06:35:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "팬아닌데 이번건 볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000071-v8-012",
+      "parentId": null,
+      "timestamp": "2041-07-06T06:36:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "촬영팀 고생한 티 남",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "hg-2042-000033",
+  "displayNo": 4011276,
+  "timestamp": "2042-03-21T06:56:23+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[정리] 렌탈장비 받을때 바로 볼거",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.62"
+  },
+  "content": "게이트 촬영장비 처음 빌리는 사람용.\n브랜드 추천은 안함.\n\n체크할거\n\n1. 게이트 내부용 장비인지\n일반 카메라랑 외형 비슷하다고 같은게 아님.\n마석 기반 특수장비인지 확인.\n\n2. 배터리\n예상 공략시간보다 여유있게.\n추가배터리 가격도 같이 봐야됨.\n\n3. 저장\n원본 파일 크기 미친 장비 있음.\n렌탈비보다 저장/백업이 귀찮을수도 있음.\n\n4. 저조도\n동굴/묘지형 자주가면 체감 큼.\n\n5. 고정방식\n촬영담당 따로 없으면 손에 들고갈 생각 하지마.\n전투/지원 동선 방해됨.\n\n6. 음성\n공략 복기용이면 화면보다 팀콜이 중요할때도 있음.\n\n그리고 편집영상은 공략자료랑 목적이 다름.\n멋있는 10분만 보고 실제 현장도 10분이라고 생각하지마라.\n\n렌탈 처음이면 비싼거부터 고르지말고\n자기 파티가 왜 촬영하는지부터 정하는게 낫다.",
+  "attachments": [],
+  "stats": {
+    "views": 36114,
+    "recommend": 57
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000033-pilot001",
+      "parentId": null,
+      "timestamp": "2042-03-21T06:57:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "버클/스트랩부터 보는거 ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000033-pilot002",
+      "parentId": null,
+      "timestamp": "2042-03-21T06:59:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "배터리 잔량만 보고 갔다가 예비 죽어있던적 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000033-pilot003",
+      "parentId": null,
+      "timestamp": "2042-03-21T07:01:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "인수할때 흠집 사진 찍어둬라. 반납할때 싸움 안남",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000033-pilot004",
+      "parentId": null,
+      "timestamp": "2042-03-21T07:04:07+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "가방 지퍼도 봐. 현장서 터지면 존나 짜증남",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000033-pilot005",
+      "parentId": null,
+      "timestamp": "2042-03-21T07:06:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "렌탈점 앞에서 5분 더쓰는게 게이트 안 50분 아낌",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000033-pilot006",
+      "parentId": null,
+      "timestamp": "2042-03-21T07:07:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "정성추",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

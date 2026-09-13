@@ -1,0 +1,76 @@
+{
+  "id": "hg-2035-000011",
+  "displayNo": 1733074,
+  "timestamp": "2035-06-22T11:15:56+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "측정결과 사본 어디서 다시뗌",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "14.32"
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 13091,
+    "recommend": 25
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000011-v8-001",
+      "parentId": null,
+      "timestamp": "2035-06-22T11:18:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "옛날 사본 찾지말고 재발급해ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000011-v8-002",
+      "parentId": null,
+      "timestamp": "2035-06-22T11:20:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "측정소나 민원쪽에서 재발급 가능할걸",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000011-v8-003",
+      "parentId": null,
+      "timestamp": "2035-06-22T11:24:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "본인인증하고 출력했던 기억남",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

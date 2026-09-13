@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000177",
+  "displayNo": 4350247,
+  "timestamp": "2042-09-17T07:13:42+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "주말에도 현장잡는사람 있음? ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "마탑첩자",
+    "ip": null
+  },
+  "content": "이거 나만 그런가",
+  "attachments": [],
+  "stats": {
+    "views": 7704,
+    "recommend": 41
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

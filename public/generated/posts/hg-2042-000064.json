@@ -1,0 +1,112 @@
+{
+  "id": "hg-2042-000064",
+  "displayNo": 4081338,
+  "timestamp": "2042-05-26T10:20:08+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드훈련에서 제일 많이 시키는 기본",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "별거 아닌데 초보때 이거 몰라서 한번 고생함.\n현장가는 사람만 참고하셈.",
+  "attachments": [],
+  "stats": {
+    "views": 13650,
+    "recommend": 33
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000064-v8-001",
+      "parentId": null,
+      "timestamp": "2042-05-26T10:21:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "처음가는사람은 이런거 봐둬",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000064-v8-002",
+      "parentId": null,
+      "timestamp": "2042-05-26T10:24:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000064-v8-003",
+      "parentId": null,
+      "timestamp": "2042-05-26T10:28:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000064-v8-004",
+      "parentId": null,
+      "timestamp": "2042-05-26T10:32:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "들어가기전에 얘기 끝내야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000064-v8-005",
+      "parentId": null,
+      "timestamp": "2042-05-26T10:35:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "우린 이거랑 좀 다르게 굴림",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000064-v8-006",
+      "parentId": null,
+      "timestamp": "2042-05-26T10:37:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "이런건 북마크해놔야됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

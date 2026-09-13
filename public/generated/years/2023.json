@@ -25,8 +25,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 4,
-    "popularityScore": 38
+    "commentCount": 0,
+    "popularityScore": 34
   },
   {
     "id": "hg-2023-000005",
@@ -112,8 +112,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 53,
-    "popularityScore": 847
+    "commentCount": 23,
+    "popularityScore": 817
   },
   {
     "id": "hg-2023-000002",
@@ -141,8 +141,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 30,
-    "popularityScore": 464
+    "commentCount": 17,
+    "popularityScore": 451
   },
   {
     "id": "hg-2023-000001",
@@ -170,7 +170,7 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 22,
-    "popularityScore": 414
+    "commentCount": 12,
+    "popularityScore": 404
   }
 ]

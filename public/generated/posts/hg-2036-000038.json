@@ -1,0 +1,328 @@
+{
+  "id": "hg-2036-000038",
+  "displayNo": 2108965,
+  "timestamp": "2036-04-19T19:21:05+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "US_SECOND_SS",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "세계 SS 출처불명 영상 주의하래",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.201"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
+  "attachments": [],
+  "stats": {
+    "views": 37350,
+    "recommend": 2152
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000038-v8-001",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:23:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "캡처말고 기사주소 없음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-002",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:25:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "현장 주변이면 우회공지부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-003",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:28:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "부상자 경상 맞음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-004",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:31:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "추가로 확인된거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-005",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:33:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "저 사진만으론 원인 모르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-006",
+      "parentId": "c-2036-000038-v8-001",
+      "timestamp": "2036-04-19T19:34:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-007",
+      "parentId": "c-2036-000038-v8-004",
+      "timestamp": "2036-04-19T19:37:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-008",
+      "parentId": "c-2036-000038-v8-002",
+      "timestamp": "2036-04-19T19:39:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-009",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:40:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "책임공방 속도는 진짜 빠르다",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-010",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:42:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-011",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:45:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-012",
+      "parentId": "c-2036-000038-v8-006",
+      "timestamp": "2036-04-19T19:49:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-013",
+      "parentId": "c-2036-000038-v8-008",
+      "timestamp": "2036-04-19T19:52:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-014",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:55:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-015",
+      "parentId": null,
+      "timestamp": "2036-04-19T19:58:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-016",
+      "parentId": null,
+      "timestamp": "2036-04-19T20:00:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "본문보다 댓글이 더길어졌네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-017",
+      "parentId": null,
+      "timestamp": "2036-04-19T20:02:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-018",
+      "parentId": null,
+      "timestamp": "2036-04-19T20:04:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-019",
+      "parentId": null,
+      "timestamp": "2036-04-19T20:08:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-020",
+      "parentId": null,
+      "timestamp": "2036-04-19T20:12:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "이걸로도 싸우네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-021",
+      "parentId": "c-2036-000038-v8-017",
+      "timestamp": "2036-04-19T20:14:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-022",
+      "parentId": null,
+      "timestamp": "2036-04-19T20:16:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-023",
+      "parentId": null,
+      "timestamp": "2036-04-19T20:17:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000038-v8-024",
+      "parentId": "c-2036-000038-v8-019",
+      "timestamp": "2036-04-19T20:20:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

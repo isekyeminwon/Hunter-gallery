@@ -1,0 +1,208 @@
+{
+  "id": "hg-2035-000037",
+  "displayNo": 1827095,
+  "timestamp": "2035-07-14T19:37:19+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "별하나 협회 기준으로는 어떻게 처리됨?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "별하나 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
+  "attachments": [],
+  "stats": {
+    "views": 69164,
+    "recommend": 162
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000037-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-14T19:39:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-14T19:42:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "이거 답 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-14T19:45:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "처음하면 헷갈릴만하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-004",
+      "parentId": "c-2035-000037-v8-001",
+      "timestamp": "2035-07-14T19:47:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이건 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-14T19:48:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "검색해도 예전얘기만 나와",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-006",
+      "parentId": "c-2035-000037-v8-003",
+      "timestamp": "2035-07-14T19:52:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-14T19:55:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "나도 예전에 이걸로 물어봤었음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-14T19:58:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-14T20:00:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-14T20:03:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-14T20:05:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "처음이면 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-14T20:08:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "별하나 얘기는 맨날 갈리네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-013",
+      "parentId": null,
+      "timestamp": "2035-07-14T20:11:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "헐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000037-v8-014",
+      "parentId": null,
+      "timestamp": "2035-07-14T20:13:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

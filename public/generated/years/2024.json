@@ -52,8 +52,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 10,
-    "popularityScore": 48
+    "commentCount": 2,
+    "popularityScore": 40
   },
   {
     "id": "hg-2024-000010",
@@ -80,8 +80,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 6,
-    "popularityScore": 14
+    "commentCount": 0,
+    "popularityScore": 8
   },
   {
     "id": "hg-2024-000009",
@@ -108,8 +108,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 3,
-    "popularityScore": 11
+    "commentCount": 0,
+    "popularityScore": 8
   },
   {
     "id": "hg-2024-000008",
@@ -136,8 +136,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 27,
-    "popularityScore": 167
+    "commentCount": 14,
+    "popularityScore": 154
   },
   {
     "id": "hg-2024-000007",
@@ -164,8 +164,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 27,
-    "popularityScore": 203
+    "commentCount": 12,
+    "popularityScore": 188
   },
   {
     "id": "hg-2024-000005",
@@ -192,8 +192,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 50,
-    "popularityScore": 794
+    "commentCount": 22,
+    "popularityScore": 766
   },
   {
     "id": "hg-2024-000006",
@@ -220,8 +220,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 57,
-    "popularityScore": 1905
+    "commentCount": 32,
+    "popularityScore": 1880
   },
   {
     "id": "hg-2024-000003",
@@ -248,8 +248,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 39,
-    "popularityScore": 357
+    "commentCount": 16,
+    "popularityScore": 334
   },
   {
     "id": "hg-2024-000004",
@@ -276,8 +276,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 43,
-    "popularityScore": 179
+    "commentCount": 25,
+    "popularityScore": 161
   },
   {
     "id": "hg-2024-000002",
@@ -304,8 +304,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 20,
-    "popularityScore": 234
+    "commentCount": 12,
+    "popularityScore": 226
   },
   {
     "id": "hg-2024-000001",
@@ -332,7 +332,7 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 32,
-    "popularityScore": 540
+    "commentCount": 16,
+    "popularityScore": 524
   }
 ]

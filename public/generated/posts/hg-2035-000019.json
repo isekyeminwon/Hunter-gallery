@@ -1,0 +1,184 @@
+{
+  "id": "hg-2035-000019",
+  "displayNo": 1761412,
+  "timestamp": "2035-07-12T23:17:55+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "스텔라 검색했다가 한시간 날림",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.201"
+  },
+  "content": "회사 단톡도 이 얘기 헌갤도 이 얘기\n도망갈데가없네",
+  "attachments": [],
+  "stats": {
+    "views": 26820,
+    "recommend": 59
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000019-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:20:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:24:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:27:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-004",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:28:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:32:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:35:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:37:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:40:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:42:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:43:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:46:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000019-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-12T23:48:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

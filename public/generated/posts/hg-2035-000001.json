@@ -1,0 +1,244 @@
+{
+  "id": "hg-2035-000001",
+  "displayNo": 1694431,
+  "timestamp": "2035-07-12T09:10:30+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "S급 회사에서도 이 얘기중ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "마석눈팅",
+    "ip": null
+  },
+  "content": "회사 단톡도 이 얘기 헌갤도 이 얘기\n도망갈데가없네",
+  "attachments": [],
+  "stats": {
+    "views": 22224,
+    "recommend": 27
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000001-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:13:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:16:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:17:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-004",
+      "parentId": "c-2035-000001-v8-001",
+      "timestamp": "2035-07-12T09:20:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:24:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:26:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:28:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:30:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:33:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-010",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:35:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:39:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "또 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-012",
+      "parentId": "c-2035-000001-v8-007",
+      "timestamp": "2035-07-12T09:41:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-013",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:44:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-014",
+      "parentId": "c-2035-000001-v8-007",
+      "timestamp": "2035-07-12T09:48:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-015",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:51:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-016",
+      "parentId": "c-2035-000001-v8-011",
+      "timestamp": "2035-07-12T09:53:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000001-v8-017",
+      "parentId": null,
+      "timestamp": "2035-07-12T09:56:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

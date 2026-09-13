@@ -1,0 +1,88 @@
+{
+  "id": "hg-2042-000102",
+  "displayNo": 4138730,
+  "timestamp": "2042-07-07T11:39:13+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "F급 짐꾼 보험 뭐드는게 나음? 아는사람",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "팀마다 말이 달라서 헷갈림.\n보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 27320,
+    "recommend": 261
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000102-v8-001",
+      "parentId": null,
+      "timestamp": "2042-07-07T11:41:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000102-v8-002",
+      "parentId": null,
+      "timestamp": "2042-07-07T11:43:07+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "보험사는 나중이고 범위가 먼저",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000102-v8-003",
+      "parentId": "c-2042-000102-v8-001",
+      "timestamp": "2042-07-07T11:46:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "보장범위가 제일 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000102-v8-004",
+      "parentId": null,
+      "timestamp": "2042-07-07T11:49:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "보험사 이름보다 보장범위가 먼저임",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -3,15 +3,16 @@ import { BoardRow } from "./BoardRow";
 import { NoticeRow } from "./NoticeRow";
 
 export function BoardTable({ rows, notices = [] }: { rows: PostIndexItem[]; notices?: PostIndexItem[] }) {
-  return <div className="board-table-wrap">
-    <table className="board-table">
-      <thead><tr>
-        <th className="col-no">번호</th><th className="col-category">말머리</th><th className="col-title">제목</th><th className="col-author">글쓴이</th><th className="col-date">작성일</th><th className="col-views">조회</th><th className="col-recommend">추천</th>
-      </tr></thead>
-      <tbody>
-        {notices.map((row) => <NoticeRow key={row.id} row={row} />)}
+  return (
+    <section className="board-feed" aria-label="게시글 목록">
+      {notices.length > 0 && (
+        <div className="pinned-feed" aria-label="고정 공지">
+          {notices.map((row) => <NoticeRow key={row.id} row={row} />)}
+        </div>
+      )}
+      <div className="thread-feed">
         {rows.map((row) => <BoardRow key={row.id} row={row} />)}
-      </tbody>
-    </table>
-  </div>;
+      </div>
+    </section>
+  );
 }

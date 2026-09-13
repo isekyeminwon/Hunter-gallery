@@ -1,0 +1,220 @@
+{
+  "id": "hg-2038-000075",
+  "displayNo": 2684134,
+  "timestamp": "2038-08-23T20:42:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "XIAO_LONG_KOREA_FOLLOWUP",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[정리] 중국 S급 공식 발표 떴다",
+  "author": {
+    "type": "fixed",
+    "name": "별빛단7기",
+    "ip": null
+  },
+  "content": "샤오룽 관련 질문 계속 올라와서 공개된 흐름만 정리.\n\n중국 SS게이트 재난 때 구조/대피 지원 영상으로 크게 알려짐.\n그 뒤 한국 체류 관련 기사들이 계속 나왔고,\n국내에서도 활동/협력하는 모습이 보이는 중.\n\n중요한 건 한국 공식 국가전력 숫자 셀 때 샤오룽을 그냥 한국 S급으로 넣는 식으로 계산하면 안된다는거.\n한국에 오래 머문다고 국적이 자동으로 바뀌는 것도 아니고\n공식 집계랑 '한국에서 볼 수 있는 S급'은 다른 얘기임.\n\n근데 헌갤은 매번\n한국 S 몇명임? → 샤오룽 넣냐? → 국적싸움\n이 루트로 감ㅋㅋ\n\n그냥 협력적인 해외 S급 장기체류자 정도로 이해하는게 제일 안헷갈림.",
+  "attachments": [],
+  "stats": {
+    "views": 141464,
+    "recommend": 556
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000075-v8-001",
+      "parentId": null,
+      "timestamp": "2038-08-23T20:45:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "아침에 저쪽 버스 다 돌아가더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-002",
+      "parentId": null,
+      "timestamp": "2038-08-23T20:46:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "도로 막은거면 입구쪽 통제 꽤 크게 잡았나보네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-003",
+      "parentId": null,
+      "timestamp": "2038-08-23T20:48:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "사고원인 기사 아직 안뜬거같은데",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-004",
+      "parentId": null,
+      "timestamp": "2038-08-23T20:52:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "근처사는 사람은 우회공지부터 봐라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-005",
+      "parentId": null,
+      "timestamp": "2038-08-23T20:55:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "협회차량 여러대 들어갔다는거 말곤 나온거 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-006",
+      "parentId": null,
+      "timestamp": "2038-08-23T20:58:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "오전까지 우회면 출근길 개막히겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-007",
+      "parentId": null,
+      "timestamp": "2038-08-23T21:02:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-008",
+      "parentId": "c-2038-000075-v8-003",
+      "timestamp": "2038-08-23T21:04:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "통제 풀리는 시간 뜨면 좀 낫겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-009",
+      "parentId": "c-2038-000075-v8-006",
+      "timestamp": "2038-08-23T21:06:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "차량 몇대 들어갔다는거 말곤 모르겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-010",
+      "parentId": null,
+      "timestamp": "2038-08-23T21:10:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-011",
+      "parentId": "c-2038-000075-v8-004",
+      "timestamp": "2038-08-23T21:12:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "근처면 우회공지부터 보는게 답",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-012",
+      "parentId": "c-2038-000075-v8-009",
+      "timestamp": "2038-08-23T21:15:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "구경하러 갈 일은 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-013",
+      "parentId": "c-2038-000075-v8-008",
+      "timestamp": "2038-08-23T21:17:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "원인기사는 아직 못봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-014",
+      "parentId": "c-2038-000075-v8-011",
+      "timestamp": "2038-08-23T21:20:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "버스 돌아가면 출근길 개판이겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000075-v8-015",
+      "parentId": null,
+      "timestamp": "2038-08-23T21:21:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

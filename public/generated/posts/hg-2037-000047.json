@@ -1,0 +1,376 @@
+{
+  "id": "hg-2037-000047",
+  "displayNo": 2365153,
+  "timestamp": "2037-03-12T06:01:02+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "GATE_VIDEO_EXPANSION",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "마석카메라 관련 추가 브리핑 나옴",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "125.180"
+  },
+  "content": "마석카메라 관련해서 방금 본거 가져옴.\n오늘 이 얘기만 몇번째인지 모르겠다ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 64190,
+    "recommend": 1889
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000047-v8-001",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:03:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "원본파일 존나 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-002",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:05:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "마운트 되는지 꼭 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-003",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:09:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "일반카메라랑 마석식은 다르게 생각해야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-004",
+      "parentId": "c-2037-000047-v8-003",
+      "timestamp": "2037-03-12T06:11:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-005",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:13:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "렌탈비보다 백업이 귀찮을때 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-006",
+      "parentId": "c-2037-000047-v8-003",
+      "timestamp": "2037-03-12T06:17:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-007",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:20:39+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "촬영담당 없으면 손에 들고찍는건 비추",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-008",
+      "parentId": "c-2037-000047-v8-003",
+      "timestamp": "2037-03-12T06:23:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-009",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:26:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-010",
+      "parentId": "c-2037-000047-v8-007",
+      "timestamp": "2037-03-12T06:28:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-011",
+      "parentId": "c-2037-000047-v8-005",
+      "timestamp": "2037-03-12T06:32:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-012",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:35:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-013",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:39:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-014",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:41:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-015",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:45:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-016",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:46:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-017",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:50:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-018",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:54:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-019",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:57:30+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-020",
+      "parentId": null,
+      "timestamp": "2037-03-12T06:58:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-021",
+      "parentId": null,
+      "timestamp": "2037-03-12T07:01:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-022",
+      "parentId": null,
+      "timestamp": "2037-03-12T07:03:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-023",
+      "parentId": null,
+      "timestamp": "2037-03-12T07:06:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-024",
+      "parentId": null,
+      "timestamp": "2037-03-12T07:08:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-025",
+      "parentId": null,
+      "timestamp": "2037-03-12T07:10:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "다른사람은 어땠음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-026",
+      "parentId": "c-2037-000047-v8-023",
+      "timestamp": "2037-03-12T07:13:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-027",
+      "parentId": null,
+      "timestamp": "2037-03-12T07:16:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000047-v8-028",
+      "parentId": "c-2037-000047-v8-025",
+      "timestamp": "2037-03-12T07:19:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

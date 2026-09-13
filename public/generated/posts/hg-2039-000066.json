@@ -1,0 +1,76 @@
+{
+  "id": "hg-2039-000066",
+  "displayNo": 3145625,
+  "timestamp": "2039-01-06T23:47:06+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[정보] 다친사람 장비 누가 들지 미리 정해놔라",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "61.79"
+  },
+  "content": "마석 정산 때문에 파티 두번 깨지는거 보고 내가 쓰는 방식 공유.\n\n입장 전\n- 고정수당 있는 사람 체크\n- 회수품 배분비율 적기\n- 특별보상 따로 처리할지 합의\n- 장비수리비를 공용비용으로 보는지 확인\n\n현장\n- 회수한 시간/위치 대충 기록\n- 누가 개인가방에 임시보관했으면 바로 표시\n- 파손되거나 못가져오는건 사진 남김\n\n복귀 후\n- 매입가 확정 전 예상금액으로 싸우지 않음\n- 거래수수료/운반비 먼저 빼고 배분\n- 정산표 단톡에 올리고 이의받음\n- 송금내역 남김\n\n이렇게까지 해야되냐 싶은데\n돈 얘기 시작하면 친한사람도 갑자기 기억이 달라짐ㅋㅋ\n\n구두합의는 진짜 추천 안함.",
+  "attachments": [],
+  "stats": {
+    "views": 16998,
+    "recommend": 23
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000066-v8-001",
+      "parentId": null,
+      "timestamp": "2039-01-06T23:50:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000066-v8-002",
+      "parentId": null,
+      "timestamp": "2039-01-06T23:53:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "당일도 있고 며칠뒤도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000066-v8-003",
+      "parentId": "c-2039-000066-v8-001",
+      "timestamp": "2039-01-06T23:57:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "매입가 확정뒤 보내는팀도 있음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

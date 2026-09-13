@@ -1,0 +1,88 @@
+{
+  "id": "hg-2042-000061",
+  "displayNo": 4121275,
+  "timestamp": "2042-06-27T17:57:19+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "게이트 카메라 대여비 시세 얼마임",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "계약 전에 물어볼거 정리중.",
+  "attachments": [],
+  "stats": {
+    "views": 8592,
+    "recommend": 85
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000061-v8-001",
+      "parentId": null,
+      "timestamp": "2042-06-27T17:59:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "촬영담당 없으면 손에 들고찍는건 비추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000061-v8-002",
+      "parentId": null,
+      "timestamp": "2042-06-27T18:02:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "렌탈비보다 백업이 귀찮을때 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000061-v8-003",
+      "parentId": null,
+      "timestamp": "2042-06-27T18:04:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "원본파일 존나 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000061-v8-004",
+      "parentId": null,
+      "timestamp": "2042-06-27T18:06:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "일반카메라랑 마석식은 다르게 생각해야됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

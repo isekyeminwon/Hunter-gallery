@@ -1,0 +1,184 @@
+{
+  "id": "hg-2041-000081",
+  "displayNo": 3819189,
+  "timestamp": "2041-04-13T01:01:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "JOINT_TRAINING_2041",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "오늘 협회쪽 사람들 다 훈련장갔나",
+  "author": {
+    "type": "fixed",
+    "name": "협회노예",
+    "ip": null
+  },
+  "content": "기사 하나 읽었는데 추천글 다 이거임ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 31390,
+    "recommend": 197
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000081-v8-001",
+      "parentId": null,
+      "timestamp": "2041-04-13T01:02:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-002",
+      "parentId": null,
+      "timestamp": "2041-04-13T01:06:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-003",
+      "parentId": null,
+      "timestamp": "2041-04-13T01:08:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-004",
+      "parentId": "c-2041-000081-v8-002",
+      "timestamp": "2041-04-13T01:11:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-005",
+      "parentId": "c-2041-000081-v8-003",
+      "timestamp": "2041-04-13T01:14:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-006",
+      "parentId": null,
+      "timestamp": "2041-04-13T01:17:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "자라",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-007",
+      "parentId": null,
+      "timestamp": "2041-04-13T01:19:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "뭔데",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-008",
+      "parentId": null,
+      "timestamp": "2041-04-13T01:22:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-009",
+      "parentId": null,
+      "timestamp": "2041-04-13T01:26:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-010",
+      "parentId": null,
+      "timestamp": "2041-04-13T01:29:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-011",
+      "parentId": "c-2041-000081-v8-006",
+      "timestamp": "2041-04-13T01:32:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000081-v8-012",
+      "parentId": null,
+      "timestamp": "2041-04-13T01:35:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

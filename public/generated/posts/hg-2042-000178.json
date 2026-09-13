@@ -1,0 +1,136 @@
+{
+  "id": "hg-2042-000178",
+  "displayNo": 4351520,
+  "timestamp": "2042-09-17T07:24:30+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[정리] 강제소집 거부하면 정확히 어케됨?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "124.53"
+  },
+  "content": "부정등록이 단순히 '겸손하게 낮게 적는거'가 아닌 이유.\n\n등급은 그냥 커뮤 명함이 아니라\n게이트 출입, 안전기준, 파티구성, 보험, 긴급대응에서 실제 기준으로 쓰임.\n\n진짜 전력이 높은 사람이 낮은 등급으로 숨어버리면\n\n- 낮은 위험도 게이트에 예상 밖 전력이 들어감\n- 범죄 저질렀을때 수사기관이 처음부터 잘못된 위험도로 대응할 수 있음\n- 긴급동원/등록관리 체계에서 빠지려는 의심을 받음\n- 파티원이나 고용주가 계약 판단을 잘못함\n\n그래서 업계에서 인식이 나쁨.\n\n물론 측정 오류나 서류갱신 지연이랑\n고의로 전력을 숨기는건 같은 얘기가 아님.\n\n커뮤에서 누구 하나 수상하다고 바로 부정등록자 확정하는것도 하지마라.\n그건 협회가 조사할 일임.",
+  "attachments": [],
+  "stats": {
+    "views": 4022,
+    "recommend": 40
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000178-pilot001",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:25:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "'무조건 징역 몇년' 이런 댓글부터 거르면 됨. 상황이랑 명령 형태 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000178-pilot002",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:26:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "그럼 처벌 기준이 공개 안됨?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000178-pilot003",
+      "parentId": "c-2042-000178-pilot002",
+      "timestamp": "2042-09-17T07:27:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "법조항은 있는데 실제 적용을 숫자 하나로 말할수 없다는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000178-pilot004",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:27:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "정당한 사유 있으면 예외도 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000178-pilot005",
+      "parentId": "c-2042-000178-pilot004",
+      "timestamp": "2042-09-17T07:28:27+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "그건 당연히 개별판단 들어감. 다친사람까지 끌고갈순 없잖아",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000178-pilot006",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:29:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "커뮤에서 벌금 얼마라고 확정하던데",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000178-pilot007",
+      "parentId": "c-2042-000178-pilot006",
+      "timestamp": "2042-09-17T07:29:56+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "출처 물어보면 사라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000178-pilot008",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:30:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

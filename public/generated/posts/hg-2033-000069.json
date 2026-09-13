@@ -33,99 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2033-000069-001",
+      "id": "c-2033-000069-v8-001",
       "parentId": null,
-      "timestamp": "2033-10-19T11:18:19+09:00",
+      "timestamp": "2033-10-19T11:13:46+09:00",
       "author": {
         "type": "fixed",
-        "name": "틀헌터",
+        "name": "계약서읽자",
         "ip": null
       },
-      "content": "이런날 카더라가 공식보다 세배 빨리 돎. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "content": "오전안에 풀리면 다행이고",
       "deleted": false
     },
     {
-      "id": "nat-2033-000069-002",
+      "id": "c-2033-000069-v8-002",
       "parentId": null,
-      "timestamp": "2033-10-19T11:21:59+09:00",
+      "timestamp": "2033-10-19T11:17:04+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
       },
-      "content": "내 장비 배송 아직도 안옴 근데 갑자기 생각나서 적음",
+      "content": "근처면 그냥 우회하는게 답",
       "deleted": false
     },
     {
-      "id": "nat-2033-000069-003",
-      "parentId": "nat-2033-000069-001",
-      "timestamp": "2033-10-19T11:22:46+09:00",
+      "id": "c-2033-000069-v8-003",
+      "parentId": null,
+      "timestamp": "2033-10-19T11:19:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "통제 풀리는 시간 나온거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000069-v8-004",
+      "parentId": "c-2033-000069-v8-003",
+      "timestamp": "2033-10-19T11:23:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "124.53"
       },
-      "content": "C급 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
+      "content": "안내방송부터 듣는게 낫지",
       "deleted": false
     },
     {
-      "id": "nat-2033-000069-004",
-      "parentId": "nat-2033-000069-002",
-      "timestamp": "2033-10-19T11:27:23+09:00",
+      "id": "c-2033-000069-v8-005",
+      "parentId": "c-2033-000069-v8-004",
+      "timestamp": "2033-10-19T11:24:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "175.223"
       },
-      "content": "이런 글에서 안싸우면 헌갤 망함. 한 사례 가지고 전체 룰처럼 말하는 건 좀 위험함.",
+      "content": "현장사진 찍으러 갈건 아니고",
       "deleted": false
     },
     {
-      "id": "nat-2033-000069-005",
+      "id": "c-2033-000069-v8-006",
       "parentId": null,
-      "timestamp": "2033-10-19T11:31:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "모르면 가만히라도 있어라 ㅋㅋ 말을 해도 꼭 저렇게 함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000069-006",
-      "parentId": null,
-      "timestamp": "2033-10-19T11:35:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "예전에 처음 갔을땐 나도. 별거 아닌 실수가 제일 오래감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000069-007",
-      "parentId": null,
-      "timestamp": "2033-10-19T11:40:44+09:00",
+      "timestamp": "2033-10-19T11:27:25+09:00",
       "author": {
         "type": "fixed",
-        "name": "백호복지팀",
+        "name": "계약서읽자",
         "ip": null
       },
-      "content": "작년에 비슷한 조건으로 한번 갔는데 ㅋㅋ 우리는 바로 철수 얘기부터 꺼냄",
-      "deleted": false
-    },
-    {
-      "id": "nat-2033-000069-008",
-      "parentId": null,
-      "timestamp": "2033-10-19T11:42:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "에반데",
+      "content": "현장 구경간다고 차끌고 가는놈 없지?",
       "deleted": false
     }
   ],

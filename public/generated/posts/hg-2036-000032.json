@@ -1,0 +1,100 @@
+{
+  "id": "hg-2036-000032",
+  "displayNo": 2087492,
+  "timestamp": "2036-03-22T18:14:01+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "내일 B급 짐꾼 1명 구함",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.235"
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 11350,
+    "recommend": 64
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000032-v8-001",
+      "parentId": null,
+      "timestamp": "2036-03-22T18:17:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "짐꾼인데 전투보조까지 당연하게 시키는팀 거름",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000032-v8-002",
+      "parentId": null,
+      "timestamp": "2036-03-22T18:20:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "짐무게 미리 안말해주는팀 피곤함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000032-v8-003",
+      "parentId": "c-2036-000032-v8-002",
+      "timestamp": "2036-03-22T18:23:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "짐꾼인데 전투시키려는팀은 거름",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000032-v8-004",
+      "parentId": null,
+      "timestamp": "2036-03-22T18:26:48+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "일당보다 보험/시간/짐무게부터",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000032-v8-005",
+      "parentId": "c-2036-000032-v8-002",
+      "timestamp": "2036-03-22T18:30:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "팀 후기 한번 보고가",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

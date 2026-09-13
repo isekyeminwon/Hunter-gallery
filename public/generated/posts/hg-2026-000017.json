@@ -31,68 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "nat-2026-000017-001",
-      "parentId": null,
-      "timestamp": "2026-12-13T17:14:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "왜 이런글이 정보글보다 댓글 잘달림ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000017-002",
-      "parentId": null,
-      "timestamp": "2026-12-13T17:18:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "내 폰 배터리 3퍼다. 작성자 책임져라 시간 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000017-003",
-      "parentId": null,
-      "timestamp": "2026-12-13T17:27:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "작년에 비슷한 조건으로 한번 갔는데 ㅋㅋ 괜히 싸게 하려다 돈 더들었음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000017-004",
-      "parentId": null,
-      "timestamp": "2026-12-13T17:34:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "댓글 구경하러 왔다\n이 커뮤는 새벽에도 똑같네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000017-005",
-      "parentId": null,
-      "timestamp": "2026-12-13T17:42:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "이런 쓸데없는 글이 은근 오래 살아남음",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

@@ -1,0 +1,256 @@
+{
+  "id": "hg-2042-000029",
+  "displayNo": 4037128,
+  "timestamp": "2042-04-12T18:29:19+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[후기] 묘지형 냄새/분진 보호구 후기 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "F급 짐꾼 오래하면서 느낀거 적어봄.\n전투헌터 기준으로 보면 F가 애매한 등급인건 맞는데\n짐꾼/지원으로 먹고사는 길 자체가 없는건 아님.\n\n내가 일 고를때 보는 순서\n\n1. 보험\n일당보다 먼저 봄. 고등급 현장 갈수록 더 중요함.\n\n2. 팀\n처음 가는 팀이면 예전 구인글, 정산후기, 사고글 한번 검색함.\n\n3. 짐\n'가벼움' 믿지말고 대충 몇 kg인지 물어봄.\n공용장비까지 현장에서 얹는 팀 있음.\n\n4. 시간\n게이트 안에 있는 시간만 적는건지\n집결~해산까지인지 확인.\n\n5. 정산\n당일인지, 공략완료 후 며칠인지.\n추가회수품 성과금 있는지도 들어가기 전에 물어봄.\n\n좋은 팀은 이런 질문한다고 안짜증냄.\n오히려 먼저 설명해줌.\n\nF라고 무조건 현장 접을 필요는 없는데\n'언젠간 등급 오르겠지' 같은 기대만으로 버티는건 추천 안함.\n내 등급에서 할수있는 역할을 찾는게 현실적임.",
+  "attachments": [],
+  "stats": {
+    "views": 20177,
+    "recommend": 65
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000029-v8-001",
+      "parentId": null,
+      "timestamp": "2042-04-12T18:32:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "개인거 있어도 팀보험은 따로 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-002",
+      "parentId": null,
+      "timestamp": "2042-04-12T18:36:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-003",
+      "parentId": null,
+      "timestamp": "2042-04-12T18:39:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "현장등급 제한 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-004",
+      "parentId": "c-2042-000029-v8-003",
+      "timestamp": "2042-04-12T18:42:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-005",
+      "parentId": "c-2042-000029-v8-002",
+      "timestamp": "2042-04-12T18:44:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-006",
+      "parentId": null,
+      "timestamp": "2042-04-12T18:46:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "회사명보다 뭘 보장하는지가 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-007",
+      "parentId": "c-2042-000029-v8-002",
+      "timestamp": "2042-04-12T18:49:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-008",
+      "parentId": null,
+      "timestamp": "2042-04-12T18:51:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-009",
+      "parentId": "c-2042-000029-v8-005",
+      "timestamp": "2042-04-12T18:53:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-010",
+      "parentId": null,
+      "timestamp": "2042-04-12T18:56:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "또 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-011",
+      "parentId": "c-2042-000029-v8-010",
+      "timestamp": "2042-04-12T18:58:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "보장범위가 제일 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-012",
+      "parentId": "c-2042-000029-v8-006",
+      "timestamp": "2042-04-12T19:00:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-013",
+      "parentId": null,
+      "timestamp": "2042-04-12T19:04:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-014",
+      "parentId": "c-2042-000029-v8-007",
+      "timestamp": "2042-04-12T19:06:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-015",
+      "parentId": null,
+      "timestamp": "2042-04-12T19:09:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-016",
+      "parentId": null,
+      "timestamp": "2042-04-12T19:12:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-017",
+      "parentId": null,
+      "timestamp": "2042-04-12T19:15:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000029-v8-018",
+      "parentId": null,
+      "timestamp": "2042-04-12T19:17:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "hg-2039-000024",
+  "displayNo": 2965534,
+  "timestamp": "2039-05-19T13:17:00+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "EAST_SEA_PORT_ACCIDENT",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "동해항 뉴스영상 편집본 조회수 뭐냐",
+  "author": {
+    "type": "fixed",
+    "name": "현장밥차",
+    "ip": null
+  },
+  "content": "동해항 관련해서 방금 본거 가져옴.\n기사마다 표현이 좀 달라서 확인된 것만 보는게 맞을듯.",
+  "attachments": [],
+  "stats": {
+    "views": 70412,
+    "recommend": 515
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000024-v8-001",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:20:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "사고원인 뜨기전에 길드탓부터 하던거 기억남",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-002",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:24:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "영상 한각도만 보고 판단하기 힘든 현장임",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-003",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:26:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "항만쪽은 차량/물자동선까지 섞여서 복잡함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-004",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:29:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "지원팀 붙으면 평소 파티콜로 안되는 순간 생김",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-005",
+      "parentId": "c-2039-000024-v8-001",
+      "timestamp": "2039-05-19T13:31:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "원본 어디임",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-006",
+      "parentId": "c-2039-000024-v8-003",
+      "timestamp": "2039-05-19T13:33:40+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "풀버전 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-007",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:35:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-008",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:38:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-009",
+      "parentId": "c-2039-000024-v8-003",
+      "timestamp": "2039-05-19T13:42:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "편집 잘했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-010",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:44:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-011",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:47:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-012",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:50:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000024-v8-013",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:53:13+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "그건 좀",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

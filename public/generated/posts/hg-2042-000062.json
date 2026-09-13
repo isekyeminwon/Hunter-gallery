@@ -1,0 +1,160 @@
+{
+  "id": "hg-2042-000062",
+  "displayNo": 4089085,
+  "timestamp": "2042-05-28T17:12:14+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "A급 누구 백호 이적설 실화냐",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "아침부터 캡처 하나 돌던데 원출처가 없음.\n계약금 숫자까지 써있어서 더 구라같은데\n기자발 나온거 있음?",
+  "attachments": [],
+  "stats": {
+    "views": 30341,
+    "recommend": 244
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000062-v8-001",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:16:11+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "스텔라는 대중노출 감수해야할듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-v8-002",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:19:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "선택권 있는척 하지마ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-v8-003",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:22:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "장비지원 후기는 백호가 제일 자주보임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-v8-004",
+      "parentId": "c-2042-000062-v8-003",
+      "timestamp": "2042-05-28T17:24:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "취업이면 복지/교육도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-v8-005",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:26:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "일단 셋다 붙고 고민하자ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-v8-006",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:27:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "마법계면 선택지에서 네뷸라 못빼지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-v8-007",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:30:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "길드 전투순위로 직장 고르는건 좀ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-v8-008",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:34:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-v8-009",
+      "parentId": "c-2042-000062-v8-005",
+      "timestamp": "2042-05-28T17:38:04+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "마법계면 네뷸라가 끌릴만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-v8-010",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:41:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

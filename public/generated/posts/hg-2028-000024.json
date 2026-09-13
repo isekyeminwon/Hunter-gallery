@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2028-000024-001",
+      "id": "c-2028-000024-v8-001",
       "parentId": null,
-      "timestamp": "2028-04-08T14:33:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "뇌피셜을 왜 사실처럼 씀 / 한번만 더 생각하고 써봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000024-002",
-      "parentId": null,
-      "timestamp": "2028-04-08T14:35:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "법 얘기는 댓글 믿지말고 공지 원문 봐라 제발 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000024-003",
-      "parentId": null,
-      "timestamp": "2028-04-08T14:45:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "법 얘기는 댓글 믿지말고 공지 원문 봐라 제발 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000024-004",
-      "parentId": "nat-2028-000024-001",
-      "timestamp": "2028-04-08T14:48:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "애매하면 안하는게 맞음. 여기서 싸워봤자 현장 규정 안바뀜.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000024-005",
-      "parentId": "nat-2028-000024-001",
-      "timestamp": "2028-04-08T14:54:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "너 기사 잘못본듯. 이런건 날짜 확인 안하면 옛날 정보 섞임.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000024-006",
-      "parentId": "nat-2028-000024-004",
-      "timestamp": "2028-04-08T15:02:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "니 말대로면 앞댓글이랑 충돌함. 내말 틀림?. 댓글만 보면 협회 직원이 스무명임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000024-007",
-      "parentId": null,
-      "timestamp": "2028-04-08T15:09:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "니 말이 맞으면 협회가 왜 있겠냐. 반박은 내용으로 해라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000024-008",
-      "parentId": null,
-      "timestamp": "2028-04-08T15:11:55+09:00",
+      "timestamp": "2028-04-08T14:33:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.102"
       },
-      "content": "등급표 들고 계산기 두드리는 애 또 나옴\n이쯤되면 정들겠다",
+      "content": "난 저 부탁 받으면 바로 거절함",
       "deleted": false
     },
     {
-      "id": "nat-2028-000024-009",
+      "id": "c-2028-000024-v8-002",
       "parentId": null,
-      "timestamp": "2028-04-08T15:12:34+09:00",
+      "timestamp": "2028-04-08T14:35:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "59.5"
       },
-      "content": "글쓴이 그 뒤에 후기 없음?\n댓글 싸우지말고 답만좀",
+      "content": "친구라고 서류 대신 넣어주는건 선넘음",
       "deleted": false
     },
     {
-      "id": "nat-2028-000024-010",
-      "parentId": "nat-2028-000024-009",
-      "timestamp": "2028-04-08T15:19:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "뭔 자신감으로 확정짓냐 ㅋㅋ 니 경험 하나가 법은 아님",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000024-011",
-      "parentId": "nat-2028-000024-007",
-      "timestamp": "2028-04-08T15:29:11+09:00",
+      "id": "c-2028-000024-v8-003",
+      "parentId": null,
+      "timestamp": "2028-04-08T14:38:15+09:00",
       "author": {
         "type": "fixed",
-        "name": "계약서읽자",
+        "name": "마석눈팅",
         "ip": null
       },
-      "content": "댓글 다읽은 내가 제일 병신임 근데 누가 메뉴 하나만 골라줘",
+      "content": "공략권은 명의만 빌려주고 끝나는 문제가 아님",
       "deleted": false
     },
     {
-      "id": "nat-2028-000024-012",
-      "parentId": "nat-2028-000024-003",
-      "timestamp": "2028-04-08T15:39:29+09:00",
+      "id": "c-2028-000024-v8-004",
+      "parentId": null,
+      "timestamp": "2028-04-08T14:40:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "106.102"
       },
-      "content": "니 말대로면 앞댓글이랑 충돌함. 다시 읽어봐. 본문보다 대댓글이 더 길어질 각이다.",
+      "content": "실제 운영팀이랑 권리자 다르면 걸릴만하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000024-v8-005",
+      "parentId": "c-2028-000024-v8-004",
+      "timestamp": "2028-04-08T14:44:17+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "괜히 남의팀 일에 이름 올리지마",
       "deleted": false
     }
   ],

@@ -1,0 +1,220 @@
+{
+  "id": "hg-2035-000071",
+  "displayNo": 1962514,
+  "timestamp": "2035-07-16T22:24:45+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": "STELLA_GROWTH",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "별하나 때문에 또 순위표 갈아엎겠네ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "61.79"
+  },
+  "content": "별하나 관련해서 방금 본거 가져옴.\n댓글에 원문 있으면 링크좀.",
+  "attachments": [],
+  "stats": {
+    "views": 29416,
+    "recommend": 35
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000071-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:27:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "표 하나 뜨면 바로 줄세움",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:30:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "별하나 최근 실적부터 가져와봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-003",
+      "parentId": "c-2035-000071-v8-001",
+      "timestamp": "2035-07-16T22:31:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "비공식표에 왜이리 진심임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-004",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:33:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "내표 만들면 순위 다바뀜",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:36:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "상성충 나오면 이제 밤샘",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:39:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "이 떡밥은 안죽네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-007",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:42:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "내용은 갈드컵인데 양식은 논문임",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-008",
+      "parentId": "c-2035-000071-v8-007",
+      "timestamp": "2035-07-16T22:44:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "상성 넣으면 또 표 갈아야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-009",
+      "parentId": "c-2035-000071-v8-008",
+      "timestamp": "2035-07-16T22:47:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "최근 실적도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-010",
+      "parentId": "c-2035-000071-v8-006",
+      "timestamp": "2035-07-16T22:50:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "내최애가 1위임 반박안받음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:51:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "A 평범취급은 갤에서만 가능",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:54:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "별하나 팬들 오면 이글 끝남ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-013",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:56:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "별하나 지금 바로 몇위 박는건 좀 웃김",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-014",
+      "parentId": null,
+      "timestamp": "2035-07-16T22:59:31+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000071-v8-015",
+      "parentId": null,
+      "timestamp": "2035-07-16T23:03:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000159",
+  "displayNo": 4308253,
+  "timestamp": "2042-09-17T00:42:08+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "이채린 네뷸라 영상 요즘 안나오냐 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "마탑첩자",
+    "ip": null
+  },
+  "content": "팬아닌데 이건 볼만하네.",
+  "attachments": [],
+  "stats": {
+    "views": 5287,
+    "recommend": 48
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000159-v8-001",
+      "parentId": null,
+      "timestamp": "2042-09-17T00:44:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "돌아다니는 짤 몇개 작년 합동영상임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000159-v8-002",
+      "parentId": null,
+      "timestamp": "2042-09-17T00:47:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "네뷸라 공식채널 은근 자료 많음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "hg-2038-000106",
+  "displayNo": 2807813,
+  "timestamp": "2038-04-06T18:27:23+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "네뷸라 연구영상 은근 재밌다 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.36"
+  },
+  "content": "그냥 궁금해서 물어봄\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 22131,
+    "recommend": 90
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000106-v8-001",
+      "parentId": null,
+      "timestamp": "2038-04-06T18:28:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이채린 단독은 요즘 좀 뜸한편",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000106-v8-002",
+      "parentId": null,
+      "timestamp": "2038-04-06T18:30:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "짤만 돌면 원본 찾기 빡셈",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000106-v8-003",
+      "parentId": null,
+      "timestamp": "2038-04-06T18:32:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "김채연 영상은 광역장면에서 조회수 터짐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

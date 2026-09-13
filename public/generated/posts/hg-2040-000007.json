@@ -1,0 +1,100 @@
+{
+  "id": "hg-2040-000007",
+  "displayNo": 3190124,
+  "timestamp": "2040-06-02T07:09:22+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "F급인데 헌터 계속 하는게 맞냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "1.239"
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 20728,
+    "recommend": 88
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000007-v8-001",
+      "parentId": null,
+      "timestamp": "2040-06-02T07:11:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "면허 땄다고 이 일만 해야되는건 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000007-v8-002",
+      "parentId": null,
+      "timestamp": "2040-06-02T07:14:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "짐꾼/지원으로 오래 하는사람은 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000007-v8-003",
+      "parentId": "c-2040-000007-v8-002",
+      "timestamp": "2040-06-02T07:16:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000007-v8-004",
+      "parentId": "c-2040-000007-v8-001",
+      "timestamp": "2040-06-02T07:18:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000007-v8-005",
+      "parentId": "c-2040-000007-v8-001",
+      "timestamp": "2040-06-02T07:22:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "이건 물어볼만함",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

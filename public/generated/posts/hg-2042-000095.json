@@ -1,0 +1,112 @@
+{
+  "id": "hg-2042-000095",
+  "displayNo": 4145147,
+  "timestamp": "2042-07-09T23:07:33+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "스텔라 영상팀 또 일냈네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.41"
+  },
+  "content": "알고리즘에 떠서 봄ㅋㅋ\n댓글이 더재밌다.",
+  "attachments": [],
+  "stats": {
+    "views": 17585,
+    "recommend": 112
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000095-v8-001",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:09:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "별하나 표정 짤 바로 돌겠네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-v8-002",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:12:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "보스방 들어갈때 음악 끊는거 좋았음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-v8-003",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:15:01+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "촬영팀 고생한 티 남",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-v8-004",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:16:21+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "{{con:kwah}}{{con:kwah}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-v8-005",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:19:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "중간 이동구간 엄청 잘라냈더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-v8-006",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:22:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "풀버전도 풀어줬으면",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "hg-2040-000011",
+  "displayNo": 3205528,
+  "timestamp": "2040-11-05T21:12:45+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석 회수할때 장갑 아끼지마셈",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "59.10"
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 12865,
+    "recommend": 89
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000011-v8-001",
+      "parentId": null,
+      "timestamp": "2040-11-05T21:16:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000011-v8-002",
+      "parentId": null,
+      "timestamp": "2040-11-05T21:18:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "다음 현장전에 한번 더봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000011-v8-003",
+      "parentId": null,
+      "timestamp": "2040-11-05T21:20:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "당해보면 왜 적었는지 앎",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000011-v8-004",
+      "parentId": null,
+      "timestamp": "2040-11-05T21:23:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "우리쪽은 방식이 살짝 다름",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000011-v8-005",
+      "parentId": null,
+      "timestamp": "2040-11-05T21:26:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "이런게 실제로 도움됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

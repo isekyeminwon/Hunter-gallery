@@ -33,627 +33,267 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2027-000002-001",
+      "id": "c-2027-000002-v8-001",
       "parentId": null,
-      "timestamp": "2027-02-15T12:59:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "본인등판 없냐 팝콘 다먹음 / ㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-002",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:02:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "각성 안하면 꽝 취급하는 분위기는 지금봐도 별로임 ㅋㅋ 확인 안된 얘기가 너무 빨리 돌았음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-003",
-      "parentId": "nat-2027-000002-002",
-      "timestamp": "2027-02-15T13:04:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "한줄에 이렇게 긁힐 일임? ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-004",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:05:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "현장 보조 몇번 해봤는데 근데 입구부터 꼬여서 하루 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-005",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:06:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "댓글 구경하러 왔다 근데 아무튼 난 밥먹으러감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-006",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:06:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이 글 보다가 라면 불었다\n왜 이런글에 댓글이 더 많냐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-007",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:08:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "댓글 하나에 왜 이렇게 긁힘 근데 그건 니 파티 얘기고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-008",
-      "parentId": "nat-2027-000002-002",
-      "timestamp": "2027-02-15T13:09:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "그 경우랑 이 경우는 다름. 내말 틀림?",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-009",
-      "parentId": "nat-2027-000002-006",
-      "timestamp": "2027-02-15T13:11:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "니가 틀림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-010",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:11:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "예전에 처음 갔을땐 나도. 막상 가면 매뉴얼 찾게 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-011",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:12:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "재검하면 인생역전할줄 아는 사람 매년 나옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-012",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:15:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "이거 보험 처리도 똑같음?\n초보라 감이 안옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-013",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:16:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "지금은 확인된거 별로 없으니 기다리는게 맞음 / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-014",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:17:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "그냥 내 생각인데 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 그냥 그렇다고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-015",
-      "parentId": "nat-2027-000002-005",
-      "timestamp": "2027-02-15T13:19:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "측정 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-016",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:20:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "제발 실종 사망 이런건 확정 전에 단정하지마. 근데 글쓴이 말투 때문에 더 싸우는 것도 있음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-017",
-      "parentId": "nat-2027-000002-015",
-      "timestamp": "2027-02-15T13:23:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "오늘 비오는데 장비 말리기 개귀찮음. 갑자기 생각나서 적음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-018",
-      "parentId": "nat-2027-000002-016",
-      "timestamp": "2027-02-15T13:23:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "조건 하나 빠졌잖아. 내말 틀림?",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-019",
-      "parentId": "nat-2027-000002-003",
-      "timestamp": "2027-02-15T13:24:13+09:00",
+      "timestamp": "2027-02-15T13:00:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "112.171"
       },
-      "content": "어디서부터 꼬인거냐 이 대화. 진짜.",
+      "content": "브리핑 더나왔음?",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-020",
+      "id": "c-2027-000002-v8-002",
       "parentId": null,
-      "timestamp": "2027-02-15T13:25:05+09:00",
+      "timestamp": "2027-02-15T13:03:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "106.250"
       },
-      "content": "뇌피셜을 왜 사실처럼 씀 근데 그건 니 파티 얘기고",
+      "content": "책임공방 속도는 진짜 빠르다",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-021",
+      "id": "c-2027-000002-v8-003",
       "parentId": null,
-      "timestamp": "2027-02-15T13:25:41+09:00",
+      "timestamp": "2027-02-15T13:05:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.109"
+        "ip": "118.41"
       },
-      "content": "재검하면 인생역전할줄 아는 사람 매년 나옴\n지금 보면 웃긴데 당시엔 진지했겠지",
+      "content": "통제중이면 근처사람은 안내부터 들어",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-022",
-      "parentId": "nat-2027-000002-020",
-      "timestamp": "2027-02-15T13:26:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "진짜 헛소리도 당당하게 하네 ㅋㅋ 그래서 근거가 뭔데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-023",
+      "id": "c-2027-000002-v8-004",
       "parentId": null,
-      "timestamp": "2027-02-15T13:27:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "아는 형이 장비팀이라 물어봤었는데 인터넷에서 말하는거랑 체감 꽤 다름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-024",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:28:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "한명만 더 화내면 개념글 확정 ㅋㅋ ㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-025",
-      "parentId": "nat-2027-000002-021",
-      "timestamp": "2027-02-15T13:30:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "측정 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-026",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:32:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "검사 안받으면 어쩌냐는 질문 하루에 열개씩 올라왔음. 작성자도 뒤에 정정했으면 좋았을듯",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-027",
-      "parentId": "nat-2027-000002-021",
-      "timestamp": "2027-02-15T13:32:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "",
-      "deleted": true
-    },
-    {
-      "id": "nat-2027-000002-028",
-      "parentId": "nat-2027-000002-014",
-      "timestamp": "2027-02-15T13:35:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "검사 안받으면 어쩌냐는 질문 하루에 열개씩 올라왔음\n지금 보면 웃긴데 당시엔 진지했겠지",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-029",
-      "parentId": "nat-2027-000002-013",
-      "timestamp": "2027-02-15T13:35:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "본인등판 없냐 팝콘 다먹음 / 오늘도 평화롭다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-030",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:37:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이 글 읽고 장비점 사장 싱글벙글\n오늘도 평화롭다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-031",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:38:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "내 폰 배터리 3퍼다 근데 이 커뮤는 새벽에도 똑같네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-032",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:41:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "좆문가 또 왔네 / 그만 싸워 둘다 시끄러움",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-033",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:43:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "최근 기준 달라진거 있음? ㅋㅋ 진짜 궁금해서 물음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-034",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:44:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "검색해도 안나오는데 어디서 봄 근데 공식이면 금방 다시 뜰테니 기다리면 됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-035",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:46:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이 글 보다가 라면 불었다. 퇴근이나 시켜줘",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-036",
-      "parentId": "nat-2027-000002-034",
-      "timestamp": "2027-02-15T13:47:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "읽었는데 니 해석이 더 이상함. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-037",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:49:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "제발 실종 사망 이런건 확정 전에 단정하지마 / 아님말고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-038",
-      "parentId": "nat-2027-000002-023",
-      "timestamp": "2027-02-15T13:51:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "그건 좀 아닌듯. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-039",
-      "parentId": "nat-2027-000002-034",
-      "timestamp": "2027-02-15T13:52:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "아니 시발 뭔 결론이 그렇게 감. 그만 싸워 둘다 시끄러움",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-040",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:53:39+09:00",
+      "timestamp": "2027-02-15T13:07:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.102"
       },
-      "content": "초보가 제일 먼저 확인할거 뭐임? / 이거만 확인하고싶음",
+      "content": "부상자 경상 맞음?",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-041",
+      "id": "c-2027-000002-v8-005",
       "parentId": null,
-      "timestamp": "2027-02-15T13:55:15+09:00",
+      "timestamp": "2027-02-15T13:11:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.109"
+        "ip": "106.250"
       },
-      "content": "짤만 던지지 말고 원본 좀. 그거 어제 올라온 가짜랑 비슷한데",
+      "content": "원기사 보고싶은데",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-042",
-      "parentId": "nat-2027-000002-021",
-      "timestamp": "2027-02-15T13:57:22+09:00",
+      "id": "c-2027-000002-v8-006",
+      "parentId": "c-2027-000002-v8-003",
+      "timestamp": "2027-02-15T13:13:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "106.102"
       },
-      "content": "그건 별개 문제지. 다시 읽어봐",
+      "content": "추가기사 뜬거 있음?",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-043",
+      "id": "c-2027-000002-v8-007",
       "parentId": null,
-      "timestamp": "2027-02-15T13:59:53+09:00",
+      "timestamp": "2027-02-15T13:17:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "182.214"
       },
-      "content": "미쳤네",
+      "content": "저 사진만으론 원인 모르지",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-044",
+      "id": "c-2027-000002-v8-008",
       "parentId": null,
-      "timestamp": "2027-02-15T14:00:53+09:00",
+      "timestamp": "2027-02-15T13:21:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "118.41"
       },
-      "content": "확인된 내용만 적어줘 / 오늘 카더라 너무 많이 돎",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-045",
+      "id": "c-2027-000002-v8-009",
+      "parentId": "c-2027-000002-v8-007",
+      "timestamp": "2027-02-15T13:23:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000002-v8-010",
+      "parentId": "c-2027-000002-v8-003",
+      "timestamp": "2027-02-15T13:24:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000002-v8-011",
+      "parentId": "c-2027-000002-v8-006",
+      "timestamp": "2027-02-15T13:27:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000002-v8-012",
+      "parentId": "c-2027-000002-v8-009",
+      "timestamp": "2027-02-15T13:30:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000002-v8-013",
+      "parentId": "c-2027-000002-v8-006",
+      "timestamp": "2027-02-15T13:34:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000002-v8-014",
       "parentId": null,
-      "timestamp": "2027-02-15T14:03:28+09:00",
+      "timestamp": "2027-02-15T13:38:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "182.214"
       },
-      "content": "동기 하나가 저거 때문에 한동안 고생했는데 근데 별거 아닌 실수가 제일 오래감",
+      "content": "이건 처음듣네",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-046",
+      "id": "c-2027-000002-v8-015",
+      "parentId": "c-2027-000002-v8-014",
+      "timestamp": "2027-02-15T13:41:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000002-v8-016",
+      "parentId": "c-2027-000002-v8-013",
+      "timestamp": "2027-02-15T13:45:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000002-v8-017",
       "parentId": null,
-      "timestamp": "2027-02-15T14:03:57+09:00",
+      "timestamp": "2027-02-15T13:47:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "112.171"
       },
-      "content": "측정 관련해서 협회에 물어본 사람? ㅋㅋ 초보라 감이 안옴",
+      "content": "ㅋㅋㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-f01",
+      "id": "c-2027-000002-v8-018",
+      "parentId": "c-2027-000002-v8-013",
+      "timestamp": "2027-02-15T13:51:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000002-v8-019",
       "parentId": null,
-      "timestamp": "2042-07-10T20:43:10+09:00",
+      "timestamp": "2027-02-15T13:53:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.109"
+        "ip": "118.41"
       },
-      "content": "옛날 IP들 다 화석같다",
+      "content": "현장사진으로 원인까지 맞추진 말자",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-f02",
+      "id": "c-2027-000002-v8-020",
       "parentId": null,
-      "timestamp": "2042-07-10T20:46:41+09:00",
+      "timestamp": "2027-02-15T13:55:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "106.250"
       },
-      "content": "측정 검색하다가 여기까지 내려옴",
+      "content": "비슷하게 해본놈 더없냐",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-f03",
-      "parentId": "nat-2027-000002-f01",
-      "timestamp": "2042-07-10T20:48:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "발자국",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-f04",
+      "id": "c-2027-000002-v8-021",
       "parentId": null,
-      "timestamp": "2042-07-10T21:02:16+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "{{con:hello}}",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000002-f05",
-      "parentId": "nat-2027-000002-010",
-      "timestamp": "2042-07-10T21:10:04+09:00",
+      "timestamp": "2027-02-15T13:59:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "182.214"
       },
-      "content": "{{con:hello}}",
+      "content": "원글보다 대댓글이 길어졌네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "nat-2027-000002-f06",
-      "parentId": null,
-      "timestamp": "2042-07-10T21:21:53+09:00",
+      "id": "c-2027-000002-v8-022",
+      "parentId": "c-2027-000002-v8-016",
+      "timestamp": "2027-02-15T14:01:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "118.41"
       },
-      "content": "날짜 안보고 댓글 읽다가 중간에 눈치챔",
+      "content": "다친사람 별일없었으면",
       "deleted": false
     }
   ],

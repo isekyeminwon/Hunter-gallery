@@ -1,0 +1,124 @@
+{
+  "id": "hg-2042-000022",
+  "displayNo": 3955865,
+  "timestamp": "2042-01-23T22:13:03+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "게이트 들어가기전 10분 브리핑 내용",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "121.163"
+  },
+  "content": "최근 세번 해보고 체감온거 적음.\n한두번은 우연일수도 있음.",
+  "attachments": [],
+  "stats": {
+    "views": 17366,
+    "recommend": 119
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000022-v8-001",
+      "parentId": null,
+      "timestamp": "2042-01-23T22:15:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "한번 데이면 다음부턴 자동으로 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000022-v8-002",
+      "parentId": null,
+      "timestamp": "2042-01-23T22:16:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "초보는 이런글이 더 필요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000022-v8-003",
+      "parentId": null,
+      "timestamp": "2042-01-23T22:19:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000022-v8-004",
+      "parentId": null,
+      "timestamp": "2042-01-23T22:21:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "내가 가는팀은 반대로함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000022-v8-005",
+      "parentId": null,
+      "timestamp": "2042-01-23T22:24:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "안에서 정하려면 늦음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000022-v8-006",
+      "parentId": null,
+      "timestamp": "2042-01-23T22:26:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "체크할때 다시본다",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000022-v8-007",
+      "parentId": "c-2042-000022-v8-004",
+      "timestamp": "2042-01-23T22:28:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

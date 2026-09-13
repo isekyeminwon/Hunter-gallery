@@ -1,0 +1,64 @@
+{
+  "id": "hg-2038-000102",
+  "displayNo": 2790752,
+  "timestamp": "2038-03-24T09:42:44+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "협회·법·범죄",
+  "displayCategory": "협회",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "헌터 개인정보 어디까지 공개되는거임? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.62"
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 5298,
+    "recommend": 38
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000102-v8-001",
+      "parentId": null,
+      "timestamp": "2038-03-24T09:45:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "요즘도 그 조항 그대로야?",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000102-v8-002",
+      "parentId": null,
+      "timestamp": "2038-03-24T09:47:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "애매하면 신상은 올리지마",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

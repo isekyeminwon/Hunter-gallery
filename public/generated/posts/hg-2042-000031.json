@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000031",
+  "displayNo": 4017809,
+  "timestamp": "2042-03-22T19:40:01+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "저등급 게이트도 보험 따로 봄?",
+  "author": {
+    "type": "fixed",
+    "name": "짐꾼3년차",
+    "ip": null
+  },
+  "content": "검색해도 옛날글만 나와서 물어봄.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 26948,
+    "recommend": 146
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000031-pilot001",
+      "parentId": null,
+      "timestamp": "2042-03-22T19:41:15+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "봄. 저등급=사고없음이 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000031-pilot002",
+      "parentId": null,
+      "timestamp": "2042-03-22T19:44:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "F/C급도?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000031-pilot003",
+      "parentId": "c-2042-000031-pilot002",
+      "timestamp": "2042-03-22T19:45:52+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "현장 들어가면 확인하는게 낫지. 구인조건에 포함인지부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000031-pilot004",
+      "parentId": null,
+      "timestamp": "2042-03-22T19:50:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "강원건 이후로 다들 더 예민해진 느낌",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000031-pilot005",
+      "parentId": null,
+      "timestamp": "2042-03-22T19:53:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "예민한게 나음. 돈 몇푼보다 낫지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

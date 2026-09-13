@@ -33,183 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2027-000021-001",
+      "id": "c-2027-000021-v8-001",
       "parentId": null,
-      "timestamp": "2027-12-11T18:16:48+09:00",
+      "timestamp": "2027-12-11T18:19:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "121.163"
       },
-      "content": "이런거 볼때마다 현장 하나 보고 업계 전체 결론내는건 너무 감 난 저렇게는 안봄. 조건 하나만 달라도 얘기 완전 달라짐.",
+      "content": "정성추",
       "deleted": false
     },
     {
-      "id": "nat-2027-000021-002",
+      "id": "c-2027-000021-v8-002",
       "parentId": null,
-      "timestamp": "2027-12-11T18:22:03+09:00",
+      "timestamp": "2027-12-11T18:21:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "121.163"
       },
-      "content": "실제 계약서에는 뭐라고 적힘?. 옛날 기준 말고 지금 기준으로",
+      "content": "체크리스트로 저장해둔다",
       "deleted": false
     },
     {
-      "id": "nat-2027-000021-003",
-      "parentId": "nat-2027-000021-002",
-      "timestamp": "2027-12-11T18:31:49+09:00",
+      "id": "c-2027-000021-v8-003",
+      "parentId": null,
+      "timestamp": "2027-12-11T18:25:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "121.140"
       },
-      "content": "댓글 잘못 단거 아님?. 진짜.",
+      "content": "입장전에 맞춰두는게 낫지",
       "deleted": false
     },
     {
-      "id": "nat-2027-000021-004",
+      "id": "c-2027-000021-v8-004",
       "parentId": null,
-      "timestamp": "2027-12-11T18:40:34+09:00",
+      "timestamp": "2027-12-11T18:28:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "121.163"
       },
-      "content": "개인적으로 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 나중에 결과 보면 알겠지",
+      "content": "우린 저부분만 다르게함",
       "deleted": false
     },
     {
-      "id": "nat-2027-000021-005",
+      "id": "c-2027-000021-v8-005",
       "parentId": null,
-      "timestamp": "2027-12-11T18:50:07+09:00",
+      "timestamp": "2027-12-11T18:30:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.235"
       },
-      "content": "내 폰 배터리 3퍼다 근데 작성자 책임져라 시간 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-006",
-      "parentId": null,
-      "timestamp": "2027-12-11T18:54:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "정산은 들어가기 전에 기준 정해라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-007",
-      "parentId": null,
-      "timestamp": "2027-12-11T18:59:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "후기글은 이런 자잘한 얘기가 제일 도움됨 / 아님말고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-008",
-      "parentId": "nat-2027-000021-004",
-      "timestamp": "2027-12-11T19:06:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "현장 얘기하는데 왜 갑자기 딴소리함 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-009",
-      "parentId": null,
-      "timestamp": "2027-12-11T19:16:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "뭐 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 그냥 그렇다고. 왜 이런 글만 뜨면 전문가가 증식하냐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-010",
-      "parentId": null,
-      "timestamp": "2027-12-11T19:25:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "예전에 처음 갔을땐 나도 가족들은 뉴스만 떠도 전화부터 옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-011",
-      "parentId": "nat-2027-000021-007",
-      "timestamp": "2027-12-11T19:35:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "아 배고파. 작성자 책임져라 시간 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-012",
-      "parentId": null,
-      "timestamp": "2027-12-11T19:38:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "내가 보기엔 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 난 저렇게는 안봄. 어차피 내일 되면 새 글 또 올라옴.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-013",
-      "parentId": "nat-2027-000021-007",
-      "timestamp": "2027-12-11T19:45:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "그건 팀마다 다름. 어차피 내일 되면 새 글 또 올라옴.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-014",
-      "parentId": null,
-      "timestamp": "2027-12-11T19:53:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "문제는 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 반박시 니말맞음. 인터넷 말보다 계약서 한줄이 더 셈.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000021-015",
-      "parentId": null,
-      "timestamp": "2027-12-11T19:57:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "정산은 들어가기 전에 기준 정해라 ㅋㅋ 근데 이해는 감",
+      "content": "이런건 한번 당하면 안까먹음",
       "deleted": false
     }
   ],

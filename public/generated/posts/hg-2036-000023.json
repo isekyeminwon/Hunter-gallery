@@ -1,0 +1,136 @@
+{
+  "id": "hg-2036-000023",
+  "displayNo": 2052091,
+  "timestamp": "2036-10-12T16:02:13+09:00",
+  "year": 2036,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "뉴비 데리고 갈때 하지말아야 할거 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 11774,
+    "recommend": 86
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2036-000023-v8-001",
+      "parentId": null,
+      "timestamp": "2036-10-12T16:05:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "이건 경험값 한번 내면 기억남",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000023-v8-002",
+      "parentId": null,
+      "timestamp": "2036-10-12T16:07:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "들어가기전에 얘기 끝내야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000023-v8-003",
+      "parentId": null,
+      "timestamp": "2036-10-12T16:10:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "내가 가는팀은 반대로함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000023-v8-004",
+      "parentId": "c-2036-000023-v8-001",
+      "timestamp": "2036-10-12T16:13:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000023-v8-005",
+      "parentId": null,
+      "timestamp": "2036-10-12T16:15:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000023-v8-006",
+      "parentId": "c-2036-000023-v8-005",
+      "timestamp": "2036-10-12T16:18:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000023-v8-007",
+      "parentId": null,
+      "timestamp": "2036-10-12T16:21:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000023-v8-008",
+      "parentId": null,
+      "timestamp": "2036-10-12T16:23:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "이런게 실제로 도움됨",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

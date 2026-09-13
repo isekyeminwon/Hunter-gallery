@@ -1,0 +1,196 @@
+{
+  "id": "hg-2038-000090",
+  "displayNo": 2749130,
+  "timestamp": "2038-08-25T19:00:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": "XIAO_LONG_KOREA_FOLLOWUP",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "구조영상 이거 정확히 뭐가 확정임?",
+  "author": {
+    "type": "fixed",
+    "name": "계약서읽자",
+    "ip": null
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
+  "attachments": [],
+  "stats": {
+    "views": 95232,
+    "recommend": 528
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000090-v8-001",
+      "parentId": null,
+      "timestamp": "2038-08-25T19:03:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이건 나도 모르겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-002",
+      "parentId": null,
+      "timestamp": "2038-08-25T19:06:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "찾아보면 몇년전 글만 뜸",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-003",
+      "parentId": "c-2038-000090-v8-002",
+      "timestamp": "2038-08-25T19:08:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "이건 물어볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-004",
+      "parentId": null,
+      "timestamp": "2038-08-25T19:10:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "처음할때 여기서 한번 막힘",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-005",
+      "parentId": null,
+      "timestamp": "2038-08-25T19:12:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-006",
+      "parentId": null,
+      "timestamp": "2038-08-25T19:15:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "처음하면 헷갈릴만하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-007",
+      "parentId": null,
+      "timestamp": "2038-08-25T19:19:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-008",
+      "parentId": null,
+      "timestamp": "2038-08-25T19:23:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-009",
+      "parentId": null,
+      "timestamp": "2038-08-25T19:26:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-010",
+      "parentId": "c-2038-000090-v8-003",
+      "timestamp": "2038-08-25T19:29:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "최근기준 아는사람?",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-011",
+      "parentId": "c-2038-000090-v8-005",
+      "timestamp": "2038-08-25T19:33:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-012",
+      "parentId": "c-2038-000090-v8-006",
+      "timestamp": "2038-08-25T19:36:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000090-v8-013",
+      "parentId": null,
+      "timestamp": "2038-08-25T19:39:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "난 반대",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

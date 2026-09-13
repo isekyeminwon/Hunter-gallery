@@ -1,0 +1,88 @@
+{
+  "id": "hg-2042-000109",
+  "displayNo": 4200517,
+  "timestamp": "2042-08-18T09:44:43+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "렌탈장비 받을때 바로 볼거 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "현장밥차",
+    "ip": null
+  },
+  "content": "최근 세번 해보고 체감온거 적음.\n한두번은 우연일수도 있음.",
+  "attachments": [],
+  "stats": {
+    "views": 30116,
+    "recommend": 116
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000109-v8-001",
+      "parentId": null,
+      "timestamp": "2042-08-18T09:46:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "입구에서 5분 보는게 낫다",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000109-v8-002",
+      "parentId": null,
+      "timestamp": "2042-08-18T09:49:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "반납때 싸우기싫으면 상태 기록해둬",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000109-v8-003",
+      "parentId": null,
+      "timestamp": "2042-08-18T09:52:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "예비배터리도 실제로 켜봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000109-v8-004",
+      "parentId": "c-2042-000109-v8-002",
+      "timestamp": "2042-08-18T09:54:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "입구에서 한번 더보는게 낫지",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

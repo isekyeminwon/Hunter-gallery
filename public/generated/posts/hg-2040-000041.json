@@ -1,0 +1,100 @@
+{
+  "id": "hg-2040-000041",
+  "displayNo": 3327337,
+  "timestamp": "2040-02-05T10:37:47+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "신입 파티원 들어오면 첫날 체크하는거",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 12661,
+    "recommend": 101
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000041-v8-001",
+      "parentId": null,
+      "timestamp": "2040-02-05T10:39:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "초보는 이런글이 더 필요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000041-v8-002",
+      "parentId": null,
+      "timestamp": "2040-02-05T10:41:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이건 경험값 한번 내면 기억남",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000041-v8-003",
+      "parentId": "c-2040-000041-v8-001",
+      "timestamp": "2040-02-05T10:45:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000041-v8-004",
+      "parentId": null,
+      "timestamp": "2040-02-05T10:48:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "체크할때 다시본다",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000041-v8-005",
+      "parentId": null,
+      "timestamp": "2040-02-05T10:51:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "팀마다 이부분은 좀 갈리더라",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

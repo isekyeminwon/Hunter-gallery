@@ -1,0 +1,39 @@
+{
+  "id": "hg-2035-000034",
+  "displayNo": 1817215,
+  "timestamp": "2035-07-13T01:04:06+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "별하나 관련 사진 이거 올려도됨?",
+  "author": {
+    "type": "fixed",
+    "name": "마탑첩자",
+    "ip": null
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 53328,
+    "recommend": 210
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "AUTHOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

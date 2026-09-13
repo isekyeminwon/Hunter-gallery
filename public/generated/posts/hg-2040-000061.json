@@ -1,0 +1,76 @@
+{
+  "id": "hg-2040-000061",
+  "displayNo": 3399419,
+  "timestamp": "2040-09-24T09:08:19+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 고장 로그 적기 시작하고 좋은점 질문",
+  "author": {
+    "type": "fixed",
+    "name": "계약서읽자",
+    "ip": null
+  },
+  "content": "오늘 현장에서 얘기 나왔는데 팀마다 말이 다르더라.\n실제로는 보통 어떻게 함?",
+  "attachments": [],
+  "stats": {
+    "views": 3894,
+    "recommend": 18
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000061-v8-001",
+      "parentId": null,
+      "timestamp": "2040-09-24T09:11:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "반납때 싸우기싫으면 상태 기록해둬",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000061-v8-002",
+      "parentId": null,
+      "timestamp": "2040-09-24T09:14:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "입구에서 5분 보는게 낫다",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000061-v8-003",
+      "parentId": "c-2040-000061-v8-002",
+      "timestamp": "2040-09-24T09:18:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "버클 하나 나가면 현장서 존나짜증남",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "id": "hg-2038-000038",
+  "displayNo": 2558211,
+  "timestamp": "2038-08-03T18:09:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "CHINA_SS_DISASTER",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "[정보] 이계화 안전교육 내용 추가됐다네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "182.214"
+  },
+  "content": "지원쪽 시점도 한번 적어봄.\n\n출발 전 체크\n- 인원별 개인가방 무게 기록\n- 공용물자 누가 들고가는지 고정\n- 소비한 물자는 중간중간 체크\n- 회수품 가방이랑 개인가방 섞지 않기\n- 부상자 나오면 누가 장비 버리고 사람 붙을지 미리 정하기\n\n현장에서는 전투 끝나고부터 일이 몰림.\n앞줄은 지쳐있고 뒤쪽은 정리해야되고 시간은 계속 감.\n이때 '아무나 들면 되지' 식으로 하면 꼭 하나 사라짐.\n\n짐꾼 처음 쓰는 파티면 일당 몇십 아끼려고 경험자 거르지 마라.\n길 알고 짐 정리할 줄 아는 사람 하나 있으면 체감 엄청 큼.\n\n공격력 얘기는 다른 사람들이 잘하니까 난 이쪽만 적음.",
+  "attachments": [],
+  "stats": {
+    "views": 201947,
+    "recommend": 975
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000038-v8-001",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:12:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "이건 사전에 맞춰놔야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-002",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:14:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "우리쪽은 방식이 살짝 다름",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-003",
+      "parentId": "c-2038-000038-v8-001",
+      "timestamp": "2038-08-03T18:16:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-004",
+      "parentId": "c-2038-000038-v8-002",
+      "timestamp": "2038-08-03T18:18:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-005",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:20:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-006",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:22:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이거 저장해둠",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-007",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:24:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "이건 경험값 한번 내면 기억남",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-008",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:27:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-009",
+      "parentId": "c-2038-000038-v8-008",
+      "timestamp": "2038-08-03T18:31:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-010",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:34:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "화려한 공략보다 이게 초보한텐 나음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-011",
+      "parentId": "c-2038-000038-v8-005",
+      "timestamp": "2038-08-03T18:37:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-012",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:38:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-013",
+      "parentId": "c-2038-000038-v8-008",
+      "timestamp": "2038-08-03T18:40:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-014",
+      "parentId": "c-2038-000038-v8-013",
+      "timestamp": "2038-08-03T18:43:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-015",
+      "parentId": "c-2038-000038-v8-009",
+      "timestamp": "2038-08-03T18:46:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-016",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:50:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "우리팀은 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-017",
+      "parentId": "c-2038-000038-v8-010",
+      "timestamp": "2038-08-03T18:53:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-018",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:57:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-019",
+      "parentId": "c-2038-000038-v8-016",
+      "timestamp": "2038-08-03T18:59:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-020",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:01:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-021",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:04:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-022",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:05:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-023",
+      "parentId": "c-2038-000038-v8-020",
+      "timestamp": "2038-08-03T19:08:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-024",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:11:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-025",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:15:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "뉴비한텐 이런글이 더 도움됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-026",
+      "parentId": "c-2038-000038-v8-022",
+      "timestamp": "2038-08-03T19:17:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-027",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:20:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-028",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:23:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "입장전에 맞춰두는게 낫지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-029",
+      "parentId": "c-2038-000038-v8-022",
+      "timestamp": "2038-08-03T19:26:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-030",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:29:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "이런건 한번 당하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-031",
+      "parentId": "c-2038-000038-v8-028",
+      "timestamp": "2038-08-03T19:32:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-032",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:34:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-033",
+      "parentId": "c-2038-000038-v8-028",
+      "timestamp": "2038-08-03T19:36:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-034",
+      "parentId": "c-2038-000038-v8-029",
+      "timestamp": "2038-08-03T19:39:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000038-v8-035",
+      "parentId": null,
+      "timestamp": "2038-08-03T19:43:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "비슷하게 해본놈 더없냐",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

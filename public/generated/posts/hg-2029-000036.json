@@ -33,171 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2029-000036-001",
+      "id": "c-2029-000036-v8-001",
       "parentId": null,
-      "timestamp": "2029-01-09T03:47:16+09:00",
+      "timestamp": "2029-01-09T03:41:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "118.221"
       },
-      "content": "출처가 뭐임 / 오늘 카더라 너무 많이 돎",
+      "content": "최신기준도 같음?",
       "deleted": false
     },
     {
-      "id": "nat-2029-000036-002",
+      "id": "c-2029-000036-v8-002",
       "parentId": null,
-      "timestamp": "2029-01-09T03:51:19+09:00",
+      "timestamp": "2029-01-09T03:43:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "124.53"
       },
-      "content": "이거 보험 처리도 똑같음? / 댓글 싸우지말고 답만좀",
+      "content": "이건 최신 공지 봐야됨",
       "deleted": false
     },
     {
-      "id": "nat-2029-000036-003",
+      "id": "c-2029-000036-v8-003",
       "parentId": null,
-      "timestamp": "2029-01-09T03:58:57+09:00",
+      "timestamp": "2029-01-09T03:46:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "118.221"
       },
-      "content": "아니 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 이건 좀 더 봐야됨. 진짜 필요한 사람은 댓글 말고 공지부터 봐라.",
+      "content": "규정이랑 관행은 또 다를수 있음",
       "deleted": false
     },
     {
-      "id": "nat-2029-000036-004",
+      "id": "c-2029-000036-v8-004",
       "parentId": null,
-      "timestamp": "2029-01-09T04:06:59+09:00",
+      "timestamp": "2029-01-09T03:49:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "124.53"
       },
-      "content": "오히려 이 규정는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 존나 웃김",
+      "content": "명의 빌려주는건 괜히 엮이지마",
       "deleted": false
     },
     {
-      "id": "nat-2029-000036-005",
+      "id": "c-2029-000036-v8-005",
       "parentId": null,
-      "timestamp": "2029-01-09T04:08:10+09:00",
+      "timestamp": "2029-01-09T03:51:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.250"
       },
-      "content": "오늘 비오는데 장비 말리기 개귀찮음 근데 왜 이런글에 댓글이 더 많냐",
+      "content": "신고해본사람 있음?",
       "deleted": false
     },
     {
-      "id": "nat-2029-000036-006",
+      "id": "c-2029-000036-v8-006",
       "parentId": null,
-      "timestamp": "2029-01-09T04:17:44+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "확인된 내용만 적어줘 근데 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000036-007",
-      "parentId": null,
-      "timestamp": "2029-01-09T04:19:47+09:00",
+      "timestamp": "2029-01-09T03:53:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.250"
       },
-      "content": "그래서 저녁 추천좀 근데 작성자 책임져라 시간 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000036-008",
-      "parentId": null,
-      "timestamp": "2029-01-09T04:26:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "가능하냐랑 해도 되냐는 다른 얘기임 ㅋㅋ 이래서 댓글보는 맛은 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000036-009",
-      "parentId": null,
-      "timestamp": "2029-01-09T04:35:23+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "법 얘기는 댓글 믿지말고 공지 원문 봐라 제발. 댓글 분위기만 보면 이미 재판 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000036-010",
-      "parentId": null,
-      "timestamp": "2029-01-09T04:44:35+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000036-011",
-      "parentId": null,
-      "timestamp": "2029-01-09T04:51:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "작년에 비슷한 조건으로 한번 갔는데 ㅋㅋ 사람마다 말 다른 이유는 알겠더라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000036-012",
-      "parentId": "nat-2029-000036-005",
-      "timestamp": "2029-01-09T04:57:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000036-013",
-      "parentId": null,
-      "timestamp": "2029-01-09T05:02:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "누가 여기다 국회 열었냐. 제발 계속해",
-      "deleted": false
-    },
-    {
-      "id": "nat-2029-000036-014",
-      "parentId": null,
-      "timestamp": "2029-01-09T05:04:29+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "작년에 비슷한 조건으로 한번 갔는데 그때 이후로 무조건 두번 확인함",
+      "content": "애매하면 신상은 올리지마",
       "deleted": false
     }
   ],

@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000008",
+  "displayNo": 3989261,
+  "timestamp": "2042-02-26T01:24:36+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "강주아 광고 새거 나옴",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "58.29"
+  },
+  "content": "팬아닌데 이건 볼만하네.",
+  "attachments": [],
+  "stats": {
+    "views": 13314,
+    "recommend": 9
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000008-v8-001",
+      "parentId": null,
+      "timestamp": "2042-02-26T01:28:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "백호 광고팀 일한다ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000008-v8-002",
+      "parentId": null,
+      "timestamp": "2042-02-26T01:31:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "강주아 광고 또 찍었네ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

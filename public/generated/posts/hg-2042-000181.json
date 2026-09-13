@@ -1,0 +1,136 @@
+{
+  "id": "hg-2042-000181",
+  "displayNo": 4355297,
+  "timestamp": "2042-09-17T07:58:17+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "이채린 네뷸라 영상 요즘 안나오냐 아는사람",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "220.79"
+  },
+  "content": "원본링크 있는사람?\n짤만 계속 돌아다님.",
+  "attachments": [],
+  "stats": {
+    "views": 8246,
+    "recommend": 4
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000181-pilot001",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:58:56+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "단독은 요즘 거의 안나옴. 지난달 합동훈련 클립에 잠깐 나온게 최신일걸",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000181-pilot002",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:59:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "돌아다니는 짤 그거 작년 영상 아님?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000181-pilot003",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:00:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "ㅇㅇ 머리 묶은 장면 말하는거면 작년거",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000181-pilot004",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:01:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "아 씨 최신인줄 알았네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000181-pilot005",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:01:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "네뷸라 공채널에서 이채린 검색하고 업로드순 보면 금방 나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000181-pilot006",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:02:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "링크좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000181-pilot007",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:03:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "주소는 못박겠고 제목에 합동훈련 들어간거. 썸네일 김채연임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000181-pilot008",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:04:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "찾음 ㄳ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

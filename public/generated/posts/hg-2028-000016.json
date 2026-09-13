@@ -33,27 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2028-000016-001",
+      "id": "c-2028-000016-v8-001",
       "parentId": null,
-      "timestamp": "2028-07-06T15:36:16+09:00",
+      "timestamp": "2028-07-06T15:33:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "211.201"
       },
-      "content": "원문 어디냐 근데 링크 없으면 일단 반만 믿음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2028-000016-002",
-      "parentId": null,
-      "timestamp": "2028-07-06T15:40:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "대충 봐도 작성자 말도 이해는 가는데 저렇게 단정하면 싸움남 이건 좀 더 봐야됨",
+      "content": "ㅋㅋ",
       "deleted": false
     }
   ],

@@ -1,0 +1,208 @@
+{
+  "id": "hg-2037-000060",
+  "displayNo": 2416171,
+  "timestamp": "2037-07-14T22:58:45+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "A급 TOP10 또 바뀌었네ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "124.53"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 15447,
+    "recommend": 126
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000060-v8-001",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:02:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "또 누구 위아래 싸움이냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-002",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:04:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "S SS 보다보니 A를 우습게봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-003",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:06:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "능력상성 넣는순간 표 다시만들어야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-004",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:10:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "한달뒤에도 똑같은글 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-005",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:11:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "내표 만들면 순위 다바뀜",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-006",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:14:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "표 디자인만 보면 국가자료임",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-007",
+      "parentId": "c-2037-000060-v8-002",
+      "timestamp": "2037-07-14T23:17:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "최근 실적도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-008",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:21:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-009",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:25:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-010",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:28:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-011",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:31:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-012",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:35:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-013",
+      "parentId": "c-2037-000060-v8-007",
+      "timestamp": "2037-07-14T23:37:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "내최애가 1위임 반박안받음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000060-v8-014",
+      "parentId": null,
+      "timestamp": "2037-07-14T23:40:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

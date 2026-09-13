@@ -1,0 +1,64 @@
+{
+  "id": "hg-2037-000022",
+  "displayNo": 2268044,
+  "timestamp": "2037-10-13T22:03:26+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 장비 세척하다 현타옴 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "현장밥차",
+    "ip": null
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 13981,
+    "recommend": 85
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000022-v8-001",
+      "parentId": null,
+      "timestamp": "2037-10-13T22:06:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "새거라고 멀쩡한거 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000022-v8-002",
+      "parentId": null,
+      "timestamp": "2037-10-13T22:09:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "반납때 싸우기싫으면 상태 기록해둬",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

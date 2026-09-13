@@ -33,183 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2027-000024-001",
+      "id": "c-2027-000024-v8-001",
       "parentId": null,
-      "timestamp": "2027-05-20T17:35:53+09:00",
+      "timestamp": "2027-05-20T17:38:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "121.140"
       },
-      "content": "지금 나온 것만 보면 한명 경험담을 전체 룰로 만드는게 제일 위험함 아닌가",
+      "content": "애매하면 신상은 올리지마",
       "deleted": false
     },
     {
-      "id": "nat-2027-000024-002",
+      "id": "c-2027-000024-v8-002",
       "parentId": null,
-      "timestamp": "2027-05-20T17:45:06+09:00",
+      "timestamp": "2027-05-20T17:41:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.33"
       },
-      "content": "댓글 믿고 움직였다가 걸리면 아무도 책임 안짐. 왜 이런 글만 뜨면 전문가가 증식하냐.",
+      "content": "명의 빌려주는건 괜히 엮이지마",
       "deleted": false
     },
     {
-      "id": "nat-2027-000024-003",
+      "id": "c-2027-000024-v8-003",
       "parentId": null,
-      "timestamp": "2027-05-20T17:52:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "댓글 믿고 움직였다가 걸리면 아무도 책임 안짐 / 내생각은 그럼",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-004",
-      "parentId": "nat-2027-000024-003",
-      "timestamp": "2027-05-20T17:58:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "글쓴이 도망갔는데 댓글끼리 3차전중. 팝콘 부족함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-005",
-      "parentId": null,
-      "timestamp": "2027-05-20T18:06:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "협회 욕은 해도 이런건 협회에 묻는게 제일 정확함 ㅋㅋ 이래서 댓글보는 맛은 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-006",
-      "parentId": null,
-      "timestamp": "2027-05-20T18:07:16+09:00",
+      "timestamp": "2027-05-20T17:45:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "1.239"
       },
-      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면 입구부터 꼬여서 하루 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-007",
-      "parentId": null,
-      "timestamp": "2027-05-20T18:10:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "애매하면 안하는게 맞음. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-008",
-      "parentId": "nat-2027-000024-006",
-      "timestamp": "2027-05-20T18:14:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "웃긴게 협회 하나 보고 업계 전체 결론내는건 너무 감 아무튼 조심해라",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-009",
-      "parentId": null,
-      "timestamp": "2027-05-20T18:20:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "애초에 협회 자체보다 조건이 뭐였는지부터 봐야됨 좀 에바임. 본문보다 대댓글이 더 길어질 각이다.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-010",
-      "parentId": "nat-2027-000024-002",
-      "timestamp": "2027-05-20T18:29:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "예외 하나 들고와서 전체가 틀렸다고 하면 어떡함 ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-011",
-      "parentId": null,
-      "timestamp": "2027-05-20T18:38:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "등급표 들고 계산기 두드리는 애 또 나옴\nㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-012",
-      "parentId": null,
-      "timestamp": "2027-05-20T18:48:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "그럴수도",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-013",
-      "parentId": "nat-2027-000024-008",
-      "timestamp": "2027-05-20T18:51:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이 댓글창만 게이트 닫으면 안되냐. 관리자도 보고 웃겠다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-014",
-      "parentId": "nat-2027-000024-011",
-      "timestamp": "2027-05-20T18:52:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "개인적으로 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 같음. 왜 이런 글만 뜨면 전문가가 증식하냐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000024-015",
-      "parentId": null,
-      "timestamp": "2027-05-20T18:59:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "개웃김",
+      "content": "그거 개정 안됐나",
       "deleted": false
     }
   ],

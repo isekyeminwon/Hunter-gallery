@@ -1,0 +1,256 @@
+{
+  "id": "hg-2041-000056",
+  "displayNo": 3728246,
+  "timestamp": "2041-10-27T18:32:00+09:00",
+  "year": 2041,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": "GANGWON_DISAPPEARANCES",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "강원 현장 잡힌 친구가 취소했다는데 ㅋㅋ",
+  "author": {
+    "type": "fixed",
+    "name": "현장밥차",
+    "ip": null
+  },
+  "content": "새로고침할때마다 이 얘기임ㅋㅋ\n오늘 일 다했다",
+  "attachments": [],
+  "stats": {
+    "views": 52714,
+    "recommend": 381
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2041-000056-v8-001",
+      "parentId": null,
+      "timestamp": "2041-10-27T18:35:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "저등급=무사고 보증은 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-002",
+      "parentId": null,
+      "timestamp": "2041-10-27T18:38:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "사람 실종된걸 괴담놀이 하는건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-003",
+      "parentId": "c-2041-000056-v8-002",
+      "timestamp": "2041-10-27T18:40:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "범인특정글은 거르는게 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-004",
+      "parentId": null,
+      "timestamp": "2041-10-27T18:42:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "강원 구인 전부 위험하다고 하는것도 오바",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-005",
+      "parentId": "c-2041-000056-v8-004",
+      "timestamp": "2041-10-27T18:44:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "저등급이라고 사고 0은 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-006",
+      "parentId": null,
+      "timestamp": "2041-10-27T18:46:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "실종건 전부 같은원인이라는건 확인된거 없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-007",
+      "parentId": null,
+      "timestamp": "2041-10-27T18:50:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "입장기록/보험/연락시간 더 빡세게 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-008",
+      "parentId": "c-2041-000056-v8-003",
+      "timestamp": "2041-10-27T18:52:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "현장가면 기록/보험 더 잘봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-009",
+      "parentId": null,
+      "timestamp": "2041-10-27T18:55:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "범인 특정글은 거르는게 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-010",
+      "parentId": null,
+      "timestamp": "2041-10-27T18:56:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-011",
+      "parentId": null,
+      "timestamp": "2041-10-27T18:59:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-012",
+      "parentId": null,
+      "timestamp": "2041-10-27T19:01:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-013",
+      "parentId": null,
+      "timestamp": "2041-10-27T19:04:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-014",
+      "parentId": null,
+      "timestamp": "2041-10-27T19:07:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-015",
+      "parentId": null,
+      "timestamp": "2041-10-27T19:10:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "그럴수도 있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-016",
+      "parentId": null,
+      "timestamp": "2041-10-27T19:13:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-017",
+      "parentId": null,
+      "timestamp": "2041-10-27T19:16:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000056-v8-018",
+      "parentId": null,
+      "timestamp": "2041-10-27T19:19:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

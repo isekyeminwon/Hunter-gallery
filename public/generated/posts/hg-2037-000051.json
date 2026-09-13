@@ -1,0 +1,88 @@
+{
+  "id": "hg-2037-000051",
+  "displayNo": 2383452,
+  "timestamp": "2037-01-04T08:53:36+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "장비 렌탈 처음인데 보증금 원래 이정도? ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.7"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 13845,
+    "recommend": 53
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000051-v8-001",
+      "parentId": null,
+      "timestamp": "2037-01-04T08:57:08+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000051-v8-002",
+      "parentId": null,
+      "timestamp": "2037-01-04T08:58:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "나도 답 기다림",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000051-v8-003",
+      "parentId": null,
+      "timestamp": "2037-01-04T09:01:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "검색결과가 죄다 옛날거임",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000051-v8-004",
+      "parentId": null,
+      "timestamp": "2037-01-04T09:03:32+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "처음할때 여기서 한번 막힘",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "hg-2040-000048",
+  "displayNo": 3350328,
+  "timestamp": "2040-07-15T21:59:44+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "김채연 인터뷰 짤 또 돌네",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "14.32"
+  },
+  "content": "검색해봤는데 옛날글만 나와서 씀.\n요즘 기준 아는사람?",
+  "attachments": [],
+  "stats": {
+    "views": 17548,
+    "recommend": 43
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000048-v8-001",
+      "parentId": null,
+      "timestamp": "2040-07-15T22:01:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "마법계 설명영상은 생각보다 볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000048-v8-002",
+      "parentId": null,
+      "timestamp": "2040-07-15T22:03:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이채린 단독은 요즘 좀 뜸한편",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000048-v8-003",
+      "parentId": null,
+      "timestamp": "2040-07-15T22:06:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "김채연 영상은 범위 잡히는 장면이 제일 미침",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

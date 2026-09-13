@@ -33,111 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2034-000045-001",
+      "id": "c-2034-000045-v8-001",
       "parentId": null,
-      "timestamp": "2034-10-21T11:48:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "우리 집은 가족이 헌터라 이런 뉴스 뜨면. 그때 이후로 무조건 두번 확인함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000045-002",
-      "parentId": "nat-2034-000045-001",
-      "timestamp": "2034-10-21T11:55:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "마석 얘기하는데 왜 갑자기 딴소리함. 다시 읽어봐",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000045-003",
-      "parentId": null,
-      "timestamp": "2034-10-21T12:02:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "현장마다 다르면 보통 뭘 기준으로 봄?\n검색하면 말이 다 다름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000045-004",
-      "parentId": "nat-2034-000045-001",
-      "timestamp": "2034-10-21T12:10:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "개소리를 정성스럽게도 썼네 / 말을 해도 꼭 저렇게 함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000045-005",
-      "parentId": null,
-      "timestamp": "2034-10-21T12:14:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "동기 하나가 저거 때문에 한동안 고생했는데 근데 입구부터 꼬여서 하루 날림",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000045-006",
-      "parentId": null,
-      "timestamp": "2034-10-21T12:15:07+09:00",
+      "timestamp": "2034-10-21T11:43:23+09:00",
       "author": {
         "type": "fixed",
-        "name": "현장밥차",
+        "name": "마석눈팅",
         "ip": null
       },
-      "content": "당일정산 한줄에 댓글 분위기 달라지는거 웃김 / 경험자 반박환영",
+      "content": "민간쪽은 조건이 다 달라서 귀찮음",
       "deleted": false
     },
     {
-      "id": "nat-2034-000045-007",
+      "id": "c-2034-000045-v8-002",
       "parentId": null,
-      "timestamp": "2034-10-21T12:16:27+09:00",
+      "timestamp": "2034-10-21T11:46:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "210.178"
       },
-      "content": "실제 계약서에는 뭐라고 적힘?. 검색하면 말이 다 다름",
+      "content": "정산 빨리해주는곳 선호하는 이유가 있음",
       "deleted": false
     },
     {
-      "id": "nat-2034-000045-008",
-      "parentId": "nat-2034-000045-005",
-      "timestamp": "2034-10-21T12:25:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "한명만 더 화내면 개념글 확정. 제발 계속해",
-      "deleted": false
-    },
-    {
-      "id": "nat-2034-000045-009",
+      "id": "c-2034-000045-v8-003",
       "parentId": null,
-      "timestamp": "2034-10-21T12:34:06+09:00",
+      "timestamp": "2034-10-21T11:49:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "61.79"
       },
-      "content": "금액만 보고 가지말고 보험이랑 계약주체부터 봐. 작성자도 너무 확신하진 마라.",
+      "content": "마석 등급만 보고 가격 딱 정해지는건 아니더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000045-v8-004",
+      "parentId": null,
+      "timestamp": "2034-10-21T11:52:15+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "매입처 바꾸면 수수료부터 비교해봐",
       "deleted": false
     }
   ],

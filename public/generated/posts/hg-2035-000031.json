@@ -1,0 +1,184 @@
+{
+  "id": "hg-2035-000031",
+  "displayNo": 1807048,
+  "timestamp": "2035-07-12T22:10:46+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "별하나 촬영보조 구인 갑자기 많아짐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "별하나 관련해서 방금 본거 가져옴.\n댓글에 원문 있으면 링크좀.",
+  "attachments": [],
+  "stats": {
+    "views": 20036,
+    "recommend": 94
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000031-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-12T22:13:27+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "영상이 거짓말이라기보다 목적이 다른거",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-12T22:16:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "촬영팀 붙으면 동선도 달라질수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-003",
+      "parentId": "c-2035-000031-v8-001",
+      "timestamp": "2035-07-12T22:18:15+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "영상이 구라라기보다 목적이 다른거지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-004",
+      "parentId": "c-2035-000031-v8-003",
+      "timestamp": "2035-07-12T22:19:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "대기시간 잘리니까 쉬워보이는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-12T22:21:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "대기/확인/철수판단이 편집에서 많이 잘림",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-006",
+      "parentId": "c-2035-000031-v8-005",
+      "timestamp": "2035-07-12T22:22:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "원본콜 있으면 공부는 훨씬 잘됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-007",
+      "parentId": "c-2035-000031-v8-002",
+      "timestamp": "2035-07-12T22:24:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "편집본은 잘린시간 감안하고 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-12T22:26:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "원글 세줄인데 밑이 더김",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-009",
+      "parentId": null,
+      "timestamp": "2035-07-12T22:29:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "원본콜 있는 영상이 공부할땐 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-010",
+      "parentId": "c-2035-000031-v8-007",
+      "timestamp": "2035-07-12T22:31:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "대기시간 잘리니까 쉬워보이는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-011",
+      "parentId": null,
+      "timestamp": "2035-07-12T22:32:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "편집본만 보면 15분컷 같음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-12T22:36:17+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

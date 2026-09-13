@@ -1,0 +1,460 @@
+{
+  "id": "hg-2038-000055",
+  "displayNo": 2617289,
+  "timestamp": "2038-08-03T21:14:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": "CHINA_SS_DISASTER",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "대피 이후 장비점에서 바뀐거 체감",
+  "author": {
+    "type": "fixed",
+    "name": "영상분석충",
+    "ip": null
+  },
+  "content": "현장 몇번 더 돌아보고 적음. 처음 가는 사람 있으면 이것만 보고 가도 사고칠 확률은 줄어들거라 봄.\n\n1. 들어가기 전\n- 입구에서 장비 작동 확인. 안에서 고장나면 교체 못한다고 생각하는게 편함.\n- 물이랑 응급소모품은 '남겠지' 싶은 정도보다 조금 더.\n- 역할은 출발 전에 말로 한번 맞춰라. 현장 들어가서 눈치게임하면 늦음.\n\n2. 안에서\n- 앞사람만 보고 걷지 말고 좌우랑 뒤도 한번씩 봐라.\n- 전리품 보인다고 먼저 줍지 마셈. 기록부터 하고 움직이는 팀이 덜 싸움.\n- 애매하면 멈추는게 낫다. 5분 아끼려다 시간 두시간 날린 적 있음.\n\n3. 나와서\n- 장비 이상 있으면 그날 바로 적어둬라.\n- 정산은 기억으로 하지 말고 기록 남겨라.\n- 짐꾼/보조 인력 몫도 들어가기 전에 확정하는게 제일 편함.\n\n별거 없어보이는데 실제 사고는 이런 사소한데서 시작하더라.\n고인물은 알아서 거르고 뉴비만 참고하셈.",
+  "attachments": [],
+  "stats": {
+    "views": 63959,
+    "recommend": 522
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000055-v8-001",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:17:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-002",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:20:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-003",
+      "parentId": "c-2038-000055-v8-002",
+      "timestamp": "2038-08-03T21:24:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "일주일 넘으면 한번 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-004",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:26:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-005",
+      "parentId": "c-2038-000055-v8-001",
+      "timestamp": "2038-08-03T21:28:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "매입가 확정뒤 보내는팀도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-006",
+      "parentId": "c-2038-000055-v8-003",
+      "timestamp": "2038-08-03T21:32:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "정산일 적혀있으면 덜싸움",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-007",
+      "parentId": "c-2038-000055-v8-004",
+      "timestamp": "2038-08-03T21:35:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "예상금액으로 먼저 싸우지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-008",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:39:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "당일도 있고 며칠뒤도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-009",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:42:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "계약할때 정산일 적혀있는게 제일 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-010",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:45:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-011",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:47:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "아 또 시작했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-012",
+      "parentId": "c-2038-000055-v8-009",
+      "timestamp": "2038-08-03T21:50:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "당일정산이 편하긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-013",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:53:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "헐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-014",
+      "parentId": "c-2038-000055-v8-008",
+      "timestamp": "2038-08-03T21:55:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "매입가 확정뒤 보내는팀도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-015",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:58:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "난 아닌듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-016",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:00:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-017",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:02:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-018",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:05:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-019",
+      "parentId": "c-2038-000055-v8-014",
+      "timestamp": "2038-08-03T22:09:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "예상금액으로 먼저 싸우지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-020",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:12:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-021",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:15:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-022",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:18:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "또 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-023",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:20:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-024",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:24:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-025",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:28:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-026",
+      "parentId": "c-2038-000055-v8-019",
+      "timestamp": "2038-08-03T22:29:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "일주일 넘으면 한번 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-027",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:31:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-028",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:34:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-029",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:36:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "나만 이렇게 하는건가",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-030",
+      "parentId": "c-2038-000055-v8-029",
+      "timestamp": "2038-08-03T22:39:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "당일정산이 편하긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-031",
+      "parentId": "c-2038-000055-v8-025",
+      "timestamp": "2038-08-03T22:40:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "일주일 넘으면 한번 물어봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-032",
+      "parentId": "c-2038-000055-v8-025",
+      "timestamp": "2038-08-03T22:42:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "당일정산이 편하긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-033",
+      "parentId": "c-2038-000055-v8-026",
+      "timestamp": "2038-08-03T22:45:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "당일정산이 편하긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-034",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:48:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000055-v8-035",
+      "parentId": null,
+      "timestamp": "2038-08-03T22:50:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "난 반대",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

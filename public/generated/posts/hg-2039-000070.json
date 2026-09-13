@@ -1,0 +1,196 @@
+{
+  "id": "hg-2039-000070",
+  "displayNo": 3160093,
+  "timestamp": "2039-02-13T13:45:26+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "[후기] 소형 게이트도 입장전 브리핑 하는 이유",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "61.79"
+  },
+  "content": "B급 게이트 짐꾼 1년 조금 넘게 해봄.\nF급이고 전투헌터로 먹고살 생각은 별로 없어서 이쪽 계속 하는중.\n\n좋은 팀 특징\n- 구인글에 보수/보험/예상시간이 적혀있음\n- 짐 무게 대충이라도 미리 알려줌\n- 입장 전에 파티콜 설명해줌\n- 철수하면 괜히 짐꾼 탓 안함\n- 정산 늦어져도 먼저 말해줌\n\n거르는 팀\n- '가면 알려줌'\n- 보험 물어보면 예민하게 반응\n- 처음 만났는데 장비부터 대신 들라고 함\n- 예상시간 두시간이라더니 준비만 세시간\n- 현장에서 말 바뀜\n\n돈만 보면 B급 일당 괜찮은 편인데\n한번 사고나면 몇달 번거 날릴수도 있어서\n난 무조건 안전한 팀 반복해서 감.\n\n초보들은 일당 20 더준다는 말에 팀 막 바꾸지마라.\n경험자들이 같은 팀 계속 가는 이유가 있음.",
+  "attachments": [],
+  "stats": {
+    "views": 39662,
+    "recommend": 735
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000070-v8-001",
+      "parentId": null,
+      "timestamp": "2039-02-13T13:48:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-002",
+      "parentId": null,
+      "timestamp": "2039-02-13T13:51:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-003",
+      "parentId": "c-2039-000070-v8-001",
+      "timestamp": "2039-02-13T13:53:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-004",
+      "parentId": "c-2039-000070-v8-001",
+      "timestamp": "2039-02-13T13:56:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "보장범위가 제일 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-005",
+      "parentId": "c-2039-000070-v8-002",
+      "timestamp": "2039-02-13T13:58:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-006",
+      "parentId": null,
+      "timestamp": "2039-02-13T14:00:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "개인보험만 믿고 팀조건 넘기진마",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-007",
+      "parentId": null,
+      "timestamp": "2039-02-13T14:01:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "현장등급 제한 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-008",
+      "parentId": "c-2039-000070-v8-001",
+      "timestamp": "2039-02-13T14:03:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-009",
+      "parentId": "c-2039-000070-v8-002",
+      "timestamp": "2039-02-13T14:05:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-010",
+      "parentId": "c-2039-000070-v8-005",
+      "timestamp": "2039-02-13T14:09:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-011",
+      "parentId": null,
+      "timestamp": "2039-02-13T14:12:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-012",
+      "parentId": null,
+      "timestamp": "2039-02-13T14:15:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000070-v8-013",
+      "parentId": null,
+      "timestamp": "2039-02-13T14:18:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

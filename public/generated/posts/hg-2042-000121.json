@@ -1,0 +1,76 @@
+{
+  "id": "hg-2042-000121",
+  "displayNo": 4181811,
+  "timestamp": "2042-08-06T15:25:29+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "길드 공식채널 편집 원탑 어디임?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.52"
+  },
+  "content": "알고리즘에 떠서 봄ㅋㅋ\n댓글이 더재밌다.",
+  "attachments": [],
+  "stats": {
+    "views": 43867,
+    "recommend": 106
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000121-v8-001",
+      "parentId": null,
+      "timestamp": "2042-08-06T15:28:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "원본 어디임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000121-v8-002",
+      "parentId": null,
+      "timestamp": "2042-08-06T15:30:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "편집은 잘했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000121-v8-003",
+      "parentId": null,
+      "timestamp": "2042-08-06T15:31:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "공식채널부터 봐야겠다",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

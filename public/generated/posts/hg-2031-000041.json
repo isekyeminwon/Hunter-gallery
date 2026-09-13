@@ -33,171 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2031-000041-001",
+      "id": "c-2031-000041-v8-001",
       "parentId": null,
-      "timestamp": "2031-02-23T11:19:57+09:00",
+      "timestamp": "2031-02-23T11:18:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "59.5"
       },
-      "content": "웃긴게 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 그냥 그렇다고",
+      "content": "도로 막은거면 입구쪽 통제 꽤 크게 잡았나보네",
       "deleted": false
     },
     {
-      "id": "nat-2031-000041-002",
-      "parentId": "nat-2031-000041-001",
-      "timestamp": "2031-02-23T11:24:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "내일 검사인데 이런 글 왜 클릭했지 근데 본문이랑 상관없긴 한데 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000041-003",
+      "id": "c-2031-000041-v8-002",
       "parentId": null,
-      "timestamp": "2031-02-23T11:26:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "속보글 댓글은 10분 지나면 절반이 틀린말임 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000041-004",
-      "parentId": null,
-      "timestamp": "2031-02-23T11:27:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "우리 파티는 저런 상황 오면 가족들은 뉴스만 떠도 전화부터 옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000041-005",
-      "parentId": null,
-      "timestamp": "2031-02-23T11:35:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "사진 하나로 위치 특정하려는 놈들 좀 자제해. 조건 하나만 달라도 얘기 완전 달라짐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000041-006",
-      "parentId": null,
-      "timestamp": "2031-02-23T11:43:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "????",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000041-007",
-      "parentId": null,
-      "timestamp": "2031-02-23T11:53:06+09:00",
+      "timestamp": "2031-02-23T11:20:58+09:00",
       "author": {
         "type": "fixed",
-        "name": "현장밥차",
+        "name": "협회노예",
         "ip": null
       },
-      "content": "동기 하나가 저거 때문에 한동안 고생했는데. 가족들은 뉴스만 떠도 전화부터 옴",
+      "content": "협회차량 여러대 들어갔다는거 말곤 나온거 없지?",
       "deleted": false
     },
     {
-      "id": "nat-2031-000041-008",
+      "id": "c-2031-000041-v8-003",
       "parentId": null,
-      "timestamp": "2031-02-23T12:01:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "현장 근처면 커뮤말고 안내방송부터 들어라. 어차피 내일 되면 새 글 또 올라옴.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000041-009",
-      "parentId": "nat-2031-000041-004",
-      "timestamp": "2031-02-23T12:08:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "본문보다 작성자 말투가 더 킹받음 근데 갑자기 생각나서 적음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000041-010",
-      "parentId": null,
-      "timestamp": "2031-02-23T12:10:18+09:00",
+      "timestamp": "2031-02-23T11:22:35+09:00",
       "author": {
         "type": "fixed",
-        "name": "계약서읽자",
+        "name": "협회노예",
         "ip": null
       },
-      "content": "현장 근처면 커뮤말고 안내방송부터 들어라. 한줄 요약하려다가 꼭 사고남.",
+      "content": "사고원인 기사 아직 안뜬거같은데",
       "deleted": false
     },
     {
-      "id": "nat-2031-000041-011",
-      "parentId": "nat-2031-000041-003",
-      "timestamp": "2031-02-23T12:14:49+09:00",
+      "id": "c-2031-000041-v8-004",
+      "parentId": null,
+      "timestamp": "2031-02-23T11:24:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "59.5"
       },
-      "content": "그 말이면 세상 모든 질문 끝남ㅋㅋ. 지금 정보량으로는 누구도 장담 못함.",
+      "content": "오전까지 우회면 출근길 개막히겠네",
       "deleted": false
     },
     {
-      "id": "nat-2031-000041-012",
+      "id": "c-2031-000041-v8-005",
       "parentId": null,
-      "timestamp": "2031-02-23T12:22:19+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "공식 공지 뜬거 맞음? / 출처 없이 퍼지는 속도만 존나 빠름",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000041-013",
-      "parentId": null,
-      "timestamp": "2031-02-23T12:27:40+09:00",
+      "timestamp": "2031-02-23T11:26:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "59.10"
       },
-      "content": "여기서 핵심은 협회는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 그래서 난 아직 보류. 왜 이런 글만 뜨면 전문가가 증식하냐.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000041-014",
-      "parentId": null,
-      "timestamp": "2031-02-23T12:34:09+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "이거 지역마다 차이남? / 옛날 기준 말고 지금 기준으로",
+      "content": "근처사는 사람은 우회공지부터 봐라",
       "deleted": false
     }
   ],

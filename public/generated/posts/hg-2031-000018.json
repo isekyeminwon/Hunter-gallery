@@ -33,327 +33,195 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2031-000018-001",
+      "id": "c-2031-000018-v8-001",
       "parentId": null,
-      "timestamp": "2031-08-20T15:02:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "작성자 IP 왤케 낯익냐. 이 커뮤는 새벽에도 똑같네",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-002",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:04:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "처음이면 헷갈릴만한데 답을 좀 해줘라 ㅋㅋ 근데 이해는 감",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-003",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:06:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "국가전력이라는 표현 싫어하는 사람도 꽤 많았음\n이래서 원문 날짜 확인이 중요함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-004",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:07:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "외국 길드가 한국 A 노린다는 썰은 해마다 새로 나옴 ㅋㅋ 근데 저때 댓글 분위기는 이해됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-005",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:07:14+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "처음이면 헷갈릴만한데 답을 좀 해줘라. 괜히 아는척하다가 틀리면 개쪽임.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-006",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:07:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "뭐 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 반박시 니말맞음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-007",
-      "parentId": "nat-2031-000018-001",
-      "timestamp": "2031-08-20T15:09:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "그건 인정",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-008",
-      "parentId": "nat-2031-000018-005",
-      "timestamp": "2031-08-20T15:11:04+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "실제 계약서에는 뭐라고 적힘?. 최근글이 잘 안나옴",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-009",
-      "parentId": "nat-2031-000018-003",
-      "timestamp": "2031-08-20T15:11:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-010",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:11:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "내 주변은 정답 있는 얘기도 아닌데 다들 목숨걸고 싸움 같음. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-011",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:12:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "S 이동에 외교 얘기까지 붙는거 보면 개인 체급이 이상하긴 함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-012",
-      "parentId": "nat-2031-000018-002",
-      "timestamp": "2031-08-20T15:14:43+09:00",
+      "timestamp": "2031-08-20T15:03:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.221"
       },
-      "content": "그러니까 확정처럼 쓰지 말라고. 모르면 물어보는게 낫지 괜히 개돌하지마.",
+      "content": "나도 예전에 이걸로 물어봤었음",
       "deleted": false
     },
     {
-      "id": "nat-2031-000018-013",
-      "parentId": "nat-2031-000018-005",
-      "timestamp": "2031-08-20T15:16:32+09:00",
+      "id": "c-2031-000018-v8-002",
+      "parentId": null,
+      "timestamp": "2031-08-20T15:06:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.38"
       },
-      "content": "뭔데",
+      "content": "나도 답 기다림",
       "deleted": false
     },
     {
-      "id": "nat-2031-000018-014",
+      "id": "c-2031-000018-v8-003",
       "parentId": null,
-      "timestamp": "2031-08-20T15:19:11+09:00",
+      "timestamp": "2031-08-20T15:08:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "118.221"
       },
-      "content": "질문자 패지말고 틀린 부분만 말해주면 되잖아. 어차피 내일 되면 새 글 또 올라옴.",
+      "content": "찾아보면 몇년전 글만 뜸",
       "deleted": false
     },
     {
-      "id": "nat-2031-000018-015",
-      "parentId": "nat-2031-000018-004",
-      "timestamp": "2031-08-20T15:21:09+09:00",
+      "id": "c-2031-000018-v8-004",
+      "parentId": "c-2031-000018-v8-003",
+      "timestamp": "2031-08-20T15:09:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "58.29"
       },
-      "content": "뭐임",
+      "content": "이건 물어볼만함",
       "deleted": false
     },
     {
-      "id": "nat-2031-000018-016",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:23:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "내가 잘못 아는거 아니면 왜 항상 안전빵 아니면 무조건 개돌 둘중 하나냐 이건 좀 더 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-017",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:24:43+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "뉴비 질문에 왜 다들 이렇게 화나있냐. 공식 뜨기 전까진 그냥 썰로 보는게 맞음.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-018",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:27:05+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "등급 기준 다르면 숫자비교가 무슨 의미냐는 말도 맞긴 함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-019",
-      "parentId": "nat-2031-000018-007",
-      "timestamp": "2031-08-20T15:28:13+09:00",
+      "id": "c-2031-000018-v8-005",
+      "parentId": "c-2031-000018-v8-004",
+      "timestamp": "2031-08-20T15:12:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.33"
       },
-      "content": "이건 좀",
+      "content": "최근기준 아는사람?",
       "deleted": false
     },
     {
-      "id": "nat-2031-000018-020",
+      "id": "c-2031-000018-v8-006",
       "parentId": null,
-      "timestamp": "2031-08-20T15:30:05+09:00",
+      "timestamp": "2031-08-20T15:15:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.33"
       },
-      "content": "이거 보험 처리도 똑같음?. 진짜 궁금해서 물음",
+      "content": "해본사람 있냐",
       "deleted": false
     },
     {
-      "id": "nat-2031-000018-021",
-      "parentId": "nat-2031-000018-020",
-      "timestamp": "2031-08-20T15:32:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "이 댓글창만 게이트 닫으면 안되냐\n아무도 안물어봤는데 다들 진심임",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-022",
+      "id": "c-2031-000018-v8-007",
       "parentId": null,
-      "timestamp": "2031-08-20T15:34:03+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "기자 이름이라도 알려줘 / 캡처는 앞뒤 잘라먹는 경우 많음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-023",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:34:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "둘 다 개소리중임 근데 이건 좀 심했다",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-024",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:34:40+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "이거 최초 출처 누군데 / 링크 없으면 일단 반만 믿음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-025",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:37:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "댓글이 본문보다 위험등급 높음 ㅋㅋ ㅋㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-026",
-      "parentId": "nat-2031-000018-011",
-      "timestamp": "2031-08-20T15:39:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "S급 얘기하는데 왜 갑자기 딴소리함",
-      "deleted": false
-    },
-    {
-      "id": "nat-2031-000018-027",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:41:43+09:00",
+      "timestamp": "2031-08-20T15:17:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.221"
       },
-      "content": "다 떠나서 S급 관련해서 기사마다 말 조금씩 다른게 문제임 개빡셈",
+      "content": "이런건 물어봐도 됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000018-v8-008",
+      "parentId": null,
+      "timestamp": "2031-08-20T15:20:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000018-v8-009",
+      "parentId": null,
+      "timestamp": "2031-08-20T15:22:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "최근에 해본사람 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000018-v8-010",
+      "parentId": null,
+      "timestamp": "2031-08-20T15:24:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000018-v8-011",
+      "parentId": null,
+      "timestamp": "2031-08-20T15:28:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "나도 첫번에 여기서 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000018-v8-012",
+      "parentId": "c-2031-000018-v8-007",
+      "timestamp": "2031-08-20T15:30:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "나도 처음엔 헷갈렸음",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000018-v8-013",
+      "parentId": "c-2031-000018-v8-007",
+      "timestamp": "2031-08-20T15:33:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "해본사람 말 더 들어보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000018-v8-014",
+      "parentId": null,
+      "timestamp": "2031-08-20T15:35:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000018-v8-015",
+      "parentId": null,
+      "timestamp": "2031-08-20T15:37:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "근거는?",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000018-v8-016",
+      "parentId": null,
+      "timestamp": "2031-08-20T15:39:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "난 반대",
       "deleted": false
     }
   ],

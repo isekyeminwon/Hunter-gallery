@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000047",
+  "displayNo": 4000075,
+  "timestamp": "2042-03-07T05:37:17+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "팬덤·방송",
+  "displayCategory": "방송",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "강주아 광고 새거 나옴 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "117.111"
+  },
+  "content": "원본링크 있는사람?\n짤만 계속 돌아다님.",
+  "attachments": [],
+  "stats": {
+    "views": 4405,
+    "recommend": 24
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000047-v8-001",
+      "parentId": null,
+      "timestamp": "2042-03-07T05:40:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "강주아 광고 또 찍었네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000047-v8-002",
+      "parentId": null,
+      "timestamp": "2042-03-07T05:41:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "강주아 광고 진짜 자주나오네",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

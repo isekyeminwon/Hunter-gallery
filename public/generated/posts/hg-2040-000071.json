@@ -1,0 +1,76 @@
+{
+  "id": "hg-2040-000071",
+  "displayNo": 3429775,
+  "timestamp": "2040-05-05T23:14:21+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "B급 파티에서 막내가 할 일 정리 ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "1.239"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 3239,
+    "recommend": 21
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000071-v8-001",
+      "parentId": null,
+      "timestamp": "2040-05-05T23:16:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "화려한 공략보다 이게 초보한텐 나음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000071-v8-002",
+      "parentId": null,
+      "timestamp": "2040-05-05T23:19:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "이런건 북마크해놔야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000071-v8-003",
+      "parentId": "c-2040-000071-v8-001",
+      "timestamp": "2040-05-05T23:23:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

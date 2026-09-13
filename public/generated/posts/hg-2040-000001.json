@@ -1,0 +1,424 @@
+{
+  "id": "hg-2040-000001",
+  "displayNo": 3170954,
+  "timestamp": "2040-08-11T10:10:53+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": "LEE_SEO_A_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "이서 바로 국내 A 상위권 넣는건 너무 빠르지 않냐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.246"
+  },
+  "content": "이서 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
+  "attachments": [],
+  "stats": {
+    "views": 38440,
+    "recommend": 1769
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000001-v8-001",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:12:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "첫해부터 TOP10 넣는건 좀 빠르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-002",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:15:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "A 둘 뜨면 왜 꼭 싸움붙이냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-003",
+      "parentId": "c-2040-000001-v8-002",
+      "timestamp": "2040-08-11T10:17:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "김민찬 B라고 무시할급은 아닌데",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-004",
+      "parentId": "c-2040-000001-v8-002",
+      "timestamp": "2040-08-11T10:19:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "신인 기사 몇줄로 다아는척함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-005",
+      "parentId": "c-2040-000001-v8-001",
+      "timestamp": "2040-08-11T10:21:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "A 둘이면 꼭 비교 붙이더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-006",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:25:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "신인 기사 세줄로 10년뒤 순위까지 뽑네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-007",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:26:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "길드 어디갈지도 안나왔는데 팬들이 먼저 입사시킴",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-008",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:29:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "김민찬 B라고 무시하는놈들 B가 뭔지 까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-009",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:32:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-010",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:35:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "또 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-011",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:37:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "개웃김",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-012",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:40:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-013",
+      "parentId": "c-2040-000001-v8-010",
+      "timestamp": "2040-08-11T10:42:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "첫해부터 순위 박는건 좀 빠르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-014",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:44:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-015",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:45:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "이서 얘기는 맨날 갈리네",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-016",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:49:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-017",
+      "parentId": null,
+      "timestamp": "2040-08-11T10:50:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-018",
+      "parentId": "c-2040-000001-v8-013",
+      "timestamp": "2040-08-11T10:52:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "길드 정해지고 봐도 안늦음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-019",
+      "parentId": "c-2040-000001-v8-018",
+      "timestamp": "2040-08-11T10:54:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "신인 기사 몇줄로 다아는척함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-020",
+      "parentId": "c-2040-000001-v8-015",
+      "timestamp": "2040-08-11T10:58:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "첫해부터 순위 박는건 좀 빠르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-021",
+      "parentId": null,
+      "timestamp": "2040-08-11T11:01:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-022",
+      "parentId": null,
+      "timestamp": "2040-08-11T11:03:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-023",
+      "parentId": null,
+      "timestamp": "2040-08-11T11:06:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "난 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-024",
+      "parentId": "c-2040-000001-v8-023",
+      "timestamp": "2040-08-11T11:10:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "첫해부터 순위 박는건 좀 빠르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-025",
+      "parentId": "c-2040-000001-v8-018",
+      "timestamp": "2040-08-11T11:13:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "김민찬 B라고 무시할급은 아닌데",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-026",
+      "parentId": null,
+      "timestamp": "2040-08-11T11:15:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-027",
+      "parentId": null,
+      "timestamp": "2040-08-11T11:19:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-028",
+      "parentId": "c-2040-000001-v8-023",
+      "timestamp": "2040-08-11T11:21:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "길드 정해지고 봐도 안늦음",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-029",
+      "parentId": "c-2040-000001-v8-023",
+      "timestamp": "2040-08-11T11:25:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "첫해부터 순위 박는건 좀 빠르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-030",
+      "parentId": null,
+      "timestamp": "2040-08-11T11:27:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-031",
+      "parentId": null,
+      "timestamp": "2040-08-11T11:30:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "또 시작이네",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000001-v8-032",
+      "parentId": null,
+      "timestamp": "2040-08-11T11:32:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

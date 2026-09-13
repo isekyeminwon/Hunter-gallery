@@ -1,0 +1,76 @@
+{
+  "id": "hg-2040-000012",
+  "displayNo": 3208022,
+  "timestamp": "2040-12-12T08:07:57+09:00",
+  "year": 2040,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "C급이면 진짜 회사 그만둬도 먹고삼?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "39.125"
+  },
+  "content": "친구랑 말하다가 의견 갈려서 올림.\n카더라 말고 해본 사람 있으면 알려줘.",
+  "attachments": [],
+  "stats": {
+    "views": 18130,
+    "recommend": 55
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2040-000012-v8-001",
+      "parentId": null,
+      "timestamp": "2040-12-12T08:11:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000012-v8-002",
+      "parentId": null,
+      "timestamp": "2040-12-12T08:13:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이거 초보때 은근 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000012-v8-003",
+      "parentId": null,
+      "timestamp": "2040-12-12T08:17:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "요즘 기준 글이 잘안보이더라",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "hg-2042-000072",
+  "displayNo": 4125400,
+  "timestamp": "2042-06-28T07:37:11+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석카메라 촬영담당 따로 둬야됨",
+  "author": {
+    "type": "fixed",
+    "name": "영상분석충",
+    "ip": null
+  },
+  "content": "별거 아닌데 초보때 이거 몰라서 한번 고생함.\n현장가는 사람만 참고하셈.",
+  "attachments": [],
+  "stats": {
+    "views": 17473,
+    "recommend": 105
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000072-v8-001",
+      "parentId": null,
+      "timestamp": "2042-06-28T07:41:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "촬영담당 없으면 손에 들고찍는건 비추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000072-v8-002",
+      "parentId": null,
+      "timestamp": "2042-06-28T07:44:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "일반카메라랑 마석식은 다르게 생각해야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000072-v8-003",
+      "parentId": null,
+      "timestamp": "2042-06-28T07:46:46+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "렌탈비보다 백업이 귀찮을때 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000072-v8-004",
+      "parentId": null,
+      "timestamp": "2042-06-28T07:50:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "마운트 되는지 꼭 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000072-v8-005",
+      "parentId": "c-2042-000072-v8-001",
+      "timestamp": "2042-06-28T07:53:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000072-v8-006",
+      "parentId": null,
+      "timestamp": "2042-06-28T07:57:35+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "원본파일 존나 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000072-v8-007",
+      "parentId": "c-2042-000072-v8-005",
+      "timestamp": "2042-06-28T08:00:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000072-v8-008",
+      "parentId": "c-2042-000072-v8-005",
+      "timestamp": "2042-06-28T08:04:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "뉴비면 체크해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000072-v8-009",
+      "parentId": null,
+      "timestamp": "2042-06-28T08:06:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "가격보다 배터리/저조도/저장 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000072-v8-010",
+      "parentId": null,
+      "timestamp": "2042-06-28T08:08:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

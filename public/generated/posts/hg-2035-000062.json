@@ -1,0 +1,304 @@
+{
+  "id": "hg-2035-000062",
+  "displayNo": 1927964,
+  "timestamp": "2035-07-13T04:22:42+09:00",
+  "year": 2035,
+  "era": "MATURE",
+  "internalCategory": "사건·속보",
+  "displayCategory": "사건",
+  "event": {
+    "tag": "BYULHANA_S_AWAKENING",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "별하나 공식 확인 내용 업데이트",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "110.70"
+  },
+  "content": "별하나 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
+  "attachments": [],
+  "stats": {
+    "views": 9687,
+    "recommend": 2422
+  },
+  "flags": {
+    "notice": false,
+    "concept": true,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2035-000062-v8-001",
+      "parentId": null,
+      "timestamp": "2035-07-13T04:24:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "현장사진만 보고 범인찾기는 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-002",
+      "parentId": null,
+      "timestamp": "2035-07-13T04:25:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "기사 링크 있는사람",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-003",
+      "parentId": null,
+      "timestamp": "2035-07-13T04:29:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "구경말고 통제 따라가면 됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-004",
+      "parentId": null,
+      "timestamp": "2035-07-13T04:33:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "원인보다 범인부터 찾네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-005",
+      "parentId": null,
+      "timestamp": "2035-07-13T04:36:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "부상자 경상 맞음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-006",
+      "parentId": null,
+      "timestamp": "2035-07-13T04:39:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "새로 뜬 내용 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-007",
+      "parentId": "c-2035-000062-v8-004",
+      "timestamp": "2035-07-13T04:42:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-008",
+      "parentId": null,
+      "timestamp": "2035-07-13T04:45:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "ㅇㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-009",
+      "parentId": "c-2035-000062-v8-005",
+      "timestamp": "2035-07-13T04:48:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "현장근처면 안내부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-010",
+      "parentId": "c-2035-000062-v8-005",
+      "timestamp": "2035-07-13T04:51:19+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-011",
+      "parentId": "c-2035-000062-v8-010",
+      "timestamp": "2035-07-13T04:54:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-012",
+      "parentId": null,
+      "timestamp": "2035-07-13T04:57:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-013",
+      "parentId": "c-2035-000062-v8-007",
+      "timestamp": "2035-07-13T05:01:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "다친사람 별일없었으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-014",
+      "parentId": "c-2035-000062-v8-011",
+      "timestamp": "2035-07-13T05:04:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-015",
+      "parentId": "c-2035-000062-v8-013",
+      "timestamp": "2035-07-13T05:08:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "추가기사 뜬거 있음?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-016",
+      "parentId": null,
+      "timestamp": "2035-07-13T05:11:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-017",
+      "parentId": null,
+      "timestamp": "2035-07-13T05:14:38+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "별하나 얘기는 맨날 갈리네",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-018",
+      "parentId": null,
+      "timestamp": "2035-07-13T05:17:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-019",
+      "parentId": null,
+      "timestamp": "2035-07-13T05:19:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "통제중이면 근처사람은 안내부터 들어",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-020",
+      "parentId": null,
+      "timestamp": "2035-07-13T05:21:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-021",
+      "parentId": "c-2035-000062-v8-020",
+      "timestamp": "2035-07-13T05:24:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "원인 나온건 아직 없지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000062-v8-022",
+      "parentId": null,
+      "timestamp": "2035-07-13T05:26:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "뭔글이었나 위로 올라갔다옴ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

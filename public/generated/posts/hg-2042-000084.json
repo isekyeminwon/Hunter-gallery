@@ -1,0 +1,64 @@
+{
+  "id": "hg-2042-000084",
+  "displayNo": 4158926,
+  "timestamp": "2042-07-24T19:36:10+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "구인취소 수수료 받는거 흔함?",
+  "author": {
+    "type": "fixed",
+    "name": "마탑첩자",
+    "ip": null
+  },
+  "content": "진짜 몰라서 묻는거임.\n경험자 있으면 답좀.",
+  "attachments": [],
+  "stats": {
+    "views": 7062,
+    "recommend": 4
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000084-v8-001",
+      "parentId": null,
+      "timestamp": "2042-07-24T19:38:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "해본사람 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000084-v8-002",
+      "parentId": null,
+      "timestamp": "2042-07-24T19:41:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "이거 답 아는사람?",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

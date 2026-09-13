@@ -1,0 +1,280 @@
+{
+  "id": "hg-2038-000035",
+  "displayNo": 2550006,
+  "timestamp": "2038-08-03T17:29:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "CHINA_SS_DISASTER",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "대피 때문에 보험 문의 폭주라는데",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
+  "attachments": [],
+  "stats": {
+    "views": 81160,
+    "recommend": 381
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000035-v8-001",
+      "parentId": null,
+      "timestamp": "2038-08-03T17:30:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "현장등급 제한 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-002",
+      "parentId": null,
+      "timestamp": "2038-08-03T17:33:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "누가 가입시키는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-003",
+      "parentId": null,
+      "timestamp": "2038-08-03T17:36:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-004",
+      "parentId": null,
+      "timestamp": "2038-08-03T17:40:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "보험사 이름보다 보장범위가 먼저임",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-005",
+      "parentId": "c-2038-000035-v8-001",
+      "timestamp": "2038-08-03T17:44:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "보장범위가 제일 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-006",
+      "parentId": "c-2038-000035-v8-005",
+      "timestamp": "2038-08-03T17:47:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-007",
+      "parentId": null,
+      "timestamp": "2038-08-03T17:50:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-008",
+      "parentId": null,
+      "timestamp": "2038-08-03T17:53:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "이건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-009",
+      "parentId": "c-2038-000035-v8-003",
+      "timestamp": "2038-08-03T17:57:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-010",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:01:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "댓글끼리 논문쓰네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-011",
+      "parentId": "c-2038-000035-v8-009",
+      "timestamp": "2038-08-03T18:04:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-012",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:06:17+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-013",
+      "parentId": "c-2038-000035-v8-009",
+      "timestamp": "2038-08-03T18:09:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-014",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:12:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-015",
+      "parentId": "c-2038-000035-v8-012",
+      "timestamp": "2038-08-03T18:14:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "저등급만 되는거 은근 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-016",
+      "parentId": "c-2038-000035-v8-012",
+      "timestamp": "2038-08-03T18:15:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "보험됨 한줄로 끝내면 불안함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-017",
+      "parentId": "c-2038-000035-v8-014",
+      "timestamp": "2038-08-03T18:19:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "후송/치료 범위도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-018",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:22:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "보험됨 한줄만 믿지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-019",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:25:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000035-v8-020",
+      "parentId": null,
+      "timestamp": "2038-08-03T18:27:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

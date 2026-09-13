@@ -1,0 +1,88 @@
+{
+  "id": "hg-2039-000035",
+  "displayNo": 3008740,
+  "timestamp": "2039-01-11T21:27:14+09:00",
+  "year": 2039,
+  "era": "MATURE",
+  "internalCategory": "질문·뉴비",
+  "displayCategory": "질문",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "언데드에서 정화계 없이 가본놈 있음?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "182.214"
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 7164,
+    "recommend": 17
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2039-000035-v8-001",
+      "parentId": null,
+      "timestamp": "2039-01-11T21:29:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "공략권 싸도 세척비에서 울수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000035-v8-002",
+      "parentId": null,
+      "timestamp": "2039-01-11T21:33:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "냄새 분진 싫어서 거르는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000035-v8-003",
+      "parentId": "c-2039-000035-v8-001",
+      "timestamp": "2039-01-11T21:35:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "냄새 분진때문에 싫어하는팀 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000035-v8-004",
+      "parentId": null,
+      "timestamp": "2039-01-11T21:36:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "정화계 없다고 무조건 못가는건 아님",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

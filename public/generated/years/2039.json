@@ -1,1 +1,2018 @@
-[]
+[
+  {
+    "id": "hg-2039-000061",
+    "displayNo": 3125919,
+    "timestamp": "2039-12-24T08:53:23+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 비오는날 현장장비 관리 팁",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "117.111"
+    },
+    "stats": {
+      "views": 27646,
+      "recommend": 983
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 17,
+    "popularityScore": 1983
+  },
+  {
+    "id": "hg-2039-000033",
+    "displayNo": 3000848,
+    "timestamp": "2039-12-04T16:53:03+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "장비 렌탈 장기계약 해본사람?",
+    "author": {
+      "type": "fixed",
+      "name": "백호복지팀",
+      "ip": null
+    },
+    "stats": {
+      "views": 17648,
+      "recommend": 96
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 6,
+    "popularityScore": 198
+  },
+  {
+    "id": "hg-2039-000032",
+    "displayNo": 2994400,
+    "timestamp": "2039-11-22T22:17:19+09:00",
+    "year": 2039,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "한성 들어가면 진짜 A도 평범해짐?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "121.163"
+    },
+    "stats": {
+      "views": 12570,
+      "recommend": 102
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 8,
+    "popularityScore": 212
+  },
+  {
+    "id": "hg-2039-000059",
+    "displayNo": 3119867,
+    "timestamp": "2039-11-17T14:59:39+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 장비 고장 로그 적기 시작하고 좋은점",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "112.171"
+    },
+    "stats": {
+      "views": 25347,
+      "recommend": 1036
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 22,
+    "popularityScore": 2094
+  },
+  {
+    "id": "hg-2039-000025",
+    "displayNo": 2971350,
+    "timestamp": "2039-10-15T10:28:15+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 짐꾼이 파티콜 알아들어야 하는 이유",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "61.79"
+    },
+    "stats": {
+      "views": 5972,
+      "recommend": 741
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 17,
+    "popularityScore": 1499
+  },
+  {
+    "id": "hg-2039-000055",
+    "displayNo": 3107799,
+    "timestamp": "2039-10-10T23:07:00+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "장비 말리다가 방 하나 다차지함",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 5233,
+      "recommend": 2
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 4
+  },
+  {
+    "id": "hg-2039-000064",
+    "displayNo": 3136701,
+    "timestamp": "2039-09-04T04:01:34+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "이채린 A면 바로 대형길드 가는거임? ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.44"
+    },
+    "stats": {
+      "views": 36446,
+      "recommend": 151
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 20,
+    "popularityScore": 322
+  },
+  {
+    "id": "hg-2039-000026",
+    "displayNo": 2972935,
+    "timestamp": "2039-09-03T21:00:53+09:00",
+    "year": 2039,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "A급 신인 학교·가족 신상 캐는놈들 왜이럼",
+    "author": {
+      "type": "fixed",
+      "name": "짐꾼3년차",
+      "ip": null
+    },
+    "stats": {
+      "views": 63993,
+      "recommend": 461
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 16,
+    "popularityScore": 938
+  },
+  {
+    "id": "hg-2039-000036",
+    "displayNo": 3014813,
+    "timestamp": "2039-09-03T20:34:26+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 신인 A한테 B급 베테랑 붙이는 이유 적어봄",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.235"
+    },
+    "stats": {
+      "views": 57103,
+      "recommend": 2672
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 36,
+    "popularityScore": 5380
+  },
+  {
+    "id": "hg-2039-000067",
+    "displayNo": 3148987,
+    "timestamp": "2039-09-03T19:41:00+09:00",
+    "year": 2039,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "이채린 vs 윤영우 벌써 붙이는놈 뭐냐ㅋㅋ 아는사람",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.201"
+    },
+    "stats": {
+      "views": 61320,
+      "recommend": 157
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 20,
+    "popularityScore": 334
+  },
+  {
+    "id": "hg-2039-000030",
+    "displayNo": 2987092,
+    "timestamp": "2039-09-03T19:39:51+09:00",
+    "year": 2039,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "이채린 vs 윤영우 벌써 붙이는놈 뭐냐ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "175.223"
+    },
+    "stats": {
+      "views": 13596,
+      "recommend": 69
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 27,
+    "popularityScore": 165
+  },
+  {
+    "id": "hg-2039-000065",
+    "displayNo": 3142950,
+    "timestamp": "2039-09-03T19:30:08+09:00",
+    "year": 2039,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "이채린 vs 윤영우 벌써 붙이는놈 뭐냐ㅋㅋ ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "1.239"
+    },
+    "stats": {
+      "views": 87580,
+      "recommend": 137
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 18,
+    "popularityScore": 292
+  },
+  {
+    "id": "hg-2039-000039",
+    "displayNo": 3031675,
+    "timestamp": "2039-09-03T17:54:06+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "이채린 A면 바로 대형길드 가는거임?",
+    "author": {
+      "type": "fixed",
+      "name": "틀헌터",
+      "ip": null
+    },
+    "stats": {
+      "views": 8500,
+      "recommend": 22
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 21,
+    "popularityScore": 65
+  },
+  {
+    "id": "hg-2039-000018",
+    "displayNo": 2936810,
+    "timestamp": "2039-09-03T16:25:56+09:00",
+    "year": 2039,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "이채린 인터뷰 클립 댓글창 벌써 팬싸움남",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.125"
+    },
+    "stats": {
+      "views": 32350,
+      "recommend": 178
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 19,
+    "popularityScore": 375
+  },
+  {
+    "id": "hg-2039-000047",
+    "displayNo": 3067180,
+    "timestamp": "2039-09-03T16:10:55+09:00",
+    "year": 2039,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "각성자 신상공개 범위 정확히 어디까지임?",
+    "author": {
+      "type": "fixed",
+      "name": "계약서읽자",
+      "ip": null
+    },
+    "stats": {
+      "views": 65169,
+      "recommend": 175
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 16,
+    "popularityScore": 366
+  },
+  {
+    "id": "hg-2039-000015",
+    "displayNo": 2922912,
+    "timestamp": "2039-09-03T14:34:37+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "이채린 A 떴네 올해 진짜 뭐냐",
+    "author": {
+      "type": "fixed",
+      "name": "영상분석충",
+      "ip": null
+    },
+    "stats": {
+      "views": 17052,
+      "recommend": 52
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 19,
+    "popularityScore": 123
+  },
+  {
+    "id": "hg-2039-000010",
+    "displayNo": 2902885,
+    "timestamp": "2039-09-03T13:08:54+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "올해 신인기사 보는맛 있누",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "58.29"
+    },
+    "stats": {
+      "views": 28206,
+      "recommend": 112
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 20,
+    "popularityScore": 244
+  },
+  {
+    "id": "hg-2039-000013",
+    "displayNo": 2914769,
+    "timestamp": "2039-09-03T13:03:33+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "A급 둘 뜨니까 또 길드팬들 신났네 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.36"
+    },
+    "stats": {
+      "views": 17480,
+      "recommend": 144
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 15,
+    "popularityScore": 303
+  },
+  {
+    "id": "hg-2039-000009",
+    "displayNo": 2898923,
+    "timestamp": "2039-09-03T11:19:01+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "A급 둘 뜨니까 또 길드팬들 신났네",
+    "author": {
+      "type": "fixed",
+      "name": "별빛단7기",
+      "ip": null
+    },
+    "stats": {
+      "views": 28044,
+      "recommend": 60
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 13,
+    "popularityScore": 133
+  },
+  {
+    "id": "hg-2039-000002",
+    "displayNo": 2869564,
+    "timestamp": "2039-09-03T09:30:13+09:00",
+    "year": 2039,
+    "internalCategory": "시장·구인",
+    "displayCategory": "구인",
+    "title": "A급 신인 뜨면 길드 계약금 시장도 움직임?",
+    "author": {
+      "type": "fixed",
+      "name": "마석눈팅",
+      "ip": null
+    },
+    "stats": {
+      "views": 30064,
+      "recommend": 157
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 19,
+    "popularityScore": 333
+  },
+  {
+    "id": "hg-2039-000020",
+    "displayNo": 2948156,
+    "timestamp": "2039-08-08T23:45:36+09:00",
+    "year": 2039,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "강무혁 현역 전투력 아직 S 상위임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "121.163"
+    },
+    "stats": {
+      "views": 16459,
+      "recommend": 52
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 15,
+    "popularityScore": 119
+  },
+  {
+    "id": "hg-2039-000054",
+    "displayNo": 3101361,
+    "timestamp": "2039-08-03T23:40:19+09:00",
+    "year": 2039,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "샤오룽 한국어 인터뷰 봤냐",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 8272,
+      "recommend": 12
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 27
+  },
+  {
+    "id": "hg-2039-000016",
+    "displayNo": 2925609,
+    "timestamp": "2039-07-26T17:59:21+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "짐꾼 첫날 신발 뭐신음?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "182.214"
+    },
+    "stats": {
+      "views": 12148,
+      "recommend": 100
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 203
+  },
+  {
+    "id": "hg-2039-000050",
+    "displayNo": 3082762,
+    "timestamp": "2039-07-21T23:38:05+09:00",
+    "year": 2039,
+    "internalCategory": "시장·구인",
+    "displayCategory": "구인",
+    "title": "항만현장 위험수당 보통 얼마붙음",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.250"
+    },
+    "stats": {
+      "views": 3607,
+      "recommend": 6
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 15
+  },
+  {
+    "id": "hg-2039-000012",
+    "displayNo": 2908738,
+    "timestamp": "2039-06-19T09:24:52+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "길드카페 커피 은근 비쌈",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "117.111"
+    },
+    "stats": {
+      "views": 5226,
+      "recommend": 21
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 42
+  },
+  {
+    "id": "hg-2039-000049",
+    "displayNo": 3077643,
+    "timestamp": "2039-06-14T14:45:35+09:00",
+    "year": 2039,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "스텔라 예능형 영상 은근 재밌다",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "14.32"
+    },
+    "stats": {
+      "views": 16467,
+      "recommend": 120
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 4,
+    "popularityScore": 244
+  },
+  {
+    "id": "hg-2039-000068",
+    "displayNo": 3152480,
+    "timestamp": "2039-05-24T18:25:00+09:00",
+    "year": 2039,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "동해항 사고로 길드평가 갈리는거 좀 웃김",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "220.79"
+    },
+    "stats": {
+      "views": 53152,
+      "recommend": 241
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 31,
+    "popularityScore": 513
+  },
+  {
+    "id": "hg-2039-000062",
+    "displayNo": 3130339,
+    "timestamp": "2039-05-24T03:19:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 항만 게이트에서 짐꾼 동선 꼬이면 생기는 일 ㅋㅋ",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 151535,
+      "recommend": 798
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 50,
+    "popularityScore": 1646
+  },
+  {
+    "id": "hg-2039-000069",
+    "displayNo": 3155721,
+    "timestamp": "2039-05-23T19:04:00+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "오늘 동해항 글만 보다 하루끝남 아는사람",
+    "author": {
+      "type": "fixed",
+      "name": "마탑첩자",
+      "ip": null
+    },
+    "stats": {
+      "views": 47037,
+      "recommend": 207
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 426
+  },
+  {
+    "id": "hg-2039-000063",
+    "displayNo": 3132823,
+    "timestamp": "2039-05-23T17:39:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "동해항 현장 통제 확대됐다네",
+    "author": {
+      "type": "fixed",
+      "name": "마석눈팅",
+      "ip": null
+    },
+    "stats": {
+      "views": 35408,
+      "recommend": 5
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 26,
+    "popularityScore": 36
+  },
+  {
+    "id": "hg-2039-000060",
+    "displayNo": 3121970,
+    "timestamp": "2039-05-22T17:13:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 통제선 밖 지원으로 하루종일 대기한 썰",
+    "author": {
+      "type": "fixed",
+      "name": "백호복지팀",
+      "ip": null
+    },
+    "stats": {
+      "views": 36234,
+      "recommend": 200
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 17,
+    "popularityScore": 417
+  },
+  {
+    "id": "hg-2039-000058",
+    "displayNo": 3117433,
+    "timestamp": "2039-05-22T14:45:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "동해항 구조·수습 계속중이라네 아는사람",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.250"
+    },
+    "stats": {
+      "views": 109134,
+      "recommend": 747
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 23,
+    "popularityScore": 1517
+  },
+  {
+    "id": "hg-2039-000057",
+    "displayNo": 3115274,
+    "timestamp": "2039-05-22T01:22:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "동해항 추가 브리핑 나옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "182.214"
+    },
+    "stats": {
+      "views": 67392,
+      "recommend": 222
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 17,
+    "popularityScore": 461
+  },
+  {
+    "id": "hg-2039-000056",
+    "displayNo": 3113372,
+    "timestamp": "2039-05-20T16:18:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 항만 게이트에서 짐꾼 동선 꼬이면 생기는 일",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.235"
+    },
+    "stats": {
+      "views": 45014,
+      "recommend": 1030
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 42,
+    "popularityScore": 2102
+  },
+  {
+    "id": "hg-2039-000053",
+    "displayNo": 3098025,
+    "timestamp": "2039-05-20T15:34:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "협회 공동대응 들어간거 공식 확인",
+    "author": {
+      "type": "fixed",
+      "name": "협회노예",
+      "ip": null
+    },
+    "stats": {
+      "views": 234108,
+      "recommend": 2430
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 37,
+    "popularityScore": 4897
+  },
+  {
+    "id": "hg-2039-000052",
+    "displayNo": 3093020,
+    "timestamp": "2039-05-20T14:43:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 대형사고 때 지원인력 먼저 보는 체크리스트 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 57752,
+      "recommend": 274
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 23,
+    "popularityScore": 571
+  },
+  {
+    "id": "hg-2039-000051",
+    "displayNo": 3087640,
+    "timestamp": "2039-05-20T14:06:00+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "협회랑 민간길드 같이 들어간거 맞음?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "125.180"
+    },
+    "stats": {
+      "views": 20469,
+      "recommend": 59
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 25,
+    "popularityScore": 143
+  },
+  {
+    "id": "hg-2039-000048",
+    "displayNo": 3072966,
+    "timestamp": "2039-05-20T13:31:00+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "오늘 헌갤 새로고침 속도 미쳤다 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.36"
+    },
+    "stats": {
+      "views": 46947,
+      "recommend": 291
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 15,
+    "popularityScore": 597
+  },
+  {
+    "id": "hg-2039-000046",
+    "displayNo": 3062390,
+    "timestamp": "2039-05-20T12:29:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "사고 관련 영상 출처 확인된거만 모음",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 16768,
+      "recommend": 25
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 22,
+    "popularityScore": 72
+  },
+  {
+    "id": "hg-2039-000045",
+    "displayNo": 3056881,
+    "timestamp": "2039-05-20T11:51:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 대형사고 때 지원인력 먼저 보는 체크리스트",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 269941,
+      "recommend": 3056
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 6164
+  },
+  {
+    "id": "hg-2039-000044",
+    "displayNo": 3054486,
+    "timestamp": "2039-05-20T11:19:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "부상자 나오면 장비 버리는 순서 미리 정해라 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.250"
+    },
+    "stats": {
+      "views": 13322,
+      "recommend": 60
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 17,
+    "popularityScore": 137
+  },
+  {
+    "id": "hg-2039-000042",
+    "displayNo": 3043777,
+    "timestamp": "2039-05-20T10:35:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 협회+민간 공동대응 들어가면 통신부터 맞춰야됨",
+    "author": {
+      "type": "fixed",
+      "name": "백호복지팀",
+      "ip": null
+    },
+    "stats": {
+      "views": 353175,
+      "recommend": 1272
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 52,
+    "popularityScore": 2596
+  },
+  {
+    "id": "hg-2039-000041",
+    "displayNo": 3038910,
+    "timestamp": "2039-05-19T15:16:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정리] 대형 현장일수록 철수동선 먼저 잡아야 하는 이유",
+    "author": {
+      "type": "fixed",
+      "name": "계약서읽자",
+      "ip": null
+    },
+    "stats": {
+      "views": 270201,
+      "recommend": 2029
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 43,
+    "popularityScore": 4101
+  },
+  {
+    "id": "hg-2039-000037",
+    "displayNo": 3019235,
+    "timestamp": "2039-05-19T14:58:00+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "오늘 동해항 글만 보다 하루끝남 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.44"
+    },
+    "stats": {
+      "views": 16191,
+      "recommend": 60
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 17,
+    "popularityScore": 137
+  },
+  {
+    "id": "hg-2039-000034",
+    "displayNo": 3006767,
+    "timestamp": "2039-05-19T14:42:00+09:00",
+    "year": 2039,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "A급 사고 하나로 전체 서열 얘기하는건 오바 아님?",
+    "author": {
+      "type": "fixed",
+      "name": "영상분석충",
+      "ip": null
+    },
+    "stats": {
+      "views": 28080,
+      "recommend": 70
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 19,
+    "popularityScore": 159
+  },
+  {
+    "id": "hg-2039-000031",
+    "displayNo": 2991798,
+    "timestamp": "2039-05-19T14:22:00+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "동해항 때문에 회사 단톡도 난리네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "39.7"
+    },
+    "stats": {
+      "views": 9330,
+      "recommend": 73
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 19,
+    "popularityScore": 165
+  },
+  {
+    "id": "hg-2039-000029",
+    "displayNo": 2983649,
+    "timestamp": "2039-05-19T14:02:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 부상자 나오면 장비 버리는 순서 미리 정해라",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "106.250"
+    },
+    "stats": {
+      "views": 61716,
+      "recommend": 183
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 27,
+    "popularityScore": 393
+  },
+  {
+    "id": "hg-2039-000028",
+    "displayNo": 2981804,
+    "timestamp": "2039-05-19T13:52:00+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "동해항 사고 정확히 뭐가 터진거임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "121.163"
+    },
+    "stats": {
+      "views": 31059,
+      "recommend": 107
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 14,
+    "popularityScore": 228
+  },
+  {
+    "id": "hg-2039-000027",
+    "displayNo": 2977157,
+    "timestamp": "2039-05-19T13:31:00+09:00",
+    "year": 2039,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "현장 위치 실시간으로 올리면 삭제대상임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.52"
+    },
+    "stats": {
+      "views": 63042,
+      "recommend": 340
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 692
+  },
+  {
+    "id": "hg-2039-000024",
+    "displayNo": 2965534,
+    "timestamp": "2039-05-19T13:17:00+09:00",
+    "year": 2039,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "동해항 뉴스영상 편집본 조회수 뭐냐",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 70412,
+      "recommend": 515
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 13,
+    "popularityScore": 1043
+  },
+  {
+    "id": "hg-2039-000023",
+    "displayNo": 2959123,
+    "timestamp": "2039-05-19T12:57:00+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 사고영상 보고 '저기서 왜 저럼?' 하기 쉬운 이유",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.36"
+    },
+    "stats": {
+      "views": 38249,
+      "recommend": 1023
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 37,
+    "popularityScore": 2083
+  },
+  {
+    "id": "hg-2039-000022",
+    "displayNo": 2955647,
+    "timestamp": "2039-05-19T12:41:00+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "항만쪽 게이트는 뭐가 다른거임? ㅋㅋ",
+    "author": {
+      "type": "fixed",
+      "name": "별빛단7기",
+      "ip": null
+    },
+    "stats": {
+      "views": 57246,
+      "recommend": 156
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 15,
+    "popularityScore": 327
+  },
+  {
+    "id": "hg-2039-000021",
+    "displayNo": 2950464,
+    "timestamp": "2039-05-19T12:24:00+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "오늘 동해항 글만 보다 하루끝남",
+    "author": {
+      "type": "fixed",
+      "name": "현장밥차",
+      "ip": null
+    },
+    "stats": {
+      "views": 16908,
+      "recommend": 29
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 70
+  },
+  {
+    "id": "hg-2039-000019",
+    "displayNo": 2942087,
+    "timestamp": "2039-05-19T12:07:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "동해항 구조·수습 계속중이라네 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.36"
+    },
+    "stats": {
+      "views": 99675,
+      "recommend": 212
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 35,
+    "popularityScore": 459
+  },
+  {
+    "id": "hg-2039-000017",
+    "displayNo": 2931718,
+    "timestamp": "2039-05-19T11:51:00+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "오늘 헌갤 새로고침 속도 미쳤다",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.235"
+    },
+    "stats": {
+      "views": 31272,
+      "recommend": 184
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 18,
+    "popularityScore": 386
+  },
+  {
+    "id": "hg-2039-000014",
+    "displayNo": 2920544,
+    "timestamp": "2039-05-19T11:28:00+09:00",
+    "year": 2039,
+    "internalCategory": "협회·법·범죄",
+    "displayCategory": "협회",
+    "title": "[공지] 동해항 사고 현장위치·부상자 신상 추측 자제",
+    "author": {
+      "type": "admin",
+      "name": "운영자",
+      "ip": null
+    },
+    "stats": {
+      "views": 74152,
+      "recommend": 111
+    },
+    "flags": {
+      "notice": true,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": true
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 222
+  },
+  {
+    "id": "hg-2039-000005",
+    "displayNo": 2884649,
+    "timestamp": "2039-05-19T11:13:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "동해항 구조·수습 계속중이라네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.235"
+    },
+    "stats": {
+      "views": 61264,
+      "recommend": 262
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 27,
+    "popularityScore": 551
+  },
+  {
+    "id": "hg-2039-000004",
+    "displayNo": 2878278,
+    "timestamp": "2039-05-19T10:54:00+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "항만쪽 게이트는 뭐가 다른거임?",
+    "author": {
+      "type": "fixed",
+      "name": "마석눈팅",
+      "ip": null
+    },
+    "stats": {
+      "views": 30816,
+      "recommend": 4
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 19,
+    "popularityScore": 27
+  },
+  {
+    "id": "hg-2039-000003",
+    "displayNo": 2874827,
+    "timestamp": "2039-05-19T10:45:00+09:00",
+    "year": 2039,
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "동해항 사고 관련 공식 공지 업데이트",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "220.79"
+    },
+    "stats": {
+      "views": 133904,
+      "recommend": 1118
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 31,
+    "popularityScore": 2267
+  },
+  {
+    "id": "hg-2039-000001",
+    "displayNo": 2866438,
+    "timestamp": "2039-05-19T10:22:00+09:00",
+    "year": 2039,
+    "internalCategory": "시장·구인",
+    "displayCategory": "구인",
+    "title": "동해항 사고 뒤로 항만현장 구인 취소 많네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 63052,
+      "recommend": 298
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 12,
+    "popularityScore": 608
+  },
+  {
+    "id": "hg-2039-000011",
+    "displayNo": 2906977,
+    "timestamp": "2039-04-12T20:23:02+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "짐꾼 동선 미리 표시해두는 팀 있음?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "211.246"
+    },
+    "stats": {
+      "views": 3439,
+      "recommend": 5
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 9,
+    "popularityScore": 19
+  },
+  {
+    "id": "hg-2039-000043",
+    "displayNo": 3048200,
+    "timestamp": "2039-04-07T20:07:51+09:00",
+    "year": 2039,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "길드 공식채널 중 편집 제일 잘하는데 어디",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "121.140"
+    },
+    "stats": {
+      "views": 17656,
+      "recommend": 38
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 2,
+    "popularityScore": 78
+  },
+  {
+    "id": "hg-2039-000072",
+    "displayNo": 3169367,
+    "timestamp": "2039-04-02T12:08:02+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "아무리 헌터여도 치과는 무섭다 질문",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 6401,
+      "recommend": 53
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 106
+  },
+  {
+    "id": "hg-2039-000040",
+    "displayNo": 3033760,
+    "timestamp": "2039-03-25T09:53:18+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "아무리 헌터여도 치과는 무섭다 ㅋㅋ",
+    "author": {
+      "type": "fixed",
+      "name": "계약서읽자",
+      "ip": null
+    },
+    "stats": {
+      "views": 20716,
+      "recommend": 88
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 1,
+    "popularityScore": 177
+  },
+  {
+    "id": "hg-2039-000071",
+    "displayNo": 3165294,
+    "timestamp": "2039-03-20T19:03:48+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "헌터보험 광고에 우리팀장 닮은사람 나옴 ㅋㅋ",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "118.44"
+    },
+    "stats": {
+      "views": 18516,
+      "recommend": 43
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 86
+  },
+  {
+    "id": "hg-2039-000008",
+    "displayNo": 2895301,
+    "timestamp": "2039-03-05T09:58:10+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "부상보험 청구해본사람",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "117.111"
+    },
+    "stats": {
+      "views": 6675,
+      "recommend": 31
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 6,
+    "popularityScore": 68
+  },
+  {
+    "id": "hg-2039-000007",
+    "displayNo": 2892387,
+    "timestamp": "2039-02-23T08:11:42+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "게이트 끝나고 편의점 털리는거 국룰임?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "175.223"
+    },
+    "stats": {
+      "views": 9316,
+      "recommend": 12
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 24
+  },
+  {
+    "id": "hg-2039-000038",
+    "displayNo": 3025345,
+    "timestamp": "2039-02-18T16:41:44+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "아무리 헌터여도 치과는 무섭다",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "112.171"
+    },
+    "stats": {
+      "views": 18515,
+      "recommend": 114
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 0,
+    "popularityScore": 228
+  },
+  {
+    "id": "hg-2039-000070",
+    "displayNo": 3160093,
+    "timestamp": "2039-02-13T13:45:26+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[후기] 소형 게이트도 입장전 브리핑 하는 이유",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "61.79"
+    },
+    "stats": {
+      "views": 39662,
+      "recommend": 735
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 13,
+    "popularityScore": 1483
+  },
+  {
+    "id": "hg-2039-000006",
+    "displayNo": 2886245,
+    "timestamp": "2039-01-16T14:51:10+09:00",
+    "year": 2039,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "헌터보험 광고에 우리팀장 닮은사람 나옴",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "124.53"
+    },
+    "stats": {
+      "views": 5126,
+      "recommend": 20
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 4,
+    "popularityScore": 44
+  },
+  {
+    "id": "hg-2039-000035",
+    "displayNo": 3008740,
+    "timestamp": "2039-01-11T21:27:14+09:00",
+    "year": 2039,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "언데드에서 정화계 없이 가본놈 있음?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "182.214"
+    },
+    "stats": {
+      "views": 7164,
+      "recommend": 17
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 4,
+    "popularityScore": 38
+  },
+  {
+    "id": "hg-2039-000066",
+    "displayNo": 3145625,
+    "timestamp": "2039-01-06T23:47:06+09:00",
+    "year": 2039,
+    "internalCategory": "공략·실무",
+    "displayCategory": "공략",
+    "title": "[정보] 다친사람 장비 누가 들지 미리 정해놔라",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "61.79"
+    },
+    "stats": {
+      "views": 16998,
+      "recommend": 23
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 3,
+    "popularityScore": 49
+  }
+]

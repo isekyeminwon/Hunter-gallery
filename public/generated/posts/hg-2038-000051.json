@@ -1,0 +1,244 @@
+{
+  "id": "hg-2038-000051",
+  "displayNo": 2605998,
+  "timestamp": "2038-08-03T20:34:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "CHINA_SS_DISASTER",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "중국 재난 촬영보조 구인 갑자기 많아짐",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "211.234"
+  },
+  "content": "이거 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
+  "attachments": [],
+  "stats": {
+    "views": 101144,
+    "recommend": 235
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000051-v8-001",
+      "parentId": null,
+      "timestamp": "2038-08-03T20:36:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "촬영팀 붙으면 동선도 달라질수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-002",
+      "parentId": null,
+      "timestamp": "2038-08-03T20:40:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "원본콜 있는 영상이 공부할땐 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-003",
+      "parentId": "c-2038-000051-v8-001",
+      "timestamp": "2038-08-03T20:44:00+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "원본콜 있으면 공부는 훨씬 잘됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-004",
+      "parentId": "c-2038-000051-v8-001",
+      "timestamp": "2038-08-03T20:47:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "대기시간 잘리니까 쉬워보이는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-005",
+      "parentId": "c-2038-000051-v8-003",
+      "timestamp": "2038-08-03T20:50:26+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "편집본은 잘린시간 감안하고 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-006",
+      "parentId": null,
+      "timestamp": "2038-08-03T20:52:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "영상이 거짓말이라기보다 목적이 다른거",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-007",
+      "parentId": "c-2038-000051-v8-005",
+      "timestamp": "2038-08-03T20:53:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "영상이 구라라기보다 목적이 다른거지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-008",
+      "parentId": null,
+      "timestamp": "2038-08-03T20:57:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "둘다 진정좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-009",
+      "parentId": null,
+      "timestamp": "2038-08-03T20:59:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-010",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:01:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "대댓글만 따로 글파도 되겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-011",
+      "parentId": "c-2038-000051-v8-007",
+      "timestamp": "2038-08-03T21:03:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "대기시간 잘리니까 쉬워보이는거",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-012",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:06:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-013",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:10:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "그건맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-014",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:13:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "대기/확인/철수판단이 편집에서 많이 잘림",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-015",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:14:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-016",
+      "parentId": "c-2038-000051-v8-011",
+      "timestamp": "2038-08-03T21:17:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "그건 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000051-v8-017",
+      "parentId": null,
+      "timestamp": "2038-08-03T21:20:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "편집본만 보면 15분컷 같음ㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

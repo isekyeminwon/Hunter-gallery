@@ -1,0 +1,100 @@
+{
+  "id": "hg-2042-000065",
+  "displayNo": 4073913,
+  "timestamp": "2042-05-25T01:17:56+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "공략·실무",
+  "displayCategory": "공략",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "항만형 현장 가방 고정 이렇게함",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "118.235"
+  },
+  "content": "우리팀 방식이라 절대정답은 아님.\n반박 있으면 경험담으로 해줘.",
+  "attachments": [],
+  "stats": {
+    "views": 32024,
+    "recommend": 30
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2042-000065-v8-001",
+      "parentId": null,
+      "timestamp": "2042-05-25T01:21:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "지원팀 붙으면 평소 파티콜로 안되는 순간 생김",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000065-v8-002",
+      "parentId": null,
+      "timestamp": "2042-05-25T01:23:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "항만쪽은 차량/물자동선까지 섞여서 복잡함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000065-v8-003",
+      "parentId": null,
+      "timestamp": "2042-05-25T01:27:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "사고원인 뜨기전에 길드탓부터 하던거 기억남",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000065-v8-004",
+      "parentId": "c-2042-000065-v8-001",
+      "timestamp": "2042-05-25T01:28:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이건 해보면 체감함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000065-v8-005",
+      "parentId": "c-2042-000065-v8-001",
+      "timestamp": "2042-05-25T01:31:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "한번 고생하면 안까먹음",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

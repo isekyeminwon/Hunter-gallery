@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000130",
+  "displayNo": 4249230,
+  "timestamp": "2042-09-05T11:35:24+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "백호 이적확정 내부캡처 가져옴",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "106.101"
+  },
+  "content": "",
+  "attachments": [],
+  "stats": {
+    "views": 1695,
+    "recommend": 0
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": true,
+    "locked": false
+  },
+  "deletedStatus": "MODERATOR_DELETED",
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

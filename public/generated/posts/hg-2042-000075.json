@@ -1,0 +1,39 @@
+{
+  "id": "hg-2042-000075",
+  "displayNo": 4062213,
+  "timestamp": "2042-05-08T10:20:48+09:00",
+  "year": 2042,
+  "era": "MATURE",
+  "internalCategory": "뻘글·잡담",
+  "displayCategory": "일반",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "오늘 현장 취소 개꿀ㅋㅋ",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "223.52"
+  },
+  "content": "일끝나고 멍때리는중",
+  "attachments": [],
+  "stats": {
+    "views": 16640,
+    "recommend": 110
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

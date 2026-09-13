@@ -1,0 +1,76 @@
+{
+  "id": "hg-2037-000036",
+  "displayNo": 2320930,
+  "timestamp": "2037-06-12T14:51:11+09:00",
+  "year": 2037,
+  "era": "MATURE",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": null,
+    "phase": "NONE",
+    "related": false
+  },
+  "title": "마석 매입가 오늘 왜이럼",
+  "author": {
+    "type": "fixed",
+    "name": "영상분석충",
+    "ip": null
+  },
+  "content": "별거 아닌데 은근 궁금함ㅋㅋ",
+  "attachments": [],
+  "stats": {
+    "views": 2855,
+    "recommend": 14
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2037-000036-v8-001",
+      "parentId": null,
+      "timestamp": "2037-06-12T14:52:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "민간쪽은 조건이 다 달라서 귀찮음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000036-v8-002",
+      "parentId": null,
+      "timestamp": "2037-06-12T14:55:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "정산 빨리해주는곳 선호하는 이유가 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000036-v8-003",
+      "parentId": null,
+      "timestamp": "2037-06-12T14:57:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "마석 등급만 보고 가격 딱 정해지는건 아니더라",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}

@@ -33,111 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2026-000008-001",
+      "id": "c-2026-000008-v8-001",
       "parentId": null,
-      "timestamp": "2026-01-13T22:48:05+09:00",
+      "timestamp": "2026-01-13T22:48:26+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
       },
-      "content": "일단 협회 자체보다 조건이 뭐였는지부터 봐야됨 반박시 니말맞음",
+      "content": "신고해본사람 있음?",
       "deleted": false
     },
     {
-      "id": "nat-2026-000008-002",
+      "id": "c-2026-000008-v8-002",
       "parentId": null,
-      "timestamp": "2026-01-13T22:53:20+09:00",
+      "timestamp": "2026-01-13T22:51:28+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
       },
-      "content": "애초에 조건 하나 빠진 상태로 결론내리는 사람이 너무 많음 그냥 그렇다고",
+      "content": "명의 빌려주는건 괜히 엮이지마",
       "deleted": false
     },
     {
-      "id": "nat-2026-000008-003",
+      "id": "c-2026-000008-v8-003",
       "parentId": null,
-      "timestamp": "2026-01-13T22:57:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "아니ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000008-004",
-      "parentId": null,
-      "timestamp": "2026-01-13T23:05:03+09:00",
+      "timestamp": "2026-01-13T22:53:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.36"
       },
-      "content": "뇌피셜을 왜 사실처럼 씀. ㅋㅋㅋㅋ",
+      "content": "그 조항 아직 그대로임?",
       "deleted": false
     },
     {
-      "id": "nat-2026-000008-005",
+      "id": "c-2026-000008-v8-004",
       "parentId": null,
-      "timestamp": "2026-01-13T23:06:25+09:00",
+      "timestamp": "2026-01-13T22:55:41+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
       },
-      "content": "아 배고파",
+      "content": "규정이랑 관행은 또 다를수 있음",
       "deleted": false
     },
     {
-      "id": "nat-2026-000008-006",
-      "parentId": null,
-      "timestamp": "2026-01-13T23:15:59+09:00",
+      "id": "c-2026-000008-v8-005",
+      "parentId": "c-2026-000008-v8-002",
+      "timestamp": "2026-01-13T22:59:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "118.221"
       },
-      "content": "커뮤 판례 만들지말고 공식문서 봐라 ㅋㅋ 이래서 댓글보는 맛은 있음",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000008-007",
-      "parentId": null,
-      "timestamp": "2026-01-13T23:25:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "뭐 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 이건 좀 더 봐야됨. 작성자도 너무 확신하진 마라.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000008-008",
-      "parentId": null,
-      "timestamp": "2026-01-13T23:33:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "웃긴게 협회 얘기만 나오면 갑자기 다들 현장 전문가 됨 그냥 그렇다고",
-      "deleted": false
-    },
-    {
-      "id": "nat-2026-000008-009",
-      "parentId": null,
-      "timestamp": "2026-01-13T23:35:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "협회 이거 실제 해본 사람 있음 ㅋㅋ 진짜 궁금해서 물음",
+      "content": "최신 공지 한번 봐야겠네",
       "deleted": false
     }
   ],

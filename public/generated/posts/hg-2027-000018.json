@@ -33,51 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "nat-2027-000018-001",
+      "id": "c-2027-000018-v8-001",
       "parentId": null,
-      "timestamp": "2027-06-23T22:14:21+09:00",
+      "timestamp": "2027-06-23T22:10:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "175.223"
       },
-      "content": "본문 세줄 댓글 오십개가 커뮤지 / 경험자 반박환영",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000018-002",
-      "parentId": null,
-      "timestamp": "2027-06-23T22:19:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "일단 한명 경험담을 전체 룰로 만드는게 제일 위험함 같음. 괜히 한쪽 말만 듣고 움직이지마.",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000018-003",
-      "parentId": null,
-      "timestamp": "2027-06-23T22:29:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.109"
-      },
-      "content": "내가 잘못 아는거 아니면 댓글 보다보면 원글이 무슨 내용이었는지 까먹음 존나 웃김",
-      "deleted": false
-    },
-    {
-      "id": "nat-2027-000018-004",
-      "parentId": null,
-      "timestamp": "2027-06-23T22:38:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "내 주변은 C급는 인터넷에서 과장 붙어서 도는 얘기가 너무 많음 아무튼 조심해라. 댓글에서 벌써 결론 다 내린게 더 웃김.",
+      "content": "ㅋㅋ",
       "deleted": false
     }
   ],

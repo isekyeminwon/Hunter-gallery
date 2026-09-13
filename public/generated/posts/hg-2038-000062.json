@@ -1,0 +1,184 @@
+{
+  "id": "hg-2038-000062",
+  "displayNo": 2644987,
+  "timestamp": "2038-09-02T18:54:00+09:00",
+  "year": 2038,
+  "era": "DISASTER_ERA",
+  "internalCategory": "시장·구인",
+  "displayCategory": "구인",
+  "event": {
+    "tag": "XIAO_LONG_KOREA_FOLLOWUP",
+    "phase": "BREAKING",
+    "related": true
+  },
+  "title": "샤오룽 기사 이 상황에 구인글 올려도됨?",
+  "author": {
+    "type": "anonymous",
+    "name": "ㅇㅇ",
+    "ip": "58.29"
+  },
+  "content": "샤오룽 관련해서 방금 본거 가져옴.\n기사마다 표현이 달라서 확인된 것만 보는게 맞을듯.",
+  "attachments": [],
+  "stats": {
+    "views": 64360,
+    "recommend": 465
+  },
+  "flags": {
+    "notice": false,
+    "concept": false,
+    "classic": false,
+    "deleted": false,
+    "locked": false
+  },
+  "deletedStatus": null,
+  "comments": [
+    {
+      "id": "c-2038-000062-v8-001",
+      "parentId": null,
+      "timestamp": "2038-09-02T18:56:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "조건부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-002",
+      "parentId": null,
+      "timestamp": "2038-09-02T18:58:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "계약주체 누구임",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-003",
+      "parentId": null,
+      "timestamp": "2038-09-02T19:02:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-004",
+      "parentId": null,
+      "timestamp": "2038-09-02T19:04:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "예상시간 몇시간인데",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-005",
+      "parentId": null,
+      "timestamp": "2038-09-02T19:06:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-006",
+      "parentId": null,
+      "timestamp": "2038-09-02T19:09:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "보험 있냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-007",
+      "parentId": "c-2038-000062-v8-001",
+      "timestamp": "2038-09-02T19:12:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-008",
+      "parentId": null,
+      "timestamp": "2038-09-02T19:14:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-009",
+      "parentId": null,
+      "timestamp": "2038-09-02T19:18:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "이건 처음듣네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-010",
+      "parentId": "c-2038-000062-v8-004",
+      "timestamp": "2038-09-02T19:21:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-011",
+      "parentId": null,
+      "timestamp": "2038-09-02T19:23:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "나도 비슷했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000062-v8-012",
+      "parentId": null,
+      "timestamp": "2038-09-02T19:27:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    }
+  ],
+  "canon": {
+    "keywords": [],
+    "forbiddenKnowledge": []
+  }
+}
