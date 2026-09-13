@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000061-v8-001",
+      "id": "c-2041-000061-b2m-001",
       "parentId": null,
-      "timestamp": "2041-04-12T19:22:37+09:00",
+      "timestamp": "2041-04-12T19:23:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "1.239"
       },
-      "content": "표 하나 뜨면 바로 줄세움",
+      "content": "훈련점수로 길드서열 매기는건 너무 헌갤식ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000061-v8-002",
+      "id": "c-2041-000061-b2m-002",
       "parentId": null,
-      "timestamp": "2041-04-12T19:24:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "내표 만들면 순위 다바뀜",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-003",
-      "parentId": null,
-      "timestamp": "2041-04-12T19:26:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "A급 내려치기 너무 심함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-004",
-      "parentId": "c-2041-000061-v8-002",
-      "timestamp": "2041-04-12T19:30:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-005",
-      "parentId": null,
-      "timestamp": "2041-04-12T19:31:28+09:00",
+      "timestamp": "2041-04-12T19:26:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.102"
       },
-      "content": "내용은 갈드컵인데 양식은 논문임",
+      "content": "다른 길드끼리 장비규격 맞추는것도 은근 일임",
       "deleted": false
     },
     {
-      "id": "c-2041-000061-v8-006",
-      "parentId": "c-2041-000061-v8-003",
-      "timestamp": "2041-04-12T19:34:00+09:00",
+      "id": "c-2041-000061-b2m-003",
+      "parentId": "c-2041-000061-b2m-001",
+      "timestamp": "2041-04-12T19:30:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "110.70"
       },
-      "content": "또 줄세우기 시작이네",
+      "content": "공식랭킹도 아닌데 너무 진지함",
       "deleted": false
     },
     {
-      "id": "c-2041-000061-v8-007",
-      "parentId": "c-2041-000061-v8-004",
-      "timestamp": "2041-04-12T19:35:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-008",
+      "id": "c-2041-000061-b2m-004",
       "parentId": null,
-      "timestamp": "2041-04-12T19:37:55+09:00",
+      "timestamp": "2041-04-12T19:33:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "1.239"
       },
-      "content": "능력상성 넣는순간 표 다시만들어야지",
+      "content": "철수콜 반복시키는 이유가 실전에서 안헷갈리려고 하는거지",
       "deleted": false
     },
     {
-      "id": "c-2041-000061-v8-009",
+      "id": "c-2041-000061-b2m-005",
       "parentId": null,
-      "timestamp": "2041-04-12T19:41:52+09:00",
+      "timestamp": "2041-04-12T19:35:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "110.70"
       },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-010",
-      "parentId": null,
-      "timestamp": "2041-04-12T19:43:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이 떡밥은 안죽네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-011",
-      "parentId": null,
-      "timestamp": "2041-04-12T19:46:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-012",
-      "parentId": null,
-      "timestamp": "2041-04-12T19:47:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-013",
-      "parentId": null,
-      "timestamp": "2041-04-12T19:49:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-014",
-      "parentId": "c-2041-000061-v8-013",
-      "timestamp": "2041-04-12T19:51:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-015",
-      "parentId": null,
-      "timestamp": "2041-04-12T19:53:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-016",
-      "parentId": null,
-      "timestamp": "2041-04-12T19:55:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "최근에 해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000061-v8-017",
-      "parentId": null,
-      "timestamp": "2041-04-12T19:58:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "요즘 A를 너무 쉽게 말함",
+      "content": "합동훈련은 전투보다 콜 맞추는 시간이 더 오래걸린다더라",
       "deleted": false
     }
   ],

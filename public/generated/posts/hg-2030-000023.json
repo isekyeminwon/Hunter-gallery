@@ -33,219 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000023-v8-001",
+      "id": "c-2030-000023-b1-001",
       "parentId": null,
-      "timestamp": "2030-11-04T06:17:52+09:00",
+      "timestamp": "2030-11-04T06:23:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "211.197"
       },
-      "content": "이번 편집 진짜 잘뽑았네",
+      "content": "공식 공지 뜨기전까진 내부구조 썰 믿지마",
       "deleted": false
     },
     {
-      "id": "c-2030-000023-v8-002",
+      "id": "c-2030-000023-b1-002",
       "parentId": null,
-      "timestamp": "2030-11-04T06:21:02+09:00",
+      "timestamp": "2030-11-04T06:27:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "220.79"
       },
-      "content": "보스방 들어갈때 음악 끊는거 좋았음",
+      "content": "별하나 생존 확인된건 그나마 다행이다",
       "deleted": false
     },
     {
-      "id": "c-2030-000023-v8-003",
+      "id": "c-2030-000023-b1-003",
       "parentId": null,
-      "timestamp": "2030-11-04T06:22:25+09:00",
+      "timestamp": "2030-11-04T06:37:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "220.79"
       },
-      "content": "중간 이동구간 엄청 잘라냈더라",
+      "content": "피해자 얼굴 보이는 영상 퍼오는건 진짜 선넘음",
       "deleted": false
     },
     {
-      "id": "c-2030-000023-v8-004",
-      "parentId": "c-2030-000023-v8-003",
-      "timestamp": "2030-11-04T06:24:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-005",
+      "id": "c-2030-000023-b1-004",
       "parentId": null,
-      "timestamp": "2030-11-04T06:28:05+09:00",
+      "timestamp": "2030-11-04T06:45:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "211.197"
       },
-      "content": "별하나 표정 짤 바로 돌겠네ㅋㅋ",
+      "content": "공연장 안에서 게이트면 기존 통제랑 얘기가 완전 다르지",
       "deleted": false
     },
     {
-      "id": "c-2030-000023-v8-006",
-      "parentId": "c-2030-000023-v8-001",
-      "timestamp": "2030-11-04T06:31:04+09:00",
+      "id": "c-2030-000023-b1-005",
+      "parentId": "c-2030-000023-b1-002",
+      "timestamp": "2030-11-04T06:56:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "220.79"
       },
-      "content": "이번 편집은 진짜 잘뽑힘",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-007",
-      "parentId": null,
-      "timestamp": "2030-11-04T06:33:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "풀버전도 풀어줬으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-008",
-      "parentId": "c-2030-000023-v8-002",
-      "timestamp": "2030-11-04T06:36:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "풀버전도 보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-009",
-      "parentId": "c-2030-000023-v8-006",
-      "timestamp": "2030-11-04T06:40:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-010",
-      "parentId": null,
-      "timestamp": "2030-11-04T06:44:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "원글 내용 까먹고 다시봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-011",
-      "parentId": null,
-      "timestamp": "2030-11-04T06:47:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "촬영팀 고생한 티 남",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-012",
-      "parentId": null,
-      "timestamp": "2030-11-04T06:51:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-013",
-      "parentId": null,
-      "timestamp": "2030-11-04T06:53:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "엔딩컷 노린 티 나는데 잘나오긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-014",
-      "parentId": "c-2030-000023-v8-007",
-      "timestamp": "2030-11-04T06:55:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-015",
-      "parentId": null,
-      "timestamp": "2030-11-04T06:59:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-016",
-      "parentId": null,
-      "timestamp": "2030-11-04T07:03:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "댓글보다 영상 타임스탬프 공유하는게 낫다ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-017",
-      "parentId": "c-2030-000023-v8-011",
-      "timestamp": "2030-11-04T07:06:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "이번 편집은 진짜 잘뽑힘",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000023-v8-018",
-      "parentId": null,
-      "timestamp": "2030-11-04T07:10:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "팬아닌데 이번건 볼만함",
+      "content": "별하나 생존 확인된건 진짜 다행",
       "deleted": false
     }
   ],

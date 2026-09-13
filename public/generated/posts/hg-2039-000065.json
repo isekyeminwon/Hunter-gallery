@@ -33,219 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000065-v8-001",
+      "id": "c-2039-000065-b2m-001",
       "parentId": null,
-      "timestamp": "2039-09-03T19:32:00+09:00",
+      "timestamp": "2039-09-03T19:32:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "223.62"
       },
-      "content": "A 둘 뜨면 왜 꼭 싸움붙이냐",
+      "content": "A급이라고 바로 베테랑보다 위라고 하긴 어렵지",
       "deleted": false
     },
     {
-      "id": "c-2039-000065-v8-002",
+      "id": "c-2039-000065-b2m-002",
       "parentId": null,
-      "timestamp": "2039-09-03T19:33:38+09:00",
+      "timestamp": "2039-09-03T19:35:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "211.234"
       },
-      "content": "김민찬 B라고 무시하는놈들 B가 뭔지 까먹음",
+      "content": "신인 기사 몇줄 뜨면 10년뒤 순위까지 뽑는거 웃김ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2039-000065-v8-003",
-      "parentId": "c-2039-000065-v8-002",
-      "timestamp": "2039-09-03T19:36:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "A 둘이면 꼭 비교 붙이더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-004",
+      "id": "c-2039-000065-b2m-003",
       "parentId": null,
-      "timestamp": "2039-09-03T19:38:27+09:00",
+      "timestamp": "2039-09-03T19:39:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "223.62"
       },
-      "content": "신인 기사 세줄로 10년뒤 순위까지 뽑네ㅋㅋ",
+      "content": "길드 어디가는지에 따라 평가도 많이 달라질듯",
       "deleted": false
     },
     {
-      "id": "c-2039-000065-v8-005",
+      "id": "c-2039-000065-b2m-004",
       "parentId": null,
-      "timestamp": "2039-09-03T19:40:27+09:00",
+      "timestamp": "2039-09-03T19:41:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "121.163"
       },
-      "content": "첫해부터 TOP10 넣는건 좀 빠르지",
+      "content": "{{con:kwah}}",
       "deleted": false
     },
     {
-      "id": "c-2039-000065-v8-006",
-      "parentId": "c-2039-000065-v8-005",
-      "timestamp": "2039-09-03T19:44:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "첫해부터 순위 박는건 좀 빠르지",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-007",
+      "id": "c-2039-000065-b2m-005",
       "parentId": null,
-      "timestamp": "2039-09-03T19:45:35+09:00",
+      "timestamp": "2039-09-03T19:43:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "211.234"
       },
-      "content": "길드 어디갈지도 안나왔는데 팬들이 먼저 입사시킴",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-008",
-      "parentId": "c-2039-000065-v8-003",
-      "timestamp": "2039-09-03T19:48:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "길드 정해지고 봐도 안늦음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-009",
-      "parentId": null,
-      "timestamp": "2039-09-03T19:51:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-010",
-      "parentId": null,
-      "timestamp": "2039-09-03T19:54:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-011",
-      "parentId": null,
-      "timestamp": "2039-09-03T19:56:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-012",
-      "parentId": "c-2039-000065-v8-005",
-      "timestamp": "2039-09-03T19:57:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "신인 기사 몇줄로 다아는척함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-013",
-      "parentId": null,
-      "timestamp": "2039-09-03T20:00:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-014",
-      "parentId": null,
-      "timestamp": "2039-09-03T20:04:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-015",
-      "parentId": null,
-      "timestamp": "2039-09-03T20:06:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-016",
-      "parentId": null,
-      "timestamp": "2039-09-03T20:10:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-017",
-      "parentId": "c-2039-000065-v8-012",
-      "timestamp": "2039-09-03T20:12:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "김민찬 B라고 무시할급은 아닌데",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000065-v8-018",
-      "parentId": "c-2039-000065-v8-013",
-      "timestamp": "2039-09-03T20:15:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "A 둘이면 꼭 비교 붙이더라",
+      "content": "기사 몇줄로 TOP10 넣는건 성급함",
       "deleted": false
     }
   ],

@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000062-v8-001",
+      "id": "c-2038-000062-b2m-001",
       "parentId": null,
-      "timestamp": "2038-09-02T18:56:20+09:00",
+      "timestamp": "2038-09-02T18:56:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "211.36"
       },
-      "content": "조건부터 봐야됨",
+      "content": "한국 체류랑 한국 소속은 다른 얘기지",
       "deleted": false
     },
     {
-      "id": "c-2038-000062-v8-002",
+      "id": "c-2038-000062-b2m-002",
       "parentId": null,
-      "timestamp": "2038-09-02T18:58:44+09:00",
+      "timestamp": "2038-09-02T18:58:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "117.111"
       },
-      "content": "계약주체 누구임",
+      "content": "구조영상이 워낙 강해서 다른 지원팀 얘기가 묻힌 느낌",
       "deleted": false
     },
     {
-      "id": "c-2038-000062-v8-003",
+      "id": "c-2038-000062-b2m-003",
       "parentId": null,
-      "timestamp": "2038-09-02T19:02:27+09:00",
+      "timestamp": "2038-09-02T19:01:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "175.194"
       },
-      "content": "보험 있냐",
+      "content": "한국 인터뷰 뜰때마다 중국사고 영상 다시 도네",
       "deleted": false
     },
     {
-      "id": "c-2038-000062-v8-004",
+      "id": "c-2038-000062-b2m-004",
       "parentId": null,
-      "timestamp": "2038-09-02T19:04:43+09:00",
+      "timestamp": "2038-09-02T19:03:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "175.194"
       },
-      "content": "예상시간 몇시간인데",
+      "content": "샤오룽 한국어 진짜 많이 늘었더라",
       "deleted": false
     },
     {
-      "id": "c-2038-000062-v8-005",
+      "id": "c-2038-000062-b2m-005",
       "parentId": null,
-      "timestamp": "2038-09-02T19:06:28+09:00",
+      "timestamp": "2038-09-02T19:06:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "211.36"
       },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000062-v8-006",
-      "parentId": null,
-      "timestamp": "2038-09-02T19:09:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000062-v8-007",
-      "parentId": "c-2038-000062-v8-001",
-      "timestamp": "2038-09-02T19:12:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000062-v8-008",
-      "parentId": null,
-      "timestamp": "2038-09-02T19:14:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000062-v8-009",
-      "parentId": null,
-      "timestamp": "2038-09-02T19:18:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000062-v8-010",
-      "parentId": "c-2038-000062-v8-004",
-      "timestamp": "2038-09-02T19:21:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000062-v8-011",
-      "parentId": null,
-      "timestamp": "2038-09-02T19:23:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000062-v8-012",
-      "parentId": null,
-      "timestamp": "2038-09-02T19:27:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "샤오룽 한명으로 국가서열 재는건 오바",
       "deleted": false
     }
   ],

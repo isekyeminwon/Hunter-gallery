@@ -33,99 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000057-pilot001",
+      "id": "c-2042-000057-b2m-001",
       "parentId": null,
-      "timestamp": "2042-06-20T07:18:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "3:42 얼음 번지는거 프레임으로 보면 더 미침",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000057-pilot002",
-      "parentId": null,
-      "timestamp": "2042-06-20T07:19:39+09:00",
+      "timestamp": "2042-06-20T07:21:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "106.248"
       },
-      "content": "저게 화면밖까지 간거 맞음?",
+      "content": "김채연 광역영상은 화면밖이 더 무서움",
       "deleted": false
     },
     {
-      "id": "c-2042-000057-pilot003",
-      "parentId": "c-2042-000057-pilot002",
-      "timestamp": "2042-06-20T07:20:08+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "후속캠 보면 더 나감. 편집본이라 정확한 끝은 안보임",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000057-pilot004",
+      "id": "c-2042-000057-b2m-002",
       "parentId": null,
-      "timestamp": "2042-06-20T07:21:08+09:00",
+      "timestamp": "2042-06-20T07:24:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "211.234"
       },
-      "content": "댓글은 왜 강주아랑 싸우고있냐",
+      "content": "네뷸라 자료는 비교적 많이 나와서 영상찾기는 편한편",
       "deleted": false
     },
     {
-      "id": "c-2042-000057-pilot005",
-      "parentId": null,
-      "timestamp": "2042-06-20T07:21:52+09:00",
+      "id": "c-2042-000057-b2m-003",
+      "parentId": "c-2042-000057-b2m-001",
+      "timestamp": "2042-06-20T07:28:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "106.102"
       },
-      "content": "김채연 글의 자연재해임",
+      "content": "재업인지 날짜부터 확인해봐",
       "deleted": false
     },
     {
-      "id": "c-2042-000057-pilot006",
+      "id": "c-2042-000057-b2m-004",
       "parentId": null,
-      "timestamp": "2042-06-20T07:23:14+09:00",
+      "timestamp": "2042-06-20T07:30:49+09:00",
       "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
       },
-      "content": "소환됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000057-pilot007",
-      "parentId": null,
-      "timestamp": "2042-06-20T07:24:07+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "꺼져",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000057-pilot008",
-      "parentId": "c-2042-000057-pilot007",
-      "timestamp": "2042-06-20T07:25:00+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "ㅋㅋㅋㅋㅋㅋ",
+      "content": "{{con:hi_star}}",
       "deleted": false
     }
   ],

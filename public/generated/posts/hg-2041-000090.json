@@ -33,219 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000090-v8-001",
+      "id": "c-2041-000090-b2m-001",
       "parentId": null,
-      "timestamp": "2041-04-13T21:08:03+09:00",
+      "timestamp": "2041-04-13T21:08:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "14.32"
       },
-      "content": "예비배터리도 실제로 켜봐",
+      "content": "예비배터리까지 켜봐야됨 잔량표시만 믿다 당함",
       "deleted": false
     },
     {
-      "id": "c-2041-000090-v8-002",
+      "id": "c-2041-000090-b2m-002",
       "parentId": null,
-      "timestamp": "2041-04-13T21:11:14+09:00",
+      "timestamp": "2041-04-13T21:12:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "112.171"
       },
-      "content": "입구에서 5분 보는게 낫다",
+      "content": "가방 지퍼 하나 터져도 현장에선 존나 귀찮음",
       "deleted": false
     },
     {
-      "id": "c-2041-000090-v8-003",
+      "id": "c-2041-000090-b2m-003",
       "parentId": null,
-      "timestamp": "2041-04-13T21:13:08+09:00",
+      "timestamp": "2041-04-13T21:14:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "112.171"
       },
-      "content": "작동확인 입구에서 한번 더함",
+      "content": "렌탈 받을때 버클/스트랩/배터리 실제로 확인해",
       "deleted": false
     },
     {
-      "id": "c-2041-000090-v8-004",
-      "parentId": "c-2041-000090-v8-002",
-      "timestamp": "2041-04-13T21:14:37+09:00",
+      "id": "c-2041-000090-b2m-004",
+      "parentId": "c-2041-000090-b2m-003",
+      "timestamp": "2041-04-13T21:18:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "211.234"
       },
-      "content": "반납할때 사진있으면 편함",
+      "content": "입구에서 실제 작동 한번 해봐",
       "deleted": false
     },
     {
-      "id": "c-2041-000090-v8-005",
-      "parentId": null,
-      "timestamp": "2041-04-13T21:16:40+09:00",
+      "id": "c-2041-000090-b2m-005",
+      "parentId": "c-2041-000090-b2m-003",
+      "timestamp": "2041-04-13T21:21:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "14.32"
       },
-      "content": "렌탈은 인수할때 흠집 사진 찍어둬",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-006",
-      "parentId": null,
-      "timestamp": "2041-04-13T21:19:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "반납때 싸우기싫으면 상태 기록해둬",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-007",
-      "parentId": null,
-      "timestamp": "2041-04-13T21:23:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "가방 지퍼 터지면 현장에서 답없음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-008",
-      "parentId": "c-2041-000090-v8-001",
-      "timestamp": "2041-04-13T21:26:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "버클 하나 나가면 현장서 존나짜증남",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-009",
-      "parentId": "c-2041-000090-v8-007",
-      "timestamp": "2041-04-13T21:28:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "새거라고 다 멀쩡한건 아니더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-010",
-      "parentId": "c-2041-000090-v8-008",
-      "timestamp": "2041-04-13T21:30:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "입구에서 한번 더보는게 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-011",
-      "parentId": "c-2041-000090-v8-006",
-      "timestamp": "2041-04-13T21:33:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "예비배터리도 실제로 켜봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-012",
-      "parentId": "c-2041-000090-v8-007",
-      "timestamp": "2041-04-13T21:36:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "예비배터리도 실제로 켜봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-013",
-      "parentId": null,
-      "timestamp": "2041-04-13T21:39:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "뭔글이었나 위로 올라갔다옴ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-014",
-      "parentId": null,
-      "timestamp": "2041-04-13T21:42:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "버클/스트랩부터 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-015",
-      "parentId": null,
-      "timestamp": "2041-04-13T21:45:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-016",
-      "parentId": null,
-      "timestamp": "2041-04-13T21:49:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-017",
-      "parentId": null,
-      "timestamp": "2041-04-13T21:50:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000090-v8-018",
-      "parentId": null,
-      "timestamp": "2041-04-13T21:52:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "나만 이렇게 하는건가",
+      "content": "파손기준이 보증금보다 더 중요할때 있음",
       "deleted": false
     }
   ],

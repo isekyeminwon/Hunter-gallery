@@ -33,63 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000032-v8-001",
+      "id": "c-2036-000032-b1-001",
       "parentId": null,
-      "timestamp": "2036-03-22T18:17:16+09:00",
+      "timestamp": "2036-03-22T18:24:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "106.102"
       },
-      "content": "짐꾼인데 전투보조까지 당연하게 시키는팀 거름",
+      "content": "철수시 일당조건도 써줘",
       "deleted": false
     },
     {
-      "id": "c-2036-000032-v8-002",
+      "id": "c-2036-000032-b1-002",
       "parentId": null,
-      "timestamp": "2036-03-22T18:20:48+09:00",
+      "timestamp": "2036-03-22T18:32:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "211.36"
       },
-      "content": "짐무게 미리 안말해주는팀 피곤함",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000032-v8-003",
-      "parentId": "c-2036-000032-v8-002",
-      "timestamp": "2036-03-22T18:23:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "짐꾼인데 전투시키려는팀은 거름",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000032-v8-004",
-      "parentId": null,
-      "timestamp": "2036-03-22T18:26:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "일당보다 보험/시간/짐무게부터",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000032-v8-005",
-      "parentId": "c-2036-000032-v8-002",
-      "timestamp": "2036-03-22T18:30:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "팀 후기 한번 보고가",
+      "content": "보험있음?",
       "deleted": false
     }
   ],

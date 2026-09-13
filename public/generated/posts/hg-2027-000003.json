@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000003-v8-001",
+      "id": "c-2027-000003-b1-001",
       "parentId": null,
-      "timestamp": "2027-02-15T21:40:50+09:00",
+      "timestamp": "2027-02-15T21:41:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "61.79"
       },
-      "content": "규정이랑 관행은 또 다를수 있음",
+      "content": "실명 등급 같이 털린거면 진짜 큰사고임",
       "deleted": false
     },
     {
-      "id": "c-2027-000003-v8-002",
+      "id": "c-2027-000003-b1-002",
       "parentId": null,
-      "timestamp": "2027-02-15T21:43:03+09:00",
+      "timestamp": "2027-02-15T21:49:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "118.47"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "어디서 샜는지 조사결과가 더 중요함",
       "deleted": false
     },
     {
-      "id": "c-2027-000003-v8-003",
-      "parentId": "c-2027-000003-v8-002",
-      "timestamp": "2027-02-15T21:45:00+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000003-v8-004",
-      "parentId": "c-2027-000003-v8-003",
-      "timestamp": "2027-02-15T21:46:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000003-v8-005",
+      "id": "c-2027-000003-b1-003",
       "parentId": null,
-      "timestamp": "2027-02-15T21:50:06+09:00",
+      "timestamp": "2027-02-15T22:00:49+09:00",
       "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.47"
       },
-      "content": "이건 최신 공지 봐야됨",
+      "content": "명단 재업하는놈들도 똑같이 문제만 키움",
       "deleted": false
     },
     {
-      "id": "c-2027-000003-v8-006",
+      "id": "c-2027-000003-b1-004",
       "parentId": null,
-      "timestamp": "2027-02-15T21:53:59+09:00",
+      "timestamp": "2027-02-15T22:07:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "211.202"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000003-v8-007",
-      "parentId": "c-2027-000003-v8-003",
-      "timestamp": "2027-02-15T21:55:33+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000003-v8-008",
-      "parentId": null,
-      "timestamp": "2027-02-15T21:58:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "그 조항 아직 그대로임?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000003-v8-009",
-      "parentId": null,
-      "timestamp": "2027-02-15T22:01:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "신고해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000003-v8-010",
-      "parentId": null,
-      "timestamp": "2027-02-15T22:03:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000003-v8-011",
-      "parentId": "c-2027-000003-v8-008",
-      "timestamp": "2027-02-15T22:06:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "애매하면 신상은 올리지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000003-v8-012",
-      "parentId": null,
-      "timestamp": "2027-02-15T22:08:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이건 인정",
+      "content": "당사자들은 무슨죄냐",
       "deleted": false
     }
   ],

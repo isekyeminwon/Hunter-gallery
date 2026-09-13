@@ -33,27 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000162-v8-001",
+      "id": "c-2042-000162-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-17T02:01:57+09:00",
+      "timestamp": "2042-09-17T02:00:33+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
       },
-      "content": "고의로 낮추면 주변이 틀린정보로 판단하게 됨",
+      "content": "다름. 고의로 숨긴거랑 갱신지연/행정누락은 구분해야됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000162-v8-002",
+      "id": "c-2042-000162-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T02:03:25+09:00",
+      "timestamp": "2042-09-17T02:03:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "59.5"
       },
-      "content": "측정오류랑 고의숨김은 구분해야됨",
+      "content": "무조건 같은 처분이라고 보면 안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000162-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-09-17T02:06:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "부정등록은 낮은정보를 일부러 이용했다는 점이 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000162-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-09-17T02:09:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "미갱신도 문제는 될수 있지만 의도/기간/사용여부가 다름",
       "deleted": false
     }
   ],

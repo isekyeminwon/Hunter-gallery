@@ -33,171 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000026-v8-001",
+      "id": "c-2032-000026-b1-001",
       "parentId": null,
-      "timestamp": "2032-07-04T18:33:49+09:00",
+      "timestamp": "2032-07-04T18:42:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "106.245"
       },
-      "content": "나중에 보려고 스크랩함",
+      "content": "김채연 들어오고 지원자 몰릴만하긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000026-v8-002",
+      "id": "c-2032-000026-b1-002",
       "parentId": null,
-      "timestamp": "2032-07-04T18:37:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "팀마다 이부분은 좀 갈리더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-003",
-      "parentId": "c-2032-000026-v8-002",
-      "timestamp": "2032-07-04T18:39:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-004",
-      "parentId": "c-2032-000026-v8-002",
-      "timestamp": "2032-07-04T18:42:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-005",
-      "parentId": null,
-      "timestamp": "2032-07-04T18:44:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "한번 고생하면 절대 안빼먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-006",
-      "parentId": null,
-      "timestamp": "2032-07-04T18:48:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-007",
-      "parentId": null,
-      "timestamp": "2032-07-04T18:50:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "처음가는사람은 이런거 봐둬",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-008",
-      "parentId": null,
-      "timestamp": "2032-07-04T18:53:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "이건 사전에 맞춰놔야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-009",
-      "parentId": "c-2032-000026-v8-007",
-      "timestamp": "2032-07-04T18:57:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-010",
-      "parentId": null,
-      "timestamp": "2032-07-04T18:59:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-011",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:02:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "뉴비한텐 이런글이 더 도움됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000026-v8-012",
-      "parentId": "c-2032-000026-v8-005",
-      "timestamp": "2032-07-04T19:06:28+09:00",
+      "timestamp": "2032-07-04T18:53:21+09:00",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "뉴비면 체크해둘만함",
+      "content": "마법장비 가격 오른다는건 체감 오긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000026-v8-013",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:09:27+09:00",
+      "id": "c-2032-000026-b1-003",
+      "parentId": "c-2032-000026-b1-001",
+      "timestamp": "2032-07-04T18:57:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "118.44"
       },
-      "content": "정성추",
+      "content": "흠 그건 좀",
       "deleted": false
     },
     {
-      "id": "c-2032-000026-v8-014",
+      "id": "c-2032-000026-b1-004",
       "parentId": null,
-      "timestamp": "2032-07-04T19:11:29+09:00",
+      "timestamp": "2032-07-04T19:08:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "106.245"
       },
-      "content": "그럴수도 있지",
+      "content": "길드 전투력 말고 연구/교육도 봐야되는 이유가 이거지",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000026-b1-005",
+      "parentId": null,
+      "timestamp": "2032-07-04T19:19:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "네뷸라 마법계 교육쪽은 확실히 이미지 굳히는듯",
       "deleted": false
     }
   ],

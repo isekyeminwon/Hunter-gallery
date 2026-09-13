@@ -33,51 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000024-v8-001",
+      "id": "c-2026-000024-b1-001",
       "parentId": null,
-      "timestamp": "2026-12-14T10:24:51+09:00",
+      "timestamp": "2026-12-14T10:33:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "223.62"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
+      "content": "면허번호 사진 보내달라는 부탁부터 거절함",
       "deleted": false
     },
     {
-      "id": "c-2026-000024-v8-002",
+      "id": "c-2026-000024-b1-002",
       "parentId": null,
-      "timestamp": "2026-12-14T10:26:27+09:00",
+      "timestamp": "2026-12-14T10:43:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "223.62"
       },
-      "content": "그 조항 아직 그대로임?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000024-v8-003",
-      "parentId": "c-2026-000024-v8-001",
-      "timestamp": "2026-12-14T10:30:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "애매하면 신상은 올리지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000024-v8-004",
-      "parentId": "c-2026-000024-v8-003",
-      "timestamp": "2026-12-14T10:31:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
+      "content": "명의대여 취급이라 당연히 문제되지",
       "deleted": false
     }
   ],

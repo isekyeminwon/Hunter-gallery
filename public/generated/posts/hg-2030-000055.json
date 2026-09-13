@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000055-v8-001",
+      "id": "c-2030-000055-b1-001",
       "parentId": null,
-      "timestamp": "2030-12-07T19:15:26+09:00",
+      "timestamp": "2030-12-07T19:16:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "1.239"
       },
-      "content": "입구에서라도 맞추고 들어가",
+      "content": "예비배터리도 실제로 켜봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2030-000055-v8-002",
+      "id": "c-2030-000055-b1-002",
       "parentId": null,
-      "timestamp": "2030-12-07T19:18:09+09:00",
+      "timestamp": "2030-12-07T19:25:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "58.29"
       },
-      "content": "팀마다 이부분은 좀 갈리더라",
+      "content": "새장비라고 현장에서 바로 편한건 아니더라",
       "deleted": false
     },
     {
-      "id": "c-2030-000055-v8-003",
-      "parentId": null,
-      "timestamp": "2030-12-07T19:21:44+09:00",
+      "id": "c-2030-000055-b1-003",
+      "parentId": "c-2030-000055-b1-001",
+      "timestamp": "2030-12-07T19:33:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "211.197"
       },
-      "content": "한번 고생하면 절대 안빼먹음",
+      "content": "받자마자 작동확인 해",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000055-b1-004",
+      "parentId": null,
+      "timestamp": "2030-12-07T19:45:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.39"
+      },
+      "content": "반납때 말나오기 싫으면 상태 사진 찍어둬",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000055-b1-005",
+      "parentId": null,
+      "timestamp": "2030-12-07T19:55:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "렌탈은 받자마자 버클이랑 스트랩부터 봄",
       "deleted": false
     }
   ],

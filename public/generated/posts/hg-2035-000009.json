@@ -33,27 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000009-v8-001",
+      "id": "c-2035-000009-b1-001",
       "parentId": null,
-      "timestamp": "2035-05-15T08:13:37+09:00",
+      "timestamp": "2035-05-15T08:18:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "106.245"
       },
-      "content": "해본사람 있냐",
+      "content": "보증금 액수보다 파손기준 먼저 읽어봐",
       "deleted": false
     },
     {
-      "id": "c-2035-000009-v8-002",
+      "id": "c-2035-000009-b1-002",
       "parentId": null,
-      "timestamp": "2035-05-15T08:14:58+09:00",
+      "timestamp": "2035-05-15T08:27:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "카드결제 되는곳이면 기록 남아서 그쪽이 편하더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000009-b1-003",
+      "parentId": null,
+      "timestamp": "2035-05-15T08:34:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "106.245"
       },
-      "content": "이건 나도 모르겠네",
+      "content": "너무 싸면 오히려 장비상태부터 의심해봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000009-b1-004",
+      "parentId": "c-2035-000009-b1-002",
+      "timestamp": "2035-05-15T08:41:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "장비 종류랑 등급 따라 보증금 차이 꽤 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000009-b1-005",
+      "parentId": null,
+      "timestamp": "2035-05-15T08:47:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.245"
+      },
+      "content": "받을때 흠집 사진 꼭 찍어놔 반납때 편함",
       "deleted": false
     }
   ],

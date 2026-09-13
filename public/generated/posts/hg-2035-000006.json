@@ -33,99 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000006-v8-001",
+      "id": "c-2035-000006-b1-001",
       "parentId": null,
-      "timestamp": "2035-03-26T19:44:00+09:00",
+      "timestamp": "2035-03-26T19:49:13+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
       },
-      "content": "이거 저장해둠",
+      "content": "렌탈은 받자마자 버클이랑 스트랩부터 봄",
       "deleted": false
     },
     {
-      "id": "c-2035-000006-v8-002",
+      "id": "c-2035-000006-b1-002",
       "parentId": null,
-      "timestamp": "2035-03-26T19:46:21+09:00",
+      "timestamp": "2035-03-26T19:58:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "118.41"
       },
-      "content": "이런게 실제로 도움됨",
+      "content": "예비배터리도 실제로 켜봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2035-000006-v8-003",
+      "id": "c-2035-000006-b1-003",
       "parentId": null,
-      "timestamp": "2035-03-26T19:48:44+09:00",
+      "timestamp": "2035-03-26T20:08:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "118.41"
       },
-      "content": "당해보면 왜 적었는지 앎",
+      "content": "반납때 말나오기 싫으면 상태 사진 찍어둬",
       "deleted": false
     },
     {
-      "id": "c-2035-000006-v8-004",
-      "parentId": "c-2035-000006-v8-002",
-      "timestamp": "2035-03-26T19:50:55+09:00",
+      "id": "c-2035-000006-b1-004",
+      "parentId": "c-2035-000006-b1-002",
+      "timestamp": "2035-03-26T20:16:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "110.70"
       },
-      "content": "한번 고생하면 안까먹음",
+      "content": "예비배터리도 꼭 켜봐",
       "deleted": false
     },
     {
-      "id": "c-2035-000006-v8-005",
-      "parentId": "c-2035-000006-v8-001",
-      "timestamp": "2035-03-26T19:52:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000006-v8-006",
+      "id": "c-2035-000006-b1-005",
       "parentId": null,
-      "timestamp": "2035-03-26T19:54:14+09:00",
+      "timestamp": "2035-03-26T20:24:47+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
       },
-      "content": "내가 가는팀은 반대로함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000006-v8-007",
-      "parentId": null,
-      "timestamp": "2035-03-26T19:57:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "입구에서라도 맞추고 들어가",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000006-v8-008",
-      "parentId": null,
-      "timestamp": "2035-03-26T20:00:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "정성추",
+      "content": "장비는 새거보다 손에 익은게 중요할때 있음",
       "deleted": false
     }
   ],

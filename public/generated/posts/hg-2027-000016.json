@@ -33,111 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000016-v8-001",
+      "id": "c-2027-000016-b1-001",
       "parentId": null,
-      "timestamp": "2027-01-15T17:18:23+09:00",
+      "timestamp": "2027-01-15T17:20:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "223.39"
       },
-      "content": "또 줄세우기 시작했네",
+      "content": "내최애 1위 넣으면 끝나는 문제",
       "deleted": false
     },
     {
-      "id": "c-2027-000016-v8-002",
+      "id": "c-2027-000016-b1-002",
       "parentId": null,
-      "timestamp": "2027-01-15T17:21:45+09:00",
+      "timestamp": "2027-01-15T17:26:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "1.239"
       },
-      "content": "요즘 A를 너무 쉽게 말함",
+      "content": "실적이랑 팬심이랑 섞여서 답없음",
       "deleted": false
     },
     {
-      "id": "c-2027-000016-v8-003",
+      "id": "c-2027-000016-b1-003",
       "parentId": null,
-      "timestamp": "2027-01-15T17:24:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "내최애 1위 넣으면 끝",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000016-v8-004",
-      "parentId": null,
-      "timestamp": "2027-01-15T17:28:19+09:00",
+      "timestamp": "2027-01-15T17:31:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.235"
       },
-      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
+      "content": "또 순위표 만들었네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2027-000016-v8-005",
-      "parentId": "c-2027-000016-v8-001",
-      "timestamp": "2027-01-15T17:30:50+09:00",
+      "id": "c-2027-000016-b1-004",
+      "parentId": "c-2027-000016-b1-003",
+      "timestamp": "2027-01-15T17:35:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "223.39"
       },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000016-v8-006",
-      "parentId": "c-2027-000016-v8-001",
-      "timestamp": "2027-01-15T17:33:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000016-v8-007",
-      "parentId": null,
-      "timestamp": "2027-01-15T17:36:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "이 떡밥 다음주에 또 올라옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000016-v8-008",
-      "parentId": null,
-      "timestamp": "2027-01-15T17:40:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "상성 넣으면 표 다시짜야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000016-v8-009",
-      "parentId": null,
-      "timestamp": "2027-01-15T17:42:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "ㄹㅇ",
+      "content": "최근 실적도 봐야지",
       "deleted": false
     }
   ],

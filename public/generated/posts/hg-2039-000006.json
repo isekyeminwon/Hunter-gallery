@@ -33,51 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000006-v8-001",
+      "id": "c-2039-000006-b2m-001",
       "parentId": null,
-      "timestamp": "2039-01-16T14:54:34+09:00",
+      "timestamp": "2039-01-16T14:53:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "175.223"
       },
-      "content": "누가 가입시키는지부터 확인",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000006-v8-002",
-      "parentId": null,
-      "timestamp": "2039-01-16T14:57:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000006-v8-003",
-      "parentId": null,
-      "timestamp": "2039-01-16T14:59:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "보험됨 한줄만 믿지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000006-v8-004",
-      "parentId": null,
-      "timestamp": "2039-01-16T15:01:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "브랜드보다 보장내용 확인해",
+      "content": "자라",
       "deleted": false
     }
   ],

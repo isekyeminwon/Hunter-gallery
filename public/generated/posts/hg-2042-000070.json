@@ -33,75 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000070-pilot001",
+      "id": "c-2042-000070-b2m-001",
       "parentId": null,
-      "timestamp": "2042-05-21T02:43:51+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "상품명 추천은 못하겠고 현장등급 제한/후송/치료/장비파손부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000070-pilot002",
-      "parentId": null,
-      "timestamp": "2042-05-21T02:47:34+09:00",
+      "timestamp": "2042-05-21T02:42:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "58.29"
       },
-      "content": "구인팀이 들어주는거랑 개인거 둘다 있어야됨?",
+      "content": "짐꾼이면 현장등급 제한/후송/치료 범위부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2042-000070-pilot003",
-      "parentId": "c-2042-000070-pilot002",
-      "timestamp": "2042-05-21T02:50:26+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "계약마다 다름. '보험됨' 한줄만 믿지말고 가입주체 확인",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000070-pilot004",
+      "id": "c-2042-000070-b2m-002",
       "parentId": null,
-      "timestamp": "2042-05-21T02:53:00+09:00",
+      "timestamp": "2042-05-21T02:46:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "59.5"
       },
-      "content": "B급도 갈거면 범위 꼭봐라. 저등급까지만 되는거 있음",
+      "content": "F급이어도 B급 현장 갈수 있으면 보장등급 꼭 봐",
       "deleted": false
     },
     {
-      "id": "c-2042-000070-pilot005",
+      "id": "c-2042-000070-b2m-003",
       "parentId": null,
-      "timestamp": "2042-05-21T02:54:19+09:00",
+      "timestamp": "2042-05-21T02:49:18+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "58.29"
       },
-      "content": "보험료 아깝다고 빼는 팀은 난 안감",
+      "content": "{{con:Intelligence}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000070-pilot006",
+      "id": "c-2042-000070-b2m-004",
       "parentId": null,
-      "timestamp": "2042-05-21T02:56:31+09:00",
+      "timestamp": "2042-05-21T02:52:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "59.5"
       },
-      "content": "일당 10 더주는것보다 이게 낫지",
+      "content": "일당 조금 높아도 보험 애매한팀은 난 안감",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000070-b2m-005",
+      "parentId": "c-2042-000070-b2m-004",
+      "timestamp": "2042-05-21T02:54:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "구인팀이 가입시키는지 개인보험인지 먼저 확인",
       "deleted": false
     }
   ],

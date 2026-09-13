@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000022-v8-001",
+      "id": "c-2028-000022-b1-001",
       "parentId": null,
-      "timestamp": "2028-01-24T14:42:36+09:00",
+      "timestamp": "2028-01-24T14:43:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "175.214"
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "마석 매입가 확정후 비율대로 나누는팀도 있음",
       "deleted": false
     },
     {
-      "id": "c-2028-000022-v8-002",
+      "id": "c-2028-000022-b1-002",
       "parentId": null,
-      "timestamp": "2028-01-24T14:46:03+09:00",
+      "timestamp": "2028-01-24T14:49:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "61.79"
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "친한사람끼리 가도 돈은 적어두는게 낫다",
       "deleted": false
     },
     {
-      "id": "c-2028-000022-v8-003",
+      "id": "c-2028-000022-b1-003",
       "parentId": null,
-      "timestamp": "2028-01-24T14:47:35+09:00",
+      "timestamp": "2028-01-24T14:57:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "223.38"
       },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "content": "운송/수수료를 비용으로 먼저 빼는지 확인해",
       "deleted": false
     },
     {
-      "id": "c-2028-000022-v8-004",
-      "parentId": "c-2028-000022-v8-003",
-      "timestamp": "2028-01-24T14:50:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "일주일 넘으면 한번 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000022-v8-005",
+      "id": "c-2028-000022-b1-004",
       "parentId": null,
-      "timestamp": "2028-01-24T14:53:46+09:00",
+      "timestamp": "2028-01-24T15:05:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "61.79"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000022-v8-006",
-      "parentId": "c-2028-000022-v8-002",
-      "timestamp": "2028-01-24T14:56:09+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "당일정산이 편하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000022-v8-007",
-      "parentId": "c-2028-000022-v8-004",
-      "timestamp": "2028-01-24T14:58:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "정산일 적혀있으면 덜싸움",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000022-v8-008",
-      "parentId": "c-2028-000022-v8-007",
-      "timestamp": "2028-01-24T15:01:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "매입가 확정뒤 보내는팀도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000022-v8-009",
-      "parentId": null,
-      "timestamp": "2028-01-24T15:03:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "당일도 있고 며칠뒤도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000022-v8-010",
-      "parentId": null,
-      "timestamp": "2028-01-24T15:06:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000022-v8-011",
-      "parentId": "c-2028-000022-v8-005",
-      "timestamp": "2028-01-24T15:08:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "매입가 확정뒤 보내는팀도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000022-v8-012",
-      "parentId": "c-2028-000022-v8-008",
-      "timestamp": "2028-01-24T15:11:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "당일정산이 편하긴함",
+      "content": "고정일당인지 지분정산인지부터 계약서에 박아야됨",
       "deleted": false
     }
   ],

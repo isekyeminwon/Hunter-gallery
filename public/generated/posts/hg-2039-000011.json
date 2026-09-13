@@ -33,111 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000011-v8-001",
+      "id": "c-2039-000011-b2m-001",
       "parentId": null,
-      "timestamp": "2039-04-12T20:26:11+09:00",
+      "timestamp": "2039-04-12T20:24:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "첫날이면 짐무게랑 이동거리 미리 물어보는게 낫다",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000011-b2m-002",
+      "parentId": null,
+      "timestamp": "2039-04-12T20:27:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "짐꾼 동선 전투팀이랑 겹치면 바로 사고남",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000011-b2m-003",
+      "parentId": null,
+      "timestamp": "2039-04-12T20:31:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "좋은팀 잡으면 반복으로 가는 이유가 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000011-b2m-004",
+      "parentId": null,
+      "timestamp": "2039-04-12T20:32:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "입장/철수때 누가 최종콜 하는지 알아두면 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000011-b2m-005",
+      "parentId": null,
+      "timestamp": "2039-04-12T20:35:11+09:00",
       "author": {
         "type": "fixed",
         "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "안에서 정하려면 늦음",
+      "content": "짐꾼인데 전투보조까지 당연히 시키는 팀은 거름",
       "deleted": false
     },
     {
-      "id": "c-2039-000011-v8-002",
-      "parentId": null,
-      "timestamp": "2039-04-12T20:28:18+09:00",
+      "id": "c-2039-000011-b2m-006",
+      "parentId": "c-2039-000011-b2m-002",
+      "timestamp": "2039-04-12T20:36:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "124.53"
       },
-      "content": "이건 경험값 한번 내면 기억남",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000011-v8-003",
-      "parentId": null,
-      "timestamp": "2039-04-12T20:31:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "이거 저장해둠",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000011-v8-004",
-      "parentId": null,
-      "timestamp": "2039-04-12T20:35:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "처음가는사람은 이런거 봐둬",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000011-v8-005",
-      "parentId": null,
-      "timestamp": "2039-04-12T20:37:30+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "팀마다 이부분은 좀 갈리더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000011-v8-006",
-      "parentId": null,
-      "timestamp": "2039-04-12T20:40:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000011-v8-007",
-      "parentId": null,
-      "timestamp": "2039-04-12T20:44:22+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000011-v8-008",
-      "parentId": null,
-      "timestamp": "2039-04-12T20:47:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000011-v8-009",
-      "parentId": "c-2039-000011-v8-002",
-      "timestamp": "2039-04-12T20:50:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "한번 고생하면 안까먹음",
+      "content": "역할선부터 확실히 하는게 낫지",
       "deleted": false
     }
   ],

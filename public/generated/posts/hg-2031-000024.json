@@ -33,207 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000024-v8-001",
+      "id": "c-2031-000024-b1-001",
       "parentId": null,
-      "timestamp": "2031-08-22T02:37:35+09:00",
+      "timestamp": "2031-08-22T02:44:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.246"
       },
-      "content": "이건 사전에 맞춰놔야지",
+      "content": "나라별 운용방식이 달라서 숫자만으론 모르겠네",
       "deleted": false
     },
     {
-      "id": "c-2031-000024-v8-002",
+      "id": "c-2031-000024-b1-002",
       "parentId": null,
-      "timestamp": "2031-08-22T02:40:27+09:00",
+      "timestamp": "2031-08-22T02:53:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.44"
       },
-      "content": "내가 가는팀은 반대로함",
+      "content": "그래도 S 한명 추가가 뉴스급인건 이해감",
       "deleted": false
     },
     {
-      "id": "c-2031-000024-v8-003",
+      "id": "c-2031-000024-b1-003",
       "parentId": null,
-      "timestamp": "2031-08-22T02:43:00+09:00",
+      "timestamp": "2031-08-22T03:02:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "112.171"
       },
-      "content": "다음 현장전에 한번 더봄",
+      "content": "S 숫자만 세서 국가전력 비교하는건 너무 단순함",
       "deleted": false
     },
     {
-      "id": "c-2031-000024-v8-004",
+      "id": "c-2031-000024-b1-004",
       "parentId": null,
-      "timestamp": "2031-08-22T02:44:32+09:00",
+      "timestamp": "2031-08-22T03:13:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "118.44"
       },
-      "content": "이런게 실제로 도움됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-005",
-      "parentId": null,
-      "timestamp": "2031-08-22T02:47:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "한번 데이면 다음부턴 자동으로 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-006",
-      "parentId": "c-2031-000024-v8-004",
-      "timestamp": "2031-08-22T02:49:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-007",
-      "parentId": null,
-      "timestamp": "2031-08-22T02:52:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-008",
-      "parentId": null,
-      "timestamp": "2031-08-22T02:55:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-009",
-      "parentId": "c-2031-000024-v8-002",
-      "timestamp": "2031-08-22T02:57:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-010",
-      "parentId": "c-2031-000024-v8-007",
-      "timestamp": "2031-08-22T03:01:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-011",
-      "parentId": "c-2031-000024-v8-007",
-      "timestamp": "2031-08-22T03:05:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-012",
-      "parentId": null,
-      "timestamp": "2031-08-22T03:07:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-013",
-      "parentId": null,
-      "timestamp": "2031-08-22T03:09:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "체크리스트로 저장해둔다",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-014",
-      "parentId": null,
-      "timestamp": "2031-08-22T03:13:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-015",
-      "parentId": "c-2031-000024-v8-009",
-      "timestamp": "2031-08-22T03:17:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-016",
-      "parentId": null,
-      "timestamp": "2031-08-22T03:20:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "다른팀은 어케함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000024-v8-017",
-      "parentId": null,
-      "timestamp": "2031-08-22T03:23:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㅇㅇ",
+      "content": "국가전력표 만드는놈들 또 밤샐듯ㅋㅋ",
       "deleted": false
     }
   ],

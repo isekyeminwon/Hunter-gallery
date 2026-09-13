@@ -33,183 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2025-000012-v8-001",
+      "id": "c-2025-000012-b1-001",
       "parentId": null,
-      "timestamp": "2025-06-23T21:00:54+09:00",
+      "timestamp": "2025-06-23T21:06:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.39"
       },
-      "content": "우리팀은 조금 다르게함",
+      "content": "A랑 비교하던 글들 다 조용해졌네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2025-000012-v8-002",
+      "id": "c-2025-000012-b1-002",
       "parentId": null,
-      "timestamp": "2025-06-23T21:04:36+09:00",
+      "timestamp": "2025-06-23T21:12:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "첫 S라는 말부터 체감이 안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000012-b1-003",
+      "parentId": "c-2025-000012-b1-001",
+      "timestamp": "2025-06-23T21:23:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.194"
       },
-      "content": "체크리스트로 저장해둔다",
+      "content": "첫 S라 비교할 기준도 없네",
       "deleted": false
     },
     {
-      "id": "c-2025-000012-v8-003",
+      "id": "c-2025-000012-b1-004",
+      "parentId": "c-2025-000012-b1-001",
+      "timestamp": "2025-06-23T21:27:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "강무혁 영상 더 있으면 보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000012-b1-005",
       "parentId": null,
-      "timestamp": "2025-06-23T21:06:28+09:00",
+      "timestamp": "2025-06-23T21:31:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "223.39"
       },
-      "content": "뉴비한텐 이런글이 더 도움됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-004",
-      "parentId": null,
-      "timestamp": "2025-06-23T21:08:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-005",
-      "parentId": "c-2025-000012-v8-004",
-      "timestamp": "2025-06-23T21:10:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-006",
-      "parentId": null,
-      "timestamp": "2025-06-23T21:12:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "이런건 한번 당하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-007",
-      "parentId": null,
-      "timestamp": "2025-06-23T21:16:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "입장전에 맞춰두는게 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-008",
-      "parentId": null,
-      "timestamp": "2025-06-23T21:20:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-009",
-      "parentId": null,
-      "timestamp": "2025-06-23T21:21:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-010",
-      "parentId": "c-2025-000012-v8-009",
-      "timestamp": "2025-06-23T21:23:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-011",
-      "parentId": "c-2025-000012-v8-005",
-      "timestamp": "2025-06-23T21:26:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-012",
-      "parentId": "c-2025-000012-v8-006",
-      "timestamp": "2025-06-23T21:29:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-013",
-      "parentId": "c-2025-000012-v8-007",
-      "timestamp": "2025-06-23T21:33:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-014",
-      "parentId": null,
-      "timestamp": "2025-06-23T21:35:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000012-v8-015",
-      "parentId": null,
-      "timestamp": "2025-06-23T21:38:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "그럴수도 있지",
+      "content": "영상 충격파 범위가 화면밖까지 가는거 맞냐",
       "deleted": false
     }
   ],

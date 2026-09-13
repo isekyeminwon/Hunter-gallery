@@ -33,63 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000035-v8-001",
+      "id": "c-2034-000035-b1-001",
       "parentId": null,
-      "timestamp": "2034-08-13T06:36:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000035-v8-002",
-      "parentId": null,
-      "timestamp": "2034-08-13T06:39:58+09:00",
+      "timestamp": "2034-08-13T06:43:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "210.178"
       },
-      "content": "나도 처음엔 이거 몰랐음",
+      "content": "첫 측정 오류 의심될때 재검 넣는거지 레벨업 확인용은 아님",
       "deleted": false
     },
     {
-      "id": "c-2034-000035-v8-003",
+      "id": "c-2034-000035-b1-002",
       "parentId": null,
-      "timestamp": "2034-08-13T06:42:05+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "검색결과가 죄다 옛날거임",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000035-v8-004",
-      "parentId": null,
-      "timestamp": "2034-08-13T06:43:42+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "나도 이거 궁금했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000035-v8-005",
-      "parentId": null,
-      "timestamp": "2034-08-13T06:45:34+09:00",
+      "timestamp": "2034-08-13T06:48:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "223.52"
       },
-      "content": "처음부터 알기 힘든거 맞음",
+      "content": "컨디션 때문에 약간 흔들릴수는 있다고 들음",
       "deleted": false
     }
   ],

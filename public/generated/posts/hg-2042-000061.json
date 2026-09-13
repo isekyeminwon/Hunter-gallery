@@ -33,51 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000061-v8-001",
+      "id": "c-2042-000061-b2m-001",
       "parentId": null,
-      "timestamp": "2042-06-27T17:59:50+09:00",
+      "timestamp": "2042-06-27T17:58:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "210.178"
       },
-      "content": "촬영담당 없으면 손에 들고찍는건 비추",
+      "content": "원본 저장시간 길게 잡으면 가격 바로 올라감",
       "deleted": false
     },
     {
-      "id": "c-2042-000061-v8-002",
+      "id": "c-2042-000061-b2m-002",
       "parentId": null,
-      "timestamp": "2042-06-27T18:02:24+09:00",
+      "timestamp": "2042-06-27T18:02:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "124.53"
       },
-      "content": "렌탈비보다 백업이 귀찮을때 있음",
+      "content": "촬영담당 따로 없으면 고정마운트 되는걸로 봐",
       "deleted": false
     },
     {
-      "id": "c-2042-000061-v8-003",
+      "id": "c-2042-000061-b2m-003",
       "parentId": null,
-      "timestamp": "2042-06-27T18:04:24+09:00",
+      "timestamp": "2042-06-27T18:04:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "118.41"
       },
-      "content": "원본파일 존나 큼",
+      "content": "기록용이랑 방송용 가격차 꽤 큼. 화질보다 배터리/저조도부터 정해",
       "deleted": false
     },
     {
-      "id": "c-2042-000061-v8-004",
+      "id": "c-2042-000061-b2m-004",
       "parentId": null,
-      "timestamp": "2042-06-27T18:06:02+09:00",
+      "timestamp": "2042-06-27T18:07:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "210.178"
       },
-      "content": "일반카메라랑 마석식은 다르게 생각해야됨",
+      "content": "{{con:Intelligence}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000061-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-06-27T18:10:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "렌탈비에 마운트랑 저장장치 포함인지 꼭 물어봐",
       "deleted": false
     }
   ],

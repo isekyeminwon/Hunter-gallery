@@ -31,20 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "c-2040-000045-v8-001",
-      "parentId": null,
-      "timestamp": "2040-04-19T20:36:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

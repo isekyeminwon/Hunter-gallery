@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000004-v8-001",
+      "id": "c-2035-000004-b1-001",
       "parentId": null,
-      "timestamp": "2035-02-19T21:31:27+09:00",
+      "timestamp": "2035-02-19T21:38:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "211.246"
       },
-      "content": "팀마다 이부분은 좀 갈리더라",
+      "content": "개인가방 무게 미리 적어두면 분배할때 편함",
       "deleted": false
     },
     {
-      "id": "c-2035-000004-v8-002",
+      "id": "c-2035-000004-b1-002",
       "parentId": null,
-      "timestamp": "2035-02-19T21:33:53+09:00",
+      "timestamp": "2035-02-19T21:49:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "124.53"
       },
       "content": "정성추",
       "deleted": false
     },
     {
-      "id": "c-2035-000004-v8-003",
-      "parentId": null,
-      "timestamp": "2035-02-19T21:36:07+09:00",
+      "id": "c-2035-000004-b1-003",
+      "parentId": "c-2035-000004-b1-001",
+      "timestamp": "2035-02-19T21:56:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "211.246"
       },
-      "content": "안에서 정하려면 늦음",
+      "content": "흠 그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000004-b1-004",
+      "parentId": null,
+      "timestamp": "2035-02-19T22:03:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "{{con:dororong}}",
       "deleted": false
     }
   ],

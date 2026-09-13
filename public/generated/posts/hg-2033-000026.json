@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000026-v8-001",
+      "id": "c-2033-000026-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-17T10:08:38+09:00",
+      "timestamp": "2033-09-17T10:10:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "59.10"
       },
-      "content": "ㄹㅇ",
+      "content": "SS를 S 몇명으로 환산하는건 의미없지 않냐",
       "deleted": false
     },
     {
-      "id": "c-2033-000026-v8-002",
+      "id": "c-2033-000026-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-17T10:10:18+09:00",
+      "timestamp": "2033-09-17T10:19:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "175.194"
       },
-      "content": "개웃기네",
+      "content": "당분간 S 셋 vs 이시율 글 도배각",
       "deleted": false
     },
     {
-      "id": "c-2033-000026-v8-003",
-      "parentId": "c-2033-000026-v8-002",
-      "timestamp": "2033-09-17T10:13:28+09:00",
+      "id": "c-2033-000026-b1-003",
+      "parentId": "c-2033-000026-b1-002",
+      "timestamp": "2033-09-17T10:23:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "59.10"
       },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "한성 지원서버 터질만함",
       "deleted": false
     },
     {
-      "id": "c-2033-000026-v8-004",
+      "id": "c-2033-000026-b1-004",
+      "parentId": "c-2033-000026-b1-002",
+      "timestamp": "2033-09-17T10:32:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "S 몇명분 계산은 진짜 의미없어보임",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000026-b1-005",
       "parentId": null,
-      "timestamp": "2033-09-17T10:17:17+09:00",
+      "timestamp": "2033-09-17T10:39:18+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "59.10"
       },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-005",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:20:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-006",
-      "parentId": "c-2033-000026-v8-002",
-      "timestamp": "2033-09-17T10:23:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-007",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:25:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-008",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:28:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-009",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:31:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-010",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:33:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:36:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-012",
-      "parentId": "c-2033-000026-v8-007",
-      "timestamp": "2033-09-17T10:39:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-013",
-      "parentId": "c-2033-000026-v8-008",
-      "timestamp": "2033-09-17T10:42:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-014",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:44:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-015",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:46:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "대댓글이 본문 잡아먹었네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-016",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:49:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000026-v8-017",
-      "parentId": null,
-      "timestamp": "2033-09-17T10:50:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㅋㅋ",
+      "content": "저걸 S랑 같은 칸에 넣긴 좀 그렇다",
       "deleted": false
     }
   ],

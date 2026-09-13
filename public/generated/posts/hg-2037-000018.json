@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000018-v8-001",
+      "id": "c-2037-000018-b1-001",
       "parentId": null,
-      "timestamp": "2037-03-10T19:54:05+09:00",
+      "timestamp": "2037-03-10T19:58:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "61.79"
       },
-      "content": "기사엔 통제중이라고만 나옴",
+      "content": "조회수 잘나온다고 위험장면 따라하는놈은 없었으면",
       "deleted": false
     },
     {
-      "id": "c-2037-000018-v8-002",
+      "id": "c-2037-000018-b1-002",
       "parentId": null,
-      "timestamp": "2037-03-10T19:57:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "통제 풀리는 시간 나온거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000018-v8-003",
-      "parentId": null,
-      "timestamp": "2037-03-10T19:58:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "오전안에 풀리면 다행이고",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000018-v8-004",
-      "parentId": null,
-      "timestamp": "2037-03-10T20:00:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "협회차량 많이 들어갔네",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000018-v8-005",
-      "parentId": null,
-      "timestamp": "2037-03-10T20:04:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "현장 구경간다고 차끌고 가는놈 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000018-v8-006",
-      "parentId": null,
-      "timestamp": "2037-03-10T20:06:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "근처면 그냥 우회하는게 답",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000018-v8-007",
-      "parentId": "c-2037-000018-v8-002",
-      "timestamp": "2037-03-10T20:09:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "근처면 그냥 피하는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000018-v8-008",
-      "parentId": "c-2037-000018-v8-003",
-      "timestamp": "2037-03-10T20:12:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "차끌고 구경갈 생각은 접자",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000018-v8-009",
-      "parentId": "c-2037-000018-v8-006",
-      "timestamp": "2037-03-10T20:16:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "통제 풀리는 시간 나왔음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000018-v8-010",
-      "parentId": null,
-      "timestamp": "2037-03-10T20:18:43+09:00",
+      "timestamp": "2037-03-10T20:05:56+09:00",
       "author": {
         "type": "fixed",
         "name": "영상분석충",
         "ip": null
       },
-      "content": "ㅇㅇ",
+      "content": "현장사진 올릴거면 사람 얼굴/위치정보부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2037-000018-v8-011",
+      "id": "c-2037-000018-b1-003",
       "parentId": null,
-      "timestamp": "2037-03-10T20:20:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000018-v8-012",
-      "parentId": null,
-      "timestamp": "2037-03-10T20:24:06+09:00",
+      "timestamp": "2037-03-10T20:10:02+09:00",
       "author": {
         "type": "fixed",
         "name": "영상분석충",
         "ip": null
       },
-      "content": "이건 인정",
+      "content": "현장 위치 실시간으로 올리는건 하지말자",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000018-b1-004",
+      "parentId": "c-2037-000018-b1-002",
+      "timestamp": "2037-03-10T20:21:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "흠 그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000018-b1-005",
+      "parentId": null,
+      "timestamp": "2037-03-10T20:29:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "통제선 있으면 구경말고 그냥 피해가",
       "deleted": false
     }
   ],

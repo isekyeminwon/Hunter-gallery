@@ -33,75 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000071-v8-001",
+      "id": "c-2033-000071-b1-001",
       "parentId": null,
-      "timestamp": "2033-08-05T11:21:25+09:00",
+      "timestamp": "2033-08-05T11:30:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "118.47"
       },
-      "content": "오전까지 우회면 출근길 개막히겠네",
+      "content": "우회노선 공지 떴음?",
       "deleted": false
     },
     {
-      "id": "c-2033-000071-v8-002",
+      "id": "c-2033-000071-b1-002",
       "parentId": null,
-      "timestamp": "2033-08-05T11:23:45+09:00",
+      "timestamp": "2033-08-05T11:35:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "39.7"
       },
-      "content": "도로 막은거면 입구쪽 통제 꽤 크게 잡았나보네",
+      "content": "게이트 자체 문제인지 장비차량 때문인지는 아직 안나온거지",
       "deleted": false
     },
     {
-      "id": "c-2033-000071-v8-003",
-      "parentId": "c-2033-000071-v8-002",
-      "timestamp": "2033-08-05T11:26:09+09:00",
+      "id": "c-2033-000071-b1-003",
+      "parentId": null,
+      "timestamp": "2033-08-05T11:40:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "118.41"
       },
-      "content": "원인기사는 아직 못봄",
+      "content": "근처사는 사람은 괜히 구경가지말고 우회하는게 맞음",
       "deleted": false
     },
     {
-      "id": "c-2033-000071-v8-004",
-      "parentId": null,
-      "timestamp": "2033-08-05T11:28:18+09:00",
+      "id": "c-2033-000071-b1-004",
+      "parentId": "c-2033-000071-b1-002",
+      "timestamp": "2033-08-05T11:45:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "118.47"
       },
-      "content": "아침에 저쪽 버스 다 돌아가더라",
+      "content": "버스도 노선 돌린다던데",
       "deleted": false
     },
     {
-      "id": "c-2033-000071-v8-005",
-      "parentId": null,
-      "timestamp": "2033-08-05T11:31:34+09:00",
+      "id": "c-2033-000071-b1-005",
+      "parentId": "c-2033-000071-b1-003",
+      "timestamp": "2033-08-05T11:55:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "39.7"
       },
-      "content": "사고원인 기사 아직 안뜬거같은데",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000071-v8-006",
-      "parentId": null,
-      "timestamp": "2033-08-05T11:33:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "근처사는 사람은 우회공지부터 봐라",
+      "content": "아침까지 막히면 출근길 개판나겠네",
       "deleted": false
     }
   ],

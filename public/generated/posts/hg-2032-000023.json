@@ -33,279 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000023-v8-001",
+      "id": "c-2032-000023-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-11T19:08:56+09:00",
+      "timestamp": "2032-05-11T19:11:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "182.214"
       },
-      "content": "체크할때 다시본다",
+      "content": "김채연 잡몹 쓸어버리는 장면이 제일 체감옴",
       "deleted": false
     },
     {
-      "id": "c-2032-000023-v8-002",
+      "id": "c-2032-000023-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-11T19:11:03+09:00",
+      "timestamp": "2032-05-11T19:16:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "121.140"
       },
-      "content": "정성추",
+      "content": "김채연 나오자마자 네뷸라 주가 오르는 느낌",
       "deleted": false
     },
     {
-      "id": "c-2032-000023-v8-003",
+      "id": "c-2032-000023-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-11T19:13:08+09:00",
+      "timestamp": "2032-05-11T19:24:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "121.140"
       },
-      "content": "뉴비면 이런거부터 읽는게 낫지",
+      "content": "김채연 영상은 범위감이 제일 말안됨",
       "deleted": false
     },
     {
-      "id": "c-2032-000023-v8-004",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:16:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "우린 이거랑 좀 다르게 굴림",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-005",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:18:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "입구에서라도 맞추고 들어가",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-006",
-      "parentId": "c-2032-000023-v8-005",
-      "timestamp": "2032-05-11T19:20:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-007",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:24:20+09:00",
+      "id": "c-2032-000023-b1-004",
+      "parentId": "c-2032-000023-b1-002",
+      "timestamp": "2032-05-11T19:28:50+09:00",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "당해보면 왜 적었는지 앎",
+      "content": "광역기 후속캠도 보고싶다",
       "deleted": false
     },
     {
-      "id": "c-2032-000023-v8-008",
-      "parentId": "c-2032-000023-v8-001",
-      "timestamp": "2032-05-11T19:26:56+09:00",
+      "id": "c-2032-000023-b1-005",
+      "parentId": "c-2032-000023-b1-001",
+      "timestamp": "2032-05-11T19:38:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "182.214"
       },
-      "content": "한번 고생하면 안까먹음",
+      "content": "서리여왕 별명은 잘붙음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2032-000023-v8-009",
+      "id": "c-2032-000023-b1-006",
       "parentId": null,
-      "timestamp": "2032-05-11T19:29:45+09:00",
+      "timestamp": "2032-05-11T19:46:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "125.180"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-010",
-      "parentId": "c-2032-000023-v8-005",
-      "timestamp": "2032-05-11T19:32:25+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:34:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-012",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:36:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-013",
-      "parentId": "c-2032-000023-v8-010",
-      "timestamp": "2032-05-11T19:38:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-014",
-      "parentId": "c-2032-000023-v8-007",
-      "timestamp": "2032-05-11T19:40:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-015",
-      "parentId": "c-2032-000023-v8-014",
-      "timestamp": "2032-05-11T19:41:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-016",
-      "parentId": "c-2032-000023-v8-013",
-      "timestamp": "2032-05-11T19:43:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-017",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:45:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-018",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:49:22+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "우리팀은 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-019",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:51:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-020",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:54:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "입장전에 맞춰두는게 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-021",
-      "parentId": null,
-      "timestamp": "2032-05-11T19:56:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "이런건 한번 당하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-022",
-      "parentId": null,
-      "timestamp": "2032-05-11T20:00:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "김채연 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000023-v8-023",
-      "parentId": "c-2032-000023-v8-021",
-      "timestamp": "2032-05-11T20:02:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "한번 고생하면 안까먹음",
+      "content": "김채연 강주아는 능력부터 달라서 비교가 안끝남",
       "deleted": false
     }
   ],

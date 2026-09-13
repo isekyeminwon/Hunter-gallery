@@ -33,279 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000047-v8-001",
+      "id": "c-2033-000047-b1-001",
       "parentId": null,
-      "timestamp": "2033-11-02T20:23:27+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "마법계면 선택지에서 네뷸라 못빼지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-002",
-      "parentId": null,
-      "timestamp": "2033-11-02T20:27:15+09:00",
+      "timestamp": "2033-11-02T20:32:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "223.33"
       },
-      "content": "지원체계 얘기는 백호쪽 후기가 많더라",
+      "content": "신인 기사 몇줄로 성장한계까지 정하네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000047-v8-003",
+      "id": "c-2033-000047-b1-002",
       "parentId": null,
-      "timestamp": "2033-11-02T20:31:01+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "일단 셋다 붙고 고민하자ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-004",
-      "parentId": null,
-      "timestamp": "2033-11-02T20:32:47+09:00",
+      "timestamp": "2033-11-02T20:36:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "223.33"
       },
-      "content": "세다고 무조건 좋은직장은 아니잖아",
+      "content": "첫해부터 순위 박는건 너무 이르지",
       "deleted": false
     },
     {
-      "id": "c-2033-000047-v8-005",
+      "id": "c-2033-000047-b1-003",
       "parentId": null,
-      "timestamp": "2033-11-02T20:35:20+09:00",
+      "timestamp": "2033-11-02T20:47:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "211.246"
       },
-      "content": "선택권 있는척 하지마ㅋㅋ",
+      "content": "A급 신인 하나 뜨면 요즘은 바로 길드영입전이네",
       "deleted": false
     },
     {
-      "id": "c-2033-000047-v8-006",
+      "id": "c-2033-000047-b1-004",
+      "parentId": "c-2033-000047-b1-001",
+      "timestamp": "2033-11-02T20:54:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "또 갈드컵 열렸네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000047-b1-005",
       "parentId": null,
-      "timestamp": "2033-11-02T20:36:57+09:00",
+      "timestamp": "2033-11-02T21:05:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "223.38"
       },
-      "content": "방송쪽 거부감 있으면 호불호 세겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-007",
-      "parentId": "c-2033-000047-v8-003",
-      "timestamp": "2033-11-02T20:39:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-008",
-      "parentId": null,
-      "timestamp": "2033-11-02T20:41:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-009",
-      "parentId": null,
-      "timestamp": "2033-11-02T20:44:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-010",
-      "parentId": null,
-      "timestamp": "2033-11-02T20:48:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-011",
-      "parentId": "c-2033-000047-v8-004",
-      "timestamp": "2033-11-02T20:50:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-012",
-      "parentId": null,
-      "timestamp": "2033-11-02T20:52:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-013",
-      "parentId": null,
-      "timestamp": "2033-11-02T20:54:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-014",
-      "parentId": null,
-      "timestamp": "2033-11-02T20:56:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-015",
-      "parentId": null,
-      "timestamp": "2033-11-02T21:00:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "한성 붙으면 왜 고민하냐는놈 곧옴ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-016",
-      "parentId": null,
-      "timestamp": "2033-11-02T21:02:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "마법계면 네뷸라 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-017",
-      "parentId": null,
-      "timestamp": "2033-11-02T21:03:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "스텔라는 방송 싫으면 호불호 씨게 갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-018",
-      "parentId": null,
-      "timestamp": "2033-11-02T21:06:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "한성 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-019",
-      "parentId": "c-2033-000047-v8-016",
-      "timestamp": "2033-11-02T21:08:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-020",
-      "parentId": null,
-      "timestamp": "2033-11-02T21:12:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-021",
-      "parentId": null,
-      "timestamp": "2033-11-02T21:16:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-022",
-      "parentId": null,
-      "timestamp": "2033-11-02T21:19:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000047-v8-023",
-      "parentId": null,
-      "timestamp": "2033-11-02T21:22:05+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "이건 처음듣네",
+      "content": "A를 평범하게 말하는 갤 감각이 이상한거임",
       "deleted": false
     }
   ],

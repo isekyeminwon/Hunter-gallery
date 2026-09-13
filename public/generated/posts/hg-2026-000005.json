@@ -33,159 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000005-v8-001",
+      "id": "c-2026-000005-b1-001",
       "parentId": null,
-      "timestamp": "2026-04-07T00:34:04+09:00",
+      "timestamp": "2026-04-07T00:38:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "220.79"
       },
-      "content": "해본사람 있냐",
+      "content": "사고났을때 조사/보험 기록도 등록정보 기준으로 보게될거고",
       "deleted": false
     },
     {
-      "id": "c-2026-000005-v8-002",
+      "id": "c-2026-000005-b1-002",
       "parentId": null,
-      "timestamp": "2026-04-07T00:37:49+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "이건 나도 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000005-v8-003",
-      "parentId": null,
-      "timestamp": "2026-04-07T00:40:09+09:00",
+      "timestamp": "2026-04-07T00:46:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "39.7"
       },
-      "content": "나도 첫번에 여기서 헷갈림",
+      "content": "면허/출입 기록이 한쪽으로 묶이는게 제일 큰듯",
       "deleted": false
     },
     {
-      "id": "c-2026-000005-v8-004",
+      "id": "c-2026-000005-b1-003",
       "parentId": null,
-      "timestamp": "2026-04-07T00:42:31+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "처음이면 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000005-v8-005",
-      "parentId": null,
-      "timestamp": "2026-04-07T00:44:55+09:00",
+      "timestamp": "2026-04-07T00:54:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "220.79"
       },
-      "content": "검색하면 옛날글만 나옴",
+      "content": "정식 팀으로 게이트 들어갈때 신원확인 절차가 달라짐",
       "deleted": false
     },
     {
-      "id": "c-2026-000005-v8-006",
+      "id": "c-2026-000005-b1-004",
       "parentId": null,
-      "timestamp": "2026-04-07T00:47:39+09:00",
+      "timestamp": "2026-04-07T01:05:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "39.7"
       },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000005-v8-007",
-      "parentId": null,
-      "timestamp": "2026-04-07T00:50:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "댓글 읽다 본문 다시봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000005-v8-008",
-      "parentId": "c-2026-000005-v8-004",
-      "timestamp": "2026-04-07T00:52:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000005-v8-009",
-      "parentId": null,
-      "timestamp": "2026-04-07T00:53:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000005-v8-010",
-      "parentId": null,
-      "timestamp": "2026-04-07T00:56:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000005-v8-011",
-      "parentId": "c-2026-000005-v8-008",
-      "timestamp": "2026-04-07T00:59:58+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000005-v8-012",
-      "parentId": null,
-      "timestamp": "2026-04-07T01:02:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "왜 여기서 싸우냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000005-v8-013",
-      "parentId": null,
-      "timestamp": "2026-04-07T01:04:58+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "나도 비슷했음",
+      "content": "예전처럼 말로만 누구랑 간다 하는게 안되는거지",
       "deleted": false
     }
   ],

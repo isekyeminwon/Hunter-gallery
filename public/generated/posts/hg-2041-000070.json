@@ -33,37 +33,25 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000070-v8-001",
+      "id": "c-2041-000070-b2m-001",
       "parentId": null,
-      "timestamp": "2041-08-02T10:19:57+09:00",
+      "timestamp": "2041-08-02T10:21:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.102"
       },
-      "content": "ㅋㅋ",
+      "content": "ㅋㅋㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000070-v8-002",
+      "id": "c-2041-000070-b2m-002",
       "parentId": null,
-      "timestamp": "2041-08-02T10:23:33+09:00",
+      "timestamp": "2041-08-02T10:22:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000070-v8-003",
-      "parentId": null,
-      "timestamp": "2041-08-02T10:27:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "223.52"
       },
       "content": "개웃기네",
       "deleted": false

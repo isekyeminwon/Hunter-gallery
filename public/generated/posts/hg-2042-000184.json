@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000184-v8-001",
+      "id": "c-2042-000184-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-17T08:25:30+09:00",
+      "timestamp": "2042-09-17T08:25:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "223.52"
       },
-      "content": "C급 이상이 진짜 국가재난급에서 대상될수 있는거",
+      "content": "C급 이상이 국가재난급에서 대상될수 있다는거지 평소마다 끌려가는거 아님",
       "deleted": false
     },
     {
-      "id": "c-2042-000184-v8-002",
+      "id": "c-2042-000184-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T08:29:21+09:00",
+      "timestamp": "2042-09-17T08:29:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "223.52"
       },
-      "content": "S도 법밖에 있는건 아님",
+      "content": "민간/길드 대응으로 감당 안될때 나오는 비상제도에 가까움",
       "deleted": false
     },
     {
-      "id": "c-2042-000184-v8-003",
+      "id": "c-2042-000184-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-17T08:31:38+09:00",
+      "timestamp": "2042-09-17T08:32:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "223.62"
       },
-      "content": "평소 게이트마다 싹 끌고가는거 아님",
+      "content": "S급도 법밖에 있는건 아닌데 실제 운용은 또 다를수밖에 없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000184-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:33:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "거부 처분을 벌금 얼마 징역 몇년으로 한줄에 못박기는 어려움",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000184-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:35:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "부상/임무중 같은 사정은 당연히 개별판단 들어가겠지",
       "deleted": false
     }
   ],

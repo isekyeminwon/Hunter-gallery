@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000009-v8-001",
+      "id": "c-2032-000009-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-11T12:38:09+09:00",
+      "timestamp": "2032-05-11T12:40:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.62"
       },
-      "content": "자라",
+      "content": "네뷸라가 마법계 이미지 더 굳히겠네",
       "deleted": false
     },
     {
-      "id": "c-2032-000009-v8-002",
+      "id": "c-2032-000009-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-11T12:40:53+09:00",
+      "timestamp": "2032-05-11T12:44:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "211.246"
       },
-      "content": "뭔데",
+      "content": "서리여왕 별명은 누가 붙였든 잘붙긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000009-v8-003",
+      "id": "c-2032-000009-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-11T12:42:49+09:00",
+      "timestamp": "2032-05-11T12:48:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "223.62"
       },
-      "content": "나도 비슷했음",
+      "content": "저 광역이면 잔몹전 난이도 확 내려가겠다",
       "deleted": false
     },
     {
-      "id": "c-2032-000009-v8-004",
+      "id": "c-2032-000009-b1-004",
       "parentId": null,
-      "timestamp": "2032-05-11T12:45:37+09:00",
+      "timestamp": "2032-05-11T12:53:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "106.102"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000009-v8-005",
-      "parentId": "c-2032-000009-v8-001",
-      "timestamp": "2032-05-11T12:49:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000009-v8-006",
-      "parentId": null,
-      "timestamp": "2032-05-11T12:52:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000009-v8-007",
-      "parentId": null,
-      "timestamp": "2032-05-11T12:54:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000009-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-11T12:56:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000009-v8-009",
-      "parentId": null,
-      "timestamp": "2032-05-11T12:58:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000009-v8-010",
-      "parentId": null,
-      "timestamp": "2032-05-11T13:01:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000009-v8-011",
-      "parentId": "c-2032-000009-v8-006",
-      "timestamp": "2032-05-11T13:04:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000009-v8-012",
-      "parentId": "c-2032-000009-v8-008",
-      "timestamp": "2032-05-11T13:05:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "나도그럼",
+      "content": "강주아랑 김채연 붙이면 상성얘기로 밤샘",
       "deleted": false
     }
   ],

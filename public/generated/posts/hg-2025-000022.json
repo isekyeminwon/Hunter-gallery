@@ -33,39 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2025-000022-v8-001",
+      "id": "c-2025-000022-b1-001",
       "parentId": null,
-      "timestamp": "2025-12-18T09:27:07+09:00",
+      "timestamp": "2025-12-18T09:30:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "124.53"
       },
-      "content": "조건부터 봐야됨",
+      "content": "현장 통제 늘어서 보조인력 수요 오른건 맞는듯",
       "deleted": false
     },
     {
-      "id": "c-2025-000022-v8-002",
+      "id": "c-2025-000022-b1-002",
       "parentId": null,
-      "timestamp": "2025-12-18T09:29:02+09:00",
+      "timestamp": "2025-12-18T09:39:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "210.178"
       },
-      "content": "계약주체 누구임",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000022-v8-003",
-      "parentId": null,
-      "timestamp": "2025-12-18T09:32:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "보험 있냐",
+      "content": "요즘 당일구인 글은 확실히 숫자 높게 부르더라",
       "deleted": false
     }
   ],

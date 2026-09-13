@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000154-v8-001",
+      "id": "c-2042-000154-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-12T18:22:28+09:00",
+      "timestamp": "2042-09-12T18:23:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "106.248"
       },
-      "content": "첫날 긴장해서 속안좋은사람 꽤 있음",
+      "content": "첫날 긴장+공간감 때문에 속안좋다는 사람 꽤 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000154-v8-002",
+      "id": "c-2042-000154-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-12T18:25:00+09:00",
+      "timestamp": "2042-09-12T18:27:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "입장전 과식만 안하면 좀 낫더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000154-v8-003",
-      "parentId": null,
-      "timestamp": "2042-09-12T18:27:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "심하면 참지말고 바로 말해",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000154-v8-004",
-      "parentId": null,
-      "timestamp": "2042-09-12T18:30:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "106.248"
       },
       "content": "안에서 토하면 본인도 팀도 고생임",
       "deleted": false
     },
     {
-      "id": "c-2042-000154-v8-005",
+      "id": "c-2042-000154-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-12T18:34:04+09:00",
+      "timestamp": "2042-09-12T18:30:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "106.101"
       },
-      "content": "ㄹㅇ",
+      "content": "입장전 과식만 안해도 좀 낫더라",
       "deleted": false
     }
   ],

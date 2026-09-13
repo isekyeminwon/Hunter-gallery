@@ -33,135 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000149-v8-001",
+      "id": "c-2042-000149-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-04T05:14:53+09:00",
+      "timestamp": "2042-09-04T05:15:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "110.70"
       },
-      "content": "한달뒤에도 똑같은글 있음",
+      "content": "이시율 옛 영상도 아직 체급감각 이상함",
       "deleted": false
     },
     {
-      "id": "c-2042-000149-v8-002",
+      "id": "c-2042-000149-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-04T05:18:24+09:00",
+      "timestamp": "2042-09-04T05:19:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "59.5"
       },
-      "content": "사설랭킹에 그래프까지 넣었네",
+      "content": "한성 간판 얘기하면 결국 이시율로 끝남",
       "deleted": false
     },
     {
-      "id": "c-2042-000149-v8-003",
-      "parentId": "c-2042-000149-v8-002",
-      "timestamp": "2042-09-04T05:22:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000149-v8-004",
-      "parentId": "c-2042-000149-v8-003",
-      "timestamp": "2042-09-04T05:24:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000149-v8-005",
-      "parentId": "c-2042-000149-v8-004",
-      "timestamp": "2042-09-04T05:27:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000149-v8-006",
+      "id": "c-2042-000149-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-04T05:30:22+09:00",
+      "timestamp": "2042-09-04T05:22:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "110.70"
       },
-      "content": "이시율 지금 바로 몇위 박는건 좀 웃김",
+      "content": "SS 만들게 한 장본인이라 일반 S랭킹에 넣는게 애매함",
       "deleted": false
     },
     {
-      "id": "c-2042-000149-v8-007",
+      "id": "c-2042-000149-b2m-004",
+      "parentId": "c-2042-000149-b2m-002",
+      "timestamp": "2042-09-04T05:24:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "SS를 일반 S표에 넣는것부터 이상함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000149-b2m-005",
       "parentId": null,
-      "timestamp": "2042-09-04T05:33:36+09:00",
+      "timestamp": "2042-09-04T05:25:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "110.70"
       },
-      "content": "둘다 진정좀",
+      "content": "비교표에 넣으면 표 자체가 이상해지는 느낌",
       "deleted": false
     },
     {
-      "id": "c-2042-000149-v8-008",
-      "parentId": "c-2042-000149-v8-003",
-      "timestamp": "2042-09-04T05:36:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000149-v8-009",
+      "id": "c-2042-000149-b2m-006",
       "parentId": null,
-      "timestamp": "2042-09-04T05:38:24+09:00",
+      "timestamp": "2042-09-04T05:27:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "14.32"
       },
-      "content": "이시율 최근 실적부터 가져와봐",
+      "content": "옛 영상도 체급감각 이상한건 맞음",
       "deleted": false
     },
     {
-      "id": "c-2042-000149-v8-010",
+      "id": "c-2042-000149-b2m-007",
       "parentId": null,
-      "timestamp": "2042-09-04T05:42:03+09:00",
+      "timestamp": "2042-09-04T05:29:57+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
       },
-      "content": "이시율 팬들 오면 이글 끝남ㅋㅋ",
+      "content": "이시율은 비교기준 자체가 다름",
       "deleted": false
     },
     {
-      "id": "c-2042-000149-v8-011",
+      "id": "c-2042-000149-b2m-008",
       "parentId": null,
-      "timestamp": "2042-09-04T05:45:41+09:00",
+      "timestamp": "2042-09-04T05:33:20+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "내가 만들면 내쪽이 1위임",
+      "content": "또 싸운다ㅋㅋ",
       "deleted": false
     }
   ],

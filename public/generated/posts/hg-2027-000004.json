@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000004-v8-001",
+      "id": "c-2027-000004-b1-001",
       "parentId": null,
-      "timestamp": "2027-02-16T00:47:37+09:00",
+      "timestamp": "2027-02-16T00:50:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "182.214"
       },
-      "content": "처음할때 여기서 한번 막힘",
+      "content": "예약 못잡은거랑 고의미수검은 구분할듯",
       "deleted": false
     },
     {
-      "id": "c-2027-000004-v8-002",
+      "id": "c-2027-000004-b1-002",
       "parentId": null,
-      "timestamp": "2027-02-16T00:50:03+09:00",
+      "timestamp": "2027-02-16T00:56:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "211.201"
       },
-      "content": "요즘 기준 글이 잘안보이더라",
+      "content": "의무대상이면 계속 미루는건 결국 문제될걸",
       "deleted": false
     },
     {
-      "id": "c-2027-000004-v8-003",
-      "parentId": "c-2027-000004-v8-002",
-      "timestamp": "2027-02-16T00:52:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000004-v8-004",
-      "parentId": "c-2027-000004-v8-001",
-      "timestamp": "2027-02-16T00:56:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000004-v8-005",
-      "parentId": "c-2027-000004-v8-001",
-      "timestamp": "2027-02-16T00:58:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000004-v8-006",
+      "id": "c-2027-000004-b1-003",
       "parentId": null,
-      "timestamp": "2027-02-16T01:01:23+09:00",
+      "timestamp": "2027-02-16T01:06:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "182.214"
       },
-      "content": "해본사람 있냐",
+      "content": "그냥 정해진 기간 안에 받는게 제일 편함",
       "deleted": false
     },
     {
-      "id": "c-2027-000004-v8-007",
-      "parentId": "c-2027-000004-v8-005",
-      "timestamp": "2027-02-16T01:03:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000004-v8-008",
+      "id": "c-2027-000004-b1-004",
       "parentId": null,
-      "timestamp": "2027-02-16T01:05:41+09:00",
+      "timestamp": "2027-02-16T01:14:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "211.201"
       },
-      "content": "나도 옆에서 질문좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000004-v8-009",
-      "parentId": "c-2027-000004-v8-003",
-      "timestamp": "2027-02-16T01:08:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000004-v8-010",
-      "parentId": null,
-      "timestamp": "2027-02-16T01:10:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 첫번엔 잘모름",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000004-v8-011",
-      "parentId": null,
-      "timestamp": "2027-02-16T01:14:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000004-v8-012",
-      "parentId": null,
-      "timestamp": "2027-02-16T01:18:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이건 인정",
+      "content": "바로 잡으러 온다 이런건 과장이고 통지부터 오겠지",
       "deleted": false
     }
   ],

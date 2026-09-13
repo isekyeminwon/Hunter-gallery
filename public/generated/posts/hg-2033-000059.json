@@ -33,111 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000059-v8-001",
+      "id": "c-2033-000059-b1-001",
       "parentId": null,
-      "timestamp": "2033-08-11T21:02:12+09:00",
+      "timestamp": "2033-08-11T21:04:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "39.7"
       },
-      "content": "팀장 전투중이면 대체콜도 있어야됨",
+      "content": "철수때 다들 급해서 여기서 실수남",
       "deleted": false
     },
     {
-      "id": "c-2033-000059-v8-002",
+      "id": "c-2033-000059-b1-002",
       "parentId": null,
-      "timestamp": "2033-08-11T21:05:02+09:00",
+      "timestamp": "2033-08-11T21:15:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "58.29"
       },
-      "content": "철수콜 누가하는지 먼저 정해",
+      "content": "짐꾼/촬영까지 포함해서 세야됨",
       "deleted": false
     },
     {
-      "id": "c-2033-000059-v8-003",
-      "parentId": "c-2033-000059-v8-001",
-      "timestamp": "2033-08-11T21:08:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "저위험이어도 퇴로는 잡아야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000059-v8-004",
-      "parentId": "c-2033-000059-v8-003",
-      "timestamp": "2033-08-11T21:09:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "철수콜 누가하는지 정해두면 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000059-v8-005",
+      "id": "c-2033-000059-b1-003",
       "parentId": null,
-      "timestamp": "2033-08-11T21:11:53+09:00",
+      "timestamp": "2033-08-11T21:25:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "211.246"
       },
-      "content": "철수 정했으면 그때는 욕심 접어",
+      "content": "한명씩 이름 부르는게 느려보여도 제일 확실함",
       "deleted": false
     },
     {
-      "id": "c-2033-000059-v8-006",
+      "id": "c-2033-000059-b1-004",
       "parentId": null,
-      "timestamp": "2033-08-11T21:14:04+09:00",
+      "timestamp": "2033-08-11T21:34:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "39.7"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000059-v8-007",
-      "parentId": null,
-      "timestamp": "2033-08-11T21:16:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000059-v8-008",
-      "parentId": null,
-      "timestamp": "2033-08-11T21:18:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "한번 더 보자는 말이 제일 무서움",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000059-v8-009",
-      "parentId": null,
-      "timestamp": "2033-08-11T21:21:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "저위험이라도 퇴로는 잡고 들어가",
+      "content": "첫체크 끝나고 이동직전에 한번 더하는거 좋음",
       "deleted": false
     }
   ],

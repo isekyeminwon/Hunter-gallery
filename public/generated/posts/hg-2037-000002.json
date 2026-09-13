@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000002-v8-001",
+      "id": "c-2037-000002-b1-001",
       "parentId": null,
-      "timestamp": "2037-02-21T13:19:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000002-v8-002",
-      "parentId": null,
-      "timestamp": "2037-02-21T13:20:52+09:00",
+      "timestamp": "2037-02-21T13:27:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "125.180"
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "외부메신저로 바로 빼는 공고면 조심",
       "deleted": false
     },
     {
-      "id": "c-2037-000002-v8-003",
-      "parentId": "c-2037-000002-v8-002",
-      "timestamp": "2037-02-21T13:23:36+09:00",
+      "id": "c-2037-000002-b1-002",
+      "parentId": null,
+      "timestamp": "2037-02-21T13:33:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "125.180"
       },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "content": "짐무게나 운반장비 있는지도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000002-b1-003",
+      "parentId": null,
+      "timestamp": "2037-02-21T13:40:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "일당만 보면 판단못함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000002-b1-004",
+      "parentId": null,
+      "timestamp": "2037-02-21T13:46:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "게이트등급/예상시간/보험 세개부터 적어줘",
       "deleted": false
     }
   ],

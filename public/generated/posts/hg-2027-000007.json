@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000007-v8-001",
+      "id": "c-2027-000007-b1-001",
       "parentId": null,
-      "timestamp": "2027-01-12T23:16:01+09:00",
+      "timestamp": "2027-01-12T23:20:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "211.201"
       },
-      "content": "이건 최신 공지 봐야됨",
+      "content": "실제로 걸린 사례 있음?",
       "deleted": false
     },
     {
-      "id": "c-2027-000007-v8-002",
+      "id": "c-2027-000007-b1-002",
       "parentId": null,
-      "timestamp": "2027-01-12T23:18:42+09:00",
+      "timestamp": "2027-01-12T23:30:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "175.194"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "신상 관련이면 애매할때 안올리는게 낫지",
       "deleted": false
     },
     {
-      "id": "c-2027-000007-v8-003",
+      "id": "c-2027-000007-b1-003",
       "parentId": null,
-      "timestamp": "2027-01-12T23:20:10+09:00",
+      "timestamp": "2027-01-12T23:41:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "211.36"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000007-v8-004",
-      "parentId": null,
-      "timestamp": "2027-01-12T23:22:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "신고해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000007-v8-005",
-      "parentId": null,
-      "timestamp": "2027-01-12T23:24:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "규정이랑 관행은 또 다를수 있음",
+      "content": "규정 바뀐거 없는지 확인해야됨",
       "deleted": false
     }
   ],

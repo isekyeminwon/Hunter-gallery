@@ -33,51 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000105-v8-001",
+      "id": "c-2042-000105-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-20T23:26:47+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000105-v8-002",
-      "parentId": null,
-      "timestamp": "2042-08-20T23:29:03+09:00",
+      "timestamp": "2042-08-20T23:26:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "39.7"
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "조건 하나만 달라도 체감 달라질수 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000105-v8-003",
+      "id": "c-2042-000105-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-20T23:31:00+09:00",
+      "timestamp": "2042-08-20T23:28:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.246"
       },
-      "content": "당일도 있고 며칠뒤도 있음",
+      "content": "이건 실제 해본사람 얘기가 제일 도움될듯",
       "deleted": false
     },
     {
-      "id": "c-2042-000105-v8-004",
+      "id": "c-2042-000105-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-20T23:32:40+09:00",
+      "timestamp": "2042-08-20T23:32:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "125.180"
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "뉴비면 저장해둘만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000105-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-08-20T23:33:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "정성추",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000105-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-08-20T23:36:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "이건 한번 꼬여보면 왜 적었는지 앎",
       "deleted": false
     }
   ],

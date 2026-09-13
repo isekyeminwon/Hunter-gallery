@@ -33,111 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000046-v8-001",
+      "id": "c-2032-000046-b1-001",
       "parentId": null,
-      "timestamp": "2032-03-13T00:25:09+09:00",
+      "timestamp": "2032-03-13T00:29:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.41"
       },
-      "content": "스텔라는 방송 싫으면 호불호 씨게 갈림",
+      "content": "공략실적 장비 교육 복지까지 넣으면 순위표 끝도없음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2032-000046-v8-002",
+      "id": "c-2032-000046-b1-002",
       "parentId": null,
-      "timestamp": "2032-03-13T00:28:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "취업은 전투서열이랑 다름",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000046-v8-003",
-      "parentId": null,
-      "timestamp": "2032-03-13T00:32:01+09:00",
+      "timestamp": "2032-03-13T00:34:37+09:00",
       "author": {
         "type": "fixed",
         "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "한성 붙으면 왜 고민하냐는놈 곧옴ㅋㅋ",
+      "content": "전투력 순위랑 취업하기 좋은 길드는 따로 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2032-000046-v8-004",
+      "id": "c-2032-000046-b1-003",
       "parentId": null,
-      "timestamp": "2032-03-13T00:35:17+09:00",
+      "timestamp": "2032-03-13T00:42:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "211.246"
       },
-      "content": "결론 붙여주는곳 감",
+      "content": "보유 S만 세면 한성이 너무 유리해서 다른 요소가 다 사라짐",
       "deleted": false
     },
     {
-      "id": "c-2032-000046-v8-005",
-      "parentId": null,
-      "timestamp": "2032-03-13T00:38:44+09:00",
+      "id": "c-2032-000046-b1-004",
+      "parentId": "c-2032-000046-b1-002",
+      "timestamp": "2032-03-13T00:52:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "211.246"
       },
-      "content": "마법계면 네뷸라 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000046-v8-006",
-      "parentId": null,
-      "timestamp": "2032-03-13T00:40:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000046-v8-007",
-      "parentId": null,
-      "timestamp": "2032-03-13T00:43:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000046-v8-008",
-      "parentId": null,
-      "timestamp": "2032-03-13T00:46:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000046-v8-009",
-      "parentId": "c-2032-000046-v8-005",
-      "timestamp": "2032-03-13T00:48:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "content": "전투력만 볼거면 그냥 보유 상위헌터 명단이랑 뭐가 다름",
       "deleted": false
     }
   ],

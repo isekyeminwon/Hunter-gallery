@@ -33,183 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000039-v8-001",
+      "id": "c-2030-000039-b1-001",
       "parentId": null,
-      "timestamp": "2030-11-09T02:19:38+09:00",
+      "timestamp": "2030-11-09T02:25:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "112.171"
       },
-      "content": "보스방 들어갈때 음악 끊는거 좋았음",
+      "content": "소속사 생존공지 보고 그나마 안심함",
       "deleted": false
     },
     {
-      "id": "c-2030-000039-v8-002",
+      "id": "c-2030-000039-b1-002",
       "parentId": null,
-      "timestamp": "2030-11-09T02:23:12+09:00",
+      "timestamp": "2030-11-09T02:32:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.214"
+      },
+      "content": "현장에서 보던 관객들 충격 엄청났겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000039-b1-003",
+      "parentId": null,
+      "timestamp": "2030-11-09T02:43:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.201"
       },
-      "content": "별하나 표정 짤 바로 돌겠네ㅋㅋ",
+      "content": "사람 꽉찬 실내에서 게이트면 대응 난이도부터 달라짐",
       "deleted": false
     },
     {
-      "id": "c-2030-000039-v8-003",
-      "parentId": "c-2030-000039-v8-001",
-      "timestamp": "2030-11-09T02:25:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-004",
-      "parentId": "c-2030-000039-v8-002",
-      "timestamp": "2030-11-09T02:28:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-005",
-      "parentId": "c-2030-000039-v8-004",
-      "timestamp": "2030-11-09T02:32:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "풀버전도 보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-006",
-      "parentId": "c-2030-000039-v8-002",
-      "timestamp": "2030-11-09T02:34:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "이번 편집은 진짜 잘뽑힘",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-007",
-      "parentId": "c-2030-000039-v8-004",
-      "timestamp": "2030-11-09T02:38:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "이번 편집은 진짜 잘뽑힘",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-008",
-      "parentId": "c-2030-000039-v8-003",
-      "timestamp": "2030-11-09T02:41:05+09:00",
+      "id": "c-2030-000039-b1-004",
+      "parentId": null,
+      "timestamp": "2030-11-09T02:49:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.201"
       },
-      "content": "팬아닌데 이번건 볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-009",
-      "parentId": "c-2030-000039-v8-008",
-      "timestamp": "2030-11-09T02:43:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-010",
-      "parentId": null,
-      "timestamp": "2030-11-09T02:47:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "엔딩컷 노린 티 나는데 잘나오긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-011",
-      "parentId": null,
-      "timestamp": "2030-11-09T02:48:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-012",
-      "parentId": "c-2030-000039-v8-010",
-      "timestamp": "2030-11-09T02:52:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-013",
-      "parentId": null,
-      "timestamp": "2030-11-09T02:55:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-014",
-      "parentId": null,
-      "timestamp": "2030-11-09T02:57:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000039-v8-015",
-      "parentId": null,
-      "timestamp": "2030-11-09T03:01:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "팬아닌데 이번건 볼만함",
+      "content": "방송 끊긴 직후부터 확인안된 캡처가 너무 많이 돎",
       "deleted": false
     }
   ],

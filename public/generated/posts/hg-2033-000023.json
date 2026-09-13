@@ -33,423 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000023-v8-001",
+      "id": "c-2033-000023-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-16T22:20:18+09:00",
+      "timestamp": "2033-09-16T22:24:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "118.41"
       },
-      "content": "한성 합격부터 하고 고민하라는 댓글 곧온다",
+      "content": "이걸 숫자 하나로 정리하려는게 제일 웃김",
       "deleted": false
     },
     {
-      "id": "c-2033-000023-v8-002",
+      "id": "c-2033-000023-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-16T22:22:16+09:00",
+      "timestamp": "2033-09-16T22:36:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "118.41"
       },
-      "content": "셋다 붙으면 그때 고민한다ㅋㅋ",
+      "content": "검신 두글자에 설명 다들어있네",
       "deleted": false
     },
     {
-      "id": "c-2033-000023-v8-003",
-      "parentId": "c-2033-000023-v8-002",
-      "timestamp": "2033-09-16T22:26:02+09:00",
+      "id": "c-2033-000023-b1-003",
+      "parentId": "c-2033-000023-b1-002",
+      "timestamp": "2033-09-16T22:43:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "211.36"
       },
-      "content": "마법계면 네뷸라가 끌릴만함",
+      "content": "SS 신설 자체가 답인듯",
       "deleted": false
     },
     {
-      "id": "c-2033-000023-v8-004",
+      "id": "c-2033-000023-b1-004",
+      "parentId": "c-2033-000023-b1-003",
+      "timestamp": "2033-09-16T22:52:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "한성 지원서버 터질만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000023-b1-005",
       "parentId": null,
-      "timestamp": "2033-09-16T22:28:01+09:00",
+      "timestamp": "2033-09-16T22:56:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "211.36"
       },
-      "content": "마법계는 네뷸라 교육이 솔깃하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-005",
-      "parentId": null,
-      "timestamp": "2033-09-16T22:30:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "마법계면 네뷸라 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-006",
-      "parentId": null,
-      "timestamp": "2033-09-16T22:34:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "복지글 검색하면 백호 얘기 많이 뜸",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-007",
-      "parentId": null,
-      "timestamp": "2033-09-16T22:36:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "스텔라는 대중노출 감수해야할듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-008",
-      "parentId": "c-2033-000023-v8-001",
-      "timestamp": "2033-09-16T22:40:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-009",
-      "parentId": "c-2033-000023-v8-007",
-      "timestamp": "2033-09-16T22:41:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-010",
-      "parentId": null,
-      "timestamp": "2033-09-16T22:43:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-16T22:47:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "이걸로도 싸우네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-012",
-      "parentId": "c-2033-000023-v8-007",
-      "timestamp": "2033-09-16T22:51:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-013",
-      "parentId": "c-2033-000023-v8-009",
-      "timestamp": "2033-09-16T22:54:00+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-014",
-      "parentId": null,
-      "timestamp": "2033-09-16T22:56:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-015",
-      "parentId": null,
-      "timestamp": "2033-09-16T22:59:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-016",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:01:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "한성 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-017",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:03:38+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "원글 세줄인데 밑이 더김",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-018",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:05:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-019",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:07:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-020",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:09:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-021",
-      "parentId": "c-2033-000023-v8-020",
-      "timestamp": "2033-09-16T23:12:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-022",
-      "parentId": "c-2033-000023-v8-020",
-      "timestamp": "2033-09-16T23:14:19+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-023",
-      "parentId": "c-2033-000023-v8-017",
-      "timestamp": "2033-09-16T23:16:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-024",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:18:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-025",
-      "parentId": "c-2033-000023-v8-018",
-      "timestamp": "2033-09-16T23:20:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-026",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:23:13+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-027",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:27:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-028",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:30:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "한성 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-029",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:33:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-030",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:35:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-031",
-      "parentId": "c-2033-000023-v8-026",
-      "timestamp": "2033-09-16T23:38:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-032",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:40:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "한성 붙으면 왜 고민하냐는놈 곧옴ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-033",
-      "parentId": "c-2033-000023-v8-028",
-      "timestamp": "2033-09-16T23:42:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-034",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:45:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000023-v8-035",
-      "parentId": null,
-      "timestamp": "2033-09-16T23:47:53+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "난 반대",
+      "content": "발표 뜨자마자 줄세우는 속도 존나빠름ㅋㅋ",
       "deleted": false
     }
   ],

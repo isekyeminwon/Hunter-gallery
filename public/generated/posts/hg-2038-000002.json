@@ -33,351 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000002-v8-001",
+      "id": "c-2038-000002-b2m-001",
       "parentId": null,
-      "timestamp": "2038-08-03T11:39:13+09:00",
+      "timestamp": "2038-08-03T11:39:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "211.246"
       },
-      "content": "근처사는 사람은 교통공지 먼저봐",
+      "content": "샤오룽 구조장면 하나로 사고 전체를 설명하긴 어렵지",
       "deleted": false
     },
     {
-      "id": "c-2038-000002-v8-002",
+      "id": "c-2038-000002-b2m-002",
       "parentId": null,
-      "timestamp": "2038-08-03T11:42:33+09:00",
+      "timestamp": "2038-08-03T11:40:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "211.58"
       },
-      "content": "부상자 추가소식 있음?",
+      "content": "재업 영상이 최신인것처럼 도는게 제일 헷갈림",
       "deleted": false
     },
     {
-      "id": "c-2038-000002-v8-003",
-      "parentId": "c-2038-000002-v8-002",
-      "timestamp": "2038-08-03T11:44:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-004",
+      "id": "c-2038-000002-b2m-003",
       "parentId": null,
-      "timestamp": "2038-08-03T11:47:57+09:00",
+      "timestamp": "2038-08-03T11:44:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "124.53"
       },
-      "content": "저 사진만으론 원인 모르지",
+      "content": "{{con:stop}}",
       "deleted": false
     },
     {
-      "id": "c-2038-000002-v8-005",
-      "parentId": "c-2038-000002-v8-004",
-      "timestamp": "2038-08-03T11:51:10+09:00",
+      "id": "c-2038-000002-b2m-004",
+      "parentId": "c-2038-000002-b2m-002",
+      "timestamp": "2038-08-03T11:46:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "124.53"
       },
-      "content": "다친사람 별일없었으면",
+      "content": "그 장면 앞뒤 잘린 버전이 제일 많이 돎",
       "deleted": false
     },
     {
-      "id": "c-2038-000002-v8-006",
+      "id": "c-2038-000002-b2m-005",
+      "parentId": "c-2038-000002-b2m-004",
+      "timestamp": "2038-08-03T11:47:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "공식 브리핑 날짜부터 맞춰야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000002-b2m-006",
       "parentId": null,
-      "timestamp": "2038-08-03T11:53:57+09:00",
+      "timestamp": "2038-08-03T11:51:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "182.214"
       },
-      "content": "기사 뜨자마자 누구탓인지 정했네",
+      "content": "공식 확인된 부분이 어디까지인지 기사마다 정리해봐야겠네",
       "deleted": false
     },
     {
-      "id": "c-2038-000002-v8-007",
-      "parentId": "c-2038-000002-v8-006",
-      "timestamp": "2038-08-03T11:56:23+09:00",
+      "id": "c-2038-000002-b2m-007",
+      "parentId": null,
+      "timestamp": "2038-08-03T11:54:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "출처불명 영상은 시간대부터 안맞는게 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000002-b2m-008",
+      "parentId": null,
+      "timestamp": "2038-08-03T11:57:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "182.214"
       },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-008",
-      "parentId": null,
-      "timestamp": "2038-08-03T11:59:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "원기사 보고싶은데",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-009",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:02:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "업데이트 된거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-010",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:05:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-011",
-      "parentId": "c-2038-000002-v8-008",
-      "timestamp": "2038-08-03T12:09:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-012",
-      "parentId": "c-2038-000002-v8-007",
-      "timestamp": "2038-08-03T12:12:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-013",
-      "parentId": "c-2038-000002-v8-006",
-      "timestamp": "2038-08-03T12:15:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-014",
-      "parentId": "c-2038-000002-v8-007",
-      "timestamp": "2038-08-03T12:16:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-015",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:18:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-016",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:20:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-017",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:22:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "원문 링크 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-018",
-      "parentId": "c-2038-000002-v8-013",
-      "timestamp": "2038-08-03T12:24:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-019",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:28:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-020",
-      "parentId": "c-2038-000002-v8-013",
-      "timestamp": "2038-08-03T12:31:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-021",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:35:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-022",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:36:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "통제중이면 근처사람은 안내부터 들어",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-023",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:39:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-024",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:43:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-025",
-      "parentId": "c-2038-000002-v8-023",
-      "timestamp": "2038-08-03T12:46:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-026",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:50:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-027",
-      "parentId": "c-2038-000002-v8-022",
-      "timestamp": "2038-08-03T12:53:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-028",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:57:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "추가기사 뜬거 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000002-v8-029",
-      "parentId": "c-2038-000002-v8-027",
-      "timestamp": "2038-08-03T12:59:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "다친사람 별일없었으면",
+      "content": "{{con:wait}}",
       "deleted": false
     }
   ],

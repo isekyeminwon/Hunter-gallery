@@ -33,99 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000062-v8-001",
+      "id": "c-2033-000062-b1-001",
       "parentId": null,
-      "timestamp": "2033-11-03T14:29:01+09:00",
+      "timestamp": "2033-11-03T14:33:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "121.163"
       },
-      "content": "취업이랑 누가세냐는 다른문제지",
+      "content": "비공식표에 그래프까지 넣은 정성 뭐냐",
       "deleted": false
     },
     {
-      "id": "c-2033-000062-v8-002",
+      "id": "c-2033-000062-b1-002",
       "parentId": null,
-      "timestamp": "2033-11-03T14:32:27+09:00",
+      "timestamp": "2033-11-03T14:42:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "59.5"
       },
-      "content": "헌터활동이랑 콘텐츠 붙는거 싫으면 안맞음",
+      "content": "또 줄세우기 시작했네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000062-v8-003",
-      "parentId": "c-2033-000062-v8-001",
-      "timestamp": "2033-11-03T14:34:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000062-v8-004",
+      "id": "c-2033-000062-b1-003",
       "parentId": null,
-      "timestamp": "2033-11-03T14:37:23+09:00",
+      "timestamp": "2033-11-03T14:46:44+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
       },
-      "content": "한성 복지후기는 상대적으로 덜보이긴함",
+      "content": "어차피 제작자 최애가 맨위임ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000062-v8-005",
-      "parentId": null,
-      "timestamp": "2033-11-03T14:40:21+09:00",
+      "id": "c-2033-000062-b1-004",
+      "parentId": "c-2033-000062-b1-002",
+      "timestamp": "2033-11-03T14:58:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "121.163"
       },
-      "content": "복지로 백호 미는사람 많은 이유는 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000062-v8-006",
-      "parentId": null,
-      "timestamp": "2033-11-03T14:43:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "복지만 보면 백호 쪽 손드는 사람 많지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000062-v8-007",
-      "parentId": "c-2033-000062-v8-005",
-      "timestamp": "2033-11-03T14:45:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000062-v8-008",
-      "parentId": "c-2033-000062-v8-004",
-      "timestamp": "2033-11-03T14:46:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
+      "content": "또 갈드컵 열렸네ㅋㅋ",
       "deleted": false
     }
   ],

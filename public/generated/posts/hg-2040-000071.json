@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000071-v8-001",
+      "id": "c-2040-000071-b2m-001",
       "parentId": null,
-      "timestamp": "2040-05-05T23:16:31+09:00",
+      "timestamp": "2040-05-05T23:17:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "110.70"
       },
-      "content": "화려한 공략보다 이게 초보한텐 나음",
+      "content": "모르면 바로 물어보는게 제일 큰 역할임",
       "deleted": false
     },
     {
-      "id": "c-2040-000071-v8-002",
+      "id": "c-2040-000071-b2m-002",
       "parentId": null,
-      "timestamp": "2040-05-05T23:19:30+09:00",
+      "timestamp": "2040-05-05T23:20:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "211.234"
       },
-      "content": "이런건 북마크해놔야됨",
+      "content": "막내라고 잡일 다떠넘기는팀은 별개고",
       "deleted": false
     },
     {
-      "id": "c-2040-000071-v8-003",
-      "parentId": "c-2040-000071-v8-001",
-      "timestamp": "2040-05-05T23:23:01+09:00",
+      "id": "c-2040-000071-b2m-003",
+      "parentId": "c-2040-000071-b2m-001",
+      "timestamp": "2040-05-05T23:23:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "211.234"
       },
-      "content": "한번 고생하면 안까먹음",
+      "content": "전투보다 팀루틴 익히는게 첫달엔 더 중요",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000071-b2m-004",
+      "parentId": null,
+      "timestamp": "2040-05-05T23:25:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "{{con:good}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000071-b2m-005",
+      "parentId": null,
+      "timestamp": "2040-05-05T23:28:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "장비수량/콜 복창/후열확인 같은 기본부터 맡는 경우 많음",
       "deleted": false
     }
   ],

@@ -33,231 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000102-v8-001",
+      "id": "c-2041-000102-b2m-001",
       "parentId": null,
-      "timestamp": "2041-04-14T01:18:52+09:00",
+      "timestamp": "2041-04-14T01:19:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "110.70"
       },
-      "content": "훈련점수로 실전서열 짜는건 웃김",
+      "content": "공식촬영 허용구역 밖에서 찍은거면 삭제될만함",
       "deleted": false
     },
     {
-      "id": "c-2041-000102-v8-002",
+      "id": "c-2041-000102-b2m-002",
       "parentId": null,
-      "timestamp": "2041-04-14T01:20:22+09:00",
+      "timestamp": "2041-04-14T01:22:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "1.239"
       },
-      "content": "파티콜 맞추는게 생각보다 오래걸림",
+      "content": "퍼나른 재업본도 좌표/얼굴 그대로면 문제될수 있음",
       "deleted": false
     },
     {
-      "id": "c-2041-000102-v8-003",
+      "id": "c-2041-000102-b2m-003",
       "parentId": null,
-      "timestamp": "2041-04-14T01:24:22+09:00",
+      "timestamp": "2041-04-14T01:25:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "121.140"
       },
-      "content": "부상자 가정 훈련이 제일 정신없다더라",
+      "content": "합동훈련은 여러길드 섞여서 촬영동의 더 복잡함",
       "deleted": false
     },
     {
-      "id": "c-2041-000102-v8-004",
+      "id": "c-2041-000102-b2m-004",
       "parentId": null,
-      "timestamp": "2041-04-14T01:27:00+09:00",
+      "timestamp": "2041-04-14T01:26:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "1.239"
       },
-      "content": "훈련인데 철수만 몇번씩 시키더라",
+      "content": "파티원 얼굴뿐 아니라 훈련장 동선/장비정보도 걸릴수 있음",
       "deleted": false
     },
     {
-      "id": "c-2041-000102-v8-005",
-      "parentId": "c-2041-000102-v8-003",
-      "timestamp": "2041-04-14T01:30:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "훈련점수로 서열짜는건 좀ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-006",
-      "parentId": "c-2041-000102-v8-005",
-      "timestamp": "2041-04-14T01:34:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "훈련이라 오히려 철수 더 많이 시키나봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-007",
+      "id": "c-2041-000102-b2m-005",
       "parentId": null,
-      "timestamp": "2041-04-14T01:37:15+09:00",
+      "timestamp": "2041-04-14T01:28:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "59.5"
       },
-      "content": "왜 또 싸움ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-008",
-      "parentId": null,
-      "timestamp": "2041-04-14T01:40:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "강한애 모았다고 팀이 바로 되는건 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-009",
-      "parentId": null,
-      "timestamp": "2041-04-14T01:43:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-010",
-      "parentId": "c-2041-000102-v8-004",
-      "timestamp": "2041-04-14T01:45:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "강한애만 모인다고 팀 되는건 아니지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-011",
-      "parentId": null,
-      "timestamp": "2041-04-14T01:47:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-012",
-      "parentId": "c-2041-000102-v8-011",
-      "timestamp": "2041-04-14T01:50:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "낯선사람끼리 콜 맞추는게 핵심이겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-013",
-      "parentId": "c-2041-000102-v8-010",
-      "timestamp": "2041-04-14T01:54:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "훈련이라 오히려 철수 더 많이 시키나봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-014",
-      "parentId": "c-2041-000102-v8-007",
-      "timestamp": "2041-04-14T01:57:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "훈련이라 오히려 철수 더 많이 시키나봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-015",
-      "parentId": null,
-      "timestamp": "2041-04-14T01:59:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "다른팀은 어케함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-016",
-      "parentId": null,
-      "timestamp": "2041-04-14T02:02:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "댓글끼리 논문쓰네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-017",
-      "parentId": null,
-      "timestamp": "2041-04-14T02:04:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-018",
-      "parentId": null,
-      "timestamp": "2041-04-14T02:07:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000102-v8-019",
-      "parentId": "c-2041-000102-v8-016",
-      "timestamp": "2041-04-14T02:11:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "훈련이라 오히려 철수 더 많이 시키나봄",
+      "content": "{{con:Intelligence}}",
       "deleted": false
     }
   ],

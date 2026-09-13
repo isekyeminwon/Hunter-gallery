@@ -33,423 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000008-v8-001",
+      "id": "c-2033-000008-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-14T17:37:37+09:00",
+      "timestamp": "2033-09-14T17:41:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "175.223"
       },
-      "content": "이시율 최근 실적부터 가져와봐",
+      "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
       "deleted": false
     },
     {
-      "id": "c-2033-000008-v8-002",
+      "id": "c-2033-000008-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-14T17:41:12+09:00",
+      "timestamp": "2033-09-14T17:46:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "118.221"
       },
-      "content": "이시율 지금 바로 몇위 박는건 좀 웃김",
+      "content": "이시율 영상은 진짜 같은 종 맞나 싶음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000008-v8-003",
+      "id": "c-2033-000008-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-14T17:42:52+09:00",
+      "timestamp": "2033-09-14T17:53:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "175.223"
       },
-      "content": "A 평범취급은 갤에서만 가능",
+      "content": "실전자료 더 쌓이고 싸워도 안늦음",
       "deleted": false
     },
     {
-      "id": "c-2033-000008-v8-004",
-      "parentId": "c-2033-000008-v8-002",
-      "timestamp": "2033-09-14T17:46:50+09:00",
+      "id": "c-2033-000008-b1-004",
+      "parentId": "c-2033-000008-b1-001",
+      "timestamp": "2033-09-14T18:00:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "118.221"
       },
-      "content": "상성 넣으면 또 표 갈아야됨",
+      "content": "이시율 영상은 다른각도도 보고싶다",
       "deleted": false
     },
     {
-      "id": "c-2033-000008-v8-005",
-      "parentId": "c-2033-000008-v8-003",
-      "timestamp": "2033-09-14T17:49:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-006",
-      "parentId": "c-2033-000008-v8-004",
-      "timestamp": "2033-09-14T17:53:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-007",
-      "parentId": "c-2033-000008-v8-003",
-      "timestamp": "2033-09-14T17:55:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-008",
+      "id": "c-2033-000008-b1-005",
       "parentId": null,
-      "timestamp": "2033-09-14T17:58:42+09:00",
+      "timestamp": "2033-09-14T18:12:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "175.223"
       },
-      "content": "이시율 팬들 오면 이글 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-009",
-      "parentId": "c-2033-000008-v8-003",
-      "timestamp": "2033-09-14T18:01:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-010",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:03:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "상성까지 넣으면 순위표 끝도없음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-011",
-      "parentId": "c-2033-000008-v8-006",
-      "timestamp": "2033-09-14T18:06:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-012",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:08:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "본문보다 댓글이 더길어졌네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-013",
-      "parentId": "c-2033-000008-v8-007",
-      "timestamp": "2033-09-14T18:11:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-014",
-      "parentId": "c-2033-000008-v8-008",
-      "timestamp": "2033-09-14T18:13:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-015",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:17:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-016",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:19:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-017",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:21:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "비공식인데 표 퀄만 너무좋음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-018",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:24:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-019",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:26:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "내표 만들면 순위 다바뀜",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-020",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:30:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "한달뒤에도 똑같은글 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-021",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:33:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "상성 넣으면 표 다시짜야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-022",
-      "parentId": "c-2033-000008-v8-021",
-      "timestamp": "2033-09-14T18:36:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-023",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:38:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "또 순위매기네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-024",
-      "parentId": "c-2033-000008-v8-020",
-      "timestamp": "2033-09-14T18:41:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-025",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:43:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-026",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:46:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-027",
-      "parentId": "c-2033-000008-v8-020",
-      "timestamp": "2033-09-14T18:48:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-028",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:50:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-029",
-      "parentId": "c-2033-000008-v8-023",
-      "timestamp": "2033-09-14T18:53:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-030",
-      "parentId": null,
-      "timestamp": "2033-09-14T18:56:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-031",
-      "parentId": "c-2033-000008-v8-026",
-      "timestamp": "2033-09-14T18:58:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-032",
-      "parentId": null,
-      "timestamp": "2033-09-14T19:01:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-033",
-      "parentId": "c-2033-000008-v8-030",
-      "timestamp": "2033-09-14T19:04:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-034",
-      "parentId": null,
-      "timestamp": "2033-09-14T19:06:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000008-v8-035",
-      "parentId": null,
-      "timestamp": "2033-09-14T19:09:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "또 시작이네",
+      "content": "발표 뜨자마자 줄세우는 속도 존나빠름ㅋㅋ",
       "deleted": false
     }
   ],

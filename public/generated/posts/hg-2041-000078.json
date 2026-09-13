@@ -33,183 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000078-v8-001",
+      "id": "c-2041-000078-b2m-001",
       "parentId": null,
-      "timestamp": "2041-04-14T05:41:35+09:00",
+      "timestamp": "2041-04-14T05:40:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "223.52"
       },
-      "content": "이건 한번 터지면 평생 챙김",
+      "content": "B급 베테랑이 콜/동선/철수판단 잡아주는게 큼",
       "deleted": false
     },
     {
-      "id": "c-2041-000078-v8-002",
+      "id": "c-2041-000078-b2m-002",
       "parentId": null,
-      "timestamp": "2041-04-14T05:45:27+09:00",
+      "timestamp": "2041-04-14T05:42:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "223.52"
       },
-      "content": "정성추",
+      "content": "체급보다 현장루틴 알려줄 사람이 필요한거지",
       "deleted": false
     },
     {
-      "id": "c-2041-000078-v8-003",
+      "id": "c-2041-000078-b2m-003",
       "parentId": null,
-      "timestamp": "2041-04-14T05:47:15+09:00",
+      "timestamp": "2041-04-14T05:45:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "14.32"
       },
-      "content": "체크할때 다시본다",
+      "content": "고등급 출력에 팀이 휘말리지 않게 옆에서 속도 잡아주는 역할도 있음",
       "deleted": false
     },
     {
-      "id": "c-2041-000078-v8-004",
+      "id": "c-2041-000078-b2m-004",
+      "parentId": "c-2041-000078-b2m-003",
+      "timestamp": "2041-04-14T05:47:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "신인 A라고 처음부터 파티운영까지 잘하는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000078-b2m-005",
       "parentId": null,
-      "timestamp": "2041-04-14T05:50:16+09:00",
+      "timestamp": "2041-04-14T05:49:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "223.52"
       },
-      "content": "우린 저부분만 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-005",
-      "parentId": null,
-      "timestamp": "2041-04-14T05:52:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "이건 사전에 맞춰놔야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-006",
-      "parentId": null,
-      "timestamp": "2041-04-14T05:56:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-007",
-      "parentId": null,
-      "timestamp": "2041-04-14T05:59:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "화려한 공략보다 이게 초보한텐 나음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-008",
-      "parentId": "c-2041-000078-v8-007",
-      "timestamp": "2041-04-14T06:01:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-009",
-      "parentId": null,
-      "timestamp": "2041-04-14T06:03:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-010",
-      "parentId": null,
-      "timestamp": "2041-04-14T06:07:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-011",
-      "parentId": null,
-      "timestamp": "2041-04-14T06:10:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-012",
-      "parentId": "c-2041-000078-v8-005",
-      "timestamp": "2041-04-14T06:13:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-013",
-      "parentId": null,
-      "timestamp": "2041-04-14T06:16:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이런건 한번 당하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-014",
-      "parentId": "c-2041-000078-v8-007",
-      "timestamp": "2041-04-14T06:18:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000078-v8-015",
-      "parentId": null,
-      "timestamp": "2041-04-14T06:20:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "입장전에 맞춰두는게 낫지",
+      "content": "{{con:wait}}",
       "deleted": false
     }
   ],

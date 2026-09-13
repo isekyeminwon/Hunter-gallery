@@ -33,51 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000040-v8-001",
+      "id": "c-2041-000040-b2m-001",
       "parentId": null,
-      "timestamp": "2041-05-13T07:40:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "입구에서라도 맞추고 들어가",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000040-v8-002",
-      "parentId": null,
-      "timestamp": "2041-05-13T07:42:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000040-v8-003",
-      "parentId": null,
-      "timestamp": "2041-05-13T07:45:32+09:00",
+      "timestamp": "2041-05-13T07:42:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.7"
       },
-      "content": "당해보면 왜 적었는지 앎",
+      "content": "막내라고 잡일 다떠넘기는팀은 별개고",
       "deleted": false
     },
     {
-      "id": "c-2041-000040-v8-004",
+      "id": "c-2041-000040-b2m-002",
       "parentId": null,
-      "timestamp": "2041-05-13T07:47:26+09:00",
+      "timestamp": "2041-05-13T07:45:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "모르면 바로 물어보는게 제일 큰 역할임",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000040-b2m-003",
+      "parentId": null,
+      "timestamp": "2041-05-13T07:47:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "장비수량/콜 복창/후열확인 같은 기본부터 맡는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000040-b2m-004",
+      "parentId": null,
+      "timestamp": "2041-05-13T07:50:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.223"
       },
-      "content": "다음 현장전에 한번 더봄",
+      "content": "전투보다 팀루틴 익히는게 첫달엔 더 중요",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000040-b2m-005",
+      "parentId": null,
+      "timestamp": "2041-05-13T07:53:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "정성추",
       "deleted": false
     }
   ],

@@ -33,219 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000024-v8-001",
+      "id": "c-2041-000024-b2m-001",
       "parentId": null,
-      "timestamp": "2041-10-24T00:42:28+09:00",
+      "timestamp": "2041-10-24T00:43:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "211.235"
       },
-      "content": "강원 구인 전부 위험하다고 하는것도 오바",
+      "content": "나도그럼",
       "deleted": false
     },
     {
-      "id": "c-2041-000024-v8-002",
+      "id": "c-2041-000024-b2m-002",
       "parentId": null,
-      "timestamp": "2041-10-24T00:45:45+09:00",
+      "timestamp": "2041-10-24T00:46:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "58.29"
       },
-      "content": "입장기록/보험/연락시간 더 빡세게 봐",
+      "content": "자라",
       "deleted": false
     },
     {
-      "id": "c-2041-000024-v8-003",
+      "id": "c-2041-000024-b2m-003",
       "parentId": null,
-      "timestamp": "2041-10-24T00:49:20+09:00",
+      "timestamp": "2041-10-24T00:48:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "사람 실종된걸 괴담놀이 하는건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-004",
-      "parentId": null,
-      "timestamp": "2041-10-24T00:51:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "실종건 전부 같은원인이라는건 확인된거 없음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-005",
-      "parentId": null,
-      "timestamp": "2041-10-24T00:53:26+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "범인 특정글은 거르는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-006",
-      "parentId": "c-2041-000024-v8-002",
-      "timestamp": "2041-10-24T00:56:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "저등급이라고 사고 0은 아니지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-007",
-      "parentId": "c-2041-000024-v8-006",
-      "timestamp": "2041-10-24T00:57:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "강원 구인 전부 위험하다는것도 오바",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-008",
-      "parentId": null,
-      "timestamp": "2041-10-24T00:59:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.235"
       },
       "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "c-2041-000024-v8-009",
-      "parentId": "c-2041-000024-v8-007",
-      "timestamp": "2041-10-24T01:01:13+09:00",
+      "id": "c-2041-000024-b2m-004",
+      "parentId": "c-2041-000024-b2m-003",
+      "timestamp": "2041-10-24T00:52:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "범인특정글은 거르는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-010",
-      "parentId": null,
-      "timestamp": "2041-10-24T01:03:30+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-011",
-      "parentId": "c-2041-000024-v8-006",
-      "timestamp": "2041-10-24T01:07:05+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "현장가면 기록/보험 더 잘봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-012",
-      "parentId": null,
-      "timestamp": "2041-10-24T01:09:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-013",
-      "parentId": "c-2041-000024-v8-011",
-      "timestamp": "2041-10-24T01:12:51+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "전부 같은원인이라는건 확인안됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-014",
-      "parentId": null,
-      "timestamp": "2041-10-24T01:15:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "비슷하게 해본놈 더없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-015",
-      "parentId": "c-2041-000024-v8-009",
-      "timestamp": "2041-10-24T01:17:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "현장가면 기록/보험 더 잘봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-016",
-      "parentId": null,
-      "timestamp": "2041-10-24T01:21:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "58.29"
       },
       "content": "ㅋㅋㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000024-v8-017",
+      "id": "c-2041-000024-b2m-005",
       "parentId": null,
-      "timestamp": "2041-10-24T01:24:06+09:00",
+      "timestamp": "2041-10-24T00:54:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "59.10"
       },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000024-v8-018",
-      "parentId": "c-2041-000024-v8-013",
-      "timestamp": "2041-10-24T01:27:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "강원 구인 전부 위험하다는것도 오바",
+      "content": "{{con:dororong}}",
       "deleted": false
     }
   ],

@@ -33,627 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000087-v8-001",
+      "id": "c-2038-000087-b2m-001",
       "parentId": null,
-      "timestamp": "2038-08-04T21:37:43+09:00",
+      "timestamp": "2038-08-04T21:38:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "106.101"
       },
-      "content": "이시율 보고도 몇배냐 묻는건 무리",
+      "content": "확인 안된 실명/가족/학교 추측이면 삭제될만함",
       "deleted": false
     },
     {
-      "id": "c-2038-000087-v8-002",
+      "id": "c-2038-000087-b2m-002",
       "parentId": null,
-      "timestamp": "2038-08-04T21:39:29+09:00",
+      "timestamp": "2038-08-04T21:40:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "기사에 공개된 정보만 얘기하는게 안전함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000087-b2m-003",
+      "parentId": null,
+      "timestamp": "2038-08-04T21:44:39+09:00",
       "author": {
         "type": "fixed",
-        "name": "영상분석충",
+        "name": "협회노예",
         "ip": null
       },
-      "content": "기존 규격 장비로 감당 안되는 얘기 나온적 있음",
+      "content": "{{con:forwhat}}",
       "deleted": false
     },
     {
-      "id": "c-2038-000087-v8-003",
+      "id": "c-2038-000087-b2m-004",
       "parentId": null,
-      "timestamp": "2038-08-04T21:41:17+09:00",
+      "timestamp": "2038-08-04T21:46:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.101"
       },
-      "content": "S 몇명분 이런 계산은 의미없지 않나",
+      "content": "사건 관련자라고 사생활까지 캐도 되는건 아니지",
       "deleted": false
     },
     {
-      "id": "c-2038-000087-v8-004",
+      "id": "c-2038-000087-b2m-005",
       "parentId": null,
-      "timestamp": "2038-08-04T21:44:19+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "SS가 기존 S로 설명 안되는놈 나와서 만든거잖아",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-005",
-      "parentId": "c-2038-000087-v8-003",
-      "timestamp": "2038-08-04T21:47:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "애매하면 신상은 올리지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-006",
-      "parentId": null,
-      "timestamp": "2038-08-04T21:50:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "원글 세줄인데 밑이 더김",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-007",
-      "parentId": "c-2038-000087-v8-006",
-      "timestamp": "2038-08-04T21:54:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-008",
-      "parentId": "c-2038-000087-v8-003",
-      "timestamp": "2038-08-04T21:56:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-009",
-      "parentId": "c-2038-000087-v8-002",
-      "timestamp": "2038-08-04T21:59:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-010",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:02:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-011",
-      "parentId": "c-2038-000087-v8-004",
-      "timestamp": "2038-08-04T22:05:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-012",
-      "parentId": "c-2038-000087-v8-007",
-      "timestamp": "2038-08-04T22:08:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-013",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:12:10+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "다른사람은 어땠음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-014",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:15:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-015",
-      "parentId": "c-2038-000087-v8-009",
-      "timestamp": "2038-08-04T22:18:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-016",
-      "parentId": "c-2038-000087-v8-009",
-      "timestamp": "2038-08-04T22:20:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-017",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:24:16+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-018",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:27:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-019",
-      "parentId": "c-2038-000087-v8-012",
-      "timestamp": "2038-08-04T22:30:05+09:00",
+      "timestamp": "2038-08-04T21:48:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.33"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "맞아도 공개정보 범위 넘으면 문제고 틀리면 더큰일임",
       "deleted": false
     },
     {
-      "id": "c-2038-000087-v8-020",
+      "id": "c-2038-000087-b2m-006",
       "parentId": null,
-      "timestamp": "2038-08-04T22:32:15+09:00",
+      "timestamp": "2038-08-04T21:50:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "175.223"
       },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-021",
-      "parentId": "c-2038-000087-v8-015",
-      "timestamp": "2038-08-04T22:34:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "애매하면 신상은 올리지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-022",
-      "parentId": "c-2038-000087-v8-018",
-      "timestamp": "2038-08-04T22:37:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-023",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:39:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-024",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:42:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-025",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:46:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-026",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:50:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-027",
-      "parentId": "c-2038-000087-v8-020",
-      "timestamp": "2038-08-04T22:52:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-028",
-      "parentId": "c-2038-000087-v8-025",
-      "timestamp": "2038-08-04T22:54:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-029",
-      "parentId": null,
-      "timestamp": "2038-08-04T22:58:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-030",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:01:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "댓글보다가 원글 다시읽음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-031",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:03:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-032",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:05:41+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-033",
-      "parentId": "c-2038-000087-v8-026",
-      "timestamp": "2038-08-04T23:08:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-034",
-      "parentId": "c-2038-000087-v8-031",
-      "timestamp": "2038-08-04T23:11:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-035",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:14:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-036",
-      "parentId": "c-2038-000087-v8-031",
-      "timestamp": "2038-08-04T23:18:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-037",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:20:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-038",
-      "parentId": "c-2038-000087-v8-033",
-      "timestamp": "2038-08-04T23:23:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-039",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:25:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-040",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:27:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-041",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:28:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-042",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:32:43+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-043",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:34:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-044",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:36:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-045",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:38:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-046",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:40:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-047",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:42:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-048",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:44:05+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-049",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:46:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-050",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:48:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-051",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:51:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000087-v8-052",
-      "parentId": null,
-      "timestamp": "2038-08-04T23:53:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "{{con:dororong}}",
+      "content": "이건 조심해야지",
       "deleted": false
     }
   ],

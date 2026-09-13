@@ -33,51 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000109-v8-001",
+      "id": "c-2042-000109-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-18T09:46:06+09:00",
+      "timestamp": "2042-08-18T09:46:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.62"
       },
-      "content": "입구에서 5분 보는게 낫다",
+      "content": "장기렌탈이면 수리대차 조건부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2042-000109-v8-002",
+      "id": "c-2042-000109-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-18T09:49:39+09:00",
+      "timestamp": "2042-08-18T09:48:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "121.140"
       },
-      "content": "반납때 싸우기싫으면 상태 기록해둬",
+      "content": "렌탈 받을때 버클/스트랩/배터리 실제로 확인해",
       "deleted": false
     },
     {
-      "id": "c-2042-000109-v8-003",
+      "id": "c-2042-000109-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-18T09:52:35+09:00",
+      "timestamp": "2042-08-18T09:49:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "211.246"
       },
-      "content": "예비배터리도 실제로 켜봐",
+      "content": "예비배터리까지 켜봐야됨 잔량표시만 믿다 당함",
       "deleted": false
     },
     {
-      "id": "c-2042-000109-v8-004",
-      "parentId": "c-2042-000109-v8-002",
-      "timestamp": "2042-08-18T09:54:50+09:00",
+      "id": "c-2042-000109-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-08-18T09:53:57+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "{{con:wait}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000109-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-08-18T09:57:18+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "210.178"
       },
-      "content": "입구에서 한번 더보는게 낫지",
+      "content": "흠집 사진 찍어두면 반납할때 싸움 덜남",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000109-b2m-006",
+      "parentId": null,
+      "timestamp": "2042-08-18T09:59:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "가방 지퍼 하나 터져도 현장에선 존나 귀찮음",
       "deleted": false
     }
   ],

@@ -33,315 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000014-v8-001",
+      "id": "c-2030-000014-b1-001",
       "parentId": null,
-      "timestamp": "2030-04-24T02:48:51+09:00",
+      "timestamp": "2030-04-24T02:50:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "강무혁이랑 바로 비교붙이는건 너무 빠르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000014-b1-002",
+      "parentId": null,
+      "timestamp": "2030-04-24T02:55:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "공식훈련 영상 보니까 S 체급은 확실히 다르긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000014-b1-003",
+      "parentId": null,
+      "timestamp": "2030-04-24T03:04:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "장비업체 광고 붙는 속도 미쳤네",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000014-b1-004",
+      "parentId": null,
+      "timestamp": "2030-04-24T03:14:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "강주아 능력 계약이라는 말부터 설명이 필요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000014-b1-005",
+      "parentId": "c-2030-000014-b1-003",
+      "timestamp": "2030-04-24T03:22:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "112.171"
       },
-      "content": "네뷸라는 교육을 복지로 치냐에서 갈릴듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-002",
-      "parentId": null,
-      "timestamp": "2030-04-24T02:50:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "스텔라는 방송 싫으면 호불호 씨게 갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-003",
-      "parentId": "c-2030-000014-v8-001",
-      "timestamp": "2030-04-24T02:53:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-004",
-      "parentId": "c-2030-000014-v8-002",
-      "timestamp": "2030-04-24T02:56:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-005",
-      "parentId": "c-2030-000014-v8-002",
-      "timestamp": "2030-04-24T02:58:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-006",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:00:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "취업은 전투서열이랑 다름",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-007",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:02:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-008",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:04:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "복지만 보면 백호 쪽 손드는 사람 많지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-009",
-      "parentId": "c-2030-000014-v8-008",
-      "timestamp": "2030-04-24T03:07:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-010",
-      "parentId": "c-2030-000014-v8-007",
-      "timestamp": "2030-04-24T03:09:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-011",
-      "parentId": "c-2030-000014-v8-010",
-      "timestamp": "2030-04-24T03:11:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-012",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:14:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "마법계면 네뷸라 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-013",
-      "parentId": "c-2030-000014-v8-010",
-      "timestamp": "2030-04-24T03:17:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-014",
-      "parentId": "c-2030-000014-v8-010",
-      "timestamp": "2030-04-24T03:20:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-015",
-      "parentId": "c-2030-000014-v8-014",
-      "timestamp": "2030-04-24T03:22:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-016",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:24:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "한성 복지후기는 상대적으로 덜보이긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-017",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:28:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-018",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:31:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-019",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:32:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-020",
-      "parentId": "c-2030-000014-v8-015",
-      "timestamp": "2030-04-24T03:34:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-021",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:36:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-022",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:40:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-023",
-      "parentId": "c-2030-000014-v8-016",
-      "timestamp": "2030-04-24T03:42:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-024",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:44:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-025",
-      "parentId": null,
-      "timestamp": "2030-04-24T03:46:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000014-v8-026",
-      "parentId": "c-2030-000014-v8-019",
-      "timestamp": "2030-04-24T03:49:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "백호 복지후기 많은건 맞음",
+      "content": "계약 능력 세부설명 더 필요함",
       "deleted": false
     }
   ],

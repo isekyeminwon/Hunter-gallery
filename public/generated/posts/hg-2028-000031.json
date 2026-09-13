@@ -33,63 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000031-v8-001",
+      "id": "c-2028-000031-b1-001",
       "parentId": null,
-      "timestamp": "2028-11-12T18:40:50+09:00",
+      "timestamp": "2028-11-12T18:50:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "121.163"
       },
-      "content": "입구에서라도 맞추고 들어가",
+      "content": "예비배터리도 실제로 켜봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2028-000031-v8-002",
+      "id": "c-2028-000031-b1-002",
       "parentId": null,
-      "timestamp": "2028-11-12T18:43:09+09:00",
+      "timestamp": "2028-11-12T19:01:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "223.62"
       },
-      "content": "내가 가는팀은 반대로함",
+      "content": "렌탈은 받자마자 버클이랑 스트랩부터 봄",
       "deleted": false
     },
     {
-      "id": "c-2028-000031-v8-003",
+      "id": "c-2028-000031-b1-003",
       "parentId": null,
-      "timestamp": "2028-11-12T18:46:20+09:00",
+      "timestamp": "2028-11-12T19:11:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "121.163"
       },
-      "content": "처음가는사람은 이런거 봐둬",
+      "content": "반납때 말나오기 싫으면 상태 사진 찍어둬",
       "deleted": false
     },
     {
-      "id": "c-2028-000031-v8-004",
-      "parentId": null,
-      "timestamp": "2028-11-12T18:48:26+09:00",
+      "id": "c-2028-000031-b1-004",
+      "parentId": "c-2028-000031-b1-001",
+      "timestamp": "2028-11-12T19:19:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "211.246"
       },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000031-v8-005",
-      "parentId": null,
-      "timestamp": "2028-11-12T18:52:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "한번 고생하면 절대 안빼먹음",
+      "content": "예비배터리도 꼭 켜봐",
       "deleted": false
     }
   ],

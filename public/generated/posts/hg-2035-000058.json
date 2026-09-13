@@ -33,147 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000058-v8-001",
+      "id": "c-2035-000058-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-14T03:09:30+09:00",
+      "timestamp": "2035-07-14T03:18:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "118.33"
       },
-      "content": "댓글구경이 본편이다",
+      "content": "새로고침 할때마다 같은 떡밥 올라오네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000058-v8-002",
+      "id": "c-2035-000058-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-14T03:11:49+09:00",
+      "timestamp": "2035-07-14T03:27:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "223.38"
       },
-      "content": "원본 어디임",
+      "content": "공식 인터뷰 원본부터 보고싶다",
       "deleted": false
     },
     {
-      "id": "c-2035-000058-v8-003",
+      "id": "c-2035-000058-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-14T03:15:20+09:00",
+      "timestamp": "2035-07-14T03:32:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "175.214"
       },
-      "content": "공식 업로드 먼저 찾아본다",
+      "content": "{{con:dororong}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000058-v8-004",
-      "parentId": "c-2035-000058-v8-001",
-      "timestamp": "2035-07-14T03:19:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000058-v8-005",
-      "parentId": "c-2035-000058-v8-003",
-      "timestamp": "2035-07-14T03:21:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "풀버전 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000058-v8-006",
+      "id": "c-2035-000058-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-14T03:24:22+09:00",
+      "timestamp": "2035-07-14T03:37:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "223.38"
       },
-      "content": "공식채널부터 봐야겠다",
+      "content": "오늘 추천글 절반이 이거임",
       "deleted": false
     },
     {
-      "id": "c-2035-000058-v8-007",
-      "parentId": "c-2035-000058-v8-001",
-      "timestamp": "2035-07-14T03:26:50+09:00",
+      "id": "c-2035-000058-b1-005",
+      "parentId": "c-2035-000058-b1-002",
+      "timestamp": "2035-07-14T03:44:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "118.33"
       },
-      "content": "그장면 봤음ㅋㅋ",
+      "content": "짤 말고 공식영상부터 봐야겠다",
       "deleted": false
     },
     {
-      "id": "c-2035-000058-v8-008",
-      "parentId": "c-2035-000058-v8-004",
-      "timestamp": "2035-07-14T03:28:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "풀버전 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000058-v8-009",
+      "id": "c-2035-000058-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-14T03:31:28+09:00",
+      "timestamp": "2035-07-14T03:55:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "175.214"
       },
-      "content": "원본 어디임",
+      "content": "측정결과 확인된 부분만 보면 되는걸 왜 신상썰까지 가냐",
       "deleted": false
     },
     {
-      "id": "c-2035-000058-v8-010",
-      "parentId": "c-2035-000058-v8-005",
-      "timestamp": "2035-07-14T03:35:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000058-v8-011",
+      "id": "c-2035-000058-b1-007",
       "parentId": null,
-      "timestamp": "2035-07-14T03:38:53+09:00",
+      "timestamp": "2035-07-14T04:06:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "121.163"
       },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "{{con:idk}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000058-v8-012",
+      "id": "c-2035-000058-b1-008",
       "parentId": null,
-      "timestamp": "2035-07-14T03:41:40+09:00",
+      "timestamp": "2035-07-14T04:13:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "223.38"
       },
-      "content": "편집은 잘했네",
+      "content": "이정도면 하루종일 이 얘기만 하겠다",
       "deleted": false
     }
   ],

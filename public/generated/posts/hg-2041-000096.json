@@ -33,9 +33,21 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000096-v8-001",
+      "id": "c-2041-000096-b2m-001",
       "parentId": null,
-      "timestamp": "2041-03-12T13:45:35+09:00",
+      "timestamp": "2041-03-12T13:46:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "전투직만 생각하면 빡센데 짐꾼/지원으로 오래 하는사람은 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000096-b2m-002",
+      "parentId": null,
+      "timestamp": "2041-03-12T13:49:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
@@ -45,51 +57,27 @@
       "deleted": false
     },
     {
-      "id": "c-2041-000096-v8-002",
+      "id": "c-2041-000096-b2m-003",
       "parentId": null,
-      "timestamp": "2041-03-12T13:48:15+09:00",
+      "timestamp": "2041-03-12T13:50:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "211.201"
       },
-      "content": "F로 전투직 먹고살기는 빡센편",
+      "content": "좋은팀 반복해서 다니면 F도 현장경력 쓸데 있음",
       "deleted": false
     },
     {
-      "id": "c-2041-000096-v8-003",
+      "id": "c-2041-000096-b2m-004",
       "parentId": null,
-      "timestamp": "2041-03-12T13:50:08+09:00",
+      "timestamp": "2041-03-12T13:53:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "211.234"
       },
-      "content": "짐꾼/지원으로 오래 하는사람은 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000096-v8-004",
-      "parentId": null,
-      "timestamp": "2041-03-12T13:52:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "좋은팀 반복해서 가면 경력은 쌓임",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000096-v8-005",
-      "parentId": null,
-      "timestamp": "2041-03-12T13:55:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "면허 땄다고 이 일만 해야되는건 아니지",
+      "content": "면허 땄다고 무조건 이 일만 해야되는건 아니지",
       "deleted": false
     }
   ],

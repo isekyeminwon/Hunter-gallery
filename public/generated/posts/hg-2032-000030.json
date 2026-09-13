@@ -33,159 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000030-v8-001",
+      "id": "c-2032-000030-b1-001",
       "parentId": null,
-      "timestamp": "2032-07-06T14:50:26+09:00",
+      "timestamp": "2032-07-06T14:58:58+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "짤만 돌면 원본 찾기 빡셈",
+      "content": "마법장비 가격 오른다는건 체감 오긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000030-v8-002",
+      "id": "c-2032-000030-b1-002",
       "parentId": null,
-      "timestamp": "2032-07-06T14:52:57+09:00",
+      "timestamp": "2032-07-06T15:05:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "220.79"
       },
-      "content": "김채연 영상은 광역장면에서 조회수 터짐",
+      "content": "김채연 들어오고 지원자 몰릴만하긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000030-v8-003",
-      "parentId": "c-2032-000030-v8-002",
-      "timestamp": "2032-07-06T14:55:16+09:00",
+      "id": "c-2032-000030-b1-003",
+      "parentId": "c-2032-000030-b1-002",
+      "timestamp": "2032-07-06T15:10:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "211.197"
       },
-      "content": "그 짤 예전거일수도 있음",
+      "content": "원본 링크 있냐",
       "deleted": false
     },
     {
-      "id": "c-2032-000030-v8-004",
+      "id": "c-2032-000030-b1-004",
       "parentId": null,
-      "timestamp": "2032-07-06T14:58:40+09:00",
+      "timestamp": "2032-07-06T15:15:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "211.197"
       },
-      "content": "네뷸라 공식채널 은근 자료 많음",
+      "content": "네뷸라 마법계 교육쪽은 확실히 이미지 굳히는듯",
       "deleted": false
     },
     {
-      "id": "c-2032-000030-v8-005",
-      "parentId": "c-2032-000030-v8-001",
-      "timestamp": "2032-07-06T15:00:35+09:00",
+      "id": "c-2032-000030-b1-005",
+      "parentId": "c-2032-000030-b1-002",
+      "timestamp": "2032-07-06T15:20:52+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "네뷸라 공채널 뒤져보면 나올듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000030-v8-006",
-      "parentId": null,
-      "timestamp": "2032-07-06T15:03:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이채린 단독은 요즘 좀 뜸한편",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000030-v8-007",
-      "parentId": null,
-      "timestamp": "2032-07-06T15:05:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000030-v8-008",
-      "parentId": "c-2032-000030-v8-003",
-      "timestamp": "2032-07-06T15:08:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "김채연 영상이면 후속캠도 같이 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000030-v8-009",
-      "parentId": "c-2032-000030-v8-002",
-      "timestamp": "2032-07-06T15:10:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "단독영상은 요즘 뜸하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000030-v8-010",
-      "parentId": "c-2032-000030-v8-008",
-      "timestamp": "2032-07-06T15:12:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "원본 찾으면 링크좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000030-v8-011",
-      "parentId": "c-2032-000030-v8-004",
-      "timestamp": "2032-07-06T15:14:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "그 짤 예전거일수도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000030-v8-012",
-      "parentId": null,
-      "timestamp": "2032-07-06T15:16:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000030-v8-013",
-      "parentId": null,
-      "timestamp": "2032-07-06T15:17:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "네뷸라 얘기는 맨날 갈리네",
+      "content": "짤 말고 공식영상부터 봐야겠다",
       "deleted": false
     }
   ],

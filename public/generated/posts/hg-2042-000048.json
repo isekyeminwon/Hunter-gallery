@@ -33,27 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000048-v8-001",
+      "id": "c-2042-000048-b2m-001",
       "parentId": null,
-      "timestamp": "2042-04-26T09:10:46+09:00",
+      "timestamp": "2042-04-26T09:11:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "59.10"
       },
-      "content": "이채린 단독은 최근 진짜 뜸함",
+      "content": "최신 원본 있으면 나도 링크 궁금함",
       "deleted": false
     },
     {
-      "id": "c-2042-000048-v8-002",
+      "id": "c-2042-000048-b2m-002",
       "parentId": null,
-      "timestamp": "2042-04-26T09:14:33+09:00",
+      "timestamp": "2042-04-26T09:14:02+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "네뷸라 공채널에서 이채린 검색하고 업로드순 보면 찾기편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000048-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-04-26T09:16:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "124.53"
       },
-      "content": "짤만 돌면 원본 찾기 빡셈",
+      "content": "돌아다니는 짤 몇개는 예전 합동영상 재편집본이더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000048-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-04-26T09:18:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "최근 단독영상은 뜸한편이고 팀클립엔 가끔 나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000048-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-04-26T09:20:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "{{con:hi_star}}",
       "deleted": false
     }
   ],

@@ -33,75 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000073-v8-001",
+      "id": "c-2040-000073-b2m-001",
       "parentId": null,
-      "timestamp": "2040-06-12T18:18:57+09:00",
+      "timestamp": "2040-06-12T18:19:27+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "철수후 건조/점검까지가 끝임",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000073-b2m-002",
+      "parentId": null,
+      "timestamp": "2040-06-12T18:21:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.101"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "content": "장갑 여분은 비오는날 두배로 챙김",
       "deleted": false
     },
     {
-      "id": "c-2040-000073-v8-002",
+      "id": "c-2040-000073-b2m-003",
       "parentId": null,
-      "timestamp": "2040-06-12T18:20:56+09:00",
+      "timestamp": "2040-06-12T18:25:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "175.223"
       },
-      "content": "당일도 있고 며칠뒤도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000073-v8-003",
-      "parentId": null,
-      "timestamp": "2040-06-12T18:23:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "예상금액으로 먼저 싸우지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000073-v8-004",
-      "parentId": null,
-      "timestamp": "2040-06-12T18:27:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000073-v8-005",
-      "parentId": null,
-      "timestamp": "2040-06-12T18:31:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000073-v8-006",
-      "parentId": null,
-      "timestamp": "2040-06-12T18:32:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "content": "젖은장비 바로 가방넣지말고 분리해",
       "deleted": false
     }
   ],

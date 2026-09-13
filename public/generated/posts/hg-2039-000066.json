@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000066-v8-001",
+      "id": "c-2039-000066-b2m-001",
       "parentId": null,
-      "timestamp": "2039-01-06T23:50:06+09:00",
+      "timestamp": "2039-01-06T23:50:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "118.41"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "content": "부상자 몸부터 빼고 장비는 우선순위 정해둔것만 챙기는게 맞음",
       "deleted": false
     },
     {
-      "id": "c-2039-000066-v8-002",
+      "id": "c-2039-000066-b2m-002",
       "parentId": null,
-      "timestamp": "2039-01-06T23:53:48+09:00",
+      "timestamp": "2039-01-06T23:52:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "118.33"
       },
-      "content": "당일도 있고 며칠뒤도 있음",
+      "content": "고가장비라고 사람 이동 늦추면 본말전도임",
       "deleted": false
     },
     {
-      "id": "c-2039-000066-v8-003",
-      "parentId": "c-2039-000066-v8-001",
-      "timestamp": "2039-01-06T23:57:41+09:00",
+      "id": "c-2039-000066-b2m-003",
+      "parentId": null,
+      "timestamp": "2039-01-06T23:54:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "112.171"
       },
-      "content": "매입가 확정뒤 보내는팀도 있음",
+      "content": "누가 부상자/누가 장비 맡는지 미리 정해두면 덜꼬임",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000066-b2m-004",
+      "parentId": null,
+      "timestamp": "2039-01-06T23:55:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "통로 좁으면 장비 버릴 위치까지 생각해두는팀도 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000066-b2m-005",
+      "parentId": null,
+      "timestamp": "2039-01-06T23:59:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "정성추",
       "deleted": false
     }
   ],

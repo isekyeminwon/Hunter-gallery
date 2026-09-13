@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000022-v8-001",
+      "id": "c-2034-000022-b1-001",
       "parentId": null,
-      "timestamp": "2034-08-19T20:34:27+09:00",
+      "timestamp": "2034-08-19T20:37:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "118.41"
       },
-      "content": "처음할때 여기서 한번 막힘",
+      "content": "커뮤에 도는 숫자는 출처 없는게 대부분",
       "deleted": false
     },
     {
-      "id": "c-2034-000022-v8-002",
+      "id": "c-2034-000022-b1-002",
       "parentId": null,
-      "timestamp": "2034-08-19T20:37:51+09:00",
+      "timestamp": "2034-08-19T20:43:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "118.41"
       },
-      "content": "요즘 기준 글이 잘안보이더라",
+      "content": "기본급보다 인센/장비/공략지분 조건이 더 복잡할듯",
       "deleted": false
     },
     {
-      "id": "c-2034-000022-v8-003",
-      "parentId": null,
-      "timestamp": "2034-08-19T20:39:19+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000022-v8-004",
-      "parentId": null,
-      "timestamp": "2034-08-19T20:42:41+09:00",
+      "id": "c-2034-000022-b1-003",
+      "parentId": "c-2034-000022-b1-001",
+      "timestamp": "2034-08-19T20:53:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "110.70"
       },
-      "content": "이거 답 아는사람?",
+      "content": "길드마다 협상조건 다르니 단순비교 어렵지",
       "deleted": false
     },
     {
-      "id": "c-2034-000022-v8-005",
-      "parentId": null,
-      "timestamp": "2034-08-19T20:44:43+09:00",
+      "id": "c-2034-000022-b1-005",
+      "parentId": "c-2034-000022-b1-001",
+      "timestamp": "2034-08-19T21:13:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "118.41"
       },
-      "content": "처음하면 헷갈릴만하지",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000022-v8-006",
-      "parentId": "c-2034-000022-v8-003",
-      "timestamp": "2034-08-19T20:46:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000022-v8-007",
-      "parentId": null,
-      "timestamp": "2034-08-19T20:50:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000022-v8-008",
-      "parentId": null,
-      "timestamp": "2034-08-19T20:52:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000022-v8-009",
-      "parentId": null,
-      "timestamp": "2034-08-19T20:55:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000022-v8-010",
-      "parentId": null,
-      "timestamp": "2034-08-19T20:59:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000022-v8-011",
-      "parentId": null,
-      "timestamp": "2034-08-19T21:00:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000022-v8-012",
-      "parentId": null,
-      "timestamp": "2034-08-19T21:03:50+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "이건 나도 궁금함",
+      "content": "개인계약이라 공개할 이유가 없지",
       "deleted": false
     }
   ],

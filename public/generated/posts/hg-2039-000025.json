@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000025-v8-001",
+      "id": "c-2039-000025-b2m-001",
       "parentId": null,
-      "timestamp": "2039-10-15T10:30:39+09:00",
+      "timestamp": "2039-10-15T10:30:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "211.36"
       },
-      "content": "브랜드보다 보장내용 확인해",
+      "content": "길드마다 용어 조금씩 달라서 처음엔 꼭 맞춰야됨",
       "deleted": false
     },
     {
-      "id": "c-2039-000025-v8-002",
+      "id": "c-2039-000025-b2m-002",
       "parentId": null,
-      "timestamp": "2039-10-15T10:33:44+09:00",
+      "timestamp": "2039-10-15T10:32:12+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "content": "현장에서 말 다시정하면 이미 늦는 경우 있음",
       "deleted": false
     },
     {
-      "id": "c-2039-000025-v8-003",
+      "id": "c-2039-000025-b2m-003",
       "parentId": null,
-      "timestamp": "2039-10-15T10:36:30+09:00",
+      "timestamp": "2039-10-15T10:34:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "220.79"
       },
-      "content": "보험됨 한줄만 믿지마",
+      "content": "짐꾼도 최소한 비상콜은 알아들어야됨",
       "deleted": false
     },
     {
-      "id": "c-2039-000025-v8-004",
-      "parentId": "c-2039-000025-v8-002",
-      "timestamp": "2039-10-15T10:39:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "보장범위가 제일 중요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-005",
+      "id": "c-2039-000025-b2m-004",
       "parentId": null,
-      "timestamp": "2039-10-15T10:42:17+09:00",
+      "timestamp": "2039-10-15T10:36:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "211.36"
       },
-      "content": "개인보험만 믿고 팀조건 넘기진마",
+      "content": "멈춰/철수/후퇴 같은 공통콜부터 통일해",
       "deleted": false
     },
     {
-      "id": "c-2039-000025-v8-006",
-      "parentId": "c-2039-000025-v8-003",
-      "timestamp": "2039-10-15T10:44:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-007",
+      "id": "c-2039-000025-b2m-005",
       "parentId": null,
-      "timestamp": "2039-10-15T10:47:40+09:00",
+      "timestamp": "2039-10-15T10:40:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "211.36"
       },
-      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-008",
-      "parentId": "c-2039-000025-v8-003",
-      "timestamp": "2039-10-15T10:51:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-009",
-      "parentId": null,
-      "timestamp": "2039-10-15T10:52:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "대댓글이 본문 잡아먹었네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-010",
-      "parentId": null,
-      "timestamp": "2039-10-15T10:55:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "보험사 이름보다 보장범위가 먼저임",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-011",
-      "parentId": null,
-      "timestamp": "2039-10-15T10:57:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "누가 가입시키는지부터 확인",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-012",
-      "parentId": null,
-      "timestamp": "2039-10-15T11:01:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-013",
-      "parentId": null,
-      "timestamp": "2039-10-15T11:03:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-014",
-      "parentId": "c-2039-000025-v8-009",
-      "timestamp": "2039-10-15T11:06:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "보험됨 한줄로 끝내면 불안함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-015",
-      "parentId": null,
-      "timestamp": "2039-10-15T11:08:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-016",
-      "parentId": null,
-      "timestamp": "2039-10-15T11:10:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000025-v8-017",
-      "parentId": null,
-      "timestamp": "2039-10-15T11:13:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "정성추",
       "deleted": false
     }
   ],

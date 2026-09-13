@@ -33,255 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000039-v8-001",
+      "id": "c-2039-000039-b2m-001",
       "parentId": null,
-      "timestamp": "2039-09-03T17:56:28+09:00",
+      "timestamp": "2039-09-03T17:56:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "223.52"
       },
-      "content": "뉴비면 이거 모를수있음",
+      "content": "관심은 당연히 받겠지만 A라고 바로 입단 확정은 아니지",
       "deleted": false
     },
     {
-      "id": "c-2039-000039-v8-002",
+      "id": "c-2039-000039-b2m-002",
       "parentId": null,
-      "timestamp": "2039-09-03T18:00:12+09:00",
+      "timestamp": "2039-09-03T18:00:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "118.235"
       },
-      "content": "요즘 기준 글이 잘안보이더라",
+      "content": "능력계열/훈련적응/계약조건까지 보고 정할듯",
       "deleted": false
     },
     {
-      "id": "c-2039-000039-v8-003",
-      "parentId": "c-2039-000039-v8-001",
-      "timestamp": "2039-09-03T18:04:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-004",
+      "id": "c-2039-000039-b2m-003",
       "parentId": null,
-      "timestamp": "2039-09-03T18:06:27+09:00",
+      "timestamp": "2039-09-03T18:02:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "223.52"
       },
-      "content": "나도 옆에서 질문좀",
+      "content": "{{con:idk}}",
       "deleted": false
     },
     {
-      "id": "c-2039-000039-v8-005",
+      "id": "c-2039-000039-b2m-004",
       "parentId": null,
-      "timestamp": "2039-09-03T18:09:06+09:00",
+      "timestamp": "2039-09-03T18:05:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "106.101"
       },
-      "content": "해본사람 있냐",
+      "content": "신인 A면 선택지 넓은건 맞음",
       "deleted": false
     },
     {
-      "id": "c-2039-000039-v8-006",
-      "parentId": "c-2039-000039-v8-002",
-      "timestamp": "2039-09-03T18:12:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-007",
+      "id": "c-2039-000039-b2m-005",
       "parentId": null,
-      "timestamp": "2039-09-03T18:15:40+09:00",
+      "timestamp": "2039-09-03T18:09:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "118.235"
       },
-      "content": "첫번엔 나도 잘못알았음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-008",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:18:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-009",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:20:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "처음이면 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-010",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:23:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-011",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:25:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-012",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:28:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "이채린 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-013",
-      "parentId": "c-2039-000039-v8-007",
-      "timestamp": "2039-09-03T18:31:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-014",
-      "parentId": "c-2039-000039-v8-011",
-      "timestamp": "2039-09-03T18:34:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-015",
-      "parentId": "c-2039-000039-v8-012",
-      "timestamp": "2039-09-03T18:38:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-016",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:40:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-017",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:43:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-018",
-      "parentId": "c-2039-000039-v8-015",
-      "timestamp": "2039-09-03T18:45:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-019",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:48:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-020",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:50:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000039-v8-021",
-      "parentId": null,
-      "timestamp": "2039-09-03T18:52:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "그건 좀",
+      "content": "네뷸라 얘기 많이 나오긴 하는데 공식확정 전엔 썰임",
       "deleted": false
     }
   ],

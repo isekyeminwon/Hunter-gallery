@@ -33,531 +33,147 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000072-v8-001",
+      "id": "c-2040-000072-b2m-001",
       "parentId": null,
-      "timestamp": "2040-08-11T19:56:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "신인 기사 세줄로 10년뒤 순위까지 뽑네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-002",
-      "parentId": null,
-      "timestamp": "2040-08-11T20:00:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "김민찬 B라고 무시하는놈들 B가 뭔지 까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-003",
-      "parentId": null,
-      "timestamp": "2040-08-11T20:01:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "길드 어디갈지도 안나왔는데 팬들이 먼저 입사시킴",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-004",
-      "parentId": null,
-      "timestamp": "2040-08-11T20:04:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "첫해부터 TOP10 넣는건 좀 빠르지",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-005",
-      "parentId": null,
-      "timestamp": "2040-08-11T20:06:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "A 둘 뜨면 왜 꼭 싸움붙이냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-006",
-      "parentId": "c-2040-000072-v8-003",
-      "timestamp": "2040-08-11T20:09:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "길드 정해지고 봐도 안늦음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-007",
-      "parentId": "c-2040-000072-v8-002",
-      "timestamp": "2040-08-11T20:12:56+09:00",
+      "timestamp": "2040-08-11T19:55:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "첫해부터 순위 박는건 좀 빠르지",
+      "content": "길드 어디가는지에 따라 평가도 많이 달라질듯",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-008",
-      "parentId": "c-2040-000072-v8-007",
-      "timestamp": "2040-08-11T20:16:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "A 둘이면 꼭 비교 붙이더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-009",
+      "id": "c-2040-000072-b2m-002",
       "parentId": null,
-      "timestamp": "2040-08-11T20:19:13+09:00",
+      "timestamp": "2040-08-11T19:57:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "118.235"
       },
-      "content": "그건맞음",
+      "content": "A급이라고 바로 베테랑보다 위라고 하긴 어렵지",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-010",
+      "id": "c-2040-000072-b2m-003",
       "parentId": null,
-      "timestamp": "2040-08-11T20:22:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-011",
-      "parentId": null,
-      "timestamp": "2040-08-11T20:25:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "대댓글만 따로 글파도 되겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-012",
-      "parentId": "c-2040-000072-v8-011",
-      "timestamp": "2040-08-11T20:29:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "김민찬 B라고 무시할급은 아닌데",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-013",
-      "parentId": null,
-      "timestamp": "2040-08-11T20:32:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-014",
-      "parentId": "c-2040-000072-v8-012",
-      "timestamp": "2040-08-11T20:34:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "신인 기사 몇줄로 다아는척함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-015",
-      "parentId": null,
-      "timestamp": "2040-08-11T20:37:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-016",
-      "parentId": null,
-      "timestamp": "2040-08-11T20:40:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-017",
-      "parentId": "c-2040-000072-v8-012",
-      "timestamp": "2040-08-11T20:44:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "길드 정해지고 봐도 안늦음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-018",
-      "parentId": "c-2040-000072-v8-016",
-      "timestamp": "2040-08-11T20:46:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "신인 기사 몇줄로 다아는척함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-019",
-      "parentId": null,
-      "timestamp": "2040-08-11T20:49:49+09:00",
+      "timestamp": "2040-08-11T20:00:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "117.111"
       },
-      "content": "ㄹㅇ",
+      "content": "신인 기사 몇줄 뜨면 10년뒤 순위까지 뽑는거 웃김ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-020",
+      "id": "c-2040-000072-b2m-004",
       "parentId": null,
-      "timestamp": "2040-08-11T20:53:05+09:00",
+      "timestamp": "2040-08-11T20:02:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "220.79"
       },
-      "content": "ㄹㅇ",
+      "content": "신인 둘 뜨면 무조건 서로 붙이는 문화 좀ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-021",
+      "id": "c-2040-000072-b2m-005",
       "parentId": null,
-      "timestamp": "2040-08-11T20:55:57+09:00",
+      "timestamp": "2040-08-11T20:06:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "118.235"
       },
-      "content": "이건 인정",
+      "content": "{{con:kwah}}",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-022",
+      "id": "c-2040-000072-b2m-006",
       "parentId": null,
-      "timestamp": "2040-08-11T20:57:53+09:00",
+      "timestamp": "2040-08-11T20:09:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "175.223"
       },
-      "content": "이건 인정",
+      "content": "첫 실전 쌓이고 나서 비교해도 안늦음",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-023",
+      "id": "c-2040-000072-b2m-007",
       "parentId": null,
-      "timestamp": "2040-08-11T21:01:37+09:00",
+      "timestamp": "2040-08-11T20:12:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "220.79"
       },
-      "content": "ㄹㅇ",
+      "content": "{{con:Intelligence}}",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-024",
+      "id": "c-2040-000072-b2m-008",
       "parentId": null,
-      "timestamp": "2040-08-11T21:04:53+09:00",
+      "timestamp": "2040-08-11T20:15:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "125.180"
       },
-      "content": "이서 얘기는 맨날 갈리네",
+      "content": "첫해 신인끼리 비교해봐야 자료가 너무 적음",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-025",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:07:55+09:00",
+      "id": "c-2040-000072-b2m-009",
+      "parentId": "c-2040-000072-b2m-008",
+      "timestamp": "2040-08-11T20:17:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "220.79"
       },
-      "content": "그건맞음",
+      "content": "A라고 베테랑 바로 넘는건 아니지",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-026",
+      "id": "c-2040-000072-b2m-010",
       "parentId": null,
-      "timestamp": "2040-08-11T21:09:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-027",
-      "parentId": "c-2040-000072-v8-023",
-      "timestamp": "2040-08-11T21:11:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "첫해부터 순위 박는건 좀 빠르지",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-028",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:13:51+09:00",
+      "timestamp": "2040-08-11T20:20:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "117.111"
       },
-      "content": "이건 인정",
+      "content": "기사 몇줄로 TOP10 넣는건 성급함",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-029",
+      "id": "c-2040-000072-b2m-011",
       "parentId": null,
-      "timestamp": "2040-08-11T21:17:08+09:00",
+      "timestamp": "2040-08-11T20:22:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "125.180"
       },
-      "content": "근거는?",
+      "content": "기사 몇줄로 순위박는건 너무감",
       "deleted": false
     },
     {
-      "id": "c-2040-000072-v8-030",
+      "id": "c-2040-000072-b2m-012",
       "parentId": null,
-      "timestamp": "2040-08-11T21:20:51+09:00",
+      "timestamp": "2040-08-11T20:25:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "118.235"
       },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-031",
-      "parentId": "c-2040-000072-v8-029",
-      "timestamp": "2040-08-11T21:24:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "길드 정해지고 봐도 안늦음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-032",
-      "parentId": "c-2040-000072-v8-029",
-      "timestamp": "2040-08-11T21:27:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "길드 정해지고 봐도 안늦음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-033",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:30:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-034",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:33:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-035",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:35:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-036",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:36:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-037",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:39:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "이서 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-038",
-      "parentId": "c-2040-000072-v8-032",
-      "timestamp": "2040-08-11T21:41:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "신인 기사 몇줄로 다아는척함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-039",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:45:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-040",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:48:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-041",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:52:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-042",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:53:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-043",
-      "parentId": "c-2040-000072-v8-037",
-      "timestamp": "2040-08-11T21:55:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "김민찬 B라고 무시할급은 아닌데",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000072-v8-044",
-      "parentId": null,
-      "timestamp": "2040-08-11T21:58:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "헐",
+      "content": "길드 들어가고 봐도 안늦지",
       "deleted": false
     }
   ],

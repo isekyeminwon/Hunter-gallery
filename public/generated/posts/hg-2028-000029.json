@@ -33,27 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000029-v8-001",
+      "id": "c-2028-000029-b1-001",
       "parentId": null,
-      "timestamp": "2028-09-04T13:24:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "처음부터 알기 힘든거 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000029-v8-002",
-      "parentId": null,
-      "timestamp": "2028-09-04T13:27:41+09:00",
+      "timestamp": "2028-09-04T13:27:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.223"
       },
-      "content": "해본사람 있냐",
+      "content": "현장 처음이면 혼자 들어갈 생각부터 버려",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000029-b1-002",
+      "parentId": null,
+      "timestamp": "2028-09-04T13:38:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.245"
+      },
+      "content": "장비보다 팀이랑 역할 정하는게 먼저임",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000029-b1-003",
+      "parentId": "c-2028-000029-b1-001",
+      "timestamp": "2028-09-04T13:46:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "면허/등록 상태 확인하고 안전교육부터",
       "deleted": false
     }
   ],

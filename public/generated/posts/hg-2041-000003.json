@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000003-v8-001",
+      "id": "c-2041-000003-b2m-001",
       "parentId": null,
-      "timestamp": "2041-07-03T23:53:25+09:00",
+      "timestamp": "2041-07-03T23:55:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.58"
       },
-      "content": "엔딩컷 노린 티 나는데 잘나오긴함",
+      "content": "{{con:heehee}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000003-v8-002",
+      "id": "c-2041-000003-b2m-002",
       "parentId": null,
-      "timestamp": "2041-07-03T23:55:43+09:00",
+      "timestamp": "2041-07-03T23:59:00+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "보스방 들어갈때 음악 끊는거 좋았음",
+      "content": "{{con:real}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000003-v8-003",
+      "id": "c-2041-000003-b2m-003",
       "parentId": null,
-      "timestamp": "2041-07-03T23:58:21+09:00",
+      "timestamp": "2041-07-04T00:02:54+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "이번 편집 진짜 잘뽑았네",
+      "content": "이거 표정 개잘뽑혔네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000003-v8-004",
-      "parentId": "c-2041-000003-v8-003",
-      "timestamp": "2041-07-04T00:02:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "풀버전도 보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000003-v8-005",
+      "id": "c-2041-000003-b2m-004",
       "parentId": null,
-      "timestamp": "2041-07-04T00:03:50+09:00",
+      "timestamp": "2041-07-04T00:05:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.58"
       },
-      "content": "{{con:kwah}}{{con:kwah}}",
+      "content": "댓글창 며칠동안 이거만 보이겠네",
       "deleted": false
     },
     {
-      "id": "c-2041-000003-v8-006",
+      "id": "c-2041-000003-b2m-005",
       "parentId": null,
-      "timestamp": "2041-07-04T00:07:16+09:00",
+      "timestamp": "2041-07-04T00:08:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "223.52"
       },
-      "content": "촬영팀 고생한 티 남",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000003-v8-007",
-      "parentId": "c-2041-000003-v8-001",
-      "timestamp": "2041-07-04T00:10:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "팬아닌데 이번건 볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000003-v8-008",
-      "parentId": "c-2041-000003-v8-007",
-      "timestamp": "2041-07-04T00:11:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "이번 편집은 진짜 잘뽑힘",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000003-v8-009",
-      "parentId": null,
-      "timestamp": "2041-07-04T00:13:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "댓글보다 영상 타임스탬프 공유하는게 낫다ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000003-v8-010",
-      "parentId": null,
-      "timestamp": "2041-07-04T00:15:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "중간 이동구간 엄청 잘라냈더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000003-v8-011",
-      "parentId": null,
-      "timestamp": "2041-07-04T00:19:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "풀버전도 풀어줬으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000003-v8-012",
-      "parentId": "c-2041-000003-v8-009",
-      "timestamp": "2041-07-04T00:22:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
+      "content": "{{con:kwah}}",
       "deleted": false
     }
   ],

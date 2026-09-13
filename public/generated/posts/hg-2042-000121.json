@@ -33,39 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000121-v8-001",
+      "id": "c-2042-000121-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-06T15:28:10+09:00",
+      "timestamp": "2042-08-06T15:29:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "106.101"
       },
-      "content": "원본 어디임",
+      "content": "한성은 이시율 포함 상위전력 이미지가 너무 강함",
       "deleted": false
     },
     {
-      "id": "c-2042-000121-v8-002",
+      "id": "c-2042-000121-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-06T15:30:05+09:00",
+      "timestamp": "2042-08-06T15:31:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "39.125"
       },
-      "content": "편집은 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000121-v8-003",
-      "parentId": null,
-      "timestamp": "2042-08-06T15:31:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "공식채널부터 봐야겠다",
+      "content": "카메라 노출 싫어하면 스텔라는 좀 안맞을수도",
       "deleted": false
     }
   ],

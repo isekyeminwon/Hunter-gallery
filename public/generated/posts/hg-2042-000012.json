@@ -33,51 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000012-v8-001",
+      "id": "c-2042-000012-b2m-001",
       "parentId": null,
-      "timestamp": "2042-01-24T01:05:37+09:00",
+      "timestamp": "2042-01-24T01:06:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "210.178"
       },
-      "content": "입장전 과식만 안하면 좀 낫더라",
+      "content": "첫날 긴장+공간감 때문에 속안좋다는 사람 꽤 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000012-v8-002",
+      "id": "c-2042-000012-b2m-002",
       "parentId": null,
-      "timestamp": "2042-01-24T01:08:52+09:00",
+      "timestamp": "2042-01-24T01:08:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "입장전 과식만 안해도 좀 낫더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000012-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-01-24T01:10:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.246"
       },
-      "content": "첫날 긴장해서 속안좋은사람 꽤 있음",
+      "content": "심하면 참지말고 바로 팀에 말해",
       "deleted": false
     },
     {
-      "id": "c-2042-000012-v8-003",
+      "id": "c-2042-000012-b2m-004",
       "parentId": null,
-      "timestamp": "2042-01-24T01:11:39+09:00",
+      "timestamp": "2042-01-24T01:13:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "심하면 참지말고 바로 말해",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000012-v8-004",
-      "parentId": null,
-      "timestamp": "2042-01-24T01:14:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "118.41"
       },
       "content": "안에서 토하면 본인도 팀도 고생임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000012-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-01-24T01:15:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "{{con:Intelligence}}",
       "deleted": false
     }
   ],

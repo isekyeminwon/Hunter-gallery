@@ -33,15 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000004-v8-001",
+      "id": "c-2036-000004-b1-001",
       "parentId": null,
-      "timestamp": "2036-03-02T12:03:36+09:00",
+      "timestamp": "2036-03-02T12:06:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "211.201"
       },
-      "content": "개웃기네",
+      "content": "나도그럼",
       "deleted": false
     }
   ],

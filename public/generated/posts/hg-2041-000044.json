@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000044-v8-001",
+      "id": "c-2041-000044-b2m-001",
       "parentId": null,
-      "timestamp": "2041-02-20T18:12:48+09:00",
+      "timestamp": "2041-02-20T18:13:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "182.214"
       },
-      "content": "ㅋㅋ",
+      "content": "ㅋㅋㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000044-v8-002",
+      "id": "c-2041-000044-b2m-002",
       "parentId": null,
-      "timestamp": "2041-02-20T18:14:51+09:00",
+      "timestamp": "2041-02-20T18:15:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "182.214"
       },
       "content": "개웃기네",
       "deleted": false
     },
     {
-      "id": "c-2041-000044-v8-003",
+      "id": "c-2041-000044-b2m-003",
       "parentId": null,
-      "timestamp": "2041-02-20T18:17:39+09:00",
+      "timestamp": "2041-02-20T18:17:46+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-004",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:19:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-005",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:22:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-006",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:24:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-007",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:26:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-008",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:28:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "대댓글만 따로 글파도 되겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-009",
-      "parentId": "c-2041-000044-v8-008",
-      "timestamp": "2041-02-20T18:31:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-010",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:33:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-011",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:37:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-012",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:39:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
       "content": "자라",
       "deleted": false
     },
     {
-      "id": "c-2041-000044-v8-013",
+      "id": "c-2041-000044-b2m-004",
       "parentId": null,
-      "timestamp": "2041-02-20T18:41:11+09:00",
+      "timestamp": "2041-02-20T18:20:47+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-014",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:45:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
       "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "c-2041-000044-v8-015",
+      "id": "c-2041-000044-b2m-005",
       "parentId": null,
-      "timestamp": "2041-02-20T18:47:17+09:00",
+      "timestamp": "2041-02-20T18:24:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "210.178"
       },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-016",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:49:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "댓글보다가 원글 다시읽음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000044-v8-017",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:52:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "최근에 해본사람 있음?",
+      "content": "{{con:idk}}",
       "deleted": false
     }
   ],

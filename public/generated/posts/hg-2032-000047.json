@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000047-v8-001",
+      "id": "c-2032-000047-b1-001",
       "parentId": null,
-      "timestamp": "2032-08-19T09:23:34+09:00",
+      "timestamp": "2032-08-19T09:28:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "106.248"
       },
-      "content": "오전안에 풀리면 다행이고",
+      "content": "입구만 막은거면 내부 사고인지 외부 장비문제인지 아직 모르겠네",
       "deleted": false
     },
     {
-      "id": "c-2032-000047-v8-002",
+      "id": "c-2032-000047-b1-002",
       "parentId": null,
-      "timestamp": "2032-08-19T09:26:31+09:00",
+      "timestamp": "2032-08-19T09:37:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "59.5"
       },
-      "content": "협회차량 많이 들어갔네",
+      "content": "근처에서 사진찍겠다고 붙어있지는 마라",
       "deleted": false
     },
     {
-      "id": "c-2032-000047-v8-003",
+      "id": "c-2032-000047-b1-003",
       "parentId": null,
-      "timestamp": "2032-08-19T09:29:20+09:00",
+      "timestamp": "2032-08-19T09:46:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "210.178"
       },
-      "content": "현장 구경간다고 차끌고 가는놈 없지?",
+      "content": "C급이라고 사고 작게 나는건 아니니까",
       "deleted": false
     },
     {
-      "id": "c-2032-000047-v8-004",
-      "parentId": "c-2032-000047-v8-001",
-      "timestamp": "2032-08-19T09:33:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "현장사진 찍으러 갈건 아니고",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000047-v8-005",
+      "id": "c-2032-000047-b1-004",
       "parentId": null,
-      "timestamp": "2032-08-19T09:35:46+09:00",
+      "timestamp": "2032-08-19T09:50:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "106.248"
       },
-      "content": "기사엔 통제중이라고만 나옴",
+      "content": "진입팀 대기시키는중이라는 글은 봄",
       "deleted": false
     },
     {
-      "id": "c-2032-000047-v8-006",
+      "id": "c-2032-000047-b1-005",
       "parentId": null,
-      "timestamp": "2032-08-19T09:38:25+09:00",
+      "timestamp": "2032-08-19T09:59:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "59.5"
       },
-      "content": "통제 풀리는 시간 나온거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000047-v8-007",
-      "parentId": "c-2032-000047-v8-005",
-      "timestamp": "2032-08-19T09:41:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "차끌고 구경갈 생각은 접자",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000047-v8-008",
-      "parentId": "c-2032-000047-v8-004",
-      "timestamp": "2032-08-19T09:45:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "통제 풀리는 시간 나왔음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000047-v8-009",
-      "parentId": null,
-      "timestamp": "2032-08-19T09:47:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "근처면 그냥 우회하는게 답",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000047-v8-010",
-      "parentId": null,
-      "timestamp": "2032-08-19T09:50:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000047-v8-011",
-      "parentId": "c-2032-000047-v8-008",
-      "timestamp": "2032-08-19T09:52:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "근처면 그냥 피하는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000047-v8-012",
-      "parentId": null,
-      "timestamp": "2032-08-19T09:55:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "난 반대",
+      "content": "통제 풀리는 시간 공지 아직 없음?",
       "deleted": false
     }
   ],

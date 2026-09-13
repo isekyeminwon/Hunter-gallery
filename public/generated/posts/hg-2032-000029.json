@@ -33,495 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000029-v8-001",
+      "id": "c-2032-000029-b1-001",
       "parentId": null,
-      "timestamp": "2032-07-04T11:36:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "원인보다 범인부터 찾네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-002",
-      "parentId": null,
-      "timestamp": "2032-07-04T11:38:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "저 사진만으론 원인 모르지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-003",
-      "parentId": null,
-      "timestamp": "2032-07-04T11:42:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "후속기사 나옴?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-004",
-      "parentId": "c-2032-000029-v8-003",
       "timestamp": "2032-07-04T11:43:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "175.214"
       },
-      "content": "추가기사 뜬거 있음?",
+      "content": "네뷸라 마법계 교육쪽은 확실히 이미지 굳히는듯",
       "deleted": false
     },
     {
-      "id": "c-2032-000029-v8-005",
-      "parentId": "c-2032-000029-v8-001",
-      "timestamp": "2032-07-04T11:46:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-006",
+      "id": "c-2032-000029-b1-002",
       "parentId": null,
-      "timestamp": "2032-07-04T11:47:49+09:00",
+      "timestamp": "2032-07-04T11:52:06+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "둘다 진정좀",
+      "content": "김채연 들어오고 지원자 몰릴만하긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000029-v8-007",
-      "parentId": null,
-      "timestamp": "2032-07-04T11:50:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "근처사는 사람은 교통공지 먼저봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-008",
-      "parentId": null,
-      "timestamp": "2032-07-04T11:52:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-009",
-      "parentId": null,
-      "timestamp": "2032-07-04T11:55:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "부상자 상태는 괜찮대?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-010",
+      "id": "c-2032-000029-b1-003",
       "parentId": null,
       "timestamp": "2032-07-04T11:57:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "121.140"
       },
-      "content": "원문 어디임",
+      "content": "길드 전투력 말고 연구/교육도 봐야되는 이유가 이거지",
       "deleted": false
     },
     {
-      "id": "c-2032-000029-v8-011",
+      "id": "c-2032-000029-b1-004",
       "parentId": null,
-      "timestamp": "2032-07-04T11:59:04+09:00",
+      "timestamp": "2032-07-04T12:04:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "121.140"
       },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-012",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:02:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-013",
-      "parentId": "c-2032-000029-v8-007",
-      "timestamp": "2032-07-04T12:05:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-014",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:08:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-015",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:10:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "다른사람은 어땠음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-016",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:12:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-017",
-      "parentId": "c-2032-000029-v8-015",
-      "timestamp": "2032-07-04T12:15:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-018",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:18:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-019",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:20:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "통제중이면 근처사람은 안내부터 들어",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-020",
-      "parentId": "c-2032-000029-v8-013",
-      "timestamp": "2032-07-04T12:22:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-021",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:24:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "네뷸라 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-022",
-      "parentId": "c-2032-000029-v8-020",
-      "timestamp": "2032-07-04T12:26:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-023",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:28:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "본문보다 댓글이 더길어졌네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-024",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:32:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-025",
-      "parentId": "c-2032-000029-v8-022",
-      "timestamp": "2032-07-04T12:35:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-026",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:38:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-027",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:42:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-028",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:44:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "이걸로도 싸우네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-029",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:47:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "책임자 찾는건 존나 빠르네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-030",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:50:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-031",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:52:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "다친사람 괜찮다냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-032",
-      "parentId": "c-2032-000029-v8-027",
-      "timestamp": "2032-07-04T12:55:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-033",
-      "parentId": null,
-      "timestamp": "2032-07-04T12:57:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-034",
-      "parentId": "c-2032-000029-v8-028",
-      "timestamp": "2032-07-04T13:01:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-035",
-      "parentId": null,
-      "timestamp": "2032-07-04T13:05:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-036",
-      "parentId": null,
-      "timestamp": "2032-07-04T13:07:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "원문 링크 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-037",
-      "parentId": null,
-      "timestamp": "2032-07-04T13:10:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "현장사진으로 원인까지 맞추진 말자",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-038",
-      "parentId": "c-2032-000029-v8-036",
-      "timestamp": "2032-07-04T13:13:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-039",
-      "parentId": null,
-      "timestamp": "2032-07-04T13:15:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-040",
-      "parentId": null,
-      "timestamp": "2032-07-04T13:19:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "추가기사 뜬거 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000029-v8-041",
-      "parentId": null,
-      "timestamp": "2039-12-06T18:47:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이때도 똑같이 싸웠구나ㅋㅋ",
+      "content": "마법장비 가격 오른다는건 체감 오긴함",
       "deleted": false
     }
   ],

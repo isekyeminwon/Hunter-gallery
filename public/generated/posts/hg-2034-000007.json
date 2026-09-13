@@ -33,219 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000007-v8-001",
+      "id": "c-2034-000007-b1-001",
       "parentId": null,
-      "timestamp": "2034-03-14T00:00:46+09:00",
+      "timestamp": "2034-03-14T00:05:20+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "개웃기네",
+      "content": "네뷸라 백호 2위싸움이라는 말도 너무 단순함",
       "deleted": false
     },
     {
-      "id": "c-2034-000007-v8-002",
+      "id": "c-2034-000007-b1-002",
       "parentId": null,
-      "timestamp": "2034-03-14T00:02:51+09:00",
+      "timestamp": "2034-03-14T00:16:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "렌탈은 받자마자 버클이랑 스트랩부터 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000007-b1-003",
+      "parentId": null,
+      "timestamp": "2034-03-14T00:22:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "새장비라고 현장에서 바로 편한건 아니더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000007-b1-004",
+      "parentId": null,
+      "timestamp": "2034-03-14T00:26:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "반납때 말나오기 싫으면 상태 사진 찍어둬",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000007-b1-005",
+      "parentId": null,
+      "timestamp": "2034-03-14T00:33:53+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "이시율 하나로 한성 간판이 너무 세짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000007-b1-006",
+      "parentId": null,
+      "timestamp": "2034-03-14T00:44:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.33"
       },
-      "content": "자라",
+      "content": "복지표랑 전투력표를 따로 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2034-000007-v8-003",
+      "id": "c-2034-000007-b1-007",
       "parentId": null,
-      "timestamp": "2034-03-14T00:04:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-004",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:07:15+09:00",
+      "timestamp": "2034-03-14T00:50:15+09:00",
       "author": {
         "type": "fixed",
         "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-005",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:10:43+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-006",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:13:44+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-007",
-      "parentId": "c-2034-000007-v8-002",
-      "timestamp": "2034-03-14T00:15:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-008",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:16:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-009",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:20:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-010",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:23:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "대댓글만 따로 글파도 되겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-011",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:26:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-012",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:28:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-013",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:30:32+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-014",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:33:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-015",
-      "parentId": "c-2034-000007-v8-010",
-      "timestamp": "2034-03-14T00:35:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-016",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:38:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이거 경험자 하나만 더 와봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-017",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:40:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000007-v8-018",
-      "parentId": null,
-      "timestamp": "2034-03-14T00:44:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "또 시작이네",
+      "content": "한성 들어가서 A급이 묻힌다는 말이 나오는게 웃김",
       "deleted": false
     }
   ],

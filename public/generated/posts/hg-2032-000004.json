@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000004-v8-001",
+      "id": "c-2032-000004-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-08T12:35:43+09:00",
+      "timestamp": "2032-05-08T12:41:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "175.214"
       },
-      "content": "ㄹㅇ",
+      "content": "첫 공략에서 잡몹 처리속도 진짜 말이 안됨",
       "deleted": false
     },
     {
-      "id": "c-2032-000004-v8-002",
+      "id": "c-2032-000004-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-08T12:38:05+09:00",
+      "timestamp": "2032-05-08T12:50:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "58.29"
       },
-      "content": "ㄹㅇ",
+      "content": "김채연 광역기 범위가 영상밖까지 가는게 제일 무섭다",
       "deleted": false
     },
     {
-      "id": "c-2032-000004-v8-003",
+      "id": "c-2032-000004-b1-003",
+      "parentId": "c-2032-000004-b1-001",
+      "timestamp": "2032-05-08T13:00:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "강주아랑 역할 자체가 다르지",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000004-b1-004",
       "parentId": null,
-      "timestamp": "2032-05-08T12:40:38+09:00",
+      "timestamp": "2032-05-08T13:08:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "175.214"
       },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000004-v8-004",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:42:44+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000004-v8-005",
-      "parentId": "c-2032-000004-v8-004",
-      "timestamp": "2032-05-08T12:45:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000004-v8-006",
-      "parentId": "c-2032-000004-v8-004",
-      "timestamp": "2032-05-08T12:47:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000004-v8-007",
-      "parentId": "c-2032-000004-v8-004",
-      "timestamp": "2032-05-08T12:49:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000004-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:51:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000004-v8-009",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:54:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000004-v8-010",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:57:22+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000004-v8-011",
-      "parentId": "c-2032-000004-v8-004",
-      "timestamp": "2032-05-08T13:01:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000004-v8-012",
-      "parentId": "c-2032-000004-v8-011",
-      "timestamp": "2032-05-08T13:03:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "뭔데",
+      "content": "강주아랑 비교는 능력성격부터 달라서 끝이 없을듯",
       "deleted": false
     }
   ],

@@ -33,183 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000022-v8-001",
+      "id": "c-2039-000022-b2m-001",
       "parentId": null,
-      "timestamp": "2039-05-19T12:44:21+09:00",
+      "timestamp": "2039-05-19T12:42:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "112.171"
       },
-      "content": "사고원인 뜨기전에 길드탓부터 하던거 기억남",
+      "content": "차량/하역동선이 같이 있어서 사람만 보는 현장이랑 다름",
       "deleted": false
     },
     {
-      "id": "c-2039-000022-v8-002",
+      "id": "c-2039-000022-b2m-002",
       "parentId": null,
-      "timestamp": "2039-05-19T12:46:24+09:00",
+      "timestamp": "2039-05-19T12:46:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "211.202"
       },
-      "content": "영상 한각도만 보고 판단하기 힘든 현장임",
+      "content": "물가라 미끄럼/장비고정 신경 더쓰는팀 많음",
       "deleted": false
     },
     {
-      "id": "c-2039-000022-v8-003",
+      "id": "c-2039-000022-b2m-003",
       "parentId": null,
-      "timestamp": "2039-05-19T12:48:05+09:00",
+      "timestamp": "2039-05-19T12:47:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "106.101"
       },
-      "content": "지원팀 붙으면 평소 파티콜로 안되는 순간 생김",
+      "content": "{{con:dororong}}",
       "deleted": false
     },
     {
-      "id": "c-2039-000022-v8-004",
-      "parentId": "c-2039-000022-v8-002",
-      "timestamp": "2039-05-19T12:51:44+09:00",
+      "id": "c-2039-000022-b2m-004",
+      "parentId": "c-2039-000022-b2m-002",
+      "timestamp": "2039-05-19T12:49:31+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "나도 처음엔 헷갈렸음",
+      "content": "소음 커서 파티콜 안들리는 상황도 생김",
       "deleted": false
     },
     {
-      "id": "c-2039-000022-v8-005",
+      "id": "c-2039-000022-b2m-005",
       "parentId": null,
-      "timestamp": "2039-05-19T12:55:10+09:00",
+      "timestamp": "2039-05-19T12:52:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "106.101"
       },
-      "content": "항만쪽은 차량/물자동선까지 섞여서 복잡함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-006",
-      "parentId": "c-2039-000022-v8-005",
-      "timestamp": "2039-05-19T12:57:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-007",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:00:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-008",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:02:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "나만 이렇게 하는건가",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-009",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:04:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-010",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:07:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-011",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:10:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-012",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:13:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-013",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:15:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-014",
-      "parentId": "c-2039-000022-v8-012",
-      "timestamp": "2039-05-19T13:19:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000022-v8-015",
-      "parentId": "c-2039-000022-v8-008",
-      "timestamp": "2039-05-19T13:22:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
+      "content": "대기/철수 동선이 길어질수 있어서 지원인력도 준비 다르게 함",
       "deleted": false
     }
   ],

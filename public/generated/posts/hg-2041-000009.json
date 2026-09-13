@@ -33,51 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000009-v8-001",
+      "id": "c-2041-000009-b2m-001",
       "parentId": null,
-      "timestamp": "2041-05-07T20:46:35+09:00",
+      "timestamp": "2041-05-07T20:45:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "110.70"
       },
-      "content": "이건 나도 모르겠네",
+      "content": "C급이라고 무조건 회사보다 많이버는건 아님",
       "deleted": false
     },
     {
-      "id": "c-2041-000009-v8-002",
+      "id": "c-2041-000009-b2m-002",
       "parentId": null,
-      "timestamp": "2041-05-07T20:49:35+09:00",
+      "timestamp": "2041-05-07T20:47:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "223.52"
       },
-      "content": "검색해도 예전얘기만 나와",
+      "content": "보험/세금/장비비 빼면 생각보다 차이 줄어듦",
       "deleted": false
     },
     {
-      "id": "c-2041-000009-v8-003",
+      "id": "c-2041-000009-b2m-003",
       "parentId": null,
-      "timestamp": "2041-05-07T20:53:16+09:00",
+      "timestamp": "2041-05-07T20:49:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "110.70"
       },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000009-v8-004",
-      "parentId": null,
-      "timestamp": "2041-05-07T20:55:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "첫번엔 나도 잘못알았음",
+      "content": "부업처럼 주말만 뛰는 사람도 꽤 있음",
       "deleted": false
     }
   ],

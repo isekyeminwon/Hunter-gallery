@@ -33,87 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000067-v8-001",
+      "id": "c-2033-000067-b1-001",
       "parentId": null,
-      "timestamp": "2033-12-07T14:55:12+09:00",
+      "timestamp": "2033-12-07T14:56:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "124.53"
       },
-      "content": "또 순위매기네ㅋㅋ",
+      "content": "발표 뜨자마자 줄세우는 속도 존나빠름ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000067-v8-002",
+      "id": "c-2033-000067-b1-002",
       "parentId": null,
-      "timestamp": "2033-12-07T14:58:23+09:00",
+      "timestamp": "2033-12-07T15:06:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "175.214"
       },
-      "content": "A도 존나 상위권인데 감각 망가짐",
+      "content": "난 반대로봄",
       "deleted": false
     },
     {
-      "id": "c-2033-000067-v8-003",
-      "parentId": "c-2033-000067-v8-001",
-      "timestamp": "2033-12-07T15:00:51+09:00",
+      "id": "c-2033-000067-b1-003",
+      "parentId": "c-2033-000067-b1-001",
+      "timestamp": "2033-12-07T15:14:32+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
+      "content": "난 저순위 반대",
       "deleted": false
     },
     {
-      "id": "c-2033-000067-v8-004",
+      "id": "c-2033-000067-b1-004",
       "parentId": null,
-      "timestamp": "2033-12-07T15:03:43+09:00",
+      "timestamp": "2033-12-07T15:25:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "175.214"
       },
-      "content": "이런표는 만든사람 팬심이 반임",
+      "content": "이걸 숫자 하나로 정리하려는게 제일 웃김",
       "deleted": false
     },
     {
-      "id": "c-2033-000067-v8-005",
-      "parentId": null,
-      "timestamp": "2033-12-07T15:05:07+09:00",
+      "id": "c-2033-000067-b1-005",
+      "parentId": "c-2033-000067-b1-001",
+      "timestamp": "2033-12-07T15:29:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "124.53"
       },
-      "content": "오늘 끝나도 내일 또함",
+      "content": "또 갈드컵 열렸네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000067-v8-006",
+      "id": "c-2033-000067-b1-006",
       "parentId": null,
-      "timestamp": "2033-12-07T15:07:19+09:00",
+      "timestamp": "2033-12-07T15:37:26+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "능력상성 넣는순간 표 다시만들어야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000067-v8-007",
-      "parentId": null,
-      "timestamp": "2033-12-07T15:09:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "사설랭킹에 그래프까지 넣었네",
+      "content": "능력상성까지 넣으면 결론 절대 안남",
       "deleted": false
     }
   ],

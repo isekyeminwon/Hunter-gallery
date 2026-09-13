@@ -33,63 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000012-v8-001",
+      "id": "c-2041-000012-b2m-001",
       "parentId": null,
-      "timestamp": "2041-08-21T11:46:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "범죄 터지면 대응측 위험도부터 꼬임",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000012-v8-002",
-      "parentId": null,
-      "timestamp": "2041-08-21T11:49:17+09:00",
+      "timestamp": "2041-08-21T11:45:25+09:00",
       "author": {
         "type": "fixed",
         "name": "협회노예",
         "ip": null
       },
-      "content": "고의로 낮추면 주변이 틀린정보로 판단하게 됨",
+      "content": "부정등록은 등급 허세문제가 아니라 출입/보험/동원 기준을 틀리게 만드는게 문제",
       "deleted": false
     },
     {
-      "id": "c-2041-000012-v8-003",
+      "id": "c-2041-000012-b2m-002",
       "parentId": null,
-      "timestamp": "2041-08-21T11:51:19+09:00",
+      "timestamp": "2041-08-21T11:47:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "223.52"
       },
-      "content": "등급이 출입 보험 파티조건에 실제로 쓰임",
+      "content": "등록정보로 계약한 파티까지 피해보는게 진짜 문제",
       "deleted": false
     },
     {
-      "id": "c-2041-000012-v8-004",
+      "id": "c-2041-000012-b2m-003",
       "parentId": null,
-      "timestamp": "2041-08-21T11:55:13+09:00",
+      "timestamp": "2041-08-21T11:48:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "223.52"
       },
-      "content": "강제소집 회피 이미지까지 붙어서 더 욕먹음",
+      "content": "측정오류나 갱신지연까지 부정등록으로 몰면 안됨",
       "deleted": false
     },
     {
-      "id": "c-2041-000012-v8-005",
+      "id": "c-2041-000012-b2m-004",
       "parentId": null,
-      "timestamp": "2041-08-21T11:59:11+09:00",
+      "timestamp": "2041-08-21T11:50:11+09:00",
       "author": {
         "type": "fixed",
         "name": "협회노예",
         "ip": null
       },
-      "content": "측정오류랑 고의숨김은 구분해야됨",
+      "content": "고의로 낮춰놨다가 사고나면 대응측 위험판단부터 꼬임",
       "deleted": false
     }
   ],

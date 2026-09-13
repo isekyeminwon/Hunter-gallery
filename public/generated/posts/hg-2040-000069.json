@@ -33,51 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000069-v8-001",
+      "id": "c-2040-000069-b2m-001",
       "parentId": null,
-      "timestamp": "2040-04-23T16:37:13+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "개인보험만 믿고 팀조건 넘기진마",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000069-v8-002",
-      "parentId": null,
-      "timestamp": "2040-04-23T16:40:28+09:00",
+      "timestamp": "2040-04-23T16:36:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "211.246"
       },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "content": "진단서/사고기록/입장기록부터 챙겨",
       "deleted": false
     },
     {
-      "id": "c-2040-000069-v8-003",
-      "parentId": "c-2040-000069-v8-001",
-      "timestamp": "2040-04-23T16:44:05+09:00",
+      "id": "c-2040-000069-b2m-002",
+      "parentId": null,
+      "timestamp": "2040-04-23T16:38:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "112.171"
       },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000069-v8-004",
-      "parentId": null,
-      "timestamp": "2040-04-23T16:47:31+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "content": "사진만 들고가면 끝나는건 아니더라",
       "deleted": false
     }
   ],

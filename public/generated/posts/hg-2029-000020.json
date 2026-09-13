@@ -33,51 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000020-v8-001",
+      "id": "c-2029-000020-b1-001",
       "parentId": null,
-      "timestamp": "2029-05-17T12:33:04+09:00",
+      "timestamp": "2029-05-17T12:41:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "39.7"
       },
-      "content": "당일도 있고 며칠뒤도 있음",
+      "content": "매입가 확정전 예상금액으로 나누지마",
       "deleted": false
     },
     {
-      "id": "c-2029-000020-v8-002",
+      "id": "c-2029-000020-b1-002",
       "parentId": null,
-      "timestamp": "2029-05-17T12:34:24+09:00",
+      "timestamp": "2029-05-17T12:49:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "211.234"
       },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
+      "content": "수수료까지 빼고 봐야 실제 남는돈 나옴",
       "deleted": false
     },
     {
-      "id": "c-2029-000020-v8-003",
+      "id": "c-2029-000020-b1-003",
       "parentId": null,
-      "timestamp": "2029-05-17T12:37:17+09:00",
+      "timestamp": "2029-05-17T12:55:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "39.125"
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "모양 예쁘다고 하나 챙기면 안되는건 당연하지ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2029-000020-v8-004",
+      "id": "c-2029-000020-b1-004",
       "parentId": null,
-      "timestamp": "2029-05-17T12:39:13+09:00",
+      "timestamp": "2029-05-17T13:00:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "211.234"
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "마석은 회수보다 정산에서 싸움나는게 더 귀찮음",
       "deleted": false
     }
   ],

@@ -33,27 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000011-v8-001",
+      "id": "c-2041-000011-b2m-001",
       "parentId": null,
-      "timestamp": "2041-06-14T12:35:59+09:00",
+      "timestamp": "2041-06-14T12:35:39+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "한성은 영상보다 기사로 더 자주 보는 느낌",
+      "content": "한성은 상위전력 간판이 너무 셈",
       "deleted": false
     },
     {
-      "id": "c-2041-000011-v8-002",
+      "id": "c-2041-000011-b2m-002",
       "parentId": null,
-      "timestamp": "2041-06-14T12:38:15+09:00",
+      "timestamp": "2041-06-14T12:39:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "125.180"
       },
-      "content": "검신 영상은 옛날거도 계속 재생됨",
+      "content": "마법계면 네뷸라, 장비/복지는 백호 얘기 많이 나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000011-b2m-003",
+      "parentId": "c-2041-000011-b2m-001",
+      "timestamp": "2041-06-14T12:42:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "전투서열하고 직장선호는 별개임",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000011-b2m-004",
+      "parentId": null,
+      "timestamp": "2041-06-14T12:45:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "카메라 노출 싫어하면 스텔라는 좀 안맞을수도",
       "deleted": false
     }
   ],

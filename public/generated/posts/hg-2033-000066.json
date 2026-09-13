@@ -33,75 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000066-v8-001",
+      "id": "c-2033-000066-b1-001",
       "parentId": null,
-      "timestamp": "2033-07-01T17:58:40+09:00",
+      "timestamp": "2033-07-01T18:04:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "175.194"
       },
-      "content": "이거 며칠뒤 또 싸운다",
+      "content": "A가 몇달만 굴러도 결국 역전할 가능성은 높겠지",
       "deleted": false
     },
     {
-      "id": "c-2033-000066-v8-002",
+      "id": "c-2033-000066-b1-002",
       "parentId": null,
-      "timestamp": "2033-07-01T18:02:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "표 디자인만 보면 국가자료임",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000066-v8-003",
-      "parentId": null,
-      "timestamp": "2033-07-01T18:04:23+09:00",
+      "timestamp": "2033-07-01T18:12:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.101"
       },
-      "content": "표 하나 뜨면 바로 줄세움",
+      "content": "순수체급은 A가 위여도 파티운영은 경험 무시못함",
       "deleted": false
     },
     {
-      "id": "c-2033-000066-v8-004",
+      "id": "c-2033-000066-b1-003",
       "parentId": null,
-      "timestamp": "2033-07-01T18:08:04+09:00",
+      "timestamp": "2033-07-01T18:17:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "175.194"
       },
-      "content": "A 평범취급은 갤에서만 가능",
+      "content": "둘이 같은 역할이라는 조건부터 붙여야 비교가 됨",
       "deleted": false
     },
     {
-      "id": "c-2033-000066-v8-005",
+      "id": "c-2033-000066-b1-004",
       "parentId": null,
-      "timestamp": "2033-07-01T18:11:01+09:00",
+      "timestamp": "2033-07-01T18:22:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "118.41"
       },
-      "content": "상성 변수 빼고 몇위가 뭔의미냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000066-v8-006",
-      "parentId": null,
-      "timestamp": "2033-07-01T18:13:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "팬이 만들면 답 정해져있지",
+      "content": "당장 현장 하나 맡기라면 난 B베테랑",
       "deleted": false
     }
   ],

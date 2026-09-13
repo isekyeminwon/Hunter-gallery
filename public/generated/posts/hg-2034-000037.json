@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000037-v8-001",
+      "id": "c-2034-000037-b1-001",
       "parentId": null,
-      "timestamp": "2034-06-25T10:31:04+09:00",
+      "timestamp": "2034-06-25T10:35:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "59.10"
       },
-      "content": "당일도 있고 며칠뒤도 있음",
+      "content": "현금으로 받아도 기록은 남겨두는게 편함",
       "deleted": false
     },
     {
-      "id": "c-2034-000037-v8-002",
+      "id": "c-2034-000037-b1-002",
       "parentId": null,
-      "timestamp": "2034-06-25T10:33:47+09:00",
+      "timestamp": "2034-06-25T10:40:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "210.178"
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "금액 크면 댓글보다 세무쪽 한번 물어봐",
       "deleted": false
     },
     {
-      "id": "c-2034-000037-v8-003",
-      "parentId": "c-2034-000037-v8-001",
-      "timestamp": "2034-06-25T10:35:27+09:00",
+      "id": "c-2034-000037-b1-003",
+      "parentId": null,
+      "timestamp": "2034-06-25T10:52:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "118.235"
       },
-      "content": "당일정산이 편하긴함",
+      "content": "개인참가인지 길드소속인지 처리 다를수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000037-b1-004",
+      "parentId": "c-2034-000037-b1-001",
+      "timestamp": "2034-06-25T11:01:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "정산내역 보관부터 해둬",
       "deleted": false
     }
   ],

@@ -33,75 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000068-v8-001",
+      "id": "c-2033-000068-b1-001",
       "parentId": null,
-      "timestamp": "2033-05-13T20:10:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "한성 지원서 통과부터 하라는 소리 나온다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000068-v8-002",
-      "parentId": null,
-      "timestamp": "2033-05-13T20:12:34+09:00",
+      "timestamp": "2033-05-13T20:13:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "175.214"
       },
-      "content": "스텔라는 대중노출 감수해야할듯",
+      "content": "보유 S만 세면 한성이 너무 유리해서 다른 요소가 다 사라짐",
       "deleted": false
     },
     {
-      "id": "c-2033-000068-v8-003",
-      "parentId": "c-2033-000068-v8-001",
-      "timestamp": "2033-05-13T20:13:55+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000068-v8-004",
+      "id": "c-2033-000068-b1-002",
       "parentId": null,
-      "timestamp": "2033-05-13T20:17:40+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "연구/교육 보면 네뷸라가 매력있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000068-v8-005",
-      "parentId": null,
-      "timestamp": "2033-05-13T20:19:50+09:00",
+      "timestamp": "2033-05-13T20:17:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "211.235"
       },
-      "content": "장비지원 후기는 백호가 제일 자주보임",
+      "content": "길드순위라는 말 자체가 뭘 기준으로 하냐부터 싸움",
       "deleted": false
     },
     {
-      "id": "c-2033-000068-v8-006",
-      "parentId": "c-2033-000068-v8-003",
-      "timestamp": "2033-05-13T20:23:21+09:00",
+      "id": "c-2033-000068-b1-003",
+      "parentId": null,
+      "timestamp": "2033-05-13T20:27:40+09:00",
       "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.214"
       },
-      "content": "백호 복지후기 많은건 맞음",
+      "content": "공략실적 장비 교육 복지까지 넣으면 순위표 끝도없음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000068-b1-004",
+      "parentId": null,
+      "timestamp": "2033-05-13T20:37:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "전투력 순위랑 취업하기 좋은 길드는 따로 봐야지",
       "deleted": false
     }
   ],

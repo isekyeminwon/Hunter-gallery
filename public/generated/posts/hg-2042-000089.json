@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000089-v8-001",
+      "id": "c-2042-000089-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-30T19:24:58+09:00",
+      "timestamp": "2042-08-30T19:24:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "112.171"
       },
-      "content": "나도 처음엔 이거 몰랐음",
+      "content": "개인이 들고가서 접수 가능한 경우도 있는데 등록/서류 확인부터 함",
       "deleted": false
     },
     {
-      "id": "c-2042-000089-v8-002",
+      "id": "c-2042-000089-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-30T19:27:43+09:00",
+      "timestamp": "2042-08-30T19:27:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "211.202"
       },
-      "content": "뉴비면 이거 모를수있음",
+      "content": "운송/보관 규정 있는 크기면 그냥 들고가는건 안됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000089-v8-003",
+      "id": "c-2042-000089-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-30T19:30:57+09:00",
+      "timestamp": "2042-08-30T19:30:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "112.171"
       },
-      "content": "검색해도 예전얘기만 나와",
+      "content": "처음이면 거래소 접수절차 확인하고 가",
       "deleted": false
     }
   ],

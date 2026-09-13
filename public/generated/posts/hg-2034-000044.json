@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000044-v8-001",
+      "id": "c-2034-000044-b1-001",
       "parentId": null,
-      "timestamp": "2034-05-15T23:20:23+09:00",
+      "timestamp": "2034-05-15T23:26:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "59.5"
       },
-      "content": "공식채널 검색이 제일 낫겠다",
+      "content": "짧은 클립 하나로 성격까지 판단하는건 오바",
       "deleted": false
     },
     {
-      "id": "c-2034-000044-v8-002",
+      "id": "c-2034-000044-b1-002",
       "parentId": null,
-      "timestamp": "2034-05-15T23:24:03+09:00",
+      "timestamp": "2034-05-15T23:31:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "1.239"
       },
-      "content": "영상보다 밑에서 더 터졌네ㅋㅋ",
+      "content": "짧아서 성격까지 판단하긴 어렵지",
       "deleted": false
     },
     {
-      "id": "c-2034-000044-v8-003",
-      "parentId": null,
-      "timestamp": "2034-05-15T23:25:59+09:00",
+      "id": "c-2034-000044-b1-003",
+      "parentId": "c-2034-000044-b1-002",
+      "timestamp": "2034-05-15T23:39:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "59.5"
       },
-      "content": "편집은 잘했네",
+      "content": "원본 링크 있냐",
       "deleted": false
     }
   ],

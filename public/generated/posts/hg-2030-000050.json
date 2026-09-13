@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000050-v8-001",
+      "id": "c-2030-000050-b1-001",
       "parentId": null,
-      "timestamp": "2030-11-03T23:31:06+09:00",
+      "timestamp": "2030-11-03T23:35:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "118.44"
       },
-      "content": "촬영팀 붙으면 동선도 달라질수 있음",
+      "content": "나도그럼",
       "deleted": false
     },
     {
-      "id": "c-2030-000050-v8-002",
+      "id": "c-2030-000050-b1-002",
       "parentId": null,
-      "timestamp": "2030-11-03T23:34:25+09:00",
+      "timestamp": "2030-11-03T23:41:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "118.44"
       },
-      "content": "영상이 거짓말이라기보다 목적이 다른거",
+      "content": "ㄹㅇ",
       "deleted": false
     }
   ],

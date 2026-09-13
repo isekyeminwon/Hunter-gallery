@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000028-v8-001",
+      "id": "c-2041-000028-b2m-001",
       "parentId": null,
-      "timestamp": "2041-04-12T12:00:06+09:00",
+      "timestamp": "2041-04-12T12:00:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "61.79"
       },
-      "content": "강한애 모았다고 팀이 바로 되는건 아님",
+      "content": "전투만 하는게 아니라 통신/철수/부상자대응 같은 공통절차 맞추는훈련임",
       "deleted": false
     },
     {
-      "id": "c-2041-000028-v8-002",
+      "id": "c-2041-000028-b2m-002",
       "parentId": null,
-      "timestamp": "2041-04-12T12:03:55+09:00",
+      "timestamp": "2041-04-12T12:03:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "14.32"
       },
-      "content": "부상자 가정 훈련이 제일 정신없다더라",
+      "content": "훈련영상만 보면 전투장면만 보여서 오해하기 쉬움",
       "deleted": false
     },
     {
-      "id": "c-2041-000028-v8-003",
+      "id": "c-2041-000028-b2m-003",
+      "parentId": "c-2041-000028-b2m-002",
+      "timestamp": "2041-04-12T12:06:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "재난급에서 합동투입될때 안꼬이게 하는 목적이 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000028-b2m-004",
       "parentId": null,
-      "timestamp": "2041-04-12T12:06:15+09:00",
+      "timestamp": "2041-04-12T12:09:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "211.234"
       },
-      "content": "훈련점수로 실전서열 짜는건 웃김",
+      "content": "길드마다 다른 파티콜/장비규격 맞추는것도 큰부분",
       "deleted": false
     },
     {
-      "id": "c-2041-000028-v8-004",
+      "id": "c-2041-000028-b2m-005",
       "parentId": null,
-      "timestamp": "2041-04-12T12:08:12+09:00",
+      "timestamp": "2041-04-12T12:10:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "14.32"
       },
-      "content": "파티콜 맞추는게 생각보다 오래걸림",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000028-v8-005",
-      "parentId": "c-2041-000028-v8-002",
-      "timestamp": "2041-04-12T12:11:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "훈련점수로 서열짜는건 좀ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000028-v8-006",
-      "parentId": "c-2041-000028-v8-004",
-      "timestamp": "2041-04-12T12:13:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "훈련이라 오히려 철수 더 많이 시키나봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000028-v8-007",
-      "parentId": "c-2041-000028-v8-002",
-      "timestamp": "2041-04-12T12:16:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "낯선사람끼리 콜 맞추는게 핵심이겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000028-v8-008",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:19:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000028-v8-009",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:23:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000028-v8-010",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:26:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000028-v8-011",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:30:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "비슷하게 해본놈 더없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000028-v8-012",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:32:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "이정도면 이해됨",
       "deleted": false
     }
   ],

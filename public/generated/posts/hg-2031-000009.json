@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000009-v8-001",
+      "id": "c-2031-000009-b1-001",
       "parentId": null,
-      "timestamp": "2031-06-13T21:47:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "애매하면 신상은 올리지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000009-v8-002",
-      "parentId": null,
-      "timestamp": "2031-06-13T21:51:10+09:00",
+      "timestamp": "2031-06-13T21:47:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "58.29"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "딥페이크/재편집 표시 없는게 제일 문제임",
       "deleted": false
     },
     {
-      "id": "c-2031-000009-v8-003",
+      "id": "c-2031-000009-b1-002",
       "parentId": null,
       "timestamp": "2031-06-13T21:55:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "118.44"
       },
-      "content": "규정이랑 관행은 또 다를수 있음",
+      "content": "원본 출처없는 편집영상은 신고해도 될듯",
       "deleted": false
     },
     {
-      "id": "c-2031-000009-v8-004",
+      "id": "c-2031-000009-b1-003",
+      "parentId": "c-2031-000009-b1-001",
+      "timestamp": "2031-06-13T22:03:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "삭제돼도 캡처 재업하는놈 또나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000009-b1-004",
       "parentId": null,
-      "timestamp": "2031-06-13T21:56:32+09:00",
+      "timestamp": "2031-06-13T22:12:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "58.29"
       },
-      "content": "지금도 적용되는거 맞음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000009-v8-005",
-      "parentId": null,
-      "timestamp": "2031-06-13T21:58:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 최신 공지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000009-v8-006",
-      "parentId": null,
-      "timestamp": "2031-06-13T22:01:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "신고해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000009-v8-007",
-      "parentId": "c-2031-000009-v8-001",
-      "timestamp": "2031-06-13T22:03:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000009-v8-008",
-      "parentId": "c-2031-000009-v8-004",
-      "timestamp": "2031-06-13T22:06:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000009-v8-009",
-      "parentId": "c-2031-000009-v8-006",
-      "timestamp": "2031-06-13T22:10:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000009-v8-010",
-      "parentId": null,
-      "timestamp": "2031-06-13T22:13:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000009-v8-011",
-      "parentId": null,
-      "timestamp": "2031-06-13T22:15:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000009-v8-012",
-      "parentId": "c-2031-000009-v8-005",
-      "timestamp": "2031-06-13T22:17:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "최신 공지 한번 봐야겠네",
+      "content": "플랫폼 신고랑 갤 신고 둘다 넣어",
       "deleted": false
     }
   ],

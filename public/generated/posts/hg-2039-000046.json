@@ -33,267 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000046-v8-001",
+      "id": "c-2039-000046-b2m-001",
       "parentId": null,
-      "timestamp": "2039-05-20T12:30:27+09:00",
+      "timestamp": "2039-05-20T12:31:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "106.102"
       },
-      "content": "부상자 상태는 괜찮대?",
+      "content": "부상자 나오면 장비회수보다 통로 확보가 먼저라는 후기 봄",
       "deleted": false
     },
     {
-      "id": "c-2039-000046-v8-002",
+      "id": "c-2039-000046-b2m-002",
       "parentId": null,
-      "timestamp": "2039-05-20T12:33:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "기사 뜨자마자 누구탓인지 정했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-003",
-      "parentId": "c-2039-000046-v8-002",
-      "timestamp": "2039-05-20T12:35:11+09:00",
+      "timestamp": "2039-05-20T12:35:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.58"
       },
-      "content": "현장근처면 안내부터 봐",
+      "content": "현장영상에 안잡히는 차량동선이 생각보다 큼",
       "deleted": false
     },
     {
-      "id": "c-2039-000046-v8-004",
+      "id": "c-2039-000046-b2m-003",
       "parentId": null,
-      "timestamp": "2039-05-20T12:38:52+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "현장 주변이면 우회공지부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-005",
-      "parentId": null,
-      "timestamp": "2039-05-20T12:42:03+09:00",
+      "timestamp": "2039-05-20T12:38:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "39.125"
       },
-      "content": "업데이트 된거 있음?",
+      "content": "공동대응 들어가면 파티마다 쓰는 콜부터 맞춰야됨",
       "deleted": false
     },
     {
-      "id": "c-2039-000046-v8-006",
+      "id": "c-2039-000046-b2m-004",
       "parentId": null,
-      "timestamp": "2039-05-20T12:43:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "출처 링크좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-007",
-      "parentId": "c-2039-000046-v8-004",
-      "timestamp": "2039-05-20T12:47:09+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-008",
-      "parentId": "c-2039-000046-v8-003",
-      "timestamp": "2039-05-20T12:50:05+09:00",
+      "timestamp": "2039-05-20T12:40:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.58"
       },
-      "content": "원인 나온건 아직 없지?",
+      "content": "물가라 장비 고정 더 신경쓴다는 얘기 많음",
       "deleted": false
     },
     {
-      "id": "c-2039-000046-v8-009",
+      "id": "c-2039-000046-b2m-005",
       "parentId": null,
-      "timestamp": "2039-05-20T12:53:12+09:00",
+      "timestamp": "2039-05-20T12:44:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "106.102"
       },
-      "content": "저 사진만으론 원인 모르지",
+      "content": "{{con:stop}}",
       "deleted": false
     },
     {
-      "id": "c-2039-000046-v8-010",
-      "parentId": "c-2039-000046-v8-008",
-      "timestamp": "2039-05-20T12:56:49+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-011",
+      "id": "c-2039-000046-b2m-006",
       "parentId": null,
-      "timestamp": "2039-05-20T13:00:02+09:00",
+      "timestamp": "2039-05-20T12:46:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "223.52"
       },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-012",
-      "parentId": "c-2039-000046-v8-009",
-      "timestamp": "2039-05-20T13:01:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-013",
-      "parentId": null,
-      "timestamp": "2039-05-20T13:05:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "본문보다 댓글이 더길어졌네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-014",
-      "parentId": "c-2039-000046-v8-007",
-      "timestamp": "2039-05-20T13:09:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-015",
-      "parentId": null,
-      "timestamp": "2039-05-20T13:10:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-016",
-      "parentId": null,
-      "timestamp": "2039-05-20T13:13:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "니들 왜 갑자기 싸우냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-017",
-      "parentId": null,
-      "timestamp": "2039-05-20T13:16:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-018",
-      "parentId": null,
-      "timestamp": "2039-05-20T13:19:49+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-019",
-      "parentId": null,
-      "timestamp": "2039-05-20T13:23:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-020",
-      "parentId": null,
-      "timestamp": "2039-05-20T13:25:47+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-021",
-      "parentId": null,
-      "timestamp": "2039-05-20T13:29:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000046-v8-022",
-      "parentId": null,
-      "timestamp": "2039-05-20T13:32:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "그건 좀",
+      "content": "항만은 차량/적재물/사람 동선이 겹쳐서 일반 현장이랑 다름",
       "deleted": false
     }
   ],

@@ -33,15 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000040-v8-001",
+      "id": "c-2039-000040-b2m-001",
       "parentId": null,
-      "timestamp": "2039-03-25T09:56:55+09:00",
+      "timestamp": "2039-03-25T09:55:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "125.180"
       },
-      "content": "뭔데",
+      "content": "헌터도 치과의자 누우면 똑같음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000040-b2m-002",
+      "parentId": null,
+      "timestamp": "2039-03-25T09:59:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "S급도 스케일링 소리는 무섭다",
       "deleted": false
     }
   ],

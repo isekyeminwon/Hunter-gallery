@@ -33,231 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000076-v8-001",
+      "id": "c-2041-000076-b2m-001",
       "parentId": null,
-      "timestamp": "2041-04-13T13:17:51+09:00",
+      "timestamp": "2041-04-13T13:17:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.33"
       },
-      "content": "처음할때 여기서 한번 막힘",
+      "content": "대체로 실전장비 기준으로 하되 소모품/위험한건 훈련용으로 바꾸는 경우도 있음",
       "deleted": false
     },
     {
-      "id": "c-2041-000076-v8-002",
+      "id": "c-2041-000076-b2m-002",
       "parentId": null,
-      "timestamp": "2041-04-13T13:21:32+09:00",
+      "timestamp": "2041-04-13T13:21:20+09:00",
       "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
       },
-      "content": "이런건 물어봐도 됨",
+      "content": "본인 장비 적응도 보는 훈련이면 실제 장비 들고가는게 맞고",
       "deleted": false
     },
     {
-      "id": "c-2041-000076-v8-003",
+      "id": "c-2041-000076-b2m-003",
       "parentId": null,
-      "timestamp": "2041-04-13T13:22:56+09:00",
+      "timestamp": "2041-04-13T13:25:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "106.250"
       },
-      "content": "해본사람 있냐",
+      "content": "파손위험 큰 훈련은 대체장비 쓰는팀도 있음",
       "deleted": false
     },
     {
-      "id": "c-2041-000076-v8-004",
-      "parentId": "c-2041-000076-v8-002",
-      "timestamp": "2041-04-13T13:25:21+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-005",
+      "id": "c-2041-000076-b2m-004",
       "parentId": null,
-      "timestamp": "2041-04-13T13:26:57+09:00",
+      "timestamp": "2041-04-13T13:26:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "112.171"
       },
-      "content": "이거 답 아는사람?",
+      "content": "훈련목적 따라 다르니까 공지 장비목록 보면 됨",
       "deleted": false
     },
     {
-      "id": "c-2041-000076-v8-006",
+      "id": "c-2041-000076-b2m-005",
       "parentId": null,
-      "timestamp": "2041-04-13T13:29:10+09:00",
+      "timestamp": "2041-04-13T13:30:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "118.33"
       },
-      "content": "찾아보면 몇년전 글만 뜸",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-007",
-      "parentId": "c-2041-000076-v8-004",
-      "timestamp": "2041-04-13T13:30:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-008",
-      "parentId": "c-2041-000076-v8-004",
-      "timestamp": "2041-04-13T13:34:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-009",
-      "parentId": null,
-      "timestamp": "2041-04-13T13:38:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-010",
-      "parentId": "c-2041-000076-v8-006",
-      "timestamp": "2041-04-13T13:42:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-011",
-      "parentId": "c-2041-000076-v8-004",
-      "timestamp": "2041-04-13T13:46:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-012",
-      "parentId": "c-2041-000076-v8-007",
-      "timestamp": "2041-04-13T13:48:00+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-013",
-      "parentId": null,
-      "timestamp": "2041-04-13T13:49:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-014",
-      "parentId": null,
-      "timestamp": "2041-04-13T13:52:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-015",
-      "parentId": null,
-      "timestamp": "2041-04-13T13:54:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-016",
-      "parentId": null,
-      "timestamp": "2041-04-13T13:56:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "처음이면 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-017",
-      "parentId": "c-2041-000076-v8-012",
-      "timestamp": "2041-04-13T13:58:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-018",
-      "parentId": null,
-      "timestamp": "2041-04-13T14:00:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "이건 나도 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000076-v8-019",
-      "parentId": null,
-      "timestamp": "2041-04-13T14:03:08+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "그럴수도 있지",
+      "content": "답변 ㄳ",
       "deleted": false
     }
   ],

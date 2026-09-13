@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000013-v8-001",
+      "id": "c-2041-000013-b2m-001",
       "parentId": null,
-      "timestamp": "2041-02-20T10:33:17+09:00",
+      "timestamp": "2041-02-20T10:34:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "61.79"
       },
-      "content": "나도 답 기다림",
+      "content": "공식 발표로 A 맞음",
       "deleted": false
     },
     {
-      "id": "c-2041-000013-v8-002",
+      "id": "c-2041-000013-b2m-002",
       "parentId": null,
-      "timestamp": "2041-02-20T10:36:32+09:00",
+      "timestamp": "2041-02-20T10:36:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "14.32"
       },
-      "content": "해본사람 있냐",
+      "content": "A 확정이랑 어느길드 가는지는 별개임",
       "deleted": false
     },
     {
-      "id": "c-2041-000013-v8-003",
+      "id": "c-2041-000013-b2m-003",
+      "parentId": "c-2041-000013-b2m-001",
+      "timestamp": "2041-02-20T10:38:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "세부 능력은 아직 공개된거 많지 않음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000013-b2m-004",
       "parentId": null,
-      "timestamp": "2041-02-20T10:40:00+09:00",
+      "timestamp": "2041-02-20T10:41:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "106.101"
       },
-      "content": "처음할때 여기서 한번 막힘",
+      "content": "기사 캡처 말고 협회/길드 쪽 발표도 같이 떴음",
       "deleted": false
     },
     {
-      "id": "c-2041-000013-v8-004",
-      "parentId": "c-2041-000013-v8-001",
-      "timestamp": "2041-02-20T10:42:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-005",
-      "parentId": "c-2041-000013-v8-002",
-      "timestamp": "2041-02-20T10:45:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-006",
-      "parentId": "c-2041-000013-v8-003",
-      "timestamp": "2041-02-20T10:48:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-007",
+      "id": "c-2041-000013-b2m-005",
       "parentId": null,
-      "timestamp": "2041-02-20T10:51:12+09:00",
+      "timestamp": "2041-02-20T10:43:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "61.79"
       },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-008",
-      "parentId": "c-2041-000013-v8-006",
-      "timestamp": "2041-02-20T10:54:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-009",
-      "parentId": null,
-      "timestamp": "2041-02-20T10:57:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "처음하면 헷갈릴만하지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-010",
-      "parentId": "c-2041-000013-v8-005",
-      "timestamp": "2041-02-20T11:00:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-011",
-      "parentId": "c-2041-000013-v8-008",
-      "timestamp": "2041-02-20T11:03:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-012",
-      "parentId": null,
-      "timestamp": "2041-02-20T11:07:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-013",
-      "parentId": null,
-      "timestamp": "2041-02-20T11:09:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "처음이면 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-014",
-      "parentId": null,
-      "timestamp": "2041-02-20T11:11:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "검색결과가 죄다 옛날거임",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-015",
-      "parentId": null,
-      "timestamp": "2041-02-20T11:13:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-016",
-      "parentId": null,
-      "timestamp": "2041-02-20T11:17:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000013-v8-017",
-      "parentId": null,
-      "timestamp": "2041-02-20T11:19:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
+      "content": "ㄳ 이정도면 감옴",
       "deleted": false
     }
   ],

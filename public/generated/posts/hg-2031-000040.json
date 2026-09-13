@@ -33,75 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000040-v8-001",
+      "id": "c-2031-000040-b1-001",
       "parentId": null,
-      "timestamp": "2031-09-17T22:03:39+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "통제 풀리는 시간 나온거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000040-v8-002",
-      "parentId": null,
-      "timestamp": "2031-09-17T22:05:31+09:00",
+      "timestamp": "2031-09-17T22:07:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "58.29"
       },
-      "content": "근처면 그냥 우회하는게 답",
+      "content": "통제 풀리는 시간 공지 아직 없음?",
       "deleted": false
     },
     {
-      "id": "c-2031-000040-v8-003",
+      "id": "c-2031-000040-b1-002",
       "parentId": null,
-      "timestamp": "2031-09-17T22:08:59+09:00",
+      "timestamp": "2031-09-17T22:16:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "223.39"
       },
-      "content": "협회차량 많이 들어갔네",
+      "content": "근처에서 사진찍겠다고 붙어있지는 마라",
       "deleted": false
     },
     {
-      "id": "c-2031-000040-v8-004",
-      "parentId": "c-2031-000040-v8-002",
-      "timestamp": "2031-09-17T22:10:45+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "차끌고 구경갈 생각은 접자",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000040-v8-005",
+      "id": "c-2031-000040-b1-003",
       "parentId": null,
-      "timestamp": "2031-09-17T22:14:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "현장 구경간다고 차끌고 가는놈 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000040-v8-006",
-      "parentId": null,
-      "timestamp": "2031-09-17T22:16:36+09:00",
+      "timestamp": "2031-09-17T22:23:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "125.180"
       },
-      "content": "오전안에 풀리면 다행이고",
+      "content": "입구만 막은거면 내부 사고인지 외부 장비문제인지 아직 모르겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000040-b1-004",
+      "parentId": null,
+      "timestamp": "2031-09-17T22:35:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.39"
+      },
+      "content": "진입팀 대기시키는중이라는 글은 봄",
       "deleted": false
     }
   ],

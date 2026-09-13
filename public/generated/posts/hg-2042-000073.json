@@ -33,63 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000073-v8-001",
+      "id": "c-2042-000073-b2m-001",
       "parentId": null,
-      "timestamp": "2042-05-28T01:04:26+09:00",
+      "timestamp": "2042-05-28T01:03:29+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "짐꾼이면 현장등급 제한/후송/치료 범위부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000073-b2m-002",
+      "parentId": null,
+      "timestamp": "2042-05-28T01:07:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.44"
       },
-      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
+      "content": "일당 조금 높아도 보험 애매한팀은 난 안감",
       "deleted": false
     },
     {
-      "id": "c-2042-000073-v8-002",
+      "id": "c-2042-000073-b2m-003",
       "parentId": null,
-      "timestamp": "2042-05-28T01:06:44+09:00",
+      "timestamp": "2042-05-28T01:08:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "211.201"
       },
-      "content": "팀에서 뭘 들어주는지는 별개임",
+      "content": "구인팀이 가입시키는지 개인보험인지 먼저 확인",
       "deleted": false
     },
     {
-      "id": "c-2042-000073-v8-003",
+      "id": "c-2042-000073-b2m-004",
+      "parentId": "c-2042-000073-b2m-001",
+      "timestamp": "2042-05-28T01:12:50+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "F급이어도 B급 현장 갈수 있으면 보장등급 꼭 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000073-b2m-005",
       "parentId": null,
-      "timestamp": "2042-05-28T01:10:26+09:00",
+      "timestamp": "2042-05-28T01:14:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "211.201"
       },
-      "content": "보험사 이름보다 보장범위가 먼저임",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000073-v8-004",
-      "parentId": "c-2042-000073-v8-001",
-      "timestamp": "2042-05-28T01:14:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "보험됨 한줄로 끝내면 불안함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000073-v8-005",
-      "parentId": null,
-      "timestamp": "2042-05-28T01:16:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "보험됨 한줄만 믿지마",
+      "content": "ㅇㅋ 도움됨",
       "deleted": false
     }
   ],

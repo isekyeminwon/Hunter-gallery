@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000014-v8-001",
+      "id": "c-2032-000014-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-11T04:32:15+09:00",
+      "timestamp": "2032-05-11T04:39:25+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "조건부터 봐야됨",
+      "content": "S 따라 산다고 같은효율 나오는건 아니잖아ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2032-000014-v8-002",
+      "id": "c-2032-000014-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-11T04:34:21+09:00",
+      "timestamp": "2032-05-11T04:44:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "125.180"
       },
-      "content": "보험 있냐",
+      "content": "김채연 발표 뒤 특정계열 장비 조회수 오른건 봄",
       "deleted": false
     },
     {
-      "id": "c-2032-000014-v8-003",
+      "id": "c-2032-000014-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-11T04:38:19+09:00",
+      "timestamp": "2032-05-11T04:51:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "마법계 입문자 몰리면 저가장비가 먼저 품절날듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000014-b1-004",
+      "parentId": null,
+      "timestamp": "2032-05-11T04:55:24+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "실제 시세가 오른건지 판매글만 오른건지는 구분해야됨",
       "deleted": false
     },
     {
-      "id": "c-2032-000014-v8-004",
-      "parentId": null,
-      "timestamp": "2032-05-11T04:41:58+09:00",
+      "id": "c-2032-000014-b1-005",
+      "parentId": "c-2032-000014-b1-002",
+      "timestamp": "2032-05-11T05:06:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "39.125"
       },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000014-v8-005",
-      "parentId": null,
-      "timestamp": "2032-05-11T04:44:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000014-v8-006",
-      "parentId": "c-2032-000014-v8-002",
-      "timestamp": "2032-05-11T04:45:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000014-v8-007",
-      "parentId": "c-2032-000014-v8-001",
-      "timestamp": "2032-05-11T04:49:19+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000014-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-11T04:53:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000014-v8-009",
-      "parentId": null,
-      "timestamp": "2032-05-11T04:54:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000014-v8-010",
-      "parentId": null,
-      "timestamp": "2032-05-11T04:56:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000014-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-11T05:00:09+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000014-v8-012",
-      "parentId": null,
-      "timestamp": "2032-05-11T05:04:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㄹㅇ",
+      "content": "그건 실제 계약서/공지 봐야됨",
       "deleted": false
     }
   ],

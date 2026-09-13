@@ -33,147 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000048-v8-001",
+      "id": "c-2035-000048-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-13T18:20:53+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000048-v8-002",
-      "parentId": null,
-      "timestamp": "2035-07-13T18:23:39+09:00",
+      "timestamp": "2035-07-13T18:24:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "112.171"
       },
-      "content": "자라",
+      "content": "별하나가 S라니 공연장 사고때 생각나서 기분 묘함",
       "deleted": false
     },
     {
-      "id": "c-2035-000048-v8-003",
+      "id": "c-2035-000048-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-13T18:26:32+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000048-v8-004",
-      "parentId": "c-2035-000048-v8-003",
-      "timestamp": "2035-07-13T18:30:16+09:00",
+      "timestamp": "2035-07-13T18:31:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "106.102"
       },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "새로고침 할때마다 같은 떡밥 올라오네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000048-v8-005",
+      "id": "c-2035-000048-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-13T18:31:56+09:00",
+      "timestamp": "2035-07-13T18:38:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "175.223"
       },
-      "content": "개웃기네",
+      "content": "오늘 추천글 절반이 이거임",
       "deleted": false
     },
     {
-      "id": "c-2035-000048-v8-006",
+      "id": "c-2035-000048-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-13T18:34:02+09:00",
+      "timestamp": "2035-07-13T18:46:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "223.62"
       },
-      "content": "ㅋㅋ",
+      "content": "이정도면 하루종일 이 얘기만 하겠다",
       "deleted": false
     },
     {
-      "id": "c-2035-000048-v8-007",
-      "parentId": "c-2035-000048-v8-001",
-      "timestamp": "2035-07-13T18:37:31+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000048-v8-008",
-      "parentId": "c-2035-000048-v8-002",
-      "timestamp": "2035-07-13T18:40:16+09:00",
+      "id": "c-2035-000048-b1-005",
+      "parentId": "c-2035-000048-b1-002",
+      "timestamp": "2035-07-13T18:54:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "106.248"
       },
-      "content": "나도그럼",
+      "content": "{{con:dororong}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000048-v8-009",
+      "id": "c-2035-000048-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-13T18:41:41+09:00",
+      "timestamp": "2035-07-13T18:58:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "175.223"
       },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000048-v8-010",
-      "parentId": null,
-      "timestamp": "2035-07-13T18:43:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000048-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-13T18:46:30+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000048-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-13T18:49:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "이건 인정",
+      "content": "과거 사고영상 다시 퍼오는건 진짜 그만했으면",
       "deleted": false
     }
   ],

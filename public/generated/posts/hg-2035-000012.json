@@ -33,159 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000012-v8-001",
+      "id": "c-2035-000012-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-12T23:23:13+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000012-v8-002",
-      "parentId": null,
-      "timestamp": "2035-07-12T23:26:52+09:00",
+      "timestamp": "2035-07-12T23:27:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "211.235"
       },
-      "content": "나도그럼",
+      "content": "오늘 추천글 절반이 이거임",
       "deleted": false
     },
     {
-      "id": "c-2035-000012-v8-003",
+      "id": "c-2035-000012-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-12T23:28:52+09:00",
+      "timestamp": "2035-07-12T23:32:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "39.125"
       },
-      "content": "ㅋㅋ",
+      "content": "새로고침 할때마다 같은 떡밥 올라오네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000012-v8-004",
+      "id": "c-2035-000012-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-12T23:31:35+09:00",
+      "timestamp": "2035-07-12T23:39:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "211.234"
       },
-      "content": "이건 인정",
+      "content": "이정도면 하루종일 이 얘기만 하겠다",
       "deleted": false
     },
     {
-      "id": "c-2035-000012-v8-005",
+      "id": "c-2035-000012-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-12T23:34:04+09:00",
+      "timestamp": "2035-07-12T23:50:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "39.125"
       },
-      "content": "자라",
+      "content": "별하나가 S라니 공연장 사고때 생각나서 기분 묘함",
       "deleted": false
     },
     {
-      "id": "c-2035-000012-v8-006",
+      "id": "c-2035-000012-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-12T23:37:23+09:00",
+      "timestamp": "2035-07-12T23:55:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "211.58"
       },
-      "content": "ㄹㅇ",
+      "content": "스텔라 오늘 서버 터지겠네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000012-v8-007",
+      "id": "c-2035-000012-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-12T23:40:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000012-v8-008",
-      "parentId": null,
-      "timestamp": "2035-07-12T23:44:52+09:00",
+      "timestamp": "2035-07-13T00:03:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "211.235"
       },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000012-v8-009",
-      "parentId": "c-2035-000012-v8-002",
-      "timestamp": "2035-07-12T23:48:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000012-v8-010",
-      "parentId": null,
-      "timestamp": "2035-07-12T23:52:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000012-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-12T23:55:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000012-v8-012",
-      "parentId": "c-2035-000012-v8-005",
-      "timestamp": "2035-07-12T23:57:58+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000012-v8-013",
-      "parentId": null,
-      "timestamp": "2035-07-13T00:01:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㄹㅇ",
+      "content": "{{con:heehee}}",
       "deleted": false
     }
   ],

@@ -33,207 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000016-v8-001",
+      "id": "c-2035-000016-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T15:51:21+09:00",
+      "timestamp": "2035-07-15T15:54:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "106.250"
       },
-      "content": "영상 다보고 댓글에서 한참있음",
+      "content": "재업 말고 최초영상 어디임",
       "deleted": false
     },
     {
-      "id": "c-2035-000016-v8-002",
+      "id": "c-2035-000016-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-15T15:54:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "편집은 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-003",
-      "parentId": null,
-      "timestamp": "2035-07-15T15:58:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-004",
-      "parentId": "c-2035-000016-v8-002",
-      "timestamp": "2035-07-15T16:00:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-005",
-      "parentId": "c-2035-000016-v8-001",
       "timestamp": "2035-07-15T16:03:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "223.52"
       },
-      "content": "풀버전 있냐",
+      "content": "광고 붙는 속도 보면 미디어팀이 진짜 빠름",
       "deleted": false
     },
     {
-      "id": "c-2035-000016-v8-006",
-      "parentId": "c-2035-000016-v8-002",
-      "timestamp": "2035-07-15T16:05:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "그장면 봤음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-007",
+      "id": "c-2035-000016-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-15T16:08:29+09:00",
+      "timestamp": "2035-07-15T16:09:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "118.44"
       },
-      "content": "원본 어디임",
+      "content": "짤로만 보니까 앞뒤가 궁금함",
       "deleted": false
     },
     {
-      "id": "c-2035-000016-v8-008",
-      "parentId": "c-2035-000016-v8-006",
-      "timestamp": "2035-07-15T16:10:07+09:00",
+      "id": "c-2035-000016-b1-004",
+      "parentId": "c-2035-000016-b1-003",
+      "timestamp": "2035-07-15T16:16:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "124.53"
       },
-      "content": "원본 어디임",
+      "content": "풀버전도 보고싶음",
       "deleted": false
     },
     {
-      "id": "c-2035-000016-v8-009",
-      "parentId": "c-2035-000016-v8-007",
-      "timestamp": "2035-07-15T16:12:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "그장면 봤음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-010",
+      "id": "c-2035-000016-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-15T16:15:13+09:00",
+      "timestamp": "2035-07-15T16:24:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "106.250"
       },
-      "content": "공식채널 검색이 제일 낫겠다",
+      "content": "스텔라는 전투영상도 콘텐츠처럼 뽑는게 확실히 다름",
       "deleted": false
     },
     {
-      "id": "c-2035-000016-v8-011",
+      "id": "c-2035-000016-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-15T16:18:43+09:00",
+      "timestamp": "2035-07-15T16:34:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "124.53"
       },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-15T16:20:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-013",
-      "parentId": null,
-      "timestamp": "2035-07-15T16:24:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-014",
-      "parentId": null,
-      "timestamp": "2035-07-15T16:25:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-015",
-      "parentId": null,
-      "timestamp": "2035-07-15T16:27:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-016",
-      "parentId": null,
-      "timestamp": "2035-07-15T16:28:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000016-v8-017",
-      "parentId": "c-2035-000016-v8-011",
-      "timestamp": "2035-07-15T16:31:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "풀버전 있냐",
+      "content": "링크 있는놈 줘봐",
       "deleted": false
     }
   ],

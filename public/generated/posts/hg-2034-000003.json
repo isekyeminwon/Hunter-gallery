@@ -33,243 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000003-v8-001",
+      "id": "c-2034-000003-b1-001",
       "parentId": null,
-      "timestamp": "2034-03-10T16:30:27+09:00",
+      "timestamp": "2034-03-10T16:37:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "112.171"
       },
-      "content": "선택권부터 달라는 댓글 예상함",
+      "content": "전투력만 보면 그렇게 보는사람 많긴함",
       "deleted": false
     },
     {
-      "id": "c-2034-000003-v8-002",
+      "id": "c-2034-000003-b1-002",
       "parentId": null,
-      "timestamp": "2034-03-10T16:34:20+09:00",
+      "timestamp": "2034-03-10T16:43:40+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
       },
-      "content": "마법쪽이면 네뷸라 생각날수밖에",
+      "content": "길드층 전체 보면 S 한명으로 정리 안됨",
       "deleted": false
     },
     {
-      "id": "c-2034-000003-v8-003",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:36:22+09:00",
+      "id": "c-2034-000003-b1-003",
+      "parentId": "c-2034-000003-b1-001",
+      "timestamp": "2034-03-10T16:50:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "112.171"
       },
-      "content": "지원체계 얘기는 백호쪽 후기가 많더라",
+      "content": "네뷸라는 김채연 백호는 강주아라 단순비교 끝도없음",
       "deleted": false
     },
     {
-      "id": "c-2034-000003-v8-004",
-      "parentId": "c-2034-000003-v8-001",
-      "timestamp": "2034-03-10T16:38:33+09:00",
+      "id": "c-2034-000003-b1-004",
+      "parentId": "c-2034-000003-b1-001",
+      "timestamp": "2034-03-10T17:01:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "125.180"
       },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-005",
-      "parentId": "c-2034-000003-v8-001",
-      "timestamp": "2034-03-10T16:40:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-006",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:43:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "결론은 합격시켜주는곳 감",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-007",
-      "parentId": "c-2034-000003-v8-003",
-      "timestamp": "2034-03-10T16:46:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-008",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:49:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "방송쪽 거부감 있으면 호불호 세겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-009",
-      "parentId": "c-2034-000003-v8-002",
-      "timestamp": "2034-03-10T16:52:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-010",
-      "parentId": "c-2034-000003-v8-008",
-      "timestamp": "2034-03-10T16:54:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-011",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:56:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "입사선호랑 길드전력은 따로봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-012",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:58:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-013",
-      "parentId": null,
-      "timestamp": "2034-03-10T17:01:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "마법계면 네뷸라 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-014",
-      "parentId": null,
-      "timestamp": "2034-03-10T17:04:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "이쯤되면 본문 재확인 필요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-015",
-      "parentId": null,
-      "timestamp": "2034-03-10T17:07:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-016",
-      "parentId": null,
-      "timestamp": "2034-03-10T17:10:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-017",
-      "parentId": null,
-      "timestamp": "2034-03-10T17:13:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "결론 붙여주는곳 감",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-018",
-      "parentId": "c-2034-000003-v8-014",
-      "timestamp": "2034-03-10T17:16:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-019",
-      "parentId": null,
-      "timestamp": "2034-03-10T17:17:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000003-v8-020",
-      "parentId": null,
-      "timestamp": "2034-03-10T17:20:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "ㅅㅂ",
+      "content": "복지/사업규모까지 넣으면 또 다른 순위고",
       "deleted": false
     }
   ],

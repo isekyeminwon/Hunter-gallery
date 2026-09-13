@@ -33,507 +33,147 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000056-v8-001",
+      "id": "c-2039-000056-b2m-001",
       "parentId": null,
-      "timestamp": "2039-05-20T16:19:34+09:00",
+      "timestamp": "2039-05-20T16:21:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "175.223"
       },
-      "content": "냄새 분진 싫어서 거르는팀 많음",
+      "content": "좋은팀 잡으면 반복으로 가는 이유가 있음",
       "deleted": false
     },
     {
-      "id": "c-2039-000056-v8-002",
+      "id": "c-2039-000056-b2m-002",
       "parentId": null,
-      "timestamp": "2039-05-20T16:21:49+09:00",
+      "timestamp": "2039-05-20T16:25:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "39.7"
       },
-      "content": "정화계 없다고 무조건 못가는건 아님",
+      "content": "짐꾼인데 전투보조까지 당연히 시키는 팀은 거름",
       "deleted": false
     },
     {
-      "id": "c-2039-000056-v8-003",
-      "parentId": "c-2039-000056-v8-001",
-      "timestamp": "2039-05-20T16:24:11+09:00",
+      "id": "c-2039-000056-b2m-003",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:27:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "211.58"
       },
-      "content": "없다고 무조건 못가는건 아니고",
+      "content": "입장/철수때 누가 최종콜 하는지 알아두면 편함",
       "deleted": false
     },
     {
-      "id": "c-2039-000056-v8-004",
+      "id": "c-2039-000056-b2m-004",
+      "parentId": "c-2039-000056-b2m-001",
+      "timestamp": "2039-05-20T16:31:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "동선 겹치면 짐꾼이 제일 애매해짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000056-b2m-005",
       "parentId": null,
-      "timestamp": "2039-05-20T16:26:37+09:00",
+      "timestamp": "2039-05-20T16:34:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "보호구/소모품까지 넣으면 수익 달라짐",
+      "content": "짐꾼 동선 전투팀이랑 겹치면 바로 사고남",
       "deleted": false
     },
     {
-      "id": "c-2039-000056-v8-005",
-      "parentId": "c-2039-000056-v8-004",
-      "timestamp": "2039-05-20T16:28:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "공략권 싼데는 이유가 있을수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-006",
-      "parentId": "c-2039-000056-v8-005",
-      "timestamp": "2039-05-20T16:30:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "냄새 분진때문에 싫어하는팀 많음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-007",
+      "id": "c-2039-000056-b2m-006",
       "parentId": null,
-      "timestamp": "2039-05-20T16:32:55+09:00",
+      "timestamp": "2039-05-20T16:37:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "121.140"
       },
-      "content": "공략권 싸도 세척비에서 울수 있음",
+      "content": "첫날이면 짐무게랑 이동거리 미리 물어보는게 낫다",
       "deleted": false
     },
     {
-      "id": "c-2039-000056-v8-008",
+      "id": "c-2039-000056-b2m-007",
       "parentId": null,
-      "timestamp": "2039-05-20T16:34:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "묘지형 두번 가고 손절한놈 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-009",
-      "parentId": null,
-      "timestamp": "2039-05-20T16:36:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "정화계 있으면 편한건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-010",
-      "parentId": "c-2039-000056-v8-007",
-      "timestamp": "2039-05-20T16:37:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "세척비까지 넣으면 계산 달라짐",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-011",
-      "parentId": null,
-      "timestamp": "2039-05-20T16:39:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-012",
-      "parentId": "c-2039-000056-v8-010",
-      "timestamp": "2039-05-20T16:41:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "없다고 무조건 못가는건 아니고",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-013",
-      "parentId": null,
-      "timestamp": "2039-05-20T16:43:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-014",
-      "parentId": "c-2039-000056-v8-013",
-      "timestamp": "2039-05-20T16:46:51+09:00",
+      "timestamp": "2039-05-20T16:41:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "세척비까지 넣으면 계산 달라짐",
+      "content": "{{con:wait}}",
       "deleted": false
     },
     {
-      "id": "c-2039-000056-v8-015",
+      "id": "c-2039-000056-b2m-008",
       "parentId": null,
-      "timestamp": "2039-05-20T16:48:05+09:00",
+      "timestamp": "2039-05-20T16:44:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "211.58"
       },
-      "content": "ㅇㅇ",
+      "content": "{{con:good}}",
       "deleted": false
     },
     {
-      "id": "c-2039-000056-v8-016",
+      "id": "c-2039-000056-b2m-009",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:46:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "역할선부터 확실히 하는게 낫지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000056-b2m-010",
       "parentId": null,
       "timestamp": "2039-05-20T16:50:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "175.223"
       },
-      "content": "그건 좀",
+      "content": "짐무게 미리 안말해주는팀 진짜 피곤함",
       "deleted": false
     },
     {
-      "id": "c-2039-000056-v8-017",
+      "id": "c-2039-000056-b2m-011",
       "parentId": null,
-      "timestamp": "2039-05-20T16:53:06+09:00",
+      "timestamp": "2039-05-20T16:53:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "39.7"
       },
-      "content": "ㅇㅇ",
+      "content": "초보면 이런거 저장해놔라",
       "deleted": false
     },
     {
-      "id": "c-2039-000056-v8-018",
+      "id": "c-2039-000056-b2m-012",
       "parentId": null,
-      "timestamp": "2039-05-20T16:54:48+09:00",
+      "timestamp": "2039-05-20T16:57:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "121.140"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-019",
-      "parentId": "c-2039-000056-v8-012",
-      "timestamp": "2039-05-20T16:56:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "공략권 싼데는 이유가 있을수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-020",
-      "parentId": null,
-      "timestamp": "2039-05-20T16:58:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-021",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:01:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-022",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:04:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-023",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:07:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-024",
-      "parentId": "c-2039-000056-v8-023",
-      "timestamp": "2039-05-20T17:10:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "없다고 무조건 못가는건 아니고",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-025",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:12:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-026",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:16:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-027",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:18:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-028",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:21:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-029",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:25:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "댓글끼리 논문쓰네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-030",
-      "parentId": "c-2039-000056-v8-026",
-      "timestamp": "2039-05-20T17:26:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "세척비까지 넣으면 계산 달라짐",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-031",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:28:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-032",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:32:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-033",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:35:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-034",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:36:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-035",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:39:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-036",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:43:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-037",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:47:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-038",
-      "parentId": "c-2039-000056-v8-033",
-      "timestamp": "2039-05-20T17:51:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "공략권 싼데는 이유가 있을수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-039",
-      "parentId": "c-2039-000056-v8-034",
-      "timestamp": "2039-05-20T17:53:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "세척비까지 넣으면 계산 달라짐",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-040",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:56:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-041",
-      "parentId": null,
-      "timestamp": "2039-05-20T17:58:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000056-v8-042",
-      "parentId": null,
-      "timestamp": "2039-05-20T18:00:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "나도 비슷했음",
+      "content": "이런 정리는 저장각",
       "deleted": false
     }
   ],

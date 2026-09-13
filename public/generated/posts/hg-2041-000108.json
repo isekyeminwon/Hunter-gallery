@@ -33,213 +33,9 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000108-v8-001",
+      "id": "c-2041-000108-b2m-001",
       "parentId": null,
-      "timestamp": "2041-11-21T21:58:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "입장기록/보험/연락시간 더 빡세게 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-002",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:00:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "사람 실종된걸 괴담놀이 하는건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-003",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:03:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "강원 구인 전부 위험하다고 하는것도 오바",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-004",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:06:05+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "실종건 전부 같은원인이라는건 확인된거 없음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-005",
-      "parentId": "c-2041-000108-v8-003",
-      "timestamp": "2041-11-21T22:07:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "범인특정글은 거르는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-006",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:09:43+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "범인 특정글은 거르는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-007",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:11:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-008",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:13:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-009",
-      "parentId": "c-2041-000108-v8-004",
-      "timestamp": "2041-11-21T22:16:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "강원 구인 전부 위험하다는것도 오바",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-010",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:19:13+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-011",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:20:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-012",
-      "parentId": "c-2041-000108-v8-005",
-      "timestamp": "2041-11-21T22:24:10+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "현장가면 기록/보험 더 잘봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-013",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:27:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-014",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:31:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "저등급=무사고 보증은 아니지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-015",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:34:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "댓글끼리 논문쓰네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-016",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:36:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-017",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:40:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "비슷하게 해본놈 더없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000108-v8-018",
-      "parentId": null,
-      "timestamp": "2041-11-21T22:42:23+09:00",
+      "timestamp": "2041-11-21T21:58:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
@@ -249,27 +45,63 @@
       "deleted": false
     },
     {
-      "id": "c-2041-000108-v8-019",
+      "id": "c-2041-000108-b2m-002",
       "parentId": null,
-      "timestamp": "2041-11-21T22:43:57+09:00",
+      "timestamp": "2041-11-21T22:01:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "175.194"
       },
-      "content": "그건 좀",
+      "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "c-2041-000108-v8-020",
+      "id": "c-2041-000108-b2m-003",
       "parentId": null,
-      "timestamp": "2041-11-21T22:46:32+09:00",
+      "timestamp": "2041-11-21T22:03:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "125.180"
       },
-      "content": "나도 비슷했음",
+      "content": "나도그럼",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000108-b2m-004",
+      "parentId": null,
+      "timestamp": "2041-11-21T22:05:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "{{con:sad}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000108-b2m-005",
+      "parentId": "c-2041-000108-b2m-003",
+      "timestamp": "2041-11-21T22:08:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "개웃기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000108-b2m-006",
+      "parentId": null,
+      "timestamp": "2041-11-21T22:11:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "자라",
       "deleted": false
     }
   ],

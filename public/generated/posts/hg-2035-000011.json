@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000011-v8-001",
+      "id": "c-2035-000011-b1-001",
       "parentId": null,
-      "timestamp": "2035-06-22T11:18:42+09:00",
+      "timestamp": "2035-06-22T11:26:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "223.38"
       },
-      "content": "옛날 사본 찾지말고 재발급해ㅋㅋ",
+      "content": "옛날 사본 찾느라 고생말고 재발급하는게 빠름",
       "deleted": false
     },
     {
-      "id": "c-2035-000011-v8-002",
+      "id": "c-2035-000011-b1-002",
       "parentId": null,
-      "timestamp": "2035-06-22T11:20:39+09:00",
+      "timestamp": "2035-06-22T11:33:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "223.38"
       },
-      "content": "측정소나 민원쪽에서 재발급 가능할걸",
+      "content": "온라인 출력 되는 지역도 있다던데",
       "deleted": false
     },
     {
-      "id": "c-2035-000011-v8-003",
+      "id": "c-2035-000011-b1-003",
       "parentId": null,
-      "timestamp": "2035-06-22T11:24:33+09:00",
+      "timestamp": "2035-06-22T11:39:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "211.58"
       },
-      "content": "본인인증하고 출력했던 기억남",
+      "content": "본인인증 수단 챙겨가",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000011-b1-004",
+      "parentId": null,
+      "timestamp": "2035-06-22T11:46:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "등록했던 측정소나 민원창구에서 재발급 가능할걸",
       "deleted": false
     }
   ],

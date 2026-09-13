@@ -33,39 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000047-v8-001",
+      "id": "c-2034-000047-b1-001",
       "parentId": null,
-      "timestamp": "2034-08-07T14:16:16+09:00",
+      "timestamp": "2034-08-07T14:21:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "211.58"
       },
-      "content": "신고해본사람 있음?",
+      "content": "본인동의 없으면 굳이 공개할 이유가 없지",
       "deleted": false
     },
     {
-      "id": "c-2034-000047-v8-002",
+      "id": "c-2034-000047-b1-002",
       "parentId": null,
-      "timestamp": "2034-08-07T14:18:15+09:00",
+      "timestamp": "2034-08-07T14:31:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "61.79"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000047-v8-003",
-      "parentId": null,
-      "timestamp": "2034-08-07T14:19:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "그 조항 아직 그대로임?",
+      "content": "모자이크 하고 올려",
       "deleted": false
     }
   ],

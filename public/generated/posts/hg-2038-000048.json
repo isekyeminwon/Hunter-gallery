@@ -33,87 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000048-v8-001",
+      "id": "c-2038-000048-b2m-001",
       "parentId": null,
-      "timestamp": "2038-06-25T23:30:37+09:00",
+      "timestamp": "2038-06-25T23:30:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "조건 하나만 달라도 체감 달라질수 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000048-b2m-002",
+      "parentId": null,
+      "timestamp": "2038-06-25T23:33:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.41"
       },
-      "content": "상성 얘기 시작하면 2차전임",
+      "content": "본문 조건이면 경험자 답 하나 더 보고싶네",
       "deleted": false
     },
     {
-      "id": "c-2038-000048-v8-002",
+      "id": "c-2038-000048-b2m-003",
       "parentId": null,
-      "timestamp": "2038-06-25T23:33:53+09:00",
+      "timestamp": "2038-06-25T23:35:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "{{con:Intelligence}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000048-b2m-004",
+      "parentId": null,
+      "timestamp": "2038-06-25T23:39:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "220.79"
       },
-      "content": "랭킹충들 출근했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000048-v8-003",
-      "parentId": null,
-      "timestamp": "2038-06-25T23:37:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "A 평범취급은 갤에서만 가능",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000048-v8-004",
-      "parentId": "c-2038-000048-v8-001",
-      "timestamp": "2038-06-25T23:40:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000048-v8-005",
-      "parentId": null,
-      "timestamp": "2038-06-25T23:43:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "비공식표인데 협회문서처럼 만들었네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000048-v8-006",
-      "parentId": null,
-      "timestamp": "2038-06-25T23:45:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "이런표는 만든사람 팬심이 반임",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000048-v8-007",
-      "parentId": null,
-      "timestamp": "2038-06-25T23:48:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이 떡밥은 안죽네ㅋㅋ",
+      "content": "이건 실제 해본사람 얘기가 제일 도움될듯",
       "deleted": false
     }
   ],

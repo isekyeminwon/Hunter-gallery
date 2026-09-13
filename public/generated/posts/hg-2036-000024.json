@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000024-v8-001",
+      "id": "c-2036-000024-b1-001",
       "parentId": null,
-      "timestamp": "2036-11-19T11:28:50+09:00",
+      "timestamp": "2036-11-19T11:33:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "175.214"
       },
-      "content": "후송/치료 범위도 봐야됨",
+      "content": "가입 자체는 겹칠수 있어도 실제 보상방식은 약관 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2036-000024-v8-002",
+      "id": "c-2036-000024-b1-002",
       "parentId": null,
-      "timestamp": "2036-11-19T11:31:06+09:00",
+      "timestamp": "2036-11-19T11:38:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "106.101"
       },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "content": "팀보험 있다고 개인거 무조건 의미없는건 아님",
       "deleted": false
     }
   ],

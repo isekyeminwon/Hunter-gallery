@@ -33,99 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000080-pilot001",
+      "id": "c-2042-000080-b2m-001",
       "parentId": null,
-      "timestamp": "2042-05-31T07:27:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "C급 이상 등록헌터가 국가재난급 상황에서 대상 될 수 있음. 평소 게이트마다 부르는거 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000080-pilot002",
-      "parentId": null,
-      "timestamp": "2042-05-31T07:28:38+09:00",
+      "timestamp": "2042-05-31T07:29:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "106.250"
       },
-      "content": "C면 바로 끌려가는줄 알았네",
+      "content": "C급 이상이 국가재난급에서 대상될수 있다는거지 평소마다 끌려가는거 아님",
       "deleted": false
     },
     {
-      "id": "c-2042-000080-pilot003",
-      "parentId": "c-2042-000080-pilot002",
-      "timestamp": "2042-05-31T07:29:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "민간/길드/협회 전력으로 해결 안되는 급에서 나오는 얘기임",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000080-pilot004",
+      "id": "c-2042-000080-b2m-002",
       "parentId": null,
-      "timestamp": "2042-05-31T07:30:04+09:00",
+      "timestamp": "2042-05-31T07:31:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "211.58"
       },
-      "content": "S도 대상임?",
+      "content": "부상/임무중 같은 사정은 당연히 개별판단 들어가겠지",
       "deleted": false
     },
     {
-      "id": "c-2042-000080-pilot005",
-      "parentId": "c-2042-000080-pilot004",
-      "timestamp": "2042-05-31T07:31:01+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "법 바깥에 있는건 아님. 실제 운용이 똑같냐는건 별개고",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000080-pilot006",
+      "id": "c-2042-000080-b2m-003",
       "parentId": null,
-      "timestamp": "2042-05-31T07:31:44+09:00",
+      "timestamp": "2042-05-31T07:33:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "106.250"
       },
-      "content": "거부하면 몇년임",
+      "content": "{{con:forwhat}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000080-pilot007",
-      "parentId": "c-2042-000080-pilot006",
-      "timestamp": "2042-05-31T07:33:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "숫자 박는 댓글 거르셈. 상황/조항 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000080-pilot008",
-      "parentId": null,
-      "timestamp": "2042-05-31T07:35:16+09:00",
+      "id": "c-2042-000080-b2m-004",
+      "parentId": "c-2042-000080-b2m-002",
+      "timestamp": "2042-05-31T07:35:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "211.58"
       },
-      "content": "ㅇㅋ",
+      "content": "평소마다 끌려가는 제도는 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000080-b2m-005",
+      "parentId": "c-2042-000080-b2m-004",
+      "timestamp": "2042-05-31T07:39:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "S라고 법밖인건 아니고",
       "deleted": false
     }
   ],

@@ -33,183 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000022-v8-001",
+      "id": "c-2032-000022-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-14T17:14:53+09:00",
+      "timestamp": "2032-05-14T17:20:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "118.235"
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "팬심으로 지원했다 면접에서 컷당할듯ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2032-000022-v8-002",
+      "id": "c-2032-000022-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-14T17:17:09+09:00",
+      "timestamp": "2032-05-14T17:30:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "121.140"
       },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "content": "마법계 교육이미지 원래도 강했는데 더쎄짐",
       "deleted": false
     },
     {
-      "id": "c-2032-000022-v8-003",
-      "parentId": "c-2032-000022-v8-001",
-      "timestamp": "2032-05-14T17:20:02+09:00",
+      "id": "c-2032-000022-b1-003",
+      "parentId": "c-2032-000022-b1-001",
+      "timestamp": "2032-05-14T17:40:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "121.163"
       },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-004",
-      "parentId": null,
-      "timestamp": "2032-05-14T17:23:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-005",
-      "parentId": "c-2032-000022-v8-003",
-      "timestamp": "2032-05-14T17:27:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-006",
-      "parentId": null,
-      "timestamp": "2032-05-14T17:30:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "계약주체 누구임",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-007",
-      "parentId": null,
-      "timestamp": "2032-05-14T17:32:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-14T17:34:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-009",
-      "parentId": "c-2032-000022-v8-008",
-      "timestamp": "2032-05-14T17:36:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-010",
-      "parentId": null,
-      "timestamp": "2032-05-14T17:39:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-14T17:42:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-012",
-      "parentId": "c-2032-000022-v8-006",
-      "timestamp": "2032-05-14T17:45:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-013",
-      "parentId": null,
-      "timestamp": "2032-05-14T17:49:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-014",
-      "parentId": null,
-      "timestamp": "2032-05-14T17:50:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000022-v8-015",
-      "parentId": null,
-      "timestamp": "2032-05-14T17:53:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "보험 있냐",
+      "content": "지원자 많아도 채용컷이 갑자기 내려가진 않겠지",
       "deleted": false
     }
   ],

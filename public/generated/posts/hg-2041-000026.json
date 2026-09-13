@@ -33,51 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000026-v8-001",
+      "id": "c-2041-000026-b2m-001",
       "parentId": null,
-      "timestamp": "2041-01-24T21:05:38+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "방수는 현장타는데 젖는곳 한번가면 찾게됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000026-v8-002",
-      "parentId": null,
-      "timestamp": "2041-01-24T21:08:51+09:00",
+      "timestamp": "2041-01-24T21:03:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "182.214"
       },
-      "content": "바닥 안미끄럽고 발목 잡히는거",
+      "content": "새신발 신고가지마 발부터 죽음",
       "deleted": false
     },
     {
-      "id": "c-2041-000026-v8-003",
-      "parentId": "c-2041-000026-v8-001",
-      "timestamp": "2041-01-24T21:10:53+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000026-v8-004",
+      "id": "c-2041-000026-b2m-002",
       "parentId": null,
-      "timestamp": "2041-01-24T21:12:35+09:00",
+      "timestamp": "2041-01-24T21:06:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "211.202"
       },
-      "content": "양말 여분 챙겨라 은근 큼",
+      "content": "이미 발에 길든게 첫날엔 제일 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000026-b2m-003",
+      "parentId": null,
+      "timestamp": "2041-01-24T21:09:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "바닥 안미끄럽고 발목 잡히는거. 팀 규격 있으면 그거 우선",
       "deleted": false
     }
   ],

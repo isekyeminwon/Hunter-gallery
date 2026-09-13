@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000008-v8-001",
+      "id": "c-2031-000008-b1-001",
       "parentId": null,
-      "timestamp": "2031-06-13T15:43:23+09:00",
+      "timestamp": "2031-06-13T15:52:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "223.62"
       },
-      "content": "첫번엔 나도 잘못알았음",
+      "content": "공식 발표문 번역본 올라온거 있으면 그거보셈",
       "deleted": false
     },
     {
-      "id": "c-2031-000008-v8-002",
+      "id": "c-2031-000008-b1-002",
       "parentId": null,
-      "timestamp": "2031-06-13T15:47:21+09:00",
+      "timestamp": "2031-06-13T16:01:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "211.201"
       },
-      "content": "최신 후기 찾기가 더힘듦",
+      "content": "팬번역이 빠르긴한데 해석은 갈릴수 있음",
       "deleted": false
     },
     {
-      "id": "c-2031-000008-v8-003",
+      "id": "c-2031-000008-b1-003",
       "parentId": null,
-      "timestamp": "2031-06-13T15:49:49+09:00",
+      "timestamp": "2031-06-13T16:10:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "223.62"
       },
-      "content": "이건 첫번엔 잘모름",
+      "content": "자동번역 돌린 기사들이 능력명부터 다 다름ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2031-000008-v8-004",
-      "parentId": "c-2031-000008-v8-001",
-      "timestamp": "2031-06-13T15:53:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-005",
+      "id": "c-2031-000008-b1-004",
       "parentId": null,
-      "timestamp": "2031-06-13T15:57:02+09:00",
+      "timestamp": "2031-06-13T16:20:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "211.201"
       },
-      "content": "이건 나도 모르겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-006",
-      "parentId": "c-2031-000008-v8-004",
-      "timestamp": "2031-06-13T15:58:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-007",
-      "parentId": null,
-      "timestamp": "2031-06-13T16:02:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-008",
-      "parentId": null,
-      "timestamp": "2031-06-13T16:05:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-009",
-      "parentId": "c-2031-000008-v8-002",
-      "timestamp": "2031-06-13T16:07:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-010",
-      "parentId": null,
-      "timestamp": "2031-06-13T16:09:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-011",
-      "parentId": null,
-      "timestamp": "2031-06-13T16:13:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "처음이면 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-012",
-      "parentId": null,
-      "timestamp": "2031-06-13T16:15:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-013",
-      "parentId": "c-2031-000008-v8-012",
-      "timestamp": "2031-06-13T16:18:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-014",
-      "parentId": "c-2031-000008-v8-013",
-      "timestamp": "2031-06-13T16:20:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-015",
-      "parentId": null,
-      "timestamp": "2031-06-13T16:23:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-016",
-      "parentId": "c-2031-000008-v8-009",
-      "timestamp": "2031-06-13T16:26:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-017",
-      "parentId": null,
-      "timestamp": "2031-06-13T16:29:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000008-v8-018",
-      "parentId": null,
-      "timestamp": "2031-06-13T16:32:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "그건맞음",
+      "content": "원문 한자 그대로 두고 비교하는게 낫겠다",
       "deleted": false
     }
   ],

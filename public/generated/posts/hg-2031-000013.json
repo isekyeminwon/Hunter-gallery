@@ -33,231 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000013-v8-001",
+      "id": "c-2031-000013-b1-001",
       "parentId": null,
-      "timestamp": "2031-06-17T23:46:06+09:00",
+      "timestamp": "2031-06-17T23:52:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "211.202"
       },
-      "content": "당해보면 왜 적었는지 앎",
+      "content": "해외 S 기준이 우리랑 완전히 같은지도 궁금함",
       "deleted": false
     },
     {
-      "id": "c-2031-000013-v8-002",
+      "id": "c-2031-000013-b1-002",
       "parentId": null,
-      "timestamp": "2031-06-17T23:48:11+09:00",
+      "timestamp": "2031-06-18T00:00:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "175.214"
       },
-      "content": "정성추",
+      "content": "파티원들도 같이 잘하는데 S만 보는건 좀 아깝네",
       "deleted": false
     },
     {
-      "id": "c-2031-000013-v8-003",
-      "parentId": "c-2031-000013-v8-001",
-      "timestamp": "2031-06-17T23:50:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-004",
+      "id": "c-2031-000013-b1-003",
       "parentId": null,
-      "timestamp": "2031-06-17T23:54:36+09:00",
+      "timestamp": "2031-06-18T00:10:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "39.7"
       },
-      "content": "입구에서라도 맞추고 들어가",
+      "content": "중국 기사 번역이 제각각이라 원문 보는사람 필요함",
       "deleted": false
     },
     {
-      "id": "c-2031-000013-v8-005",
-      "parentId": "c-2031-000013-v8-001",
-      "timestamp": "2031-06-17T23:56:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-006",
+      "id": "c-2031-000013-b1-004",
       "parentId": null,
-      "timestamp": "2031-06-17T23:57:57+09:00",
+      "timestamp": "2031-06-18T00:17:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "175.214"
       },
-      "content": "화려한 공략보다 이게 초보한텐 나음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-007",
-      "parentId": null,
-      "timestamp": "2031-06-18T00:00:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "우리쪽은 방식이 살짝 다름",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-008",
-      "parentId": "c-2031-000013-v8-005",
-      "timestamp": "2031-06-18T00:03:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-009",
-      "parentId": "c-2031-000013-v8-002",
-      "timestamp": "2031-06-18T00:05:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-010",
-      "parentId": "c-2031-000013-v8-004",
-      "timestamp": "2031-06-18T00:08:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-011",
-      "parentId": "c-2031-000013-v8-009",
-      "timestamp": "2031-06-18T00:11:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-012",
-      "parentId": null,
-      "timestamp": "2031-06-18T00:14:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-013",
-      "parentId": null,
-      "timestamp": "2031-06-18T00:18:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-014",
-      "parentId": null,
-      "timestamp": "2031-06-18T00:20:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-015",
-      "parentId": "c-2031-000013-v8-009",
-      "timestamp": "2031-06-18T00:22:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-016",
-      "parentId": null,
-      "timestamp": "2031-06-18T00:25:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "다른사람은 어땠음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-017",
-      "parentId": null,
-      "timestamp": "2031-06-18T00:27:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-018",
-      "parentId": null,
-      "timestamp": "2031-06-18T00:29:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "체크리스트로 저장해둔다",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000013-v8-019",
-      "parentId": "c-2031-000013-v8-014",
-      "timestamp": "2031-06-18T00:33:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
+      "content": "국적 가지고 전투력 싸움하는건 벌써 지겹다ㅋㅋ",
       "deleted": false
     }
   ],

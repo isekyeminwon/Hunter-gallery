@@ -33,15 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000036-v8-001",
+      "id": "c-2032-000036-b1-001",
       "parentId": null,
-      "timestamp": "2032-01-05T04:31:40+09:00",
+      "timestamp": "2032-01-05T04:33:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "106.101"
       },
-      "content": "후송/치료 범위도 봐야됨",
+      "content": "일당 조금 더 받는것보다 후송/치료 보장이 중요할때 있음",
       "deleted": false
     }
   ],

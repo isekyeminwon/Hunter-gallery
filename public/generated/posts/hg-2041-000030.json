@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000030-v8-001",
+      "id": "c-2041-000030-b2m-001",
       "parentId": null,
-      "timestamp": "2041-03-06T17:04:43+09:00",
+      "timestamp": "2041-03-06T17:03:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "118.41"
       },
-      "content": "보험 있냐",
+      "content": "소모품 포함인지 별도인지 꼭 확인",
       "deleted": false
     },
     {
-      "id": "c-2041-000030-v8-002",
+      "id": "c-2041-000030-b2m-002",
       "parentId": null,
-      "timestamp": "2041-03-06T17:07:38+09:00",
+      "timestamp": "2041-03-06T17:07:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "223.52"
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "중도해지 위약금도 봐라 싸다고 묶었다가 못나옴",
       "deleted": false
     }
   ],

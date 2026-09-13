@@ -33,279 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000044-v8-001",
+      "id": "c-2033-000044-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-19T02:55:47+09:00",
+      "timestamp": "2033-09-19T03:04:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "39.125"
       },
-      "content": "이건 한번 터지면 평생 챙김",
+      "content": "저걸 S랑 같은 칸에 넣긴 좀 그렇다",
       "deleted": false
     },
     {
-      "id": "c-2033-000044-v8-002",
+      "id": "c-2033-000044-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-19T02:57:20+09:00",
+      "timestamp": "2033-09-19T03:13:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "112.171"
       },
-      "content": "이건 사전에 맞춰놔야지",
+      "content": "기존 최고등급 위를 새로 팠다는게 제일 큼",
       "deleted": false
     },
     {
-      "id": "c-2033-000044-v8-003",
-      "parentId": "c-2033-000044-v8-002",
-      "timestamp": "2033-09-19T02:58:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-004",
-      "parentId": "c-2033-000044-v8-002",
-      "timestamp": "2033-09-19T03:01:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-005",
+      "id": "c-2033-000044-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-19T03:02:58+09:00",
+      "timestamp": "2033-09-19T03:17:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "39.125"
       },
-      "content": "이런게 실제로 도움됨",
+      "content": "누가 지었는지 몰라도 검신은 잘붙였음",
       "deleted": false
     },
     {
-      "id": "c-2033-000044-v8-006",
-      "parentId": "c-2033-000044-v8-003",
-      "timestamp": "2033-09-19T03:04:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-007",
-      "parentId": "c-2033-000044-v8-001",
-      "timestamp": "2033-09-19T03:06:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-008",
-      "parentId": "c-2033-000044-v8-003",
-      "timestamp": "2033-09-19T03:08:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-009",
-      "parentId": "c-2033-000044-v8-003",
-      "timestamp": "2033-09-19T03:12:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-010",
+      "id": "c-2033-000044-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-19T03:14:27+09:00",
+      "timestamp": "2033-09-19T03:24:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "14.32"
       },
-      "content": "입장전에 맞춰두는게 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-19T03:17:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-012",
-      "parentId": null,
-      "timestamp": "2033-09-19T03:21:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "팀마다 이부분은 좀 갈리더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-013",
-      "parentId": null,
-      "timestamp": "2033-09-19T03:25:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "다음 현장전에 한번 더봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-014",
-      "parentId": null,
-      "timestamp": "2033-09-19T03:27:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-015",
-      "parentId": null,
-      "timestamp": "2033-09-19T03:29:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-016",
-      "parentId": "c-2033-000044-v8-013",
-      "timestamp": "2033-09-19T03:31:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-017",
-      "parentId": "c-2033-000044-v8-016",
-      "timestamp": "2033-09-19T03:33:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-018",
-      "parentId": "c-2033-000044-v8-011",
-      "timestamp": "2033-09-19T03:36:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-019",
-      "parentId": "c-2033-000044-v8-016",
-      "timestamp": "2033-09-19T03:40:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-020",
-      "parentId": null,
-      "timestamp": "2033-09-19T03:43:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "다른사람은 어땠음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-021",
-      "parentId": "c-2033-000044-v8-015",
-      "timestamp": "2033-09-19T03:44:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-022",
-      "parentId": "c-2033-000044-v8-020",
-      "timestamp": "2033-09-19T03:48:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000044-v8-023",
-      "parentId": null,
-      "timestamp": "2033-09-19T03:52:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㅇㅇ",
+      "content": "SS를 S 몇명으로 환산하는건 의미없지 않냐",
       "deleted": false
     }
   ],

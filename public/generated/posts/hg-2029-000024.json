@@ -33,111 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000024-v8-001",
+      "id": "c-2029-000024-b1-001",
       "parentId": null,
-      "timestamp": "2029-01-15T06:52:58+09:00",
+      "timestamp": "2029-01-15T06:57:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "223.33"
       },
-      "content": "내최애 1위 넣으면 끝",
+      "content": "또 순위표 만들었네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2029-000024-v8-002",
+      "id": "c-2029-000024-b1-002",
       "parentId": null,
-      "timestamp": "2029-01-15T06:54:43+09:00",
+      "timestamp": "2029-01-15T07:03:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "211.235"
       },
-      "content": "이 떡밥 다음주에 또 올라옴",
+      "content": "실적이랑 팬심이랑 섞여서 답없음",
       "deleted": false
     },
     {
-      "id": "c-2029-000024-v8-003",
-      "parentId": null,
-      "timestamp": "2029-01-15T06:57:36+09:00",
+      "id": "c-2029-000024-b1-003",
+      "parentId": "c-2029-000024-b1-002",
+      "timestamp": "2029-01-15T07:15:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "211.234"
       },
-      "content": "요즘 A를 너무 쉽게 말함",
+      "content": "상성 얘기 시작하면 끝도없음",
       "deleted": false
     },
     {
-      "id": "c-2029-000024-v8-004",
+      "id": "c-2029-000024-b1-004",
       "parentId": null,
-      "timestamp": "2029-01-15T06:59:19+09:00",
+      "timestamp": "2029-01-15T07:20:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "223.33"
       },
-      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
+      "content": "내최애 1위 넣으면 끝나는 문제",
       "deleted": false
     },
     {
-      "id": "c-2029-000024-v8-005",
-      "parentId": "c-2029-000024-v8-001",
-      "timestamp": "2029-01-15T07:01:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000024-v8-006",
+      "id": "c-2029-000024-b1-005",
       "parentId": null,
-      "timestamp": "2029-01-15T07:03:41+09:00",
+      "timestamp": "2029-01-15T07:28:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "211.235"
       },
-      "content": "상성 넣으면 표 다시짜야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000024-v8-007",
-      "parentId": null,
-      "timestamp": "2029-01-15T07:06:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "또 줄세우기 시작했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000024-v8-008",
-      "parentId": null,
-      "timestamp": "2029-01-15T07:09:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000024-v8-009",
-      "parentId": null,
-      "timestamp": "2029-01-15T07:12:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "이거 경험자 하나만 더 와봐",
+      "content": "비공식인데 디자인은 공식문서급임",
       "deleted": false
     }
   ],

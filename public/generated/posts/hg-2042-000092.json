@@ -33,51 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000092-v8-001",
+      "id": "c-2042-000092-b2m-001",
       "parentId": null,
-      "timestamp": "2042-07-15T20:24:13+09:00",
+      "timestamp": "2042-07-15T20:22:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "223.38"
       },
-      "content": "네시간 늘어지면 한병 차이가 존나 큼",
+      "content": "예상시간보다 넉넉하게 챙김. 두시간 늘어지는게 흔함",
       "deleted": false
     },
     {
-      "id": "c-2042-000092-v8-002",
+      "id": "c-2042-000092-b2m-002",
       "parentId": null,
-      "timestamp": "2042-07-15T20:25:49+09:00",
+      "timestamp": "2042-07-15T20:25:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "124.53"
       },
-      "content": "물 아끼지마 진짜",
+      "content": "공용물 있어도 개인분 따로 잡는게 마음편함",
       "deleted": false
     },
     {
-      "id": "c-2042-000092-v8-003",
-      "parentId": "c-2042-000092-v8-002",
-      "timestamp": "2042-07-15T20:28:38+09:00",
+      "id": "c-2042-000092-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-07-15T20:27:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "118.44"
       },
-      "content": "여름이면 더챙겨야됨",
+      "content": "남는게 모자라는거보다 백배낫다",
       "deleted": false
     },
     {
-      "id": "c-2042-000092-v8-004",
-      "parentId": "c-2042-000092-v8-003",
-      "timestamp": "2042-07-15T20:30:30+09:00",
+      "id": "c-2042-000092-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-07-15T20:30:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "124.53"
       },
-      "content": "늘어지면 한병 차이 바로 체감함",
+      "content": "물만 말고 염분 보충할거도 조금 챙겨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000092-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-07-15T20:32:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "정성추",
       "deleted": false
     }
   ],

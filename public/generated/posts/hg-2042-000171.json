@@ -33,75 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000171-v8-001",
+      "id": "c-2042-000171-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-17T05:55:55+09:00",
+      "timestamp": "2042-09-17T05:57:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "211.234"
       },
-      "content": "한성 복지후기는 상대적으로 덜보이긴함",
+      "content": "전력 간판만 보면 한성이 워낙 세긴함",
       "deleted": false
     },
     {
-      "id": "c-2042-000171-v8-002",
+      "id": "c-2042-000171-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T05:57:54+09:00",
+      "timestamp": "2042-09-17T06:00:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "118.235"
       },
-      "content": "취업이랑 누가세냐는 다른문제지",
+      "content": "헌터활동이랑 콘텐츠 붙는거 싫으면 스텔라 안맞을듯",
       "deleted": false
     },
     {
-      "id": "c-2042-000171-v8-003",
-      "parentId": "c-2042-000171-v8-001",
-      "timestamp": "2042-09-17T06:01:02+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000171-v8-004",
+      "id": "c-2042-000171-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-17T06:02:38+09:00",
+      "timestamp": "2042-09-17T06:03:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "211.234"
       },
-      "content": "복지만 보면 백호 쪽 손드는 사람 많지",
+      "content": "{{con:kwah}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000171-v8-005",
+      "id": "c-2042-000171-b2m-004",
       "parentId": null,
-      "timestamp": "2042-09-17T06:05:07+09:00",
+      "timestamp": "2042-09-17T06:05:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "175.223"
       },
-      "content": "네뷸라는 교육을 복지로 치냐에서 갈릴듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000171-v8-006",
-      "parentId": null,
-      "timestamp": "2042-09-17T06:07:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "백호는 장비지원 이미지가 확실하긴함",
+      "content": "길드 간판 같아도 파티 운영은 다를수 있음",
       "deleted": false
     }
   ],

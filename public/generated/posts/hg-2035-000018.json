@@ -33,219 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000018-v8-001",
+      "id": "c-2035-000018-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T15:14:05+09:00",
+      "timestamp": "2035-07-15T15:22:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "211.201"
       },
-      "content": "정성추",
+      "content": "버클 하나 나가면 현장서 진짜 짜증남",
       "deleted": false
     },
     {
-      "id": "c-2035-000018-v8-002",
+      "id": "c-2035-000018-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-15T15:15:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-003",
-      "parentId": null,
-      "timestamp": "2035-07-15T15:17:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "우린 저부분만 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-004",
-      "parentId": "c-2035-000018-v8-003",
-      "timestamp": "2035-07-15T15:20:29+09:00",
+      "timestamp": "2035-07-15T15:32:14+09:00",
       "author": {
         "type": "fixed",
-        "name": "계약서읽자",
+        "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "우리팀은 이부분 조금 다르게함",
+      "content": "수요 몰릴때 렌탈상태 더 잘봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2035-000018-v8-005",
+      "id": "c-2035-000018-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-15T15:23:41+09:00",
+      "timestamp": "2035-07-15T15:37:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "106.245"
       },
-      "content": "출발전에 정해두는게 편함",
+      "content": "{{con:dororong}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000018-v8-006",
+      "id": "c-2035-000018-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-15T15:26:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "뉴비면 이런거부터 읽는게 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-007",
-      "parentId": null,
-      "timestamp": "2035-07-15T15:29:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "다음 현장전에 한번 더봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-008",
-      "parentId": null,
-      "timestamp": "2035-07-15T15:31:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이건 한번 터지면 평생 챙김",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-009",
-      "parentId": null,
-      "timestamp": "2035-07-15T15:35:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-010",
-      "parentId": null,
-      "timestamp": "2035-07-15T15:37:01+09:00",
+      "timestamp": "2035-07-15T15:48:29+09:00",
       "author": {
         "type": "fixed",
-        "name": "계약서읽자",
+        "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "나만 이렇게 하는건가",
+      "content": "광고 붙는 속도 보면 미디어팀이 진짜 빠름",
       "deleted": false
     },
     {
-      "id": "c-2035-000018-v8-011",
+      "id": "c-2035-000018-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-15T15:38:27+09:00",
+      "timestamp": "2035-07-15T15:58:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "106.245"
       },
-      "content": "정성추",
+      "content": "영상 프레임만 보고 실전공략 따라하면 안되는건 맞음",
       "deleted": false
     },
     {
-      "id": "c-2035-000018-v8-012",
+      "id": "c-2035-000018-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-15T15:41:50+09:00",
+      "timestamp": "2035-07-15T16:06:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "211.201"
       },
-      "content": "뉴비한텐 이런글이 더 도움됨",
+      "content": "처음쓰는 장비는 훈련장에서 한번 굴려봐",
       "deleted": false
     },
     {
-      "id": "c-2035-000018-v8-013",
-      "parentId": "c-2035-000018-v8-012",
-      "timestamp": "2035-07-15T15:44:40+09:00",
+      "id": "c-2035-000018-b1-007",
+      "parentId": "c-2035-000018-b1-001",
+      "timestamp": "2035-07-15T16:17:32+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-014",
-      "parentId": "c-2035-000018-v8-011",
-      "timestamp": "2035-07-15T15:46:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-015",
-      "parentId": "c-2035-000018-v8-008",
-      "timestamp": "2035-07-15T15:47:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-016",
-      "parentId": "c-2035-000018-v8-012",
-      "timestamp": "2035-07-15T15:51:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-017",
-      "parentId": null,
-      "timestamp": "2035-07-15T15:53:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000018-v8-018",
-      "parentId": null,
-      "timestamp": "2035-07-15T15:56:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "개웃김",
+      "content": "예비배터리도 꼭 켜봐",
       "deleted": false
     }
   ],

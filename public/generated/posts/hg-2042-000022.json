@@ -33,87 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000022-v8-001",
+      "id": "c-2042-000022-b2m-001",
       "parentId": null,
-      "timestamp": "2042-01-23T22:15:29+09:00",
+      "timestamp": "2042-01-23T22:14:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "124.53"
       },
-      "content": "한번 데이면 다음부턴 자동으로 봄",
+      "content": "게이트 구조보다 누가 무슨콜 할지가 더 중요할때 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000022-v8-002",
+      "id": "c-2042-000022-b2m-002",
       "parentId": null,
-      "timestamp": "2042-01-23T22:16:57+09:00",
+      "timestamp": "2042-01-23T22:16:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "182.214"
       },
-      "content": "초보는 이런글이 더 필요함",
+      "content": "짧게 하더라도 비상시 집결지 하나는 정해",
       "deleted": false
     },
     {
-      "id": "c-2042-000022-v8-003",
+      "id": "c-2042-000022-b2m-003",
       "parentId": null,
-      "timestamp": "2042-01-23T22:19:07+09:00",
+      "timestamp": "2042-01-23T22:18:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "182.214"
       },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000022-v8-004",
-      "parentId": null,
-      "timestamp": "2042-01-23T22:21:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "내가 가는팀은 반대로함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000022-v8-005",
-      "parentId": null,
-      "timestamp": "2042-01-23T22:24:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "안에서 정하려면 늦음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000022-v8-006",
-      "parentId": null,
-      "timestamp": "2042-01-23T22:26:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "체크할때 다시본다",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000022-v8-007",
-      "parentId": "c-2042-000022-v8-004",
-      "timestamp": "2042-01-23T22:28:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "한번 고생하면 안까먹음",
+      "content": "짐꾼/지원인력까지 철수기준 공유해야됨",
       "deleted": false
     }
   ],

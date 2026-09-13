@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000037-v8-001",
+      "id": "c-2030-000037-b1-001",
       "parentId": null,
-      "timestamp": "2030-11-11T04:05:46+09:00",
+      "timestamp": "2030-11-11T04:08:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.201"
       },
-      "content": "처음부터 알기 힘든거 맞음",
+      "content": "위험구역 안쪽 진입은 역할 나눠서 할듯",
       "deleted": false
     },
     {
-      "id": "c-2030-000037-v8-002",
+      "id": "c-2030-000037-b1-002",
       "parentId": null,
-      "timestamp": "2030-11-11T04:09:38+09:00",
+      "timestamp": "2030-11-11T04:19:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "211.58"
       },
-      "content": "나도 이거 궁금했음",
+      "content": "게이트 대응팀만 움직이는게 아니라 소방/응급도 바깥구역 맡겠지",
       "deleted": false
     },
     {
-      "id": "c-2030-000037-v8-003",
+      "id": "c-2030-000037-b1-003",
       "parentId": null,
-      "timestamp": "2030-11-11T04:11:29+09:00",
+      "timestamp": "2030-11-11T04:27:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "118.47"
       },
-      "content": "검색결과가 죄다 옛날거임",
+      "content": "공식 구조 브리핑 나오면 그때 보는게 맞음",
       "deleted": false
     },
     {
-      "id": "c-2030-000037-v8-004",
-      "parentId": "c-2030-000037-v8-002",
-      "timestamp": "2030-11-11T04:13:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-005",
+      "id": "c-2030-000037-b1-004",
       "parentId": null,
-      "timestamp": "2030-11-11T04:16:34+09:00",
+      "timestamp": "2030-11-11T04:36:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "211.58"
       },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-006",
-      "parentId": "c-2030-000037-v8-003",
-      "timestamp": "2030-11-11T04:18:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-007",
-      "parentId": "c-2030-000037-v8-004",
-      "timestamp": "2030-11-11T04:21:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-008",
-      "parentId": null,
-      "timestamp": "2030-11-11T04:25:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "나도 예전에 이걸로 물어봤었음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-009",
-      "parentId": "c-2030-000037-v8-005",
-      "timestamp": "2030-11-11T04:27:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-010",
-      "parentId": "c-2030-000037-v8-008",
-      "timestamp": "2030-11-11T04:30:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-011",
-      "parentId": null,
-      "timestamp": "2030-11-11T04:34:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-012",
-      "parentId": "c-2030-000037-v8-005",
-      "timestamp": "2030-11-11T04:37:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-013",
-      "parentId": null,
-      "timestamp": "2030-11-11T04:40:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-014",
-      "parentId": null,
-      "timestamp": "2030-11-11T04:43:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-015",
-      "parentId": "c-2030-000037-v8-014",
-      "timestamp": "2030-11-11T04:46:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-016",
-      "parentId": "c-2030-000037-v8-012",
-      "timestamp": "2030-11-11T04:50:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-017",
-      "parentId": null,
-      "timestamp": "2030-11-11T04:52:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000037-v8-018",
-      "parentId": null,
-      "timestamp": "2030-11-11T04:54:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "이건 처음듣네",
+      "content": "초기엔 누가 어디까지 들어갔는지 정보가 너무 섞여있음",
       "deleted": false
     }
   ],

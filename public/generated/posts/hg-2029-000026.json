@@ -33,111 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000026-v8-001",
+      "id": "c-2029-000026-b1-001",
       "parentId": null,
-      "timestamp": "2029-11-01T12:27:14+09:00",
+      "timestamp": "2029-11-01T12:32:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "39.125"
       },
-      "content": "상성 넣으면 표 다시짜야됨",
+      "content": "능력상성까지 넣으면 결론 절대 안남",
       "deleted": false
     },
     {
-      "id": "c-2029-000026-v8-002",
+      "id": "c-2029-000026-b1-002",
       "parentId": null,
-      "timestamp": "2029-11-01T12:31:11+09:00",
+      "timestamp": "2029-11-01T12:36:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "112.171"
       },
-      "content": "요즘 A를 너무 쉽게 말함",
+      "content": "실제로 붙을일도 없는데 오늘도 결승전이네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2029-000026-v8-003",
+      "id": "c-2029-000026-b1-003",
       "parentId": null,
-      "timestamp": "2029-11-01T12:33:20+09:00",
+      "timestamp": "2029-11-01T12:44:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "211.36"
       },
-      "content": "내최애 1위 넣으면 끝",
+      "content": "실전자료 더 쌓이고 싸워도 안늦음",
       "deleted": false
     },
     {
-      "id": "c-2029-000026-v8-004",
+      "id": "c-2029-000026-b1-004",
       "parentId": null,
-      "timestamp": "2029-11-01T12:36:20+09:00",
+      "timestamp": "2029-11-01T12:55:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "118.235"
       },
-      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
+      "content": "이걸 숫자 하나로 정리하려는게 제일 웃김",
       "deleted": false
     },
     {
-      "id": "c-2029-000026-v8-005",
+      "id": "c-2029-000026-b1-005",
       "parentId": null,
-      "timestamp": "2029-11-01T12:38:20+09:00",
+      "timestamp": "2029-11-01T13:03:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "39.125"
       },
-      "content": "또 줄세우기 시작했네",
+      "content": "최근 실적도 같이 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2029-000026-v8-006",
-      "parentId": "c-2029-000026-v8-004",
-      "timestamp": "2029-11-01T12:39:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000026-v8-007",
-      "parentId": "c-2029-000026-v8-001",
-      "timestamp": "2029-11-01T12:43:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000026-v8-008",
+      "id": "c-2029-000026-b1-006",
       "parentId": null,
-      "timestamp": "2029-11-01T12:47:20+09:00",
+      "timestamp": "2029-11-01T13:12:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "39.125"
       },
-      "content": "이 떡밥 다음주에 또 올라옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000026-v8-009",
-      "parentId": null,
-      "timestamp": "2029-11-01T12:50:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "ㄹㅇ",
+      "content": "난 반대로봄",
       "deleted": false
     }
   ],

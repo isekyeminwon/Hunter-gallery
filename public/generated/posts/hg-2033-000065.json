@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000065-v8-001",
+      "id": "c-2033-000065-b1-001",
       "parentId": null,
-      "timestamp": "2033-02-21T14:25:36+09:00",
+      "timestamp": "2033-02-21T14:33:29+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "헌터활동이랑 콘텐츠 붙는거 싫으면 안맞음",
+      "content": "실적이랑 팬심이랑 섞여서 답없음",
       "deleted": false
     },
     {
-      "id": "c-2033-000065-v8-002",
+      "id": "c-2033-000065-b1-002",
       "parentId": null,
-      "timestamp": "2033-02-21T14:29:03+09:00",
+      "timestamp": "2033-02-21T14:39:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "117.111"
       },
-      "content": "길드 전투순위로 직장 고르는건 좀ㅋㅋ",
+      "content": "내최애 1위 넣으면 끝나는 문제",
       "deleted": false
     },
     {
-      "id": "c-2033-000065-v8-003",
-      "parentId": "c-2033-000065-v8-002",
-      "timestamp": "2033-02-21T14:32:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000065-v8-004",
-      "parentId": "c-2033-000065-v8-001",
-      "timestamp": "2033-02-21T14:33:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000065-v8-005",
+      "id": "c-2033-000065-b1-003",
       "parentId": null,
-      "timestamp": "2033-02-21T14:35:22+09:00",
+      "timestamp": "2033-02-21T14:49:58+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "네뷸라는 교육을 복지로 치냐에서 갈릴듯",
+      "content": "또 순위표 만들었네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000065-v8-006",
-      "parentId": "c-2033-000065-v8-002",
-      "timestamp": "2033-02-21T14:37:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000065-v8-007",
+      "id": "c-2033-000065-b1-004",
       "parentId": null,
-      "timestamp": "2033-02-21T14:40:40+09:00",
+      "timestamp": "2033-02-21T14:57:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "117.111"
       },
-      "content": "이쯤되면 본문 재확인 필요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000065-v8-008",
-      "parentId": null,
-      "timestamp": "2033-02-21T14:44:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "한성 합격부터 하고 고민하라는 댓글 곧온다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000065-v8-009",
-      "parentId": null,
-      "timestamp": "2033-02-21T14:47:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "한성 복지후기는 상대적으로 덜보이긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000065-v8-010",
-      "parentId": null,
-      "timestamp": "2033-02-21T14:50:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "지원자 입장에선 붙는곳이 1순위",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000065-v8-011",
-      "parentId": null,
-      "timestamp": "2033-02-21T14:53:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "지원체계 얘기는 백호쪽 후기가 많더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000065-v8-012",
-      "parentId": null,
-      "timestamp": "2033-02-21T14:55:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "마법계면 선택지에서 네뷸라 못빼지",
+      "content": "비공식인데 디자인은 공식문서급임",
       "deleted": false
     }
   ],

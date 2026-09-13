@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000009-v8-001",
+      "id": "c-2028-000009-b1-001",
       "parentId": null,
-      "timestamp": "2028-01-23T10:21:02+09:00",
+      "timestamp": "2028-01-23T10:23:52+09:00",
       "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
       },
-      "content": "공략권이랑 마석값은 따로 봐야됨",
+      "content": "공개입찰 취지가 사라지니까 막을만하지",
       "deleted": false
     },
     {
-      "id": "c-2028-000009-v8-002",
+      "id": "c-2028-000009-b1-002",
       "parentId": null,
-      "timestamp": "2028-01-23T10:23:31+09:00",
+      "timestamp": "2028-01-23T10:32:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "106.248"
       },
-      "content": "권리 가진팀 아니면 그냥 들어가는 구조가 아님",
+      "content": "공략도 안하고 권리만 사고파는팀 생길줄 알았다",
       "deleted": false
     },
     {
-      "id": "c-2028-000009-v8-003",
-      "parentId": "c-2028-000009-v8-001",
-      "timestamp": "2028-01-23T10:26:24+09:00",
+      "id": "c-2028-000009-b1-003",
+      "parentId": "c-2028-000009-b1-002",
+      "timestamp": "2028-01-23T10:40:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "211.246"
       },
-      "content": "낙찰가만 보면 계산안됨",
+      "content": "정식 양도절차랑 되팔이는 구분해야됨",
       "deleted": false
     },
     {
-      "id": "c-2028-000009-v8-004",
-      "parentId": null,
-      "timestamp": "2028-01-23T10:29:03+09:00",
+      "id": "c-2028-000009-b1-004",
+      "parentId": "c-2028-000009-b1-001",
+      "timestamp": "2028-01-23T10:48:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "223.33"
       },
-      "content": "낙찰가 높아도 회수 기대 크면 경쟁붙지",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-005",
-      "parentId": "c-2028-000009-v8-001",
-      "timestamp": "2028-01-23T10:32:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "권리 가진팀 아니면 그냥 들어가는 구조 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-006",
-      "parentId": null,
-      "timestamp": "2028-01-23T10:34:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "공략권은 누가 들어가서 공략할 권리냐는거",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-007",
-      "parentId": "c-2028-000009-v8-002",
-      "timestamp": "2028-01-23T10:38:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "싸게샀다고 무조건 이득 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-008",
-      "parentId": "c-2028-000009-v8-003",
-      "timestamp": "2028-01-23T10:40:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "공략권이랑 마석값은 별개지",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-009",
-      "parentId": "c-2028-000009-v8-006",
-      "timestamp": "2028-01-23T10:44:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "인건비 장비 보험까지 빼야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-010",
-      "parentId": null,
-      "timestamp": "2028-01-23T10:46:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-011",
-      "parentId": null,
-      "timestamp": "2028-01-23T10:50:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-012",
-      "parentId": null,
-      "timestamp": "2028-01-23T10:53:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-013",
-      "parentId": null,
-      "timestamp": "2028-01-23T10:55:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-014",
-      "parentId": null,
-      "timestamp": "2028-01-23T10:57:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-015",
-      "parentId": null,
-      "timestamp": "2028-01-23T10:59:39+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "싸게 샀다고 무조건 이득은 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-016",
-      "parentId": null,
-      "timestamp": "2028-01-23T11:02:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-017",
-      "parentId": null,
-      "timestamp": "2028-01-23T11:06:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000009-v8-018",
-      "parentId": "c-2028-000009-v8-014",
-      "timestamp": "2028-01-23T11:09:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "싸게샀다고 무조건 이득 아님",
+      "content": "명의 바꿔서 프리미엄 붙이는건 바로 잡힐듯",
       "deleted": false
     }
   ],

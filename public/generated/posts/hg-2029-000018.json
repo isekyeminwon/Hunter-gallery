@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000018-v8-001",
+      "id": "c-2029-000018-b1-001",
       "parentId": null,
-      "timestamp": "2029-07-05T05:07:32+09:00",
+      "timestamp": "2029-07-05T05:10:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "112.171"
       },
-      "content": "이거 저장해둠",
+      "content": "팀장 목소리 안들릴때 대신 콜할 사람도 정해두면 좋음",
       "deleted": false
     },
     {
-      "id": "c-2029-000018-v8-002",
+      "id": "c-2029-000018-b1-002",
       "parentId": null,
-      "timestamp": "2029-07-05T05:11:32+09:00",
+      "timestamp": "2029-07-05T05:18:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "59.10"
       },
-      "content": "초보는 이런글이 더 필요함",
+      "content": "인원체크 두번하는건 과한게 아님",
       "deleted": false
     },
     {
-      "id": "c-2029-000018-v8-003",
-      "parentId": "c-2029-000018-v8-001",
-      "timestamp": "2029-07-05T05:13:00+09:00",
+      "id": "c-2029-000018-b1-003",
+      "parentId": null,
+      "timestamp": "2029-07-05T05:29:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "112.171"
       },
-      "content": "이건 해보면 체감함",
+      "content": "후퇴콜 하나로 통일하는거 ㄹㅇ 중요함",
       "deleted": false
     }
   ],

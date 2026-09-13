@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000032-v8-001",
+      "id": "c-2032-000032-b1-001",
       "parentId": null,
-      "timestamp": "2032-07-06T23:42:10+09:00",
+      "timestamp": "2032-07-06T23:48:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "117.111"
       },
-      "content": "정성추",
+      "content": "네뷸라 마법계 교육쪽은 확실히 이미지 굳히는듯",
       "deleted": false
     },
     {
-      "id": "c-2032-000032-v8-002",
+      "id": "c-2032-000032-b1-002",
       "parentId": null,
-      "timestamp": "2032-07-06T23:45:32+09:00",
+      "timestamp": "2032-07-06T23:56:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "58.29"
       },
-      "content": "처음가는사람은 이런거 봐둬",
+      "content": "새장비라고 현장에서 바로 편한건 아니더라",
       "deleted": false
     },
     {
-      "id": "c-2032-000032-v8-003",
+      "id": "c-2032-000032-b1-003",
       "parentId": null,
-      "timestamp": "2032-07-06T23:49:29+09:00",
+      "timestamp": "2032-07-07T00:02:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "117.111"
       },
-      "content": "우리쪽은 방식이 살짝 다름",
+      "content": "김채연 들어오고 지원자 몰릴만하긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000032-v8-004",
-      "parentId": "c-2032-000032-v8-003",
-      "timestamp": "2032-07-06T23:52:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-005",
-      "parentId": "c-2032-000032-v8-001",
-      "timestamp": "2032-07-06T23:54:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-006",
-      "parentId": "c-2032-000032-v8-004",
-      "timestamp": "2032-07-06T23:57:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-007",
-      "parentId": "c-2032-000032-v8-004",
-      "timestamp": "2032-07-06T23:59:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-008",
+      "id": "c-2032-000032-b1-004",
       "parentId": null,
-      "timestamp": "2032-07-07T00:02:55+09:00",
+      "timestamp": "2032-07-07T00:12:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "58.29"
       },
-      "content": "원글 세줄인데 밑이 더김",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-009",
-      "parentId": null,
-      "timestamp": "2032-07-07T00:04:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-010",
-      "parentId": null,
-      "timestamp": "2032-07-07T00:07:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "다음 현장전에 한번 더봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-011",
-      "parentId": "c-2032-000032-v8-007",
-      "timestamp": "2032-07-07T00:09:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-012",
-      "parentId": "c-2032-000032-v8-005",
-      "timestamp": "2032-07-07T00:12:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-013",
-      "parentId": null,
-      "timestamp": "2032-07-07T00:16:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "한번 데이면 다음부턴 자동으로 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-014",
-      "parentId": "c-2032-000032-v8-008",
-      "timestamp": "2032-07-07T00:18:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-015",
-      "parentId": "c-2032-000032-v8-009",
-      "timestamp": "2032-07-07T00:20:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-016",
-      "parentId": "c-2032-000032-v8-013",
-      "timestamp": "2032-07-07T00:23:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-017",
-      "parentId": null,
-      "timestamp": "2032-07-07T00:25:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "들어가기전에 얘기 끝내야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000032-v8-018",
-      "parentId": "c-2032-000032-v8-013",
-      "timestamp": "2032-07-07T00:27:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
+      "content": "렌탈은 받자마자 버클이랑 스트랩부터 봄",
       "deleted": false
     }
   ],

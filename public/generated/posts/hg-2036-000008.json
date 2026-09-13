@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000008-v8-001",
+      "id": "c-2036-000008-b1-001",
       "parentId": null,
-      "timestamp": "2036-06-16T22:59:47+09:00",
+      "timestamp": "2036-06-16T23:00:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "118.47"
       },
-      "content": "당해보면 왜 적었는지 앎",
+      "content": "공용물자 담당 고정해두는건 ㄹㅇ 편함",
       "deleted": false
     },
     {
-      "id": "c-2036-000008-v8-002",
+      "id": "c-2036-000008-b1-002",
       "parentId": null,
-      "timestamp": "2036-06-16T23:02:54+09:00",
+      "timestamp": "2036-06-16T23:05:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "118.221"
       },
-      "content": "정성추",
+      "content": "직접 해보면 사소한게 제일 중요함",
       "deleted": false
     },
     {
-      "id": "c-2036-000008-v8-003",
+      "id": "c-2036-000008-b1-003",
       "parentId": null,
-      "timestamp": "2036-06-16T23:05:50+09:00",
+      "timestamp": "2036-06-16T23:12:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "112.171"
       },
-      "content": "정성추",
+      "content": "{{con:idk}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000008-b1-004",
+      "parentId": null,
+      "timestamp": "2036-06-16T23:19:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.47"
+      },
+      "content": "개인가방 무게 미리 적어두면 분배할때 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000008-b1-005",
+      "parentId": null,
+      "timestamp": "2036-06-16T23:29:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "내가 가는팀은 여기만 반대로함",
       "deleted": false
     }
   ],

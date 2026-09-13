@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000056-v8-001",
+      "id": "c-2040-000056-b2m-001",
+      "parentId": null,
+      "timestamp": "2040-03-14T17:26:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "헌터 한명 이적설로 장비시장 전체 움직인다는건 좀 과장",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000056-b2m-002",
       "parentId": null,
       "timestamp": "2040-03-14T17:28:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "106.250"
       },
-      "content": "계약주체 누구임",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000056-v8-002",
-      "parentId": null,
-      "timestamp": "2040-03-14T17:31:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "content": "관련업체 단기테마처럼 반응은 할수있겠지만 실적이랑 별개지",
       "deleted": false
     }
   ],

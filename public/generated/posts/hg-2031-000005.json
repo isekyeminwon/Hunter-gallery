@@ -33,303 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000005-v8-001",
+      "id": "c-2031-000005-b1-001",
       "parentId": null,
-      "timestamp": "2031-06-12T10:27:26+09:00",
+      "timestamp": "2031-06-12T10:30:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "58.29"
       },
-      "content": "요즘 A를 너무 쉽게 말함",
+      "content": "해외 S 기준이 우리랑 완전히 같은지도 궁금함",
       "deleted": false
     },
     {
-      "id": "c-2031-000005-v8-002",
+      "id": "c-2031-000005-b1-002",
       "parentId": null,
-      "timestamp": "2031-06-12T10:29:02+09:00",
+      "timestamp": "2031-06-12T10:41:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "39.7"
       },
-      "content": "강주아 팬들 오면 이글 끝남ㅋㅋ",
+      "content": "파티원들도 같이 잘하는데 S만 보는건 좀 아깝네",
       "deleted": false
     },
     {
-      "id": "c-2031-000005-v8-003",
+      "id": "c-2031-000005-b1-003",
       "parentId": null,
-      "timestamp": "2031-06-12T10:31:15+09:00",
+      "timestamp": "2031-06-12T10:47:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "110.70"
       },
-      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
+      "content": "샤오룽 영상 진짜 짧은데 임팩트는 크네",
       "deleted": false
     },
     {
-      "id": "c-2031-000005-v8-004",
-      "parentId": "c-2031-000005-v8-003",
-      "timestamp": "2031-06-12T10:32:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-005",
+      "id": "c-2031-000005-b1-004",
       "parentId": null,
-      "timestamp": "2031-06-12T10:35:27+09:00",
+      "timestamp": "2031-06-12T10:56:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "110.70"
       },
-      "content": "강주아 최근 실적부터 가져와봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-006",
-      "parentId": "c-2031-000005-v8-004",
-      "timestamp": "2031-06-12T10:38:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-007",
-      "parentId": "c-2031-000005-v8-002",
-      "timestamp": "2031-06-12T10:39:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-008",
-      "parentId": null,
-      "timestamp": "2031-06-12T10:43:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "내최애 1위 넣으면 끝",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-009",
-      "parentId": null,
-      "timestamp": "2031-06-12T10:45:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "원글 내용 까먹고 다시봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-010",
-      "parentId": null,
-      "timestamp": "2031-06-12T10:47:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "말하다 왜 싸움이 됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-011",
-      "parentId": null,
-      "timestamp": "2031-06-12T10:49:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "또 줄세우기 시작했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-012",
-      "parentId": null,
-      "timestamp": "2031-06-12T10:53:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-013",
-      "parentId": null,
-      "timestamp": "2031-06-12T10:55:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "이 떡밥 다음주에 또 올라옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-014",
-      "parentId": null,
-      "timestamp": "2031-06-12T10:57:16+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-015",
-      "parentId": null,
-      "timestamp": "2031-06-12T10:59:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "강주아 지금 바로 몇위 박는건 좀 웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-016",
-      "parentId": "c-2031-000005-v8-009",
-      "timestamp": "2031-06-12T11:02:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-017",
-      "parentId": null,
-      "timestamp": "2031-06-12T11:03:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "상성 넣으면 표 다시짜야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-018",
-      "parentId": null,
-      "timestamp": "2031-06-12T11:05:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-019",
-      "parentId": null,
-      "timestamp": "2031-06-12T11:09:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-020",
-      "parentId": null,
-      "timestamp": "2031-06-12T11:11:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-021",
-      "parentId": null,
-      "timestamp": "2031-06-12T11:14:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-022",
-      "parentId": null,
-      "timestamp": "2031-06-12T11:17:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-023",
-      "parentId": null,
-      "timestamp": "2031-06-12T11:20:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-024",
-      "parentId": null,
-      "timestamp": "2031-06-12T11:24:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000005-v8-025",
-      "parentId": null,
-      "timestamp": "2031-06-12T11:25:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이건 인정",
+      "content": "국적 가지고 전투력 싸움하는건 벌써 지겹다ㅋㅋ",
       "deleted": false
     }
   ],

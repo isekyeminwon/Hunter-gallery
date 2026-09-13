@@ -33,75 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000036-v8-001",
+      "id": "c-2029-000036-b1-001",
       "parentId": null,
-      "timestamp": "2029-01-09T03:41:11+09:00",
+      "timestamp": "2029-01-09T03:48:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "182.214"
       },
-      "content": "최신기준도 같음?",
+      "content": "신분증 사진 통째로 메신저 전송은 난 안함",
       "deleted": false
     },
     {
-      "id": "c-2029-000036-v8-002",
+      "id": "c-2029-000036-b1-002",
       "parentId": null,
-      "timestamp": "2029-01-09T03:43:54+09:00",
+      "timestamp": "2029-01-09T03:59:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "220.79"
       },
-      "content": "이건 최신 공지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000036-v8-003",
-      "parentId": null,
-      "timestamp": "2029-01-09T03:46:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "규정이랑 관행은 또 다를수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000036-v8-004",
-      "parentId": null,
-      "timestamp": "2029-01-09T03:49:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "명의 빌려주는건 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000036-v8-005",
-      "parentId": null,
-      "timestamp": "2029-01-09T03:51:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "신고해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000036-v8-006",
-      "parentId": null,
-      "timestamp": "2029-01-09T03:53:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "애매하면 신상은 올리지마",
+      "content": "보유기간/폐기기준 적힌 조항도 봐",
       "deleted": false
     }
   ],

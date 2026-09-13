@@ -33,123 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000012-v8-001",
+      "id": "c-2028-000012-b1-001",
       "parentId": null,
-      "timestamp": "2028-04-17T19:15:55+09:00",
+      "timestamp": "2028-04-17T19:23:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "211.36"
       },
-      "content": "공용물 말고 개인분도 따로 잡아",
+      "content": "우리팀은 이부분 조금 다르게함",
       "deleted": false
     },
     {
-      "id": "c-2028-000012-v8-002",
+      "id": "c-2028-000012-b1-002",
       "parentId": null,
-      "timestamp": "2028-04-17T19:18:22+09:00",
+      "timestamp": "2028-04-17T19:35:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "211.36"
       },
-      "content": "저위험이라고 물 줄였다가 고생함",
+      "content": "정성추",
       "deleted": false
     },
     {
-      "id": "c-2028-000012-v8-003",
-      "parentId": "c-2028-000012-v8-002",
-      "timestamp": "2028-04-17T19:21:37+09:00",
+      "id": "c-2028-000012-b1-003",
+      "parentId": "c-2028-000012-b1-001",
+      "timestamp": "2028-04-17T19:40:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "118.221"
       },
-      "content": "물 남는게 모자라는거보다 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000012-v8-004",
-      "parentId": null,
-      "timestamp": "2028-04-17T19:23:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "두시간 예상이 여섯시간 되는게 현장임",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000012-v8-005",
-      "parentId": null,
-      "timestamp": "2028-04-17T19:26:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "물 남는게 모자라는거보다 백배나음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000012-v8-006",
-      "parentId": "c-2028-000012-v8-003",
-      "timestamp": "2028-04-17T19:29:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "한병 더 넣는게 그렇게 부담도 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000012-v8-007",
-      "parentId": null,
-      "timestamp": "2028-04-17T19:33:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "목마르면 집중력부터 떨어짐",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000012-v8-008",
-      "parentId": null,
-      "timestamp": "2028-04-17T19:35:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "물 아끼지마 진짜",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000012-v8-009",
-      "parentId": null,
-      "timestamp": "2028-04-17T19:37:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "네시간 늘어지면 한병 차이가 존나 큼",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000012-v8-010",
-      "parentId": "c-2028-000012-v8-005",
-      "timestamp": "2028-04-17T19:38:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "여름이면 더챙겨야됨",
+      "content": "그건 인정",
       "deleted": false
     }
   ],

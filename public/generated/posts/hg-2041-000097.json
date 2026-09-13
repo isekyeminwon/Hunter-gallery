@@ -33,231 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000097-v8-001",
+      "id": "c-2041-000097-b2m-001",
       "parentId": null,
-      "timestamp": "2041-02-22T04:21:17+09:00",
+      "timestamp": "2041-02-22T04:22:44+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-002",
-      "parentId": null,
-      "timestamp": "2041-02-22T04:24:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-003",
-      "parentId": null,
-      "timestamp": "2041-02-22T04:28:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
       "content": "나도그럼",
       "deleted": false
     },
     {
-      "id": "c-2041-000097-v8-004",
-      "parentId": "c-2041-000097-v8-003",
-      "timestamp": "2041-02-22T04:29:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-005",
+      "id": "c-2041-000097-b2m-002",
       "parentId": null,
-      "timestamp": "2041-02-22T04:31:20+09:00",
+      "timestamp": "2041-02-22T04:24:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-006",
-      "parentId": null,
-      "timestamp": "2041-02-22T04:33:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-007",
-      "parentId": null,
-      "timestamp": "2041-02-22T04:34:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "대댓글이 본문 잡아먹었네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-008",
-      "parentId": "c-2041-000097-v8-006",
-      "timestamp": "2041-02-22T04:36:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-009",
-      "parentId": "c-2041-000097-v8-003",
-      "timestamp": "2041-02-22T04:39:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-010",
-      "parentId": "c-2041-000097-v8-003",
-      "timestamp": "2041-02-22T04:43:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-011",
-      "parentId": null,
-      "timestamp": "2041-02-22T04:44:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-012",
-      "parentId": null,
-      "timestamp": "2041-02-22T04:48:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "211.246"
       },
       "content": "개웃기네",
       "deleted": false
     },
     {
-      "id": "c-2041-000097-v8-013",
+      "id": "c-2041-000097-b2m-003",
       "parentId": null,
-      "timestamp": "2041-02-22T04:51:07+09:00",
+      "timestamp": "2041-02-22T04:26:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "175.223"
       },
-      "content": "나도 비슷했음",
+      "content": "자라",
       "deleted": false
     },
     {
-      "id": "c-2041-000097-v8-014",
+      "id": "c-2041-000097-b2m-004",
       "parentId": null,
-      "timestamp": "2041-02-22T04:54:27+09:00",
+      "timestamp": "2041-02-22T04:29:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "59.10"
       },
       "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "c-2041-000097-v8-015",
+      "id": "c-2041-000097-b2m-005",
       "parentId": null,
-      "timestamp": "2041-02-22T04:56:38+09:00",
+      "timestamp": "2041-02-22T04:30:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "117.111"
       },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-016",
-      "parentId": null,
-      "timestamp": "2041-02-22T04:58:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-017",
-      "parentId": "c-2041-000097-v8-012",
-      "timestamp": "2041-02-22T05:00:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-018",
-      "parentId": "c-2041-000097-v8-012",
-      "timestamp": "2041-02-22T05:03:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000097-v8-019",
-      "parentId": null,
-      "timestamp": "2041-02-22T05:05:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "{{con:dororong}}",
       "deleted": false
     }
   ],

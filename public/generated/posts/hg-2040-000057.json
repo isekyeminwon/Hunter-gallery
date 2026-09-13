@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000057-v8-001",
+      "id": "c-2040-000057-b2m-001",
       "parentId": null,
-      "timestamp": "2040-04-21T17:23:02+09:00",
+      "timestamp": "2040-04-21T17:22:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "211.201"
       },
-      "content": "냄새 분진 싫어서 거르는팀 많음",
+      "content": "정화계 있으면 편한건 맞는데 없다고 무조건 못가는건 아님",
       "deleted": false
     },
     {
-      "id": "c-2040-000057-v8-002",
+      "id": "c-2040-000057-b2m-002",
       "parentId": null,
-      "timestamp": "2040-04-21T17:24:49+09:00",
+      "timestamp": "2040-04-21T17:24:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "106.250"
       },
-      "content": "보호구/소모품까지 넣으면 수익 달라짐",
+      "content": "묘지형 냄새/분진 때문에 아예 안가는 파티도 있더라",
       "deleted": false
     },
     {
-      "id": "c-2040-000057-v8-003",
-      "parentId": null,
-      "timestamp": "2040-04-21T17:28:43+09:00",
+      "id": "c-2040-000057-b2m-003",
+      "parentId": "c-2040-000057-b2m-001",
+      "timestamp": "2040-04-21T17:27:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "211.201"
       },
-      "content": "묘지형 두번 가고 손절한놈 봄",
+      "content": "세척비까지 넣으면 계산 달라짐",
       "deleted": false
     }
   ],

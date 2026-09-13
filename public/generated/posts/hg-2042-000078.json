@@ -33,267 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000078-v8-001",
+      "id": "c-2042-000078-b2m-001",
       "parentId": null,
-      "timestamp": "2042-06-18T05:25:52+09:00",
+      "timestamp": "2042-06-18T05:26:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "110.70"
       },
-      "content": "셋다 붙으면 그때 고민한다ㅋㅋ",
+      "content": "헌터활동이랑 콘텐츠 붙는거 싫으면 스텔라 안맞을듯",
       "deleted": false
     },
     {
-      "id": "c-2042-000078-v8-002",
+      "id": "c-2042-000078-b2m-002",
       "parentId": null,
-      "timestamp": "2042-06-18T05:28:31+09:00",
+      "timestamp": "2042-06-18T05:28:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "간판만 보고 파티분위기까지 같다고 보면 안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000078-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-06-18T05:31:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "마법계 교육은 네뷸라 얘기 많고 장비지원은 백호 후기가 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000078-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-06-18T05:33:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "210.178"
       },
-      "content": "취업이랑 누가세냐는 다른문제지",
+      "content": "길드 전투순위로 취업선호까지 정하긴 어렵지",
       "deleted": false
     },
     {
-      "id": "c-2042-000078-v8-003",
+      "id": "c-2042-000078-b2m-005",
       "parentId": null,
-      "timestamp": "2042-06-18T05:32:22+09:00",
+      "timestamp": "2042-06-18T05:35:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "전력 간판만 보면 한성이 워낙 세긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000078-b2m-006",
+      "parentId": null,
+      "timestamp": "2042-06-18T05:37:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.248"
       },
-      "content": "네뷸라는 교육을 복지로 치냐에서 갈릴듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-004",
-      "parentId": "c-2042-000078-v8-002",
-      "timestamp": "2042-06-18T05:34:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-005",
-      "parentId": "c-2042-000078-v8-003",
-      "timestamp": "2042-06-18T05:37:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-006",
-      "parentId": "c-2042-000078-v8-005",
-      "timestamp": "2042-06-18T05:38:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-007",
-      "parentId": null,
-      "timestamp": "2042-06-18T05:40:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "실력 된다는 가정부터 너무 빡셈ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-008",
-      "parentId": "c-2042-000078-v8-001",
-      "timestamp": "2042-06-18T05:42:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-009",
-      "parentId": null,
-      "timestamp": "2042-06-18T05:45:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-010",
-      "parentId": null,
-      "timestamp": "2042-06-18T05:48:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "연구/교육 보면 네뷸라가 매력있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-011",
-      "parentId": null,
-      "timestamp": "2042-06-18T05:50:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "방송쪽 거부감 있으면 호불호 세겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-012",
-      "parentId": "c-2042-000078-v8-007",
-      "timestamp": "2042-06-18T05:52:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-013",
-      "parentId": null,
-      "timestamp": "2042-06-18T05:55:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "복지글 검색하면 백호 얘기 많이 뜸",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-014",
-      "parentId": null,
-      "timestamp": "2042-06-18T05:57:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "한성 붙으면 왜 고민하냐는놈 곧옴ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-015",
-      "parentId": "c-2042-000078-v8-011",
-      "timestamp": "2042-06-18T05:59:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-016",
-      "parentId": null,
-      "timestamp": "2042-06-18T06:01:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "붙여주는곳 가겠다는게 제일 현실적임",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-017",
-      "parentId": null,
-      "timestamp": "2042-06-18T06:03:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "한성 지원서 통과부터 하라는 소리 나온다",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-018",
-      "parentId": null,
-      "timestamp": "2042-06-18T06:05:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-019",
-      "parentId": "c-2042-000078-v8-014",
-      "timestamp": "2042-06-18T06:07:21+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-020",
-      "parentId": null,
-      "timestamp": "2042-06-18T06:10:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-021",
-      "parentId": null,
-      "timestamp": "2042-06-18T06:11:51+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000078-v8-022",
-      "parentId": null,
-      "timestamp": "2042-06-18T06:14:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
+      "content": "{{con:real}}",
       "deleted": false
     }
   ],

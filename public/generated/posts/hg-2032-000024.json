@@ -33,195 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000024-v8-001",
+      "id": "c-2032-000024-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-11T20:41:01+09:00",
+      "timestamp": "2032-05-11T20:44:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "강제동원 기준이랑 실제 배치는 또 다른 문제임",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000024-b1-002",
+      "parentId": null,
+      "timestamp": "2032-05-11T20:52:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.202"
       },
-      "content": "해본사람 있냐",
+      "content": "셋 있다고 한곳에 몰아넣진 않겠지",
       "deleted": false
     },
     {
-      "id": "c-2032-000024-v8-002",
+      "id": "c-2032-000024-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-11T20:43:34+09:00",
+      "timestamp": "2032-05-11T20:58:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "59.10"
       },
-      "content": "처음부터 알기 힘든거 맞음",
+      "content": "능력계열 다르니 상황별 우선배치가 달라질듯",
       "deleted": false
     },
     {
-      "id": "c-2032-000024-v8-003",
+      "id": "c-2032-000024-b1-004",
       "parentId": null,
-      "timestamp": "2032-05-11T20:46:01+09:00",
+      "timestamp": "2032-05-11T21:07:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "106.101"
       },
-      "content": "이거 답 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-004",
-      "parentId": "c-2032-000024-v8-002",
-      "timestamp": "2032-05-11T20:49:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-005",
-      "parentId": "c-2032-000024-v8-002",
-      "timestamp": "2032-05-11T20:53:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-006",
-      "parentId": null,
-      "timestamp": "2032-05-11T20:56:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "검색해도 예전얘기만 나와",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-007",
-      "parentId": "c-2032-000024-v8-002",
-      "timestamp": "2032-05-11T20:59:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-11T21:02:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-009",
-      "parentId": null,
-      "timestamp": "2032-05-11T21:03:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-010",
-      "parentId": "c-2032-000024-v8-004",
-      "timestamp": "2032-05-11T21:05:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-11T21:07:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-012",
-      "parentId": null,
-      "timestamp": "2032-05-11T21:11:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-013",
-      "parentId": null,
-      "timestamp": "2032-05-11T21:12:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-014",
-      "parentId": null,
-      "timestamp": "2032-05-11T21:16:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-015",
-      "parentId": null,
-      "timestamp": "2032-05-11T21:20:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000024-v8-016",
-      "parentId": null,
-      "timestamp": "2032-05-11T21:23:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "평시 소속길드 일정까지 있어서 마음대로 못굴릴거같음",
       "deleted": false
     }
   ],

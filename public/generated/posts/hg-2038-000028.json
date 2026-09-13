@@ -33,51 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000028-v8-001",
+      "id": "c-2038-000028-b2m-001",
       "parentId": null,
-      "timestamp": "2038-04-11T12:18:32+09:00",
+      "timestamp": "2038-04-11T12:19:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "223.33"
       },
-      "content": "처음하면 헷갈릴만하지",
+      "content": "등급/가능역할/게이트 경험횟수/장비유무 정도 짧게 적으면 됨",
       "deleted": false
     },
     {
-      "id": "c-2038-000028-v8-002",
+      "id": "c-2038-000028-b2m-002",
       "parentId": null,
-      "timestamp": "2038-04-11T12:20:53+09:00",
+      "timestamp": "2038-04-11T12:23:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "211.234"
       },
-      "content": "해본사람 있냐",
+      "content": "응급처치나 운전같이 실제로 맡을수 있는거 있으면 적어",
       "deleted": false
     },
     {
-      "id": "c-2038-000028-v8-003",
-      "parentId": null,
-      "timestamp": "2038-04-11T12:22:27+09:00",
+      "id": "c-2038-000028-b2m-003",
+      "parentId": "c-2038-000028-b2m-001",
+      "timestamp": "2038-04-11T12:26:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "211.234"
       },
-      "content": "최신 후기 찾기가 더힘듦",
+      "content": "경력 없으면 신입이라고 솔직히 쓰는게 낫다",
       "deleted": false
     },
     {
-      "id": "c-2038-000028-v8-004",
-      "parentId": null,
-      "timestamp": "2038-04-11T12:25:43+09:00",
+      "id": "c-2038-000028-b2m-004",
+      "parentId": "c-2038-000028-b2m-002",
+      "timestamp": "2038-04-11T12:28:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "175.223"
       },
-      "content": "나도 이거 궁금했음",
+      "content": "쓸데없이 각성스토리 길게 쓰는것보다 최근경험이 낫더라",
       "deleted": false
     }
   ],

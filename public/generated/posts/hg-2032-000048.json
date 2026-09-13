@@ -33,51 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000048-v8-001",
+      "id": "c-2032-000048-b1-001",
       "parentId": null,
-      "timestamp": "2032-01-25T14:48:09+09:00",
+      "timestamp": "2032-01-25T14:51:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "112.171"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "주민번호 원본사본까지 요구하면 왜 필요한지 물어봐",
       "deleted": false
     },
     {
-      "id": "c-2032-000048-v8-002",
+      "id": "c-2032-000048-b1-002",
       "parentId": null,
-      "timestamp": "2032-01-25T14:51:06+09:00",
+      "timestamp": "2032-01-25T14:57:40+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
       },
-      "content": "요즘도 그 조항 그대로야?",
+      "content": "보험가입용 정보랑 길드가 보관하는 정보는 구분해야됨",
       "deleted": false
     },
     {
-      "id": "c-2032-000048-v8-003",
+      "id": "c-2032-000048-b1-003",
       "parentId": null,
-      "timestamp": "2032-01-25T14:52:37+09:00",
+      "timestamp": "2032-01-25T15:09:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "182.214"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "보유기간/폐기기준 적힌 조항도 봐",
       "deleted": false
     },
     {
-      "id": "c-2032-000048-v8-004",
+      "id": "c-2032-000048-b1-004",
       "parentId": null,
-      "timestamp": "2032-01-25T14:54:45+09:00",
+      "timestamp": "2032-01-25T15:17:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "112.171"
       },
-      "content": "신고해본사람 있음?",
+      "content": "신분증 사진 통째로 메신저 전송은 난 안함",
       "deleted": false
     }
   ],

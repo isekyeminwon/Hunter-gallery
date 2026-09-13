@@ -33,159 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000043-v8-001",
+      "id": "c-2034-000043-b1-001",
       "parentId": null,
-      "timestamp": "2034-12-09T21:06:00+09:00",
+      "timestamp": "2034-12-09T21:10:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "220.79"
       },
-      "content": "오전안에 풀리면 다행이고",
+      "content": "C급이라고 사고 작게 나는건 아니니까",
       "deleted": false
     },
     {
-      "id": "c-2034-000043-v8-002",
+      "id": "c-2034-000043-b1-002",
       "parentId": null,
-      "timestamp": "2034-12-09T21:09:15+09:00",
+      "timestamp": "2034-12-09T21:18:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "39.125"
       },
-      "content": "근처면 그냥 우회하는게 답",
+      "content": "입구만 막은거면 내부 사고인지 외부 장비문제인지 아직 모르겠네",
       "deleted": false
     },
     {
-      "id": "c-2034-000043-v8-003",
+      "id": "c-2034-000043-b1-003",
       "parentId": null,
-      "timestamp": "2034-12-09T21:12:29+09:00",
+      "timestamp": "2034-12-09T21:22:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "121.163"
       },
-      "content": "현장 구경간다고 차끌고 가는놈 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-004",
-      "parentId": "c-2034-000043-v8-002",
-      "timestamp": "2034-12-09T21:14:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "근처면 그냥 피하는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-005",
-      "parentId": "c-2034-000043-v8-003",
-      "timestamp": "2034-12-09T21:17:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "현장사진 찍으러 갈건 아니고",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-006",
-      "parentId": "c-2034-000043-v8-003",
-      "timestamp": "2034-12-09T21:19:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "통제 풀리는 시간 나왔음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-007",
-      "parentId": null,
-      "timestamp": "2034-12-09T21:22:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "협회차량 많이 들어갔네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-008",
-      "parentId": "c-2034-000043-v8-006",
-      "timestamp": "2034-12-09T21:25:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "차끌고 구경갈 생각은 접자",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-009",
-      "parentId": "c-2034-000043-v8-003",
-      "timestamp": "2034-12-09T21:29:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "안내방송부터 듣는게 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-010",
-      "parentId": null,
-      "timestamp": "2034-12-09T21:31:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "기사엔 통제중이라고만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-011",
-      "parentId": null,
-      "timestamp": "2034-12-09T21:33:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "통제 풀리는 시간 나온거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-012",
-      "parentId": null,
-      "timestamp": "2034-12-09T21:36:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000043-v8-013",
-      "parentId": null,
-      "timestamp": "2034-12-09T21:39:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "통제 풀리는 시간 공지 아직 없음?",
       "deleted": false
     }
   ],

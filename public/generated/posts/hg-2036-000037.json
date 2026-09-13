@@ -33,171 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000037-v8-001",
+      "id": "c-2036-000037-b1-001",
       "parentId": null,
-      "timestamp": "2036-04-20T02:58:52+09:00",
+      "timestamp": "2036-04-20T03:06:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "210.178"
       },
-      "content": "기존 규격 장비로 감당 안되는 얘기 나온적 있음",
+      "content": "미국 현장이라고 한국갤 규칙 예외인건 아니잖아",
       "deleted": false
     },
     {
-      "id": "c-2036-000037-v8-002",
+      "id": "c-2036-000037-b1-002",
       "parentId": null,
-      "timestamp": "2036-04-20T03:02:31+09:00",
+      "timestamp": "2036-04-20T03:16:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "210.178"
       },
-      "content": "이시율 보고도 몇배냐 묻는건 무리",
+      "content": "진행중 현장 위치면 삭제대상 맞지",
       "deleted": false
     },
     {
-      "id": "c-2036-000037-v8-003",
-      "parentId": "c-2036-000037-v8-002",
-      "timestamp": "2036-04-20T03:04:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-004",
-      "parentId": "c-2036-000037-v8-002",
-      "timestamp": "2036-04-20T03:07:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-005",
-      "parentId": "c-2036-000037-v8-002",
-      "timestamp": "2036-04-20T03:10:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-006",
+      "id": "c-2036-000037-b1-003",
       "parentId": null,
-      "timestamp": "2036-04-20T03:12:06+09:00",
+      "timestamp": "2036-04-20T03:24:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "210.178"
       },
-      "content": "SS가 기존 S로 설명 안되는놈 나와서 만든거잖아",
+      "content": "구경꾼 몰리면 통제에 방해되니까",
       "deleted": false
     },
     {
-      "id": "c-2036-000037-v8-007",
-      "parentId": null,
-      "timestamp": "2036-04-20T03:15:10+09:00",
+      "id": "c-2036-000037-b1-004",
+      "parentId": "c-2036-000037-b1-002",
+      "timestamp": "2036-04-20T03:29:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "210.178"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-008",
-      "parentId": null,
-      "timestamp": "2036-04-20T03:16:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-009",
-      "parentId": null,
-      "timestamp": "2036-04-20T03:19:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-010",
-      "parentId": null,
-      "timestamp": "2036-04-20T03:21:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "S 몇명분 이런 계산은 의미없지 않나",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-011",
-      "parentId": null,
-      "timestamp": "2036-04-20T03:24:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-012",
-      "parentId": null,
-      "timestamp": "2036-04-20T03:25:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-013",
-      "parentId": null,
-      "timestamp": "2036-04-20T03:29:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000037-v8-014",
-      "parentId": null,
-      "timestamp": "2036-04-20T03:31:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "근거는?",
+      "content": "사진 올리더라도 끝난뒤 위치정보 지우는게 낫다",
       "deleted": false
     }
   ],

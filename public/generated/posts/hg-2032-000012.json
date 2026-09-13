@@ -33,195 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000012-v8-001",
+      "id": "c-2032-000012-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-09T22:33:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "안에서 정하려면 늦음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-002",
-      "parentId": null,
-      "timestamp": "2032-05-09T22:37:15+09:00",
+      "timestamp": "2032-05-09T22:41:21+09:00",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "이건 경험값 한번 내면 기억남",
+      "content": "강주아랑 비교는 능력성격부터 달라서 끝이 없을듯",
       "deleted": false
     },
     {
-      "id": "c-2032-000012-v8-003",
+      "id": "c-2032-000012-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-09T22:40:33+09:00",
+      "timestamp": "2032-05-09T22:52:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "마법계 S 나오니까 네뷸라 얘기 바로 나오네",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000012-b1-003",
+      "parentId": "c-2032-000012-b1-001",
+      "timestamp": "2032-05-09T22:58:59+09:00",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "우린 저부분만 다르게함",
+      "content": "서리여왕 별명은 잘붙음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2032-000012-v8-004",
-      "parentId": "c-2032-000012-v8-002",
-      "timestamp": "2032-05-09T22:42:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-005",
-      "parentId": "c-2032-000012-v8-003",
-      "timestamp": "2032-05-09T22:45:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-006",
-      "parentId": "c-2032-000012-v8-002",
-      "timestamp": "2032-05-09T22:47:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-007",
+      "id": "c-2032-000012-b1-004",
       "parentId": null,
-      "timestamp": "2032-05-09T22:50:00+09:00",
+      "timestamp": "2032-05-09T23:10:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "106.102"
       },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-09T22:53:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-009",
-      "parentId": "c-2032-000012-v8-002",
-      "timestamp": "2032-05-09T22:55:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-010",
-      "parentId": null,
-      "timestamp": "2032-05-09T22:58:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "입장전에 맞춰두는게 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-09T23:01:26+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-012",
-      "parentId": null,
-      "timestamp": "2032-05-09T23:05:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "니들 왜 갑자기 싸우냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-013",
-      "parentId": null,
-      "timestamp": "2032-05-09T23:07:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "이거 저장해둠",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-014",
-      "parentId": null,
-      "timestamp": "2032-05-09T23:09:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "화려한 공략보다 이게 초보한텐 나음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-015",
-      "parentId": null,
-      "timestamp": "2032-05-09T23:13:13+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000012-v8-016",
-      "parentId": null,
-      "timestamp": "2032-05-09T23:16:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "첫 공략에서 잡몹 처리속도 진짜 말이 안됨",
       "deleted": false
     }
   ],

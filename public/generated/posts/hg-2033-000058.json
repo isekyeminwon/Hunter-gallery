@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000058-v8-001",
+      "id": "c-2033-000058-b1-001",
       "parentId": null,
-      "timestamp": "2033-03-05T18:25:21+09:00",
+      "timestamp": "2033-03-05T18:26:16+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000058-b1-002",
+      "parentId": null,
+      "timestamp": "2033-03-05T18:32:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "118.221"
+      },
+      "content": "이런건 현장 한번 나가보면 왜 적었는지 앎",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000058-b1-003",
+      "parentId": "c-2033-000058-b1-002",
+      "timestamp": "2033-03-05T18:42:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "나는 반대",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000058-b1-004",
+      "parentId": null,
+      "timestamp": "2033-03-05T18:49:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
       },
       "content": "정성추",
       "deleted": false
     },
     {
-      "id": "c-2033-000058-v8-002",
+      "id": "c-2033-000058-b1-005",
       "parentId": null,
-      "timestamp": "2033-03-05T18:27:38+09:00",
+      "timestamp": "2033-03-05T18:56:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "106.250"
       },
-      "content": "내가 가는팀은 반대로함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000058-v8-003",
-      "parentId": null,
-      "timestamp": "2033-03-05T18:30:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "출발전에 정해두는게 편함",
+      "content": "체크리스트에 넣어둔다",
       "deleted": false
     }
   ],

@@ -33,75 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000033-pilot001",
+      "id": "c-2042-000033-b2m-001",
       "parentId": null,
-      "timestamp": "2042-03-21T06:57:30+09:00",
+      "timestamp": "2042-03-21T06:59:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "59.10"
       },
-      "content": "버클/스트랩부터 보는거 ㄹㅇ",
+      "content": "흠집 사진 찍어두면 반납할때 싸움 덜남",
       "deleted": false
     },
     {
-      "id": "c-2042-000033-pilot002",
+      "id": "c-2042-000033-b2m-002",
       "parentId": null,
-      "timestamp": "2042-03-21T06:59:59+09:00",
+      "timestamp": "2042-03-21T07:02:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "118.221"
       },
-      "content": "배터리 잔량만 보고 갔다가 예비 죽어있던적 있음",
+      "content": "가방 지퍼 하나 터져도 현장에선 존나 귀찮음",
       "deleted": false
     },
     {
-      "id": "c-2042-000033-pilot003",
+      "id": "c-2042-000033-b2m-003",
       "parentId": null,
-      "timestamp": "2042-03-21T07:01:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "인수할때 흠집 사진 찍어둬라. 반납할때 싸움 안남",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000033-pilot004",
-      "parentId": null,
-      "timestamp": "2042-03-21T07:04:07+09:00",
+      "timestamp": "2042-03-21T07:04:23+09:00",
       "author": {
         "type": "fixed",
         "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "가방 지퍼도 봐. 현장서 터지면 존나 짜증남",
+      "content": "예비배터리까지 켜봐야됨 잔량표시만 믿다 당함",
       "deleted": false
     },
     {
-      "id": "c-2042-000033-pilot005",
+      "id": "c-2042-000033-b2m-004",
       "parentId": null,
-      "timestamp": "2042-03-21T07:06:39+09:00",
+      "timestamp": "2042-03-21T07:06:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "장기렌탈이면 수리대차 조건부터 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000033-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-03-21T07:09:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "{{con:good}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000033-b2m-006",
+      "parentId": "c-2042-000033-b2m-002",
+      "timestamp": "2042-03-21T07:12:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "렌탈점 앞에서 5분 더쓰는게 게이트 안 50분 아낌",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000033-pilot006",
-      "parentId": null,
-      "timestamp": "2042-03-21T07:07:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "정성추",
+      "content": "입구에서 실제 작동 한번 해봐",
       "deleted": false
     }
   ],

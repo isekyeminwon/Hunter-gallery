@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2025-000002-v8-001",
+      "id": "c-2025-000002-b1-001",
       "parentId": null,
-      "timestamp": "2025-06-21T13:51:33+09:00",
+      "timestamp": "2025-06-21T13:59:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "220.79"
       },
-      "content": "나도 첫번에 여기서 헷갈림",
+      "content": "정부가 따로 분류할 정도면 기존 최고등급 밖이라는거지",
       "deleted": false
     },
     {
-      "id": "c-2025-000002-v8-002",
+      "id": "c-2025-000002-b1-002",
       "parentId": null,
-      "timestamp": "2025-06-21T13:54:48+09:00",
+      "timestamp": "2025-06-21T14:07:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "14.32"
       },
-      "content": "처음이면 물어볼만함",
+      "content": "아직 S 사례가 강무혁 하나라 비교기준 자체가 없음",
       "deleted": false
     },
     {
-      "id": "c-2025-000002-v8-003",
+      "id": "c-2025-000002-b1-003",
       "parentId": null,
-      "timestamp": "2025-06-21T13:57:25+09:00",
+      "timestamp": "2025-06-21T14:12:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "58.29"
       },
-      "content": "이건 나도 궁금함",
+      "content": "얼마나 센지 숫자로 말하기가 더 어려운 단계같음",
       "deleted": false
     },
     {
-      "id": "c-2025-000002-v8-004",
-      "parentId": null,
-      "timestamp": "2025-06-21T14:01:20+09:00",
+      "id": "c-2025-000002-b1-004",
+      "parentId": "c-2025-000002-b1-001",
+      "timestamp": "2025-06-21T14:21:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "14.32"
       },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000002-v8-005",
-      "parentId": "c-2025-000002-v8-004",
-      "timestamp": "2025-06-21T14:03:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000002-v8-006",
-      "parentId": "c-2025-000002-v8-003",
-      "timestamp": "2025-06-21T14:05:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000002-v8-007",
-      "parentId": null,
-      "timestamp": "2025-06-21T14:07:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000002-v8-008",
-      "parentId": "c-2025-000002-v8-001",
-      "timestamp": "2025-06-21T14:10:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000002-v8-009",
-      "parentId": null,
-      "timestamp": "2025-06-21T14:13:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000002-v8-010",
-      "parentId": null,
-      "timestamp": "2025-06-21T14:17:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000002-v8-011",
-      "parentId": null,
-      "timestamp": "2025-06-21T14:20:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000002-v8-012",
-      "parentId": "c-2025-000002-v8-006",
-      "timestamp": "2025-06-21T14:23:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "최근기준 아는사람?",
+      "content": "A 영상 보다가 강무혁 영상보면 체급차는 확실히 보임",
       "deleted": false
     }
   ],

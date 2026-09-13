@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000007-v8-001",
+      "id": "c-2038-000007-b2m-001",
       "parentId": null,
-      "timestamp": "2038-01-15T21:26:30+09:00",
+      "timestamp": "2038-01-15T21:25:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "좋은팀 잡으면 반복으로 가는 이유가 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000007-b2m-002",
+      "parentId": null,
+      "timestamp": "2038-01-15T21:26:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "입장/철수때 누가 최종콜 하는지 알아두면 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000007-b2m-003",
+      "parentId": null,
+      "timestamp": "2038-01-15T21:28:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "짐꾼 동선 전투팀이랑 겹치면 바로 사고남",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000007-b2m-004",
+      "parentId": null,
+      "timestamp": "2038-01-15T21:30:22+09:00",
       "author": {
         "type": "fixed",
-        "name": "마석눈팅",
+        "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-002",
-      "parentId": null,
-      "timestamp": "2038-01-15T21:28:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-003",
-      "parentId": null,
-      "timestamp": "2038-01-15T21:30:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "예상금액으로 먼저 싸우지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-004",
-      "parentId": "c-2038-000007-v8-001",
-      "timestamp": "2038-01-15T21:33:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "매입가 확정뒤 보내는팀도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-005",
-      "parentId": null,
-      "timestamp": "2038-01-15T21:35:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-006",
-      "parentId": null,
-      "timestamp": "2038-01-15T21:38:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "당일도 있고 며칠뒤도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-007",
-      "parentId": null,
-      "timestamp": "2038-01-15T21:41:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-008",
-      "parentId": "c-2038-000007-v8-002",
-      "timestamp": "2038-01-15T21:45:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "일주일 넘으면 한번 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-009",
-      "parentId": null,
-      "timestamp": "2038-01-15T21:49:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "{{con:dororong}}",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-010",
-      "parentId": "c-2038-000007-v8-006",
-      "timestamp": "2038-01-15T21:52:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "정산일 적혀있으면 덜싸움",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-011",
-      "parentId": null,
-      "timestamp": "2038-01-15T21:55:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000007-v8-012",
-      "parentId": null,
-      "timestamp": "2038-01-15T21:56:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이건 처음듣네",
+      "content": "짐꾼인데 전투보조까지 당연히 시키는 팀은 거름",
       "deleted": false
     }
   ],

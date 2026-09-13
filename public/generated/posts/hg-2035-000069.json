@@ -33,171 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000069-v8-001",
+      "id": "c-2035-000069-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T17:50:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-002",
-      "parentId": null,
-      "timestamp": "2035-07-15T17:53:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-003",
-      "parentId": "c-2035-000069-v8-002",
-      "timestamp": "2035-07-15T17:57:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-004",
-      "parentId": null,
-      "timestamp": "2035-07-15T18:00:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-005",
-      "parentId": "c-2035-000069-v8-004",
-      "timestamp": "2035-07-15T18:03:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-006",
-      "parentId": null,
-      "timestamp": "2035-07-15T18:06:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-007",
-      "parentId": "c-2035-000069-v8-004",
-      "timestamp": "2035-07-15T18:10:08+09:00",
+      "timestamp": "2035-07-15T17:58:13+09:00",
       "author": {
         "type": "fixed",
-        "name": "짐꾼3년차",
+        "name": "계약서읽자",
         "ip": null
       },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "content": "출처없는 캡처는 일단 거르는게 맞음",
       "deleted": false
     },
     {
-      "id": "c-2035-000069-v8-008",
-      "parentId": "c-2035-000069-v8-006",
+      "id": "c-2035-000069-b1-002",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:07:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "보증금 환불일정부터 확인해",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-b1-003",
+      "parentId": "c-2035-000069-b1-002",
       "timestamp": "2035-07-15T18:12:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "118.44"
       },
-      "content": "보험 있냐",
+      "content": "예약 몰리면 업체가 임의취소하는곳도 있나보네",
       "deleted": false
     },
     {
-      "id": "c-2035-000069-v8-009",
+      "id": "c-2035-000069-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-15T18:14:31+09:00",
+      "timestamp": "2035-07-15T18:17:29+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "장비수요 몰릴때 대체품 상태 더 잘봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-b1-005",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:29:04+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "{{con:nothuman}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-b1-007",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:44:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "S급 이슈랑 직접관련 있는지는 모르겠음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000069-b1-008",
+      "parentId": null,
+      "timestamp": "2035-07-15T18:56:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.44"
       },
-      "content": "원글 세줄인데 밑이 더김",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-010",
-      "parentId": null,
-      "timestamp": "2035-07-15T18:16:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-15T18:18:16+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-012",
-      "parentId": "c-2035-000069-v8-009",
-      "timestamp": "2035-07-15T18:21:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-013",
-      "parentId": null,
-      "timestamp": "2035-07-15T18:23:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000069-v8-014",
-      "parentId": "c-2035-000069-v8-012",
-      "timestamp": "2035-07-15T18:24:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "보험 있냐",
+      "content": "{{con:stop}}",
       "deleted": false
     }
   ],

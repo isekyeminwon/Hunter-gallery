@@ -33,87 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000047-v8-001",
+      "id": "c-2040-000047-b2m-001",
       "parentId": null,
-      "timestamp": "2040-06-08T17:28:14+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "한성 합격부터 하고 고민하라는 댓글 곧온다",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000047-v8-002",
-      "parentId": null,
-      "timestamp": "2040-06-08T17:30:14+09:00",
+      "timestamp": "2040-06-08T17:26:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "211.246"
       },
-      "content": "마법계 지인이 네뷸라 선호하긴하더라",
+      "content": "취업선호랑 전투서열은 따로 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2040-000047-v8-003",
-      "parentId": "c-2040-000047-v8-001",
-      "timestamp": "2040-06-08T17:32:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000047-v8-004",
+      "id": "c-2040-000047-b2m-002",
       "parentId": null,
-      "timestamp": "2040-06-08T17:34:29+09:00",
+      "timestamp": "2040-06-08T17:29:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "211.246"
       },
-      "content": "복지만 보면 백호 쪽 손드는 사람 많지",
+      "content": "한성은 상위전력 간판이 너무 셈",
       "deleted": false
     },
     {
-      "id": "c-2040-000047-v8-005",
+      "id": "c-2040-000047-b2m-003",
       "parentId": null,
-      "timestamp": "2040-06-08T17:37:48+09:00",
+      "timestamp": "2040-06-08T17:32:39+09:00",
       "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
       },
-      "content": "네뷸라는 교육을 복지로 치냐에서 갈릴듯",
+      "content": "스텔라는 방송노출 싫어하면 호불호 갈릴듯",
       "deleted": false
     },
     {
-      "id": "c-2040-000047-v8-006",
+      "id": "c-2040-000047-b2m-004",
       "parentId": null,
-      "timestamp": "2040-06-08T17:40:37+09:00",
+      "timestamp": "2040-06-08T17:34:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "223.62"
       },
-      "content": "카메라 싫어하면 스텔라는 좀 힘들듯",
+      "content": "상위길드라고 모든 파티 분위기가 같은건 아님",
       "deleted": false
     },
     {
-      "id": "c-2040-000047-v8-007",
-      "parentId": "c-2040-000047-v8-004",
-      "timestamp": "2040-06-08T17:43:13+09:00",
+      "id": "c-2040-000047-b2m-005",
+      "parentId": null,
+      "timestamp": "2040-06-08T17:38:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "39.7"
+      },
+      "content": "마법계면 네뷸라, 장비/복지는 백호 얘기 많이 나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000047-b2m-006",
+      "parentId": null,
+      "timestamp": "2040-06-08T17:41:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
       },
       "content": "취업이면 복지/교육도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000047-b2m-007",
+      "parentId": null,
+      "timestamp": "2040-06-08T17:44:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "전투서열하고 직장선호는 별개임",
       "deleted": false
     }
   ],

@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000019-v8-001",
+      "id": "c-2034-000019-b1-001",
       "parentId": null,
-      "timestamp": "2034-08-18T11:29:39+09:00",
+      "timestamp": "2034-08-18T11:36:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "112.171"
       },
-      "content": "자라",
+      "content": "A급 신인들 이름 벌써 순위표에 다 들어가네",
       "deleted": false
     },
     {
-      "id": "c-2034-000019-v8-002",
+      "id": "c-2034-000019-b1-002",
       "parentId": null,
-      "timestamp": "2034-08-18T11:32:29+09:00",
+      "timestamp": "2034-08-18T11:47:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "117.111"
       },
-      "content": "개웃기네",
+      "content": "기사 한두개로 누가 더 센지 결론내는거 너무 빠름",
       "deleted": false
     },
     {
-      "id": "c-2034-000019-v8-003",
-      "parentId": "c-2034-000019-v8-001",
-      "timestamp": "2034-08-18T11:34:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000019-v8-004",
+      "id": "c-2034-000019-b1-003",
       "parentId": null,
-      "timestamp": "2034-08-18T11:36:29+09:00",
+      "timestamp": "2034-08-18T11:58:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "112.171"
       },
-      "content": "나도그럼",
+      "content": "B급 에이스를 너무 무시하는 분위기도 별로임",
       "deleted": false
     },
     {
-      "id": "c-2034-000019-v8-005",
-      "parentId": "c-2034-000019-v8-004",
-      "timestamp": "2034-08-18T11:39:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000019-v8-006",
-      "parentId": "c-2034-000019-v8-004",
-      "timestamp": "2034-08-18T11:43:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000019-v8-007",
+      "id": "c-2034-000019-b1-004",
       "parentId": null,
-      "timestamp": "2034-08-18T11:46:01+09:00",
+      "timestamp": "2034-08-18T12:02:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "58.29"
       },
-      "content": "댓글보다가 원글 다시읽음",
+      "content": "어느 길드 가는지가 더 궁금함",
       "deleted": false
     },
     {
-      "id": "c-2034-000019-v8-008",
-      "parentId": "c-2034-000019-v8-001",
-      "timestamp": "2034-08-18T11:48:23+09:00",
+      "id": "c-2034-000019-b1-005",
+      "parentId": "c-2034-000019-b1-003",
+      "timestamp": "2034-08-18T12:11:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "117.111"
       },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000019-v8-009",
-      "parentId": null,
-      "timestamp": "2034-08-18T11:51:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000019-v8-010",
-      "parentId": null,
-      "timestamp": "2034-08-18T11:53:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000019-v8-011",
-      "parentId": null,
-      "timestamp": "2034-08-18T11:56:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000019-v8-012",
-      "parentId": null,
-      "timestamp": "2034-08-18T11:59:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "자라",
+      "content": "ㅇㅇ 그럴수는 있음",
       "deleted": false
     }
   ],

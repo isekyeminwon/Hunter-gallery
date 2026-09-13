@@ -33,99 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000062-v8-001",
+      "id": "c-2040-000062-b2m-001",
       "parentId": null,
-      "timestamp": "2040-10-06T21:56:26+09:00",
+      "timestamp": "2040-10-06T21:57:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "106.250"
       },
-      "content": "방송쪽 거부감 있으면 호불호 세겠네",
+      "content": "취업선호랑 전투서열은 따로 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2040-000062-v8-002",
+      "id": "c-2040-000062-b2m-002",
       "parentId": null,
-      "timestamp": "2040-10-06T21:59:43+09:00",
+      "timestamp": "2040-10-06T21:59:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "121.163"
       },
-      "content": "일단 셋다 붙고 고민하자ㅋㅋ",
+      "content": "스텔라는 방송노출 싫어하면 호불호 갈릴듯",
       "deleted": false
     },
     {
-      "id": "c-2040-000062-v8-003",
-      "parentId": "c-2040-000062-v8-002",
-      "timestamp": "2040-10-06T22:03:03+09:00",
+      "id": "c-2040-000062-b2m-003",
+      "parentId": null,
+      "timestamp": "2040-10-06T22:02:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "61.79"
       },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "content": "마법계면 네뷸라, 장비/복지는 백호 얘기 많이 나옴",
       "deleted": false
     },
     {
-      "id": "c-2040-000062-v8-004",
+      "id": "c-2040-000062-b2m-004",
       "parentId": null,
-      "timestamp": "2040-10-06T22:04:59+09:00",
+      "timestamp": "2040-10-06T22:05:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "106.250"
       },
-      "content": "마법계면 선택지에서 네뷸라 못빼지",
+      "content": "상위길드라고 모든 파티 분위기가 같은건 아님",
       "deleted": false
     },
     {
-      "id": "c-2040-000062-v8-005",
-      "parentId": null,
-      "timestamp": "2040-10-06T22:06:29+09:00",
+      "id": "c-2040-000062-b2m-005",
+      "parentId": "c-2040-000062-b2m-002",
+      "timestamp": "2040-10-06T22:08:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "61.79"
       },
-      "content": "지원체계 얘기는 백호쪽 후기가 많더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000062-v8-006",
-      "parentId": null,
-      "timestamp": "2040-10-06T22:10:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "길드 전투순위로 직장 고르는건 좀ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000062-v8-007",
-      "parentId": null,
-      "timestamp": "2040-10-06T22:13:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "지원자 입장에선 붙는곳이 1순위",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000062-v8-008",
-      "parentId": null,
-      "timestamp": "2040-10-06T22:17:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "취업은 전투서열이랑 다름",
+      "content": "붙여주는곳 가는게 제일 현실적ㅋㅋ",
       "deleted": false
     }
   ],

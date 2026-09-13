@@ -33,243 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000031-v8-001",
+      "id": "c-2036-000031-b1-001",
       "parentId": null,
-      "timestamp": "2036-04-18T18:56:43+09:00",
+      "timestamp": "2036-04-18T19:02:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "175.223"
       },
-      "content": "기사 링크 있는사람",
+      "content": "실명/능력명은 아직 출처불명 썰이 너무 많음",
       "deleted": false
     },
     {
-      "id": "c-2036-000031-v8-002",
+      "id": "c-2036-000031-b1-002",
       "parentId": null,
-      "timestamp": "2036-04-18T18:58:35+09:00",
+      "timestamp": "2036-04-18T19:07:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "118.44"
       },
-      "content": "사진 몇장으로 원인확정은 무리임",
+      "content": "미국 두번째 SS 확인된거 자체가 제일 큰 뉴스지",
       "deleted": false
     },
     {
-      "id": "c-2036-000031-v8-003",
+      "id": "c-2036-000031-b1-003",
       "parentId": null,
-      "timestamp": "2036-04-18T19:00:13+09:00",
+      "timestamp": "2036-04-18T19:17:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "175.223"
       },
-      "content": "구경말고 통제 따라가면 됨",
+      "content": "{{con:stop}}",
       "deleted": false
     },
     {
-      "id": "c-2036-000031-v8-004",
-      "parentId": "c-2036-000031-v8-002",
-      "timestamp": "2036-04-18T19:03:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-005",
+      "id": "c-2036-000031-b1-004",
       "parentId": null,
-      "timestamp": "2036-04-18T19:05:08+09:00",
+      "timestamp": "2036-04-18T19:28:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "118.33"
       },
-      "content": "새로 뜬 내용 있냐",
+      "content": "추가내용은 기사주소 같이 올려라",
       "deleted": false
     },
     {
-      "id": "c-2036-000031-v8-006",
+      "id": "c-2036-000031-b1-005",
       "parentId": null,
-      "timestamp": "2036-04-18T19:09:05+09:00",
+      "timestamp": "2036-04-18T19:34:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "175.223"
       },
-      "content": "부상자 추가소식 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-007",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:11:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "아직 조사중인데 욕할사람부터 찾음",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-008",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:15:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-009",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:17:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-010",
-      "parentId": "c-2036-000031-v8-003",
-      "timestamp": "2036-04-18T19:19:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-011",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:22:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-012",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:25:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-013",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:27:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-014",
-      "parentId": "c-2036-000031-v8-009",
-      "timestamp": "2036-04-18T19:28:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-015",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:31:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-016",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:33:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "추가기사 뜬거 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-017",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:35:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-018",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:37:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "책임자 찾는건 존나 빠르네",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-019",
-      "parentId": null,
-      "timestamp": "2036-04-18T19:41:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000031-v8-020",
-      "parentId": "c-2036-000031-v8-013",
-      "timestamp": "2036-04-18T19:44:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "현장근처면 안내부터 봐",
+      "content": "확정정보랑 카더라가 한짤에 섞여다님",
       "deleted": false
     }
   ],

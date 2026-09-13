@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000038-v8-001",
+      "id": "c-2040-000038-b2m-001",
       "parentId": null,
-      "timestamp": "2040-11-09T19:03:27+09:00",
+      "timestamp": "2040-11-09T19:04:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "106.102"
       },
-      "content": "이름보다 현장등급 제한을 봐야됨",
+      "content": "진단서/사고기록/입장기록부터 챙겨",
       "deleted": false
     },
     {
-      "id": "c-2040-000038-v8-002",
+      "id": "c-2040-000038-b2m-002",
       "parentId": null,
-      "timestamp": "2040-11-09T19:06:05+09:00",
+      "timestamp": "2040-11-09T19:07:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "106.102"
       },
-      "content": "보험됨 한줄만 믿지마",
+      "content": "보험사마다 요구서류 달라서 콜센터 한번 확인하는게 빠름",
       "deleted": false
     },
     {
-      "id": "c-2040-000038-v8-003",
-      "parentId": null,
-      "timestamp": "2040-11-09T19:08:00+09:00",
+      "id": "c-2040-000038-b2m-003",
+      "parentId": "c-2040-000038-b2m-001",
+      "timestamp": "2040-11-09T19:10:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "106.102"
       },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "content": "사진만 들고가면 끝나는건 아니더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000038-b2m-004",
+      "parentId": null,
+      "timestamp": "2040-11-09T19:13:55+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "팀에서 작성한 현장보고 있으면 같이 요청해두는게 편함",
       "deleted": false
     }
   ],

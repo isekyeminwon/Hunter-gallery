@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000020-v8-001",
+      "id": "c-2028-000020-b1-001",
       "parentId": null,
-      "timestamp": "2028-11-22T15:48:19+09:00",
+      "timestamp": "2028-11-22T15:53:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "59.5"
       },
-      "content": "보험 있냐",
+      "content": "개인정보 원본제출 요구면 이유부터 물어봐",
       "deleted": false
     },
     {
-      "id": "c-2028-000020-v8-002",
+      "id": "c-2028-000020-b1-002",
       "parentId": null,
-      "timestamp": "2028-11-22T15:52:15+09:00",
+      "timestamp": "2028-11-22T16:02:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "118.41"
       },
-      "content": "조건부터 봐야됨",
+      "content": "위약/장비파손/중도철수 조항부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2028-000020-v8-003",
-      "parentId": "c-2028-000020-v8-002",
-      "timestamp": "2028-11-22T15:55:28+09:00",
+      "id": "c-2028-000020-b1-003",
+      "parentId": null,
+      "timestamp": "2028-11-22T16:11:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "121.140"
       },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "content": "애매하면 서명전에 문의하는게 맞음",
       "deleted": false
     }
   ],

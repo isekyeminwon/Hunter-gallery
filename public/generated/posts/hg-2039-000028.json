@@ -33,171 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000028-v8-001",
+      "id": "c-2039-000028-b2m-001",
       "parentId": null,
-      "timestamp": "2039-05-19T13:54:35+09:00",
+      "timestamp": "2039-05-19T13:55:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "공식확인된건 사고 발생이랑 구조/수습 진행까지고 세부원인은 따로 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000028-b2m-002",
+      "parentId": null,
+      "timestamp": "2039-05-19T13:58:41+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "부상자 신상이나 길드추측은 기사에 없는부분이 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000028-b2m-003",
+      "parentId": null,
+      "timestamp": "2039-05-19T14:02:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "1.239"
       },
-      "content": "사고원인 뜨기전에 길드탓부터 하던거 기억남",
+      "content": "협회랑 민간 합동대응 들어간건 확인된걸로 앎",
       "deleted": false
     },
     {
-      "id": "c-2039-000028-v8-002",
+      "id": "c-2039-000028-b2m-004",
       "parentId": null,
-      "timestamp": "2039-05-19T13:56:03+09:00",
+      "timestamp": "2039-05-19T14:04:46+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "항만쪽은 차량/물자동선까지 섞여서 복잡함",
+      "content": "짧은 영상만 보고 원인 확정하는 글은 거르면 됨",
       "deleted": false
     },
     {
-      "id": "c-2039-000028-v8-003",
-      "parentId": "c-2039-000028-v8-001",
-      "timestamp": "2039-05-19T13:59:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-004",
+      "id": "c-2039-000028-b2m-005",
       "parentId": null,
-      "timestamp": "2039-05-19T14:02:41+09:00",
+      "timestamp": "2039-05-19T14:08:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "39.125"
       },
-      "content": "지원팀 붙으면 평소 파티콜로 안되는 순간 생김",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-005",
-      "parentId": null,
-      "timestamp": "2039-05-19T14:05:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "영상 한각도만 보고 판단하기 힘든 현장임",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-006",
-      "parentId": null,
-      "timestamp": "2039-05-19T14:08:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-007",
-      "parentId": null,
-      "timestamp": "2039-05-19T14:12:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-008",
-      "parentId": null,
-      "timestamp": "2039-05-19T14:15:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-009",
-      "parentId": null,
-      "timestamp": "2039-05-19T14:18:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-010",
-      "parentId": null,
-      "timestamp": "2039-05-19T14:22:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-011",
-      "parentId": null,
-      "timestamp": "2039-05-19T14:24:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-012",
-      "parentId": "c-2039-000028-v8-005",
-      "timestamp": "2039-05-19T14:27:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-013",
-      "parentId": null,
-      "timestamp": "2039-05-19T14:29:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000028-v8-014",
-      "parentId": null,
-      "timestamp": "2039-05-19T14:32:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이거 경험자 하나만 더 와봐",
+      "content": "{{con:wait}}",
       "deleted": false
     }
   ],

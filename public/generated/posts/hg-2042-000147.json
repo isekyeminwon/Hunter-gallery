@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000147-v8-001",
+      "id": "c-2042-000147-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-05T00:58:46+09:00",
+      "timestamp": "2042-09-05T00:57:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "61.79"
       },
-      "content": "김채연 영상은 범위 잡히는 장면이 제일 미침",
+      "content": "김채연 광역영상은 화면밖이 더 무서움",
       "deleted": false
     },
     {
-      "id": "c-2042-000147-v8-002",
+      "id": "c-2042-000147-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-05T01:00:58+09:00",
+      "timestamp": "2042-09-05T00:59:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "39.7"
       },
-      "content": "김채연 영상은 광역장면에서 조회수 터짐",
+      "content": "최근 실적이랑 옛 최고점 섞어놓으면 답 안나옴",
       "deleted": false
     },
     {
-      "id": "c-2042-000147-v8-003",
+      "id": "c-2042-000147-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-05T01:04:07+09:00",
+      "timestamp": "2042-09-05T01:03:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "106.102"
       },
-      "content": "마법계 설명영상은 생각보다 볼만함",
+      "content": "강주아랑 붙이는건 이제 연례행사냐ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000147-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-09-05T01:07:21+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "네뷸라 자료는 비교적 많이 나와서 영상찾기는 편한편",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000147-b2m-005",
+      "parentId": "c-2042-000147-b2m-002",
+      "timestamp": "2042-09-05T01:09:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "최근 실적 기준으로 봐야지",
       "deleted": false
     }
   ],

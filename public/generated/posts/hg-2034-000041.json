@@ -33,51 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000041-v8-001",
+      "id": "c-2034-000041-b1-001",
       "parentId": null,
-      "timestamp": "2034-02-23T23:34:42+09:00",
+      "timestamp": "2034-02-23T23:38:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "223.52"
       },
-      "content": "우린 이거랑 좀 다르게 굴림",
+      "content": "철수 결정났는데 한마리만 더가 제일 위험함",
       "deleted": false
     },
     {
-      "id": "c-2034-000041-v8-002",
+      "id": "c-2034-000041-b1-002",
       "parentId": null,
-      "timestamp": "2034-02-23T23:36:40+09:00",
+      "timestamp": "2034-02-23T23:43:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "211.58"
       },
-      "content": "체크할때 다시본다",
+      "content": "팀장 목소리 안들릴때 대신 콜할 사람도 정해두면 좋음",
       "deleted": false
     },
     {
-      "id": "c-2034-000041-v8-003",
+      "id": "c-2034-000041-b1-003",
       "parentId": null,
-      "timestamp": "2034-02-23T23:39:57+09:00",
+      "timestamp": "2034-02-23T23:54:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "211.58"
       },
-      "content": "한번 데이면 다음부턴 자동으로 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000041-v8-004",
-      "parentId": null,
-      "timestamp": "2034-02-23T23:42:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "들어가기전에 얘기 끝내야됨",
+      "content": "인원체크 두번하는건 과한게 아님",
       "deleted": false
     }
   ],

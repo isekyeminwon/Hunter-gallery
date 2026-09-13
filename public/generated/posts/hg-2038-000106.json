@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000106-v8-001",
+      "id": "c-2038-000106-b2m-001",
       "parentId": null,
-      "timestamp": "2038-04-06T18:28:51+09:00",
+      "timestamp": "2038-04-06T18:31:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.246"
       },
-      "content": "이채린 단독은 요즘 좀 뜸한편",
+      "content": "마법식 도식 나오는 부분은 일반인이 봐도 이해되게 잘풀었더라",
       "deleted": false
     },
     {
-      "id": "c-2038-000106-v8-002",
+      "id": "c-2038-000106-b2m-002",
       "parentId": null,
-      "timestamp": "2038-04-06T18:30:12+09:00",
+      "timestamp": "2038-04-06T18:34:23+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "짤만 돌면 원본 찾기 빡셈",
+      "content": "김채연 실전영상만 보다가 연구파트 보니까 느낌 다르네",
       "deleted": false
     },
     {
-      "id": "c-2038-000106-v8-003",
+      "id": "c-2038-000106-b2m-003",
       "parentId": null,
-      "timestamp": "2038-04-06T18:32:41+09:00",
+      "timestamp": "2038-04-06T18:36:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "125.180"
       },
-      "content": "김채연 영상은 광역장면에서 조회수 터짐",
+      "content": "댓글은 또 전투서열 얘기중ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000106-b2m-004",
+      "parentId": null,
+      "timestamp": "2038-04-06T18:38:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "설명영상인데 편집 안지루해서 의외로 볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000106-b2m-005",
+      "parentId": null,
+      "timestamp": "2038-04-06T18:41:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "{{con:heehee}}",
       "deleted": false
     }
   ],

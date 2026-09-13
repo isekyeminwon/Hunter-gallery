@@ -33,27 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000053-v8-001",
+      "id": "c-2038-000053-b2m-001",
       "parentId": null,
-      "timestamp": "2038-10-14T09:18:19+09:00",
+      "timestamp": "2038-10-14T09:19:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "211.36"
       },
-      "content": "짤만 돌면 원본 찾기 빡셈",
+      "content": "김채연 실전영상만 보다가 연구파트 보니까 느낌 다르네",
       "deleted": false
     },
     {
-      "id": "c-2038-000053-v8-002",
+      "id": "c-2038-000053-b2m-002",
       "parentId": null,
-      "timestamp": "2038-10-14T09:21:24+09:00",
+      "timestamp": "2038-10-14T09:22:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "마법계 설명영상은 생각보다 볼만함",
+      "content": "댓글은 또 전투서열 얘기중ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000053-b2m-003",
+      "parentId": "c-2038-000053-b2m-001",
+      "timestamp": "2038-10-14T09:25:26+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "설명영상인데 편집 안지루해서 의외로 볼만함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000053-b2m-004",
+      "parentId": null,
+      "timestamp": "2038-10-14T09:27:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "마법식 도식 나오는 부분은 일반인이 봐도 이해되게 잘풀었더라",
       "deleted": false
     }
   ],

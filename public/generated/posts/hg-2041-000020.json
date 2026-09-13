@@ -33,243 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000020-v8-001",
+      "id": "c-2041-000020-b2m-001",
       "parentId": null,
-      "timestamp": "2041-11-10T23:40:58+09:00",
+      "timestamp": "2041-11-10T23:42:27+09:00",
       "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
       },
-      "content": "후송/치료 범위도 봐야됨",
+      "content": "역할/장비/콜 이해했는지부터 봄",
       "deleted": false
     },
     {
-      "id": "c-2041-000020-v8-002",
+      "id": "c-2041-000020-b2m-002",
       "parentId": null,
-      "timestamp": "2041-11-10T23:43:15+09:00",
+      "timestamp": "2041-11-10T23:45:23+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "첫날부터 속도 맞추려하지말고 동선 익히게 하는게 낫지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000020-b2m-003",
+      "parentId": "c-2041-000020-b2m-002",
+      "timestamp": "2041-11-10T23:47:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.38"
       },
-      "content": "보험됨 한줄만 믿지마",
+      "content": "실력보다 모르는걸 바로 말하는지 체크하는팀 많더라",
       "deleted": false
     },
     {
-      "id": "c-2041-000020-v8-003",
+      "id": "c-2041-000020-b2m-004",
       "parentId": null,
-      "timestamp": "2041-11-10T23:46:07+09:00",
+      "timestamp": "2041-11-10T23:51:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "124.53"
       },
-      "content": "현장등급 제한 먼저 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-004",
-      "parentId": "c-2041-000020-v8-001",
-      "timestamp": "2041-11-10T23:48:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-005",
-      "parentId": null,
-      "timestamp": "2041-11-10T23:51:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "보험사는 나중이고 범위가 먼저",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-006",
-      "parentId": null,
-      "timestamp": "2041-11-10T23:53:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-007",
-      "parentId": null,
-      "timestamp": "2041-11-10T23:54:36+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-008",
-      "parentId": "c-2041-000020-v8-002",
-      "timestamp": "2041-11-10T23:57:43+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "보험됨 한줄로 끝내면 불안함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-009",
-      "parentId": "c-2041-000020-v8-002",
-      "timestamp": "2041-11-11T00:01:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "보장범위가 제일 중요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-010",
-      "parentId": null,
-      "timestamp": "2041-11-11T00:05:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-011",
-      "parentId": null,
-      "timestamp": "2041-11-11T00:07:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "개인보험만 믿고 팀조건 넘기진마",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-012",
-      "parentId": null,
-      "timestamp": "2041-11-11T00:10:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-013",
-      "parentId": "c-2041-000020-v8-008",
-      "timestamp": "2041-11-11T00:13:23+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-014",
-      "parentId": null,
-      "timestamp": "2041-11-11T00:16:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-015",
-      "parentId": null,
-      "timestamp": "2041-11-11T00:18:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이쯤되면 본문 재확인 필요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-016",
-      "parentId": null,
-      "timestamp": "2041-11-11T00:21:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-017",
-      "parentId": null,
-      "timestamp": "2041-11-11T00:23:41+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "이거 경험자 하나만 더 와봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-018",
-      "parentId": null,
-      "timestamp": "2041-11-11T00:27:27+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-019",
-      "parentId": null,
-      "timestamp": "2041-11-11T00:30:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000020-v8-020",
-      "parentId": "c-2041-000020-v8-015",
-      "timestamp": "2041-11-11T00:33:13+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "content": "철수기준이랑 응급연락 먼저 공유해",
       "deleted": false
     }
   ],

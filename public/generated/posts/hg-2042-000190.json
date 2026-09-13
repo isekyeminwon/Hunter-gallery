@@ -33,63 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000190-v8-001",
+      "id": "c-2042-000190-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-17T08:53:42+09:00",
+      "timestamp": "2042-09-17T08:54:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "117.111"
       },
-      "content": "정성추",
+      "content": "공용가방은 누가 들고 누가 꺼내는지부터 정해",
       "deleted": false
     },
     {
-      "id": "c-2042-000190-v8-002",
+      "id": "c-2042-000190-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T08:54:32+09:00",
+      "timestamp": "2042-09-17T08:54:59+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
       },
-      "content": "화려한 공략보다 이게 초보한텐 나음",
+      "content": "개인비상분까지 공용으로 다묶는건 비추",
       "deleted": false
     },
     {
-      "id": "c-2042-000190-v8-003",
-      "parentId": null,
-      "timestamp": "2042-09-17T08:55:00+09:00",
+      "id": "c-2042-000190-b2m-003",
+      "parentId": "c-2042-000190-b2m-001",
+      "timestamp": "2042-09-17T08:55:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "121.163"
       },
-      "content": "이건 경험값 한번 내면 기억남",
+      "content": "사용량 기록 안하면 후반에 부족해짐",
       "deleted": false
     },
     {
-      "id": "c-2042-000190-v8-004",
-      "parentId": null,
-      "timestamp": "2042-09-17T08:56:26+09:00",
+      "id": "c-2042-000190-b2m-004",
+      "parentId": "c-2042-000190-b2m-001",
+      "timestamp": "2042-09-17T08:57:01+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
       },
-      "content": "우리쪽은 방식이 살짝 다름",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000190-v8-005",
-      "parentId": null,
-      "timestamp": "2042-09-17T08:57:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "이건 사전에 맞춰놔야지",
+      "content": "철수할때 남은수량 한번 세는 습관 들이면 정산편함",
       "deleted": false
     }
   ],

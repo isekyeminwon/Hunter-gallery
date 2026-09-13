@@ -33,51 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000153-v8-001",
+      "id": "c-2042-000153-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-12T18:07:02+09:00",
+      "timestamp": "2042-09-12T18:08:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "223.62"
       },
-      "content": "인원/자격 조건 깨지면 보류나 취소 얘기 나옴",
+      "content": "공략권 취소랑 일시중지는 구분해야됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000153-v8-002",
+      "id": "c-2042-000153-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-12T18:08:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "허위서류면 당연히 문제지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000153-v8-003",
-      "parentId": null,
-      "timestamp": "2042-09-12T18:11:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "팀 마음대로 결정하는건 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000153-v8-004",
-      "parentId": null,
-      "timestamp": "2042-09-12T18:15:12+09:00",
+      "timestamp": "2042-09-12T18:10:09+09:00",
       "author": {
         "type": "fixed",
-        "name": "틀헌터",
+        "name": "마석눈팅",
         "ip": null
       },
-      "content": "사고 한번=자동취소는 아님",
+      "content": "사고 한번 났다고 자동으로 권리 날아가는건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000153-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-09-12T18:12:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "제출 인원/자격조건 깨지거나 허위 있으면 보류될수 있음",
       "deleted": false
     }
   ],

@@ -33,27 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000158-v8-001",
+      "id": "c-2042-000158-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-17T00:21:04+09:00",
+      "timestamp": "2042-09-17T00:21:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "175.223"
       },
-      "content": "보험됨 한줄만 믿지마",
+      "content": "난 바로 지원 안하고 보험 뭐드는지 먼저 물어봄",
       "deleted": false
     },
     {
-      "id": "c-2042-000158-v8-002",
+      "id": "c-2042-000158-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T00:23:59+09:00",
+      "timestamp": "2042-09-17T00:25:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "211.234"
       },
-      "content": "현장등급 제한 먼저 봐",
+      "content": "미표기 자체가 무조건 사기는 아닌데 답변 흐리면 거름",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000158-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-09-17T00:27:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "게이트등급/역할 적혀있는데 보험만 비어있으면 더 물어봐야지",
       "deleted": false
     }
   ],

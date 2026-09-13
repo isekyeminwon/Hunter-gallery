@@ -33,75 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000051-v8-001",
+      "id": "c-2040-000051-b2m-001",
       "parentId": null,
-      "timestamp": "2040-11-11T13:01:03+09:00",
+      "timestamp": "2040-11-11T13:01:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.58"
       },
-      "content": "사진 몇장으로 원인확정은 무리임",
+      "content": "장비점 예약 밀릴수 있겠네",
       "deleted": false
     },
     {
-      "id": "c-2040-000051-v8-002",
+      "id": "c-2040-000051-b2m-002",
       "parentId": null,
-      "timestamp": "2040-11-11T13:03:23+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "출처 링크좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000051-v8-003",
-      "parentId": "c-2040-000051-v8-002",
-      "timestamp": "2040-11-11T13:05:35+09:00",
+      "timestamp": "2040-11-11T13:05:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "59.5"
       },
-      "content": "현장근처면 안내부터 봐",
+      "content": "공지보면 특정장비/현장절차 점검 강화 쪽인듯",
       "deleted": false
     },
     {
-      "id": "c-2040-000051-v8-004",
+      "id": "c-2040-000051-b2m-003",
       "parentId": null,
-      "timestamp": "2040-11-11T13:07:39+09:00",
+      "timestamp": "2040-11-11T13:07:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "182.214"
       },
-      "content": "부상자 상태는 괜찮대?",
+      "content": "전면중단 공지는 아니고 점검기간 늘어날수 있다는 얘기같음",
       "deleted": false
     },
     {
-      "id": "c-2040-000051-v8-005",
+      "id": "c-2040-000051-b2m-004",
       "parentId": null,
-      "timestamp": "2040-11-11T13:10:23+09:00",
+      "timestamp": "2040-11-11T13:10:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "182.214"
       },
-      "content": "근처사는 사람은 교통공지 먼저봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000051-v8-006",
-      "parentId": null,
-      "timestamp": "2040-11-11T13:14:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "아직 조사중인데 욕할사람부터 찾음",
+      "content": "대상현장 범위부터 확인해야지 모든 게이트 얘기는 아님",
       "deleted": false
     }
   ],

@@ -33,27 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000084-v8-001",
+      "id": "c-2042-000084-b2m-001",
       "parentId": null,
-      "timestamp": "2042-07-24T19:38:24+09:00",
+      "timestamp": "2042-07-24T19:39:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "211.246"
       },
-      "content": "해본사람 있냐",
+      "content": "구인글 올렸다고 취소수수료가 자동으로 생기는건 아님",
       "deleted": false
     },
     {
-      "id": "c-2042-000084-v8-002",
+      "id": "c-2042-000084-b2m-002",
       "parentId": null,
-      "timestamp": "2042-07-24T19:41:30+09:00",
+      "timestamp": "2042-07-24T19:40:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "211.58"
       },
-      "content": "이거 답 아는사람?",
+      "content": "수수료 요구하면 근거조항부터 보여달라해",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000084-b2m-003",
+      "parentId": "c-2042-000084-b2m-002",
+      "timestamp": "2042-07-24T19:43:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "계약/예약금 걸린 뒤 취소면 조건에 따라 달라짐",
       "deleted": false
     }
   ],

@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000051-v8-001",
+      "id": "c-2038-000051-b2m-001",
       "parentId": null,
-      "timestamp": "2038-08-03T20:36:57+09:00",
+      "timestamp": "2038-08-03T20:37:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "211.234"
       },
-      "content": "촬영팀 붙으면 동선도 달라질수 있음",
+      "content": "렌탈비에 마운트랑 저장장치 포함인지 물어봐",
       "deleted": false
     },
     {
-      "id": "c-2038-000051-v8-002",
+      "id": "c-2038-000051-b2m-002",
       "parentId": null,
-      "timestamp": "2038-08-03T20:40:28+09:00",
+      "timestamp": "2038-08-03T20:40:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "110.70"
       },
-      "content": "원본콜 있는 영상이 공부할땐 낫더라",
+      "content": "원본파일 용량 때문에 백업까지 생각해야됨",
       "deleted": false
     },
     {
-      "id": "c-2038-000051-v8-003",
-      "parentId": "c-2038-000051-v8-001",
-      "timestamp": "2038-08-03T20:44:00+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "원본콜 있으면 공부는 훨씬 잘됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-004",
-      "parentId": "c-2038-000051-v8-001",
-      "timestamp": "2038-08-03T20:47:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "대기시간 잘리니까 쉬워보이는거",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-005",
-      "parentId": "c-2038-000051-v8-003",
-      "timestamp": "2038-08-03T20:50:26+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "편집본은 잘린시간 감안하고 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-006",
-      "parentId": null,
-      "timestamp": "2038-08-03T20:52:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "영상이 거짓말이라기보다 목적이 다른거",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-007",
-      "parentId": "c-2038-000051-v8-005",
-      "timestamp": "2038-08-03T20:53:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "영상이 구라라기보다 목적이 다른거지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-008",
-      "parentId": null,
-      "timestamp": "2038-08-03T20:57:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-009",
-      "parentId": null,
-      "timestamp": "2038-08-03T20:59:50+09:00",
+      "id": "c-2038-000051-b2m-003",
+      "parentId": "c-2038-000051-b2m-002",
+      "timestamp": "2038-08-03T20:43:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "1.239"
       },
-      "content": "ㄹㅇ",
+      "content": "풀버전 있으면 판단 쉬울듯",
       "deleted": false
     },
     {
-      "id": "c-2038-000051-v8-010",
+      "id": "c-2038-000051-b2m-004",
       "parentId": null,
-      "timestamp": "2038-08-03T21:01:28+09:00",
+      "timestamp": "2038-08-03T20:46:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "223.52"
       },
-      "content": "대댓글만 따로 글파도 되겠다",
+      "content": "게이트 카메라는 화질보다 저조도/배터리/저장시간 체감이 큼",
       "deleted": false
     },
     {
-      "id": "c-2038-000051-v8-011",
-      "parentId": "c-2038-000051-v8-007",
-      "timestamp": "2038-08-03T21:03:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "대기시간 잘리니까 쉬워보이는거",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-012",
+      "id": "c-2038-000051-b2m-005",
       "parentId": null,
-      "timestamp": "2038-08-03T21:06:54+09:00",
+      "timestamp": "2038-08-03T20:48:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "110.70"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-013",
-      "parentId": null,
-      "timestamp": "2038-08-03T21:10:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-014",
-      "parentId": null,
-      "timestamp": "2038-08-03T21:13:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "대기/확인/철수판단이 편집에서 많이 잘림",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-015",
-      "parentId": null,
-      "timestamp": "2038-08-03T21:14:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-016",
-      "parentId": "c-2038-000051-v8-011",
-      "timestamp": "2038-08-03T21:17:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "그건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000051-v8-017",
-      "parentId": null,
-      "timestamp": "2038-08-03T21:20:43+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "편집본만 보면 15분컷 같음ㅋㅋ",
+      "content": "촬영담당 없으면 손에 들고찍는건 동선 방해됨",
       "deleted": false
     }
   ],

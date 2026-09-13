@@ -33,195 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000085-pilot001",
+      "id": "c-2042-000085-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-30T14:01:46+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "마법계면 네뷸라. 이건 팬심 빼도 교육쪽 메리트 큼",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot002",
-      "parentId": null,
-      "timestamp": "2042-08-30T14:04:46+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "복지랑 장비 생각하면 백호",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot003",
-      "parentId": null,
-      "timestamp": "2042-08-30T14:08:14+09:00",
+      "timestamp": "2042-08-30T14:02:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "14.32"
       },
-      "content": "한성 붙여주면 왜 고민함ㅋㅋ",
+      "content": "대형길드라고 모든 팀이 똑같이 굴러가진 않음",
       "deleted": false
     },
     {
-      "id": "c-2042-000085-pilot004",
+      "id": "c-2042-000085-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-30T14:10:37+09:00",
+      "timestamp": "2042-08-30T14:05:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "58.29"
       },
-      "content": "한성은 붙어도 내가 거기서 버틸 자신이 없음",
+      "content": "방송콘텐츠 부담스러운 사람은 스텔라 호불호 있겠지",
       "deleted": false
     },
     {
-      "id": "c-2042-000085-pilot005",
+      "id": "c-2042-000085-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-30T14:13:57+09:00",
+      "timestamp": "2042-08-30T14:07:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "61.79"
       },
-      "content": "능력계열부터 말해야지 질문이 너무 큼",
+      "content": "능력계열이 마법이면 네뷸라, 복지쪽이면 백호 보는사람 많더라",
       "deleted": false
     },
     {
-      "id": "c-2042-000085-pilot006",
+      "id": "c-2042-000085-b2m-004",
       "parentId": null,
-      "timestamp": "2042-08-30T14:15:18+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "백호 장비지원 체감 크다니까 맨날 장비빨이라고 욕함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot007",
-      "parentId": "c-2042-000085-pilot006",
-      "timestamp": "2042-08-30T14:19:06+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "그 장비빨까지 회사 복지인데 왜 빼는데ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot008",
-      "parentId": "c-2042-000085-pilot007",
-      "timestamp": "2042-08-30T14:22:30+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "오늘은 말이 통하네",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot009",
-      "parentId": null,
-      "timestamp": "2042-08-30T14:23:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "네뷸라 마법계 아니어도 감?",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot010",
-      "parentId": "c-2042-000085-pilot009",
-      "timestamp": "2042-08-30T14:26:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "가긴 가는데 굳이 메리트가 큰지는 능력 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot011",
-      "parentId": null,
-      "timestamp": "2042-08-30T14:30:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "스텔라는 왜 뺌",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot012",
-      "parentId": "c-2042-000085-pilot011",
-      "timestamp": "2042-08-30T14:32:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "방송하기 싫다잖아 질문자ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot013",
-      "parentId": "c-2042-000085-pilot012",
-      "timestamp": "2042-08-30T14:33:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "본문에 그런말 없는데",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot014",
-      "parentId": "c-2042-000085-pilot013",
-      "timestamp": "2042-08-30T14:36:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "아 없네 내가 지어냄",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000085-pilot015",
-      "parentId": null,
-      "timestamp": "2042-08-30T14:37:37+09:00",
+      "timestamp": "2042-08-30T14:11:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.62"
       },
-      "content": "결론 붙는곳 감",
+      "content": "직장으로 좋은길드랑 전투력이 센길드는 다른문제지",
       "deleted": false
     },
     {
-      "id": "c-2042-000085-pilot016",
+      "id": "c-2042-000085-b2m-005",
       "parentId": null,
-      "timestamp": "2042-08-30T14:38:40+09:00",
+      "timestamp": "2042-08-30T14:15:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "58.29"
       },
-      "content": "ㄹㅇ 선택권 있는척 하지마",
+      "content": "길드 비교할때 한성은 간판헌터 이름부터 너무 셈",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000085-b2m-006",
+      "parentId": null,
+      "timestamp": "2042-08-30T14:18:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "취업이면 복지/교육도 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000085-b2m-007",
+      "parentId": "c-2042-000085-b2m-002",
+      "timestamp": "2042-08-30T14:20:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "붙여주는곳 가는게 제일 현실적ㅋㅋ",
       "deleted": false
     }
   ],

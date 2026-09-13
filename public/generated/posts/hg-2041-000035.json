@@ -33,267 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000035-v8-001",
+      "id": "c-2041-000035-b2m-001",
       "parentId": null,
-      "timestamp": "2041-02-20T17:21:00+09:00",
+      "timestamp": "2041-02-20T17:19:53+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "길드 어디갈지도 안나왔는데 팬들이 먼저 입사시킴",
+      "content": "A라도 첫 실전이면 운영경험은 따로 쌓아야지",
       "deleted": false
     },
     {
-      "id": "c-2041-000035-v8-002",
+      "id": "c-2041-000035-b2m-002",
       "parentId": null,
-      "timestamp": "2041-02-20T17:24:09+09:00",
+      "timestamp": "2041-02-20T17:23:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "118.33"
       },
-      "content": "첫해부터 TOP10 넣는건 좀 빠르지",
+      "content": "첫해 신인끼리 비교해봐야 자료가 너무 적음",
       "deleted": false
     },
     {
-      "id": "c-2041-000035-v8-003",
+      "id": "c-2041-000035-b2m-003",
       "parentId": null,
-      "timestamp": "2041-02-20T17:25:56+09:00",
+      "timestamp": "2041-02-20T17:27:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "210.178"
       },
-      "content": "신인 기사 세줄로 10년뒤 순위까지 뽑네ㅋㅋ",
+      "content": "{{con:Intelligence}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000035-v8-004",
-      "parentId": "c-2041-000035-v8-001",
-      "timestamp": "2041-02-20T17:27:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "김민찬 B라고 무시할급은 아닌데",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-005",
-      "parentId": "c-2041-000035-v8-004",
-      "timestamp": "2041-02-20T17:30:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "길드 정해지고 봐도 안늦음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-006",
+      "id": "c-2041-000035-b2m-004",
       "parentId": null,
-      "timestamp": "2041-02-20T17:32:23+09:00",
+      "timestamp": "2041-02-20T17:30:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "106.250"
       },
-      "content": "김민찬 B라고 무시하는놈들 B가 뭔지 까먹음",
+      "content": "신인기사 뜨자마자 미래 TOP10까지 뽑네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000035-v8-007",
-      "parentId": "c-2041-000035-v8-006",
-      "timestamp": "2041-02-20T17:34:15+09:00",
+      "id": "c-2041-000035-b2m-005",
+      "parentId": "c-2041-000035-b2m-004",
+      "timestamp": "2041-02-20T17:33:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "118.33"
       },
-      "content": "첫해부터 순위 박는건 좀 빠르지",
+      "content": "상성 넣으면 또 표 다시짜야됨ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000035-v8-008",
-      "parentId": null,
-      "timestamp": "2041-02-20T17:35:40+09:00",
+      "id": "c-2041-000035-b2m-006",
+      "parentId": "c-2041-000035-b2m-005",
+      "timestamp": "2041-02-20T17:36:34+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "A 둘 뜨면 왜 꼭 싸움붙이냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-009",
-      "parentId": "c-2041-000035-v8-008",
-      "timestamp": "2041-02-20T17:39:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "신인 기사 몇줄로 다아는척함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-010",
-      "parentId": null,
-      "timestamp": "2041-02-20T17:41:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "대댓글이 본문 잡아먹었네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-011",
-      "parentId": "c-2041-000035-v8-009",
-      "timestamp": "2041-02-20T17:43:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "A 둘이면 꼭 비교 붙이더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-012",
-      "parentId": "c-2041-000035-v8-010",
-      "timestamp": "2041-02-20T17:45:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "첫해부터 순위 박는건 좀 빠르지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-013",
-      "parentId": "c-2041-000035-v8-009",
-      "timestamp": "2041-02-20T17:49:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "A 둘이면 꼭 비교 붙이더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-014",
-      "parentId": "c-2041-000035-v8-012",
-      "timestamp": "2041-02-20T17:51:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "김민찬 B라고 무시할급은 아닌데",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-015",
-      "parentId": null,
-      "timestamp": "2041-02-20T17:53:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-016",
-      "parentId": null,
-      "timestamp": "2041-02-20T17:56:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-017",
-      "parentId": null,
-      "timestamp": "2041-02-20T17:59:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-018",
-      "parentId": "c-2041-000035-v8-017",
-      "timestamp": "2041-02-20T18:02:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "김민찬 B라고 무시할급은 아닌데",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-019",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:06:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-020",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:09:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-021",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:12:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000035-v8-022",
-      "parentId": null,
-      "timestamp": "2041-02-20T18:14:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "이건 처음듣네",
+      "content": "최근실적 기준인지 최고점 기준인지부터 맞춰",
       "deleted": false
     }
   ],

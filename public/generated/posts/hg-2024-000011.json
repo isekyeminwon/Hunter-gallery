@@ -33,27 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2024-000011-v8-001",
+      "id": "c-2024-000011-b1-001",
       "parentId": null,
-      "timestamp": "2024-10-22T17:07:15+09:00",
+      "timestamp": "2024-10-22T17:11:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "106.245"
       },
-      "content": "스무살 규칙은 이제 거의 굳어진 느낌",
+      "content": "사람 줄 안내랑 서류작성 도와주는게 대부분이라던데",
       "deleted": false
     },
     {
-      "id": "c-2024-000011-v8-002",
+      "id": "c-2024-000011-b1-002",
       "parentId": null,
-      "timestamp": "2024-10-22T17:08:51+09:00",
+      "timestamp": "2024-10-22T17:19:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "220.79"
       },
-      "content": "등급표 중간 비는건 아직도 어색함",
+      "content": "개인 측정결과 보게되는 자리면 보안서약 있을거같음",
+      "deleted": false
+    },
+    {
+      "id": "c-2024-000011-b1-003",
+      "parentId": null,
+      "timestamp": "2024-10-22T17:27:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "오픈초기라 민원응대가 제일 빡셀듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2024-000011-b1-004",
+      "parentId": "c-2024-000011-b1-003",
+      "timestamp": "2024-10-22T17:31:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.245"
+      },
+      "content": "시급보다 사람수 감당되냐가 문제ㅋㅋ",
       "deleted": false
     }
   ],

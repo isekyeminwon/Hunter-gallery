@@ -33,195 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000038-v8-001",
+      "id": "c-2033-000038-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-20T09:58:38+09:00",
+      "timestamp": "2033-09-20T10:02:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
+      },
+      "content": "검신이라고 검 하나만 쓴다는 뜻은 아니잖아ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000038-b1-002",
+      "parentId": null,
+      "timestamp": "2033-09-20T10:08:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "풀공략 영상 더 나와야 알듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000038-b1-003",
+      "parentId": null,
+      "timestamp": "2033-09-20T10:14:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "61.79"
       },
-      "content": "첫번엔 나도 잘못알았음",
+      "content": "훈련영상에 다른 형태로 보이는 장면 있다는 말은 있는데 난 못찾음",
       "deleted": false
     },
     {
-      "id": "c-2033-000038-v8-002",
-      "parentId": null,
-      "timestamp": "2033-09-20T10:01:39+09:00",
+      "id": "c-2033-000038-b1-004",
+      "parentId": "c-2033-000038-b1-003",
+      "timestamp": "2033-09-20T10:21:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "58.29"
       },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-003",
-      "parentId": null,
-      "timestamp": "2033-09-20T10:04:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "최신 후기 찾기가 더힘듦",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-004",
-      "parentId": "c-2033-000038-v8-002",
-      "timestamp": "2033-09-20T10:06:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-005",
-      "parentId": "c-2033-000038-v8-004",
-      "timestamp": "2033-09-20T10:09:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-006",
-      "parentId": "c-2033-000038-v8-004",
-      "timestamp": "2033-09-20T10:13:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-007",
-      "parentId": null,
-      "timestamp": "2033-09-20T10:15:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-008",
-      "parentId": null,
-      "timestamp": "2033-09-20T10:18:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "나도 옆에서 질문좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-009",
-      "parentId": null,
-      "timestamp": "2033-09-20T10:20:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "니들 왜 갑자기 싸우냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-010",
-      "parentId": "c-2033-000038-v8-007",
-      "timestamp": "2033-09-20T10:22:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-20T10:24:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "뉴비면 이거 모를수있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-012",
-      "parentId": "c-2033-000038-v8-006",
-      "timestamp": "2033-09-20T10:26:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-013",
-      "parentId": "c-2033-000038-v8-007",
-      "timestamp": "2033-09-20T10:30:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-014",
-      "parentId": "c-2033-000038-v8-012",
-      "timestamp": "2033-09-20T10:33:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-015",
-      "parentId": null,
-      "timestamp": "2033-09-20T10:35:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000038-v8-016",
-      "parentId": null,
-      "timestamp": "2033-09-20T10:37:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㄹㅇ",
+      "content": "공개영상 기준으론 주로 한자루로 보이는데 그게 전부인진 모르지",
       "deleted": false
     }
   ],

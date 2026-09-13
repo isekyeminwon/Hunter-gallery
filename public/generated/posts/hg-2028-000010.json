@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000010-v8-001",
+      "id": "c-2028-000010-b1-001",
       "parentId": null,
-      "timestamp": "2028-01-23T04:49:37+09:00",
+      "timestamp": "2028-01-23T04:56:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "124.53"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "content": "공략권값이랑 실제 마석수익은 따로 계산해야됨",
       "deleted": false
     },
     {
-      "id": "c-2028-000010-v8-002",
+      "id": "c-2028-000010-b1-002",
       "parentId": null,
-      "timestamp": "2028-01-23T04:52:24+09:00",
+      "timestamp": "2028-01-23T05:03:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "223.39"
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "공략권 입찰 시작하니까 진짜 업계 느낌나네",
       "deleted": false
     },
     {
-      "id": "c-2028-000010-v8-003",
+      "id": "c-2028-000010-b1-003",
       "parentId": null,
-      "timestamp": "2028-01-23T04:55:51+09:00",
+      "timestamp": "2028-01-23T05:14:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "175.194"
       },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
+      "content": "매입가 확정전 예상금액으로 나누지마",
       "deleted": false
     },
     {
-      "id": "c-2028-000010-v8-004",
+      "id": "c-2028-000010-b1-004",
       "parentId": null,
-      "timestamp": "2028-01-23T04:59:27+09:00",
+      "timestamp": "2028-01-23T05:18:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "223.39"
       },
-      "content": "예상금액으로 먼저 싸우지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000010-v8-005",
-      "parentId": null,
-      "timestamp": "2028-01-23T05:00:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000010-v8-006",
-      "parentId": null,
-      "timestamp": "2028-01-23T05:04:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "당일도 있고 며칠뒤도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000010-v8-007",
-      "parentId": null,
-      "timestamp": "2028-01-23T05:06:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000010-v8-008",
-      "parentId": null,
-      "timestamp": "2028-01-23T05:08:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "다른팀은 어케함",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000010-v8-009",
-      "parentId": null,
-      "timestamp": "2028-01-23T05:11:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000010-v8-010",
-      "parentId": null,
-      "timestamp": "2028-01-23T05:15:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000010-v8-011",
-      "parentId": null,
-      "timestamp": "2028-01-23T05:18:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000010-v8-012",
-      "parentId": null,
-      "timestamp": "2028-01-23T05:21:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "난 반대",
+      "content": "마석은 회수보다 정산에서 싸움나는게 더 귀찮음",
       "deleted": false
     }
   ],

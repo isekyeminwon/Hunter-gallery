@@ -33,171 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000039-v8-001",
+      "id": "c-2033-000039-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-21T18:13:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-002",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:15:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "현장등급 제한 먼저 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-003",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:17:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-004",
-      "parentId": "c-2033-000039-v8-001",
-      "timestamp": "2033-09-21T18:18:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "보험됨 한줄로 끝내면 불안함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-005",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:21:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-006",
-      "parentId": "c-2033-000039-v8-001",
-      "timestamp": "2033-09-21T18:24:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "보장범위가 제일 중요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-007",
-      "parentId": null,
-      "timestamp": "2033-09-21T18:27:52+09:00",
+      "timestamp": "2033-09-21T18:15:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.223"
       },
-      "content": "누가 가입시키는지부터 확인",
+      "content": "기존가입자 적용여부도 따로 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2033-000039-v8-008",
-      "parentId": "c-2033-000039-v8-004",
-      "timestamp": "2033-09-21T18:30:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-009",
-      "parentId": "c-2033-000039-v8-006",
-      "timestamp": "2033-09-21T18:33:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-010",
-      "parentId": "c-2033-000039-v8-008",
-      "timestamp": "2033-09-21T18:37:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "후송/치료 범위도 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-011",
-      "parentId": "c-2033-000039-v8-004",
-      "timestamp": "2033-09-21T18:41:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "후송/치료 범위도 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-012",
+      "id": "c-2033-000039-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-21T18:42:31+09:00",
+      "timestamp": "2033-09-21T18:21:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "118.41"
       },
-      "content": "보험됨 한줄만 믿지마",
+      "content": "SS 하나 나왔다고 전국 약관이 당장 바뀌진 않겠지",
       "deleted": false
     },
     {
-      "id": "c-2033-000039-v8-013",
+      "id": "c-2033-000039-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-21T18:44:10+09:00",
+      "timestamp": "2033-09-21T18:29:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "58.29"
       },
-      "content": "후송/치료 범위도 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000039-v8-014",
-      "parentId": "c-2033-000039-v8-013",
-      "timestamp": "2033-09-21T18:47:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "보장범위가 제일 중요함",
+      "content": "고위험등급 특약 검토한다는 기사랑 확정개정은 다름",
       "deleted": false
     }
   ],

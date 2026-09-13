@@ -33,39 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000042-v8-001",
+      "id": "c-2031-000042-b1-001",
       "parentId": null,
-      "timestamp": "2031-07-03T12:02:48+09:00",
+      "timestamp": "2031-07-03T12:08:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "223.33"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
+      "content": "모자이크 하고 올려",
       "deleted": false
     },
     {
-      "id": "c-2031-000042-v8-002",
+      "id": "c-2031-000042-b1-002",
       "parentId": null,
-      "timestamp": "2031-07-03T12:04:25+09:00",
+      "timestamp": "2031-07-03T12:15:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "118.235"
       },
-      "content": "이건 최신 공지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000042-v8-003",
-      "parentId": "c-2031-000042-v8-001",
-      "timestamp": "2031-07-03T12:07:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
+      "content": "사고현장이면 얼굴 그대로 퍼오는건 더 위험함",
       "deleted": false
     }
   ],

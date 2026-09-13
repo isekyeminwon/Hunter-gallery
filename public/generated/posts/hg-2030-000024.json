@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000024-v8-001",
+      "id": "c-2030-000024-b1-001",
       "parentId": null,
-      "timestamp": "2030-11-03T23:33:42+09:00",
+      "timestamp": "2030-11-03T23:34:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "223.39"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "방송 끊긴 직후부터 확인안된 캡처가 너무 많이 돎",
       "deleted": false
     },
     {
-      "id": "c-2030-000024-v8-002",
+      "id": "c-2030-000024-b1-002",
       "parentId": null,
-      "timestamp": "2030-11-03T23:36:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "신고해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000024-v8-003",
-      "parentId": null,
-      "timestamp": "2030-11-03T23:40:03+09:00",
+      "timestamp": "2030-11-03T23:43:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "14.32"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "별하나 생존 확인된건 그나마 다행이다",
       "deleted": false
     },
     {
-      "id": "c-2030-000024-v8-004",
+      "id": "c-2030-000024-b1-003",
       "parentId": null,
-      "timestamp": "2030-11-03T23:42:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "그 규정 아직 안바뀜?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000024-v8-005",
-      "parentId": "c-2030-000024-v8-002",
-      "timestamp": "2030-11-03T23:46:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000024-v8-006",
-      "parentId": null,
-      "timestamp": "2030-11-03T23:50:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이건 최신 공지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000024-v8-007",
-      "parentId": null,
-      "timestamp": "2030-11-03T23:53:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "규정이랑 관행은 또 다를수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000024-v8-008",
-      "parentId": null,
-      "timestamp": "2030-11-03T23:56:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000024-v8-009",
-      "parentId": "c-2030-000024-v8-004",
-      "timestamp": "2030-11-03T23:59:53+09:00",
+      "timestamp": "2030-11-03T23:48:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "14.32"
       },
-      "content": "최신 공지 한번 봐야겠네",
+      "content": "원인 나오기도 전에 책임자부터 찾는건 너무 빠름",
       "deleted": false
     },
     {
-      "id": "c-2030-000024-v8-010",
+      "id": "c-2030-000024-b1-004",
       "parentId": null,
-      "timestamp": "2030-11-04T00:02:36+09:00",
+      "timestamp": "2030-11-03T23:53:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "118.33"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000024-v8-011",
-      "parentId": "c-2030-000024-v8-009",
-      "timestamp": "2030-11-04T00:04:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000024-v8-012",
-      "parentId": null,
-      "timestamp": "2030-11-04T00:08:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "다른팀은 어케함",
+      "content": "공연 보던 사람들은 진짜 멘탈 나가겠다",
       "deleted": false
     }
   ],

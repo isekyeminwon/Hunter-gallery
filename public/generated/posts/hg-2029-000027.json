@@ -33,123 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000027-v8-001",
+      "id": "c-2029-000027-b1-001",
       "parentId": null,
-      "timestamp": "2029-04-07T15:15:31+09:00",
+      "timestamp": "2029-04-07T15:18:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "182.214"
       },
-      "content": "한성 붙으면 왜 고민하냐는놈 곧옴ㅋㅋ",
+      "content": "비공식인데 디자인은 공식문서급임",
       "deleted": false
     },
     {
-      "id": "c-2029-000027-v8-002",
+      "id": "c-2029-000027-b1-002",
       "parentId": null,
-      "timestamp": "2029-04-07T15:17:48+09:00",
+      "timestamp": "2029-04-07T15:26:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "182.214"
       },
-      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
+      "content": "실적이랑 팬심이랑 섞여서 답없음",
       "deleted": false
     },
     {
-      "id": "c-2029-000027-v8-003",
+      "id": "c-2029-000027-b1-003",
       "parentId": null,
-      "timestamp": "2029-04-07T15:21:27+09:00",
+      "timestamp": "2029-04-07T15:31:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "121.140"
       },
-      "content": "취업은 전투서열이랑 다름",
+      "content": "내최애 1위 넣으면 끝나는 문제",
       "deleted": false
     },
     {
-      "id": "c-2029-000027-v8-004",
-      "parentId": null,
-      "timestamp": "2029-04-07T15:25:22+09:00",
+      "id": "c-2029-000027-b1-004",
+      "parentId": "c-2029-000027-b1-001",
+      "timestamp": "2029-04-07T15:38:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "182.214"
       },
-      "content": "스텔라는 방송 싫으면 호불호 씨게 갈림",
+      "content": "최근 실적도 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2029-000027-v8-005",
-      "parentId": null,
-      "timestamp": "2029-04-07T15:28:51+09:00",
+      "id": "c-2029-000027-b1-005",
+      "parentId": "c-2029-000027-b1-004",
+      "timestamp": "2029-04-07T15:45:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "175.194"
       },
-      "content": "마법계면 네뷸라 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000027-v8-006",
-      "parentId": null,
-      "timestamp": "2029-04-07T15:31:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "결론 붙여주는곳 감",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000027-v8-007",
-      "parentId": "c-2029-000027-v8-004",
-      "timestamp": "2029-04-07T15:34:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000027-v8-008",
-      "parentId": "c-2029-000027-v8-005",
-      "timestamp": "2029-04-07T15:36:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000027-v8-009",
-      "parentId": "c-2029-000027-v8-007",
-      "timestamp": "2029-04-07T15:39:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000027-v8-010",
-      "parentId": "c-2029-000027-v8-007",
-      "timestamp": "2029-04-07T15:40:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
+      "content": "난 저순위 반대",
       "deleted": false
     }
   ],

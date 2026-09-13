@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000077-v8-001",
+      "id": "c-2040-000077-b2m-001",
       "parentId": null,
-      "timestamp": "2040-10-08T15:19:30+09:00",
+      "timestamp": "2040-10-08T15:17:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "39.125"
       },
-      "content": "지원팀 붙으면 평소 파티콜로 안되는 순간 생김",
+      "content": "정액으로 붙는곳도 있고 기본일당 비율로 붙는곳도 있어서 숫자 하나 못박기 힘듦",
       "deleted": false
     },
     {
-      "id": "c-2040-000077-v8-002",
+      "id": "c-2040-000077-b2m-002",
       "parentId": null,
-      "timestamp": "2040-10-08T15:22:21+09:00",
+      "timestamp": "2040-10-08T15:20:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "220.79"
       },
-      "content": "사고원인 뜨기전에 길드탓부터 하던거 기억남",
+      "content": "야간/장시간 대기까지 들어가면 체감 확 달라짐",
       "deleted": false
     }
   ],

@@ -33,97 +33,37 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000014-v8-001",
+      "id": "c-2026-000014-b1-001",
       "parentId": null,
-      "timestamp": "2026-07-25T20:33:46+09:00",
+      "timestamp": "2026-07-25T20:42:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "124.53"
       },
-      "content": "댓글이 영상보다 재밌음",
+      "content": "원본 링크 있는사람",
       "deleted": false
     },
     {
-      "id": "c-2026-000014-v8-002",
+      "id": "c-2026-000014-b1-002",
       "parentId": null,
-      "timestamp": "2026-07-25T20:35:16+09:00",
+      "timestamp": "2026-07-25T20:52:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "106.102"
       },
-      "content": "편집은 잘했네",
+      "content": "팬계정 짤보다 공식영상부터 보고싶음",
       "deleted": false
     },
     {
-      "id": "c-2026-000014-v8-003",
-      "parentId": "c-2026-000014-v8-002",
-      "timestamp": "2026-07-25T20:38:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "그장면 봤음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000014-v8-004",
-      "parentId": "c-2026-000014-v8-003",
-      "timestamp": "2026-07-25T20:40:27+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000014-v8-005",
+      "id": "c-2026-000014-b1-003",
       "parentId": null,
-      "timestamp": "2026-07-25T20:42:54+09:00",
+      "timestamp": "2026-07-25T21:02:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "공식채널부터 봐야겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000014-v8-006",
-      "parentId": null,
-      "timestamp": "2026-07-25T20:46:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "왜 여기서 싸우냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000014-v8-007",
-      "parentId": null,
-      "timestamp": "2026-07-25T20:48:17+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000014-v8-008",
-      "parentId": "c-2026-000014-v8-006",
-      "timestamp": "2026-07-25T20:50:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "112.171"
       },
       "content": "풀버전 있냐",
       "deleted": false

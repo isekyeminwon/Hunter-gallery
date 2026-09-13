@@ -33,171 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000006-v8-001",
+      "id": "c-2026-000006-b1-001",
       "parentId": null,
-      "timestamp": "2026-04-07T09:40:30+09:00",
+      "timestamp": "2026-04-07T09:44:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "220.79"
       },
-      "content": "규정이랑 관행은 또 다를수 있음",
+      "content": "게이트 사고면 협회 조사팀이 붙는거 맞는걸로 앎",
       "deleted": false
     },
     {
-      "id": "c-2026-000006-v8-002",
+      "id": "c-2026-000006-b1-002",
       "parentId": null,
-      "timestamp": "2026-04-07T09:43:41+09:00",
+      "timestamp": "2026-04-07T09:55:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "118.235"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "사고종류 따라 담당기관 하나로 끝나진 않을걸",
       "deleted": false
     },
     {
-      "id": "c-2026-000006-v8-003",
+      "id": "c-2026-000006-b1-003",
       "parentId": null,
-      "timestamp": "2026-04-07T09:45:20+09:00",
+      "timestamp": "2026-04-07T10:03:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "220.79"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "장비/공략절차 위반은 협회쪽이 더 잘보는듯",
       "deleted": false
     },
     {
-      "id": "c-2026-000006-v8-004",
-      "parentId": null,
-      "timestamp": "2026-04-07T09:47:48+09:00",
+      "id": "c-2026-000006-b1-004",
+      "parentId": "c-2026-000006-b1-001",
+      "timestamp": "2026-04-07T10:12:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "124.53"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-005",
-      "parentId": null,
-      "timestamp": "2026-04-07T09:51:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 최신 공지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-006",
-      "parentId": null,
-      "timestamp": "2026-04-07T09:53:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "신고해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-007",
-      "parentId": null,
-      "timestamp": "2026-04-07T09:56:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-008",
-      "parentId": null,
-      "timestamp": "2026-04-07T09:58:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-009",
-      "parentId": null,
-      "timestamp": "2026-04-07T10:01:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "해본사람 더있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-010",
-      "parentId": null,
-      "timestamp": "2026-04-07T10:04:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-011",
-      "parentId": "c-2026-000006-v8-008",
-      "timestamp": "2026-04-07T10:07:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-012",
-      "parentId": null,
-      "timestamp": "2026-04-07T10:10:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-013",
-      "parentId": null,
-      "timestamp": "2026-04-07T10:14:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000006-v8-014",
-      "parentId": null,
-      "timestamp": "2026-04-07T10:16:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "ㄹㅇ",
+      "content": "형사사건이면 경찰이랑 같이 움직이는 구조겠지",
       "deleted": false
     }
   ],

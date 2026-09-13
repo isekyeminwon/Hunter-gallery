@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000031-v8-001",
+      "id": "c-2035-000031-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-12T22:13:27+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "영상이 거짓말이라기보다 목적이 다른거",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000031-v8-002",
-      "parentId": null,
-      "timestamp": "2035-07-12T22:16:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "촬영팀 붙으면 동선도 달라질수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000031-v8-003",
-      "parentId": "c-2035-000031-v8-001",
-      "timestamp": "2035-07-12T22:18:15+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "영상이 구라라기보다 목적이 다른거지",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000031-v8-004",
-      "parentId": "c-2035-000031-v8-003",
-      "timestamp": "2035-07-12T22:19:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "대기시간 잘리니까 쉬워보이는거",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000031-v8-005",
-      "parentId": null,
-      "timestamp": "2035-07-12T22:21:29+09:00",
+      "timestamp": "2035-07-12T22:16:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "대기/확인/철수판단이 편집에서 많이 잘림",
+      "content": "카메라 경험 요구하는 글 늘었더라",
       "deleted": false
     },
     {
-      "id": "c-2035-000031-v8-006",
-      "parentId": "c-2035-000031-v8-005",
-      "timestamp": "2035-07-12T22:22:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "원본콜 있으면 공부는 훨씬 잘됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000031-v8-007",
-      "parentId": "c-2035-000031-v8-002",
-      "timestamp": "2035-07-12T22:24:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "편집본은 잘린시간 감안하고 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000031-v8-008",
+      "id": "c-2035-000031-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-12T22:26:16+09:00",
+      "timestamp": "2035-07-12T22:26:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "촬영보조라고 해놓고 현장짐까지 다시키는 공고 조심",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000031-b1-003",
+      "parentId": "c-2035-000031-b1-002",
+      "timestamp": "2035-07-12T22:38:05+09:00",
       "author": {
         "type": "fixed",
         "name": "별빛단7기",
         "ip": null
       },
-      "content": "원글 세줄인데 밑이 더김",
+      "content": "이슈 뜨면 급구부터 늘어나는거 빠름",
       "deleted": false
     },
     {
-      "id": "c-2035-000031-v8-009",
+      "id": "c-2035-000031-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-12T22:29:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "원본콜 있는 영상이 공부할땐 낫더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000031-v8-010",
-      "parentId": "c-2035-000031-v8-007",
-      "timestamp": "2035-07-12T22:31:24+09:00",
+      "timestamp": "2035-07-12T22:49:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "대기시간 잘리니까 쉬워보이는거",
+      "content": "보험/현장등급 적힌 공고만 보는게 낫지",
       "deleted": false
     },
     {
-      "id": "c-2035-000031-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-12T22:32:57+09:00",
+      "id": "c-2035-000031-b1-005",
+      "parentId": "c-2035-000031-b1-004",
+      "timestamp": "2035-07-12T22:53:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "106.101"
       },
-      "content": "편집본만 보면 15분컷 같음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000031-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-12T22:36:17+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "나도 그 조건이면 한번 더 물어봄",
       "deleted": false
     }
   ],

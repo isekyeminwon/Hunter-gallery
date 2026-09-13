@@ -33,195 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000022-v8-001",
+      "id": "c-2033-000022-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-17T00:24:11+09:00",
+      "timestamp": "2033-09-17T00:30:09+09:00",
       "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
       },
-      "content": "보험 있냐",
+      "content": "장비점 사장들 오늘 행복하겠다",
       "deleted": false
     },
     {
-      "id": "c-2033-000022-v8-002",
+      "id": "c-2033-000022-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-17T00:26:57+09:00",
+      "timestamp": "2033-09-17T00:35:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "121.140"
       },
-      "content": "보험 있냐",
+      "content": "헌터용 검은 규격/능력 맞아야되는데",
       "deleted": false
     },
     {
-      "id": "c-2033-000022-v8-003",
+      "id": "c-2033-000022-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-17T00:30:44+09:00",
+      "timestamp": "2033-09-17T00:39:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "121.140"
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "이시율 본다고 같은검 사는건 뭐냐ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000022-v8-004",
+      "id": "c-2033-000022-b1-004",
+      "parentId": "c-2033-000022-b1-001",
+      "timestamp": "2033-09-17T00:48:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "나도 그 조건이면 한번 더 물어봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000022-b1-005",
       "parentId": null,
-      "timestamp": "2033-09-17T00:33:21+09:00",
+      "timestamp": "2033-09-17T00:56:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "211.235"
       },
-      "content": "계약주체 누구임",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-005",
-      "parentId": "c-2033-000022-v8-004",
-      "timestamp": "2033-09-17T00:36:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-006",
-      "parentId": "c-2033-000022-v8-003",
-      "timestamp": "2033-09-17T00:39:37+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-007",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:43:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-008",
-      "parentId": "c-2033-000022-v8-002",
-      "timestamp": "2033-09-17T00:46:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-009",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:50:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-010",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:53:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-011",
-      "parentId": "c-2033-000022-v8-009",
-      "timestamp": "2033-09-17T00:55:46+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-012",
-      "parentId": null,
-      "timestamp": "2033-09-17T00:57:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-013",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:00:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "다른팀은 어케함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-014",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:03:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-015",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:05:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000022-v8-016",
-      "parentId": null,
-      "timestamp": "2033-09-17T01:08:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "예상시간 몇시간인데",
+      "content": "저가 검계열 장비부터 품절된건 팬수요도 섞였을듯",
       "deleted": false
     }
   ],

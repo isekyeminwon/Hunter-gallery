@@ -33,159 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000005-v8-001",
+      "id": "c-2030-000005-b1-001",
       "parentId": null,
-      "timestamp": "2030-04-19T10:53:54+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000005-v8-002",
-      "parentId": null,
-      "timestamp": "2030-04-19T10:56:37+09:00",
+      "timestamp": "2030-04-19T10:59:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "118.221"
       },
-      "content": "나도그럼",
+      "content": "강무혁이랑 바로 비교붙이는건 너무 빠르지",
       "deleted": false
     },
     {
-      "id": "c-2030-000005-v8-003",
+      "id": "c-2030-000005-b1-002",
       "parentId": null,
-      "timestamp": "2030-04-19T10:59:32+09:00",
+      "timestamp": "2030-04-19T11:04:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "223.52"
       },
-      "content": "ㄹㅇ",
+      "content": "공식훈련 영상 보니까 S 체급은 확실히 다르긴함",
       "deleted": false
     },
     {
-      "id": "c-2030-000005-v8-004",
-      "parentId": null,
-      "timestamp": "2030-04-19T11:02:04+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000005-v8-005",
-      "parentId": null,
-      "timestamp": "2030-04-19T11:05:23+09:00",
+      "id": "c-2030-000005-b1-003",
+      "parentId": "c-2030-000005-b1-001",
+      "timestamp": "2030-04-19T11:15:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "223.52"
       },
-      "content": "ㅋㅋ",
+      "content": "계약 능력 세부설명 더 필요함",
       "deleted": false
     },
     {
-      "id": "c-2030-000005-v8-006",
+      "id": "c-2030-000005-b1-004",
       "parentId": null,
-      "timestamp": "2030-04-19T11:08:38+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000005-v8-007",
-      "parentId": null,
-      "timestamp": "2030-04-19T11:11:50+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000005-v8-008",
-      "parentId": null,
-      "timestamp": "2030-04-19T11:15:28+09:00",
+      "timestamp": "2030-04-19T11:25:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "175.194"
       },
-      "content": "난 반대",
+      "content": "새 S 뜨자마자 백호썰부터 도는거 개빠르네",
       "deleted": false
     },
     {
-      "id": "c-2030-000005-v8-009",
+      "id": "c-2030-000005-b1-005",
       "parentId": null,
-      "timestamp": "2030-04-19T11:17:37+09:00",
+      "timestamp": "2030-04-19T11:34:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "118.221"
       },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000005-v8-010",
-      "parentId": "c-2030-000005-v8-008",
-      "timestamp": "2030-04-19T11:21:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000005-v8-011",
-      "parentId": "c-2030-000005-v8-004",
-      "timestamp": "2030-04-19T11:23:17+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000005-v8-012",
-      "parentId": null,
-      "timestamp": "2030-04-19T11:27:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000005-v8-013",
-      "parentId": null,
-      "timestamp": "2030-04-19T11:30:51+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "장비업체 광고 붙는 속도 미쳤네",
       "deleted": false
     }
   ],

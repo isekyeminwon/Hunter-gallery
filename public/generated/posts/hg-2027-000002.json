@@ -33,267 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000002-v8-001",
+      "id": "c-2027-000002-b1-001",
       "parentId": null,
-      "timestamp": "2027-02-15T13:00:48+09:00",
+      "timestamp": "2027-02-15T13:03:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "175.214"
       },
-      "content": "브리핑 더나왔음?",
+      "content": "측정 의무면 생일 지나자마자 예약전쟁이겠네",
       "deleted": false
     },
     {
-      "id": "c-2027-000002-v8-002",
+      "id": "c-2027-000002-b1-002",
       "parentId": null,
-      "timestamp": "2027-02-15T13:03:47+09:00",
+      "timestamp": "2027-02-15T13:14:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "106.101"
       },
-      "content": "책임공방 속도는 진짜 빠르다",
+      "content": "검사결과 회사에 어디까지 보여줘야되는지가 더 문제임",
       "deleted": false
     },
     {
-      "id": "c-2027-000002-v8-003",
+      "id": "c-2027-000002-b1-003",
+      "parentId": "c-2027-000002-b1-001",
+      "timestamp": "2027-02-15T13:23:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "ㅇㅇ 그부분은 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000002-b1-004",
       "parentId": null,
-      "timestamp": "2027-02-15T13:05:44+09:00",
+      "timestamp": "2027-02-15T13:32:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "118.47"
       },
-      "content": "통제중이면 근처사람은 안내부터 들어",
+      "content": "재검으로 수치 조금 바뀌어도 등급까지 뒤집히는건 드물다던데",
       "deleted": false
     },
     {
-      "id": "c-2027-000002-v8-004",
+      "id": "c-2027-000002-b1-005",
       "parentId": null,
-      "timestamp": "2027-02-15T13:07:41+09:00",
+      "timestamp": "2027-02-15T13:39:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "175.214"
       },
-      "content": "부상자 경상 맞음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-005",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:11:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "원기사 보고싶은데",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-006",
-      "parentId": "c-2027-000002-v8-003",
-      "timestamp": "2027-02-15T13:13:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-007",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:17:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "저 사진만으론 원인 모르지",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-008",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:21:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-009",
-      "parentId": "c-2027-000002-v8-007",
-      "timestamp": "2027-02-15T13:23:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-010",
-      "parentId": "c-2027-000002-v8-003",
-      "timestamp": "2027-02-15T13:24:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-011",
-      "parentId": "c-2027-000002-v8-006",
-      "timestamp": "2027-02-15T13:27:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-012",
-      "parentId": "c-2027-000002-v8-009",
-      "timestamp": "2027-02-15T13:30:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-013",
-      "parentId": "c-2027-000002-v8-006",
-      "timestamp": "2027-02-15T13:34:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-014",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:38:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-015",
-      "parentId": "c-2027-000002-v8-014",
-      "timestamp": "2027-02-15T13:41:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-016",
-      "parentId": "c-2027-000002-v8-013",
-      "timestamp": "2027-02-15T13:45:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-017",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:47:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-018",
-      "parentId": "c-2027-000002-v8-013",
-      "timestamp": "2027-02-15T13:51:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-019",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:53:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "현장사진으로 원인까지 맞추진 말자",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-020",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:55:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "비슷하게 해본놈 더없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-021",
-      "parentId": null,
-      "timestamp": "2027-02-15T13:59:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "원글보다 대댓글이 길어졌네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000002-v8-022",
-      "parentId": "c-2027-000002-v8-016",
-      "timestamp": "2027-02-15T14:01:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "다친사람 별일없었으면",
+      "content": "등록정보 유출은 진짜 크게 터질만한 문제다",
       "deleted": false
     }
   ],

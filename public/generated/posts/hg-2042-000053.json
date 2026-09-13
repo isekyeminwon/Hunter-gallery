@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000053-v8-001",
+      "id": "c-2042-000053-b2m-001",
       "parentId": null,
-      "timestamp": "2042-06-28T00:16:46+09:00",
+      "timestamp": "2042-06-28T00:16:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "59.10"
       },
-      "content": "나중에 보려고 스크랩함",
+      "content": "장비파손 책임조항도 은근 중요함",
       "deleted": false
     },
     {
-      "id": "c-2042-000053-v8-002",
+      "id": "c-2042-000053-b2m-002",
       "parentId": null,
-      "timestamp": "2042-06-28T00:20:20+09:00",
+      "timestamp": "2042-06-28T00:20:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "121.163"
       },
-      "content": "입구에서라도 맞추고 들어가",
+      "content": "외부메신저로 계약서 보내고 서명 재촉하면 한번 더봐",
       "deleted": false
     },
     {
-      "id": "c-2042-000053-v8-003",
+      "id": "c-2042-000053-b2m-003",
       "parentId": null,
-      "timestamp": "2042-06-28T00:23:37+09:00",
+      "timestamp": "2042-06-28T00:23:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "59.10"
       },
-      "content": "우린 이거랑 좀 다르게 굴림",
+      "content": "역할/일당/철수시 지급/보험 네군데부터 봄",
       "deleted": false
     }
   ],

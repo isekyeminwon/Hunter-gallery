@@ -33,123 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000062-v8-001",
+      "id": "c-2042-000062-b2m-001",
       "parentId": null,
-      "timestamp": "2042-05-28T17:16:11+09:00",
+      "timestamp": "2042-05-28T17:16:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "같은 길드 안에서도 팀마다 분위기 차이 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-b2m-002",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:18:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "입사선호와 길드전력은 분리해서 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:21:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "한성은 이시율 포함 상위전력 이미지가 너무 강함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000062-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-05-28T17:23:41+09:00",
       "author": {
         "type": "fixed",
-        "name": "짐꾼3년차",
+        "name": "백호복지팀",
         "ip": null
       },
-      "content": "스텔라는 대중노출 감수해야할듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000062-v8-002",
-      "parentId": null,
-      "timestamp": "2042-05-28T17:19:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "선택권 있는척 하지마ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000062-v8-003",
-      "parentId": null,
-      "timestamp": "2042-05-28T17:22:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "장비지원 후기는 백호가 제일 자주보임",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000062-v8-004",
-      "parentId": "c-2042-000062-v8-003",
-      "timestamp": "2042-05-28T17:24:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000062-v8-005",
-      "parentId": null,
-      "timestamp": "2042-05-28T17:26:33+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "일단 셋다 붙고 고민하자ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000062-v8-006",
-      "parentId": null,
-      "timestamp": "2042-05-28T17:27:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "마법계면 선택지에서 네뷸라 못빼지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000062-v8-007",
-      "parentId": null,
-      "timestamp": "2042-05-28T17:30:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "길드 전투순위로 직장 고르는건 좀ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000062-v8-008",
-      "parentId": null,
-      "timestamp": "2042-05-28T17:34:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000062-v8-009",
-      "parentId": "c-2042-000062-v8-005",
-      "timestamp": "2042-05-28T17:38:04+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000062-v8-010",
-      "parentId": null,
-      "timestamp": "2042-05-28T17:41:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "이건 처음듣네",
+      "content": "{{con:kwah}}",
       "deleted": false
     }
   ],

@@ -33,195 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000007-v8-001",
+      "id": "c-2031-000007-b1-001",
       "parentId": null,
-      "timestamp": "2031-06-14T10:28:16+09:00",
+      "timestamp": "2031-06-14T10:29:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "223.39"
       },
-      "content": "한국 오래있다고 국적싸움 시작하지마라",
+      "content": "국적 가지고 전투력 싸움하는건 벌써 지겹다ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2031-000007-v8-002",
+      "id": "c-2031-000007-b1-002",
       "parentId": null,
-      "timestamp": "2031-06-14T10:31:38+09:00",
+      "timestamp": "2031-06-14T10:38:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "121.163"
       },
-      "content": "인터뷰 짧은데 댓글은 길다ㅋㅋ",
+      "content": "중국 기사 번역이 제각각이라 원문 보는사람 필요함",
       "deleted": false
     },
     {
-      "id": "c-2031-000007-v8-003",
-      "parentId": "c-2031-000007-v8-001",
-      "timestamp": "2031-06-14T10:33:05+09:00",
+      "id": "c-2031-000007-b1-003",
+      "parentId": "c-2031-000007-b1-001",
+      "timestamp": "2031-06-14T10:48:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "58.29"
       },
-      "content": "한국어 진짜 많이 늘었더라",
+      "content": "파티원들도 잘하더라",
       "deleted": false
     },
     {
-      "id": "c-2031-000007-v8-004",
+      "id": "c-2031-000007-b1-004",
       "parentId": null,
-      "timestamp": "2031-06-14T10:36:46+09:00",
+      "timestamp": "2031-06-14T10:56:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "121.163"
       },
-      "content": "구조영상은 아직도 재업 존나됨",
+      "content": "짧은 클립 하나로 성격까지 판단하는건 오바",
       "deleted": false
     },
     {
-      "id": "c-2031-000007-v8-005",
+      "id": "c-2031-000007-b1-005",
       "parentId": null,
-      "timestamp": "2031-06-14T10:39:07+09:00",
+      "timestamp": "2031-06-14T11:04:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "121.163"
       },
-      "content": "샤오룽 한국어 많이 늘었더라",
+      "content": "자막 잘린 앞뒤 문맥도 보고싶음",
       "deleted": false
     },
     {
-      "id": "c-2031-000007-v8-006",
+      "id": "c-2031-000007-b1-006",
       "parentId": null,
-      "timestamp": "2031-06-14T10:41:19+09:00",
+      "timestamp": "2031-06-14T11:12:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.201"
       },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-007",
-      "parentId": null,
-      "timestamp": "2031-06-14T10:43:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-008",
-      "parentId": null,
-      "timestamp": "2031-06-14T10:45:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-009",
-      "parentId": null,
-      "timestamp": "2031-06-14T10:47:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "샤오룽 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-010",
-      "parentId": "c-2031-000007-v8-005",
-      "timestamp": "2031-06-14T10:49:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "인터뷰 원본 있으면 봐야겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-011",
-      "parentId": null,
-      "timestamp": "2031-06-14T10:51:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-012",
-      "parentId": null,
-      "timestamp": "2031-06-14T10:55:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-013",
-      "parentId": null,
-      "timestamp": "2031-06-14T10:57:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-014",
-      "parentId": null,
-      "timestamp": "2031-06-14T10:59:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-015",
-      "parentId": null,
-      "timestamp": "2031-06-14T11:00:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000007-v8-016",
-      "parentId": null,
-      "timestamp": "2031-06-14T11:03:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "전체 인터뷰도 풀어줬으면 좋겠다",
       "deleted": false
     }
   ],

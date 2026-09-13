@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000035-v8-001",
+      "id": "c-2031-000035-b1-001",
       "parentId": null,
-      "timestamp": "2031-08-13T21:04:01+09:00",
+      "timestamp": "2031-08-13T21:11:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "223.52"
       },
-      "content": "보험사 이름보다 보장범위가 먼저임",
+      "content": "게이트 등급 제한이 제일 중요함",
       "deleted": false
     },
     {
-      "id": "c-2031-000035-v8-002",
+      "id": "c-2031-000035-b1-002",
       "parentId": null,
-      "timestamp": "2031-08-13T21:06:55+09:00",
+      "timestamp": "2031-08-13T21:16:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "124.53"
       },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "content": "개인으로 따로 드는 사람 있음 팀보험이랑 겹치는지 봐야되고",
       "deleted": false
     },
     {
-      "id": "c-2031-000035-v8-003",
+      "id": "c-2031-000035-b1-003",
       "parentId": null,
-      "timestamp": "2031-08-13T21:10:35+09:00",
+      "timestamp": "2031-08-13T21:22:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "117.111"
       },
-      "content": "누가 가입시키는지부터 확인",
+      "content": "처음이면 상품명보다 보장조건부터 적어놓고 비교하는게 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000035-b1-004",
+      "parentId": null,
+      "timestamp": "2031-08-13T21:31:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "팀에서 들어주는 보험만 믿기 불안해서 개인거 하나 더 두는사람 꽤 봄",
       "deleted": false
     }
   ],

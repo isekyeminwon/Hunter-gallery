@@ -33,231 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000027-v8-001",
+      "id": "c-2032-000027-b1-001",
       "parentId": null,
-      "timestamp": "2032-07-04T18:51:01+09:00",
+      "timestamp": "2032-07-04T18:55:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "211.201"
       },
-      "content": "자라",
+      "content": "마법장비 가격 오른다는건 체감 오긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000027-v8-002",
+      "id": "c-2032-000027-b1-002",
       "parentId": null,
-      "timestamp": "2032-07-04T18:54:47+09:00",
+      "timestamp": "2032-07-04T19:04:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "223.38"
       },
-      "content": "뭔데",
+      "content": "네뷸라 마법계 교육쪽은 확실히 이미지 굳히는듯",
       "deleted": false
     },
     {
-      "id": "c-2032-000027-v8-003",
+      "id": "c-2032-000027-b1-003",
       "parentId": null,
-      "timestamp": "2032-07-04T18:56:26+09:00",
+      "timestamp": "2032-07-04T19:15:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "211.201"
       },
-      "content": "개웃기네",
+      "content": "김채연 들어오고 지원자 몰릴만하긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000027-v8-004",
+      "id": "c-2032-000027-b1-004",
       "parentId": null,
-      "timestamp": "2032-07-04T18:59:01+09:00",
+      "timestamp": "2032-07-04T19:22:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.62"
       },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-005",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:01:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-006",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:05:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-007",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:06:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-008",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:10:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-009",
-      "parentId": "c-2032-000027-v8-003",
-      "timestamp": "2032-07-04T19:12:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-010",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:15:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-011",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:17:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-012",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:21:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-013",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:23:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-014",
-      "parentId": "c-2032-000027-v8-013",
-      "timestamp": "2032-07-04T19:27:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-015",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:30:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-016",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:32:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-017",
-      "parentId": "c-2032-000027-v8-010",
-      "timestamp": "2032-07-04T19:35:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-018",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:36:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000027-v8-019",
-      "parentId": null,
-      "timestamp": "2032-07-04T19:39:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "다른사람은 어땠음",
+      "content": "길드 전투력 말고 연구/교육도 봐야되는 이유가 이거지",
       "deleted": false
     }
   ],

@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000044-v8-001",
+      "id": "c-2039-000044-b2m-001",
       "parentId": null,
-      "timestamp": "2039-05-20T11:20:20+09:00",
+      "timestamp": "2039-05-20T11:21:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "175.194"
       },
-      "content": "정성추",
+      "content": "통로 좁으면 장비 버릴 위치까지 생각해두는팀도 있음",
       "deleted": false
     },
     {
-      "id": "c-2039-000044-v8-002",
+      "id": "c-2039-000044-b2m-002",
       "parentId": null,
-      "timestamp": "2039-05-20T11:22:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "우린 저부분만 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-003",
-      "parentId": null,
-      "timestamp": "2039-05-20T11:25:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "이런건 북마크해놔야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-004",
-      "parentId": "c-2039-000044-v8-001",
-      "timestamp": "2039-05-20T11:29:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-005",
-      "parentId": "c-2039-000044-v8-004",
-      "timestamp": "2039-05-20T11:31:15+09:00",
+      "timestamp": "2039-05-20T11:24:22+09:00",
       "author": {
         "type": "fixed",
-        "name": "짐꾼3년차",
+        "name": "계약서읽자",
         "ip": null
       },
-      "content": "뉴비면 체크해둘만함",
+      "content": "누가 부상자/누가 장비 맡는지 미리 정해두면 덜꼬임",
       "deleted": false
     },
     {
-      "id": "c-2039-000044-v8-006",
-      "parentId": "c-2039-000044-v8-005",
-      "timestamp": "2039-05-20T11:34:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-007",
+      "id": "c-2039-000044-b2m-003",
       "parentId": null,
-      "timestamp": "2039-05-20T11:36:36+09:00",
+      "timestamp": "2039-05-20T11:26:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "175.194"
       },
-      "content": "안에서 정하려면 늦음",
+      "content": "고가장비라고 사람 이동 늦추면 본말전도임",
       "deleted": false
     },
     {
-      "id": "c-2039-000044-v8-008",
+      "id": "c-2039-000044-b2m-004",
       "parentId": null,
-      "timestamp": "2039-05-20T11:39:25+09:00",
+      "timestamp": "2039-05-20T11:29:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "106.102"
       },
-      "content": "초보는 이런글이 더 필요함",
+      "content": "부상자 몸부터 빼고 장비는 우선순위 정해둔것만 챙기는게 맞음",
       "deleted": false
     },
     {
-      "id": "c-2039-000044-v8-009",
+      "id": "c-2039-000044-b2m-005",
       "parentId": null,
-      "timestamp": "2039-05-20T11:40:58+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "당해보면 왜 적었는지 앎",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-010",
-      "parentId": "c-2039-000044-v8-003",
-      "timestamp": "2039-05-20T11:44:53+09:00",
+      "timestamp": "2039-05-20T11:33:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-011",
-      "parentId": "c-2039-000044-v8-009",
-      "timestamp": "2039-05-20T11:46:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-012",
-      "parentId": null,
-      "timestamp": "2039-05-20T11:49:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-013",
-      "parentId": null,
-      "timestamp": "2039-05-20T11:52:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "223.38"
       },
       "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-014",
-      "parentId": null,
-      "timestamp": "2039-05-20T11:54:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-015",
-      "parentId": null,
-      "timestamp": "2039-05-20T11:58:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-016",
-      "parentId": "c-2039-000044-v8-012",
-      "timestamp": "2039-05-20T12:00:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000044-v8-017",
-      "parentId": "c-2039-000044-v8-016",
-      "timestamp": "2039-05-20T12:02:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 해보면 체감함",
       "deleted": false
     }
   ],

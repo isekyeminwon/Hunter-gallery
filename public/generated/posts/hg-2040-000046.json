@@ -33,87 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000046-v8-001",
+      "id": "c-2040-000046-b2m-001",
       "parentId": null,
-      "timestamp": "2040-05-26T19:00:46+09:00",
+      "timestamp": "2040-05-26T19:01:31+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "항목만 공유면 파티명/게이트/회수량/매입가/수수료/분배기준 정도 있으면 됨",
       "deleted": false
     },
     {
-      "id": "c-2040-000046-v8-002",
+      "id": "c-2040-000046-b2m-002",
       "parentId": null,
-      "timestamp": "2040-05-26T19:03:01+09:00",
+      "timestamp": "2040-05-26T19:04:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "223.33"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "content": "비용 선공제인지 분배 후 각자 부담인지 적어두면 싸움 줄어듦",
       "deleted": false
     },
     {
-      "id": "c-2040-000046-v8-003",
+      "id": "c-2040-000046-b2m-003",
       "parentId": null,
-      "timestamp": "2040-05-26T19:05:22+09:00",
+      "timestamp": "2040-05-26T19:07:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "118.41"
       },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "content": "정산일이랑 입금완료 체크칸도 하나 두는게 편함",
       "deleted": false
     },
     {
-      "id": "c-2040-000046-v8-004",
-      "parentId": "c-2040-000046-v8-001",
-      "timestamp": "2040-05-26T19:07:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "당일정산이 편하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000046-v8-005",
-      "parentId": "c-2040-000046-v8-004",
-      "timestamp": "2040-05-26T19:10:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "일주일 넘으면 한번 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000046-v8-006",
+      "id": "c-2040-000046-b2m-004",
       "parentId": null,
-      "timestamp": "2040-05-26T19:13:02+09:00",
+      "timestamp": "2040-05-26T19:09:40+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "예상가랑 실제 매입가 칸은 따로 두는게 덜헷갈림",
       "deleted": false
     },
     {
-      "id": "c-2040-000046-v8-007",
+      "id": "c-2040-000046-b2m-005",
       "parentId": null,
-      "timestamp": "2040-05-26T19:15:16+09:00",
+      "timestamp": "2040-05-26T19:11:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "223.33"
       },
-      "content": "당일도 있고 며칠뒤도 있음",
+      "content": "{{con:good}}",
       "deleted": false
     }
   ],

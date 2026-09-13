@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2024-000002-v8-001",
+      "id": "c-2024-000002-b1-001",
       "parentId": null,
-      "timestamp": "2024-03-18T11:45:10+09:00",
+      "timestamp": "2024-03-18T11:51:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "175.194"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "안하면 바로 잡혀간다 이런건 아니고 등록절차가 생긴다는거 아님?",
       "deleted": false
     },
     {
-      "id": "c-2024-000002-v8-002",
+      "id": "c-2024-000002-b1-002",
       "parentId": null,
-      "timestamp": "2024-03-18T11:47:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "이건 최신 공지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000002-v8-003",
-      "parentId": null,
-      "timestamp": "2024-03-18T11:51:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "규정이랑 관행은 또 다를수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000002-v8-004",
-      "parentId": null,
-      "timestamp": "2024-03-18T11:52:43+09:00",
+      "timestamp": "2024-03-18T11:56:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.33"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "초기라 창구마다 말 다를거같다",
       "deleted": false
     },
     {
-      "id": "c-2024-000002-v8-005",
-      "parentId": null,
-      "timestamp": "2024-03-18T11:54:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "명의 빌려주는건 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000002-v8-006",
-      "parentId": null,
-      "timestamp": "2024-03-18T11:58:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "신고해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000002-v8-007",
-      "parentId": "c-2024-000002-v8-002",
-      "timestamp": "2024-03-18T12:02:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000002-v8-008",
-      "parentId": null,
-      "timestamp": "2024-03-18T12:03:44+09:00",
+      "id": "c-2024-000002-b1-003",
+      "parentId": "c-2024-000002-b1-002",
+      "timestamp": "2024-03-18T12:05:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.33"
       },
-      "content": "댓글 읽다 본문 다시봄",
+      "content": "그말은 이해됨",
       "deleted": false
     },
     {
-      "id": "c-2024-000002-v8-009",
+      "id": "c-2024-000002-b1-004",
       "parentId": null,
-      "timestamp": "2024-03-18T12:05:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000002-v8-010",
-      "parentId": null,
-      "timestamp": "2024-03-18T12:07:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000002-v8-011",
-      "parentId": "c-2024-000002-v8-005",
-      "timestamp": "2024-03-18T12:11:32+09:00",
+      "timestamp": "2024-03-18T12:14:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.33"
       },
-      "content": "최신 공지 한번 봐야겠네",
+      "content": "공지 원문 읽어보는게 제일 정확할듯",
       "deleted": false
     },
     {
-      "id": "c-2024-000002-v8-012",
+      "id": "c-2024-000002-b1-005",
       "parentId": null,
-      "timestamp": "2024-03-18T12:13:36+09:00",
+      "timestamp": "2024-03-18T12:24:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.197"
       },
-      "content": "ㄹㅇ",
+      "content": "능력 생긴 사람 대상부터 시작하는걸로 봤음",
       "deleted": false
     }
   ],

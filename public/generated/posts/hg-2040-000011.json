@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000011-v8-001",
+      "id": "c-2040-000011-b2m-001",
       "parentId": null,
-      "timestamp": "2040-11-05T21:16:07+09:00",
+      "timestamp": "2040-11-05T21:15:49+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
       },
-      "content": "정성추",
+      "content": "마석 파편 미세하게 박히면 존나 귀찮음",
       "deleted": false
     },
     {
-      "id": "c-2040-000011-v8-002",
+      "id": "c-2040-000011-b2m-002",
       "parentId": null,
-      "timestamp": "2040-11-05T21:18:42+09:00",
+      "timestamp": "2040-11-05T21:19:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "211.58"
       },
-      "content": "다음 현장전에 한번 더봄",
+      "content": "얇은 작업장갑 말고 회수용 따로 두는팀도 있음",
       "deleted": false
     },
     {
-      "id": "c-2040-000011-v8-003",
-      "parentId": null,
-      "timestamp": "2040-11-05T21:20:36+09:00",
+      "id": "c-2040-000011-b2m-003",
+      "parentId": "c-2040-000011-b2m-002",
+      "timestamp": "2040-11-05T21:22:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "220.79"
       },
-      "content": "당해보면 왜 적었는지 앎",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000011-v8-004",
-      "parentId": null,
-      "timestamp": "2040-11-05T21:23:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "우리쪽은 방식이 살짝 다름",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000011-v8-005",
-      "parentId": null,
-      "timestamp": "2040-11-05T21:26:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "이런게 실제로 도움됨",
+      "content": "손 베이는거 한번이면 장갑값 생각 안남",
       "deleted": false
     }
   ],

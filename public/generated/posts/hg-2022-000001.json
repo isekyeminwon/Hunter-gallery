@@ -42,195 +42,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2022-000001-v8-001",
+      "id": "c-2022-000001-b1-001",
       "parentId": null,
-      "timestamp": "2022-02-11T16:45:02+09:00",
+      "timestamp": "2022-02-11T16:47:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "110.70"
       },
-      "content": "동네사람이면 걍 멀리있어라",
+      "content": "가까이 가지 말라는데 굳이 보러가는놈들 뭐냐",
       "deleted": false
     },
     {
-      "id": "c-2022-000001-v8-002",
+      "id": "c-2022-000001-b1-002",
       "parentId": null,
-      "timestamp": "2022-02-11T16:47:48+09:00",
+      "timestamp": "2022-02-11T16:58:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "118.33"
       },
-      "content": "저거 아직도 안사라졌냐",
+      "content": "방송사도 찍고있으면 합성은 아닌거같은데",
       "deleted": false
     },
     {
-      "id": "c-2022-000001-v8-003",
-      "parentId": "c-2022-000001-v8-001",
-      "timestamp": "2022-02-11T16:51:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-004",
+      "id": "c-2022-000001-b1-003",
       "parentId": null,
-      "timestamp": "2022-02-11T16:53:44+09:00",
+      "timestamp": "2022-02-11T17:09:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "211.36"
       },
-      "content": "방송사 화면에도 잡혔는데 합성은 아닌듯",
+      "content": "저거 밑으로 사람 몰리는게 더 무서움",
       "deleted": false
     },
     {
-      "id": "c-2022-000001-v8-005",
-      "parentId": "c-2022-000001-v8-002",
-      "timestamp": "2022-02-11T16:56:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-006",
+      "id": "c-2022-000001-b1-004",
       "parentId": null,
-      "timestamp": "2022-02-11T17:00:12+09:00",
+      "timestamp": "2022-02-11T17:14:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "223.33"
       },
-      "content": "왜 여기서 싸우냐",
+      "content": "회사 단톡에 사진만 열장 올라옴ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2022-000001-v8-007",
-      "parentId": "c-2022-000001-v8-006",
-      "timestamp": "2022-02-11T17:02:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-008",
+      "id": "c-2022-000001-b1-005",
       "parentId": null,
-      "timestamp": "2022-02-11T17:05:20+09:00",
+      "timestamp": "2022-02-11T17:22:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "223.38"
       },
-      "content": "며칠째 그대로인게 제일 소름임",
+      "content": "나도 봤음 연기면 바람따라 움직여야되는데 저건 그대로더라",
       "deleted": false
     },
     {
-      "id": "c-2022-000001-v8-009",
+      "id": "c-2022-000001-b1-006",
       "parentId": null,
-      "timestamp": "2022-02-11T17:06:49+09:00",
+      "timestamp": "2022-02-11T17:31:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "211.36"
       },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-010",
-      "parentId": "c-2022-000001-v8-003",
-      "timestamp": "2022-02-11T17:08:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-011",
-      "parentId": null,
-      "timestamp": "2022-02-11T17:10:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-012",
-      "parentId": null,
-      "timestamp": "2022-02-11T17:12:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-013",
-      "parentId": null,
-      "timestamp": "2022-02-11T17:16:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "가까이 가서 찍는놈들은 겁도없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-014",
-      "parentId": null,
-      "timestamp": "2022-02-11T17:19:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "통제선 더 넓어졌네",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-015",
-      "parentId": "c-2022-000001-v8-013",
-      "timestamp": "2022-02-11T17:22:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000001-v8-016",
-      "parentId": null,
-      "timestamp": "2022-02-11T17:24:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "난 아닌듯",
+      "content": "모양 안바뀐다는게 진짜 이상함",
       "deleted": false
     }
   ],

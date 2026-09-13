@@ -33,111 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000064-v8-001",
+      "id": "c-2033-000064-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-15T20:17:25+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "카메라 싫어하면 스텔라는 좀 힘들듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000064-v8-002",
-      "parentId": null,
-      "timestamp": "2033-09-15T20:19:33+09:00",
+      "timestamp": "2033-09-15T20:24:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "211.36"
       },
-      "content": "마법계 지인이 네뷸라 선호하긴하더라",
+      "content": "전투력 순위랑 취업하기 좋은 길드는 따로 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2033-000064-v8-003",
-      "parentId": "c-2033-000064-v8-001",
-      "timestamp": "2033-09-15T20:20:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000064-v8-004",
+      "id": "c-2033-000064-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-15T20:22:55+09:00",
+      "timestamp": "2033-09-15T20:35:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "117.111"
       },
-      "content": "한성 지원서 통과부터 하라는 소리 나온다",
+      "content": "전투력만 볼거면 그냥 보유 상위헌터 명단이랑 뭐가 다름",
       "deleted": false
     },
     {
-      "id": "c-2033-000064-v8-005",
+      "id": "c-2033-000064-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-15T20:25:03+09:00",
+      "timestamp": "2033-09-15T20:46:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "175.214"
       },
-      "content": "장비지원 후기는 백호가 제일 자주보임",
+      "content": "공략실적 장비 교육 복지까지 넣으면 순위표 끝도없음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000064-v8-006",
-      "parentId": "c-2033-000064-v8-005",
-      "timestamp": "2033-09-15T20:26:27+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000064-v8-007",
+      "id": "c-2033-000064-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-15T20:29:24+09:00",
+      "timestamp": "2033-09-15T20:55:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "124.53"
       },
-      "content": "일단 오퍼부터 주세요",
+      "content": "보유 S만 세면 한성이 너무 유리해서 다른 요소가 다 사라짐",
       "deleted": false
     },
     {
-      "id": "c-2033-000064-v8-008",
-      "parentId": null,
-      "timestamp": "2033-09-15T20:31:33+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "취업이랑 누가세냐는 다른문제지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000064-v8-009",
-      "parentId": "c-2033-000064-v8-006",
-      "timestamp": "2033-09-15T20:35:09+09:00",
+      "id": "c-2033-000064-b1-005",
+      "parentId": "c-2033-000064-b1-004",
+      "timestamp": "2033-09-15T21:03:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "211.36"
       },
-      "content": "셋다 붙고 고민하고싶다",
+      "content": "길드순위라는 말 자체가 뭘 기준으로 하냐부터 싸움",
       "deleted": false
     }
   ],

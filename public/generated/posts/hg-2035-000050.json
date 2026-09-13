@@ -33,147 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000050-v8-001",
+      "id": "c-2035-000050-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T19:06:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000050-v8-002",
-      "parentId": null,
-      "timestamp": "2035-07-15T19:08:13+09:00",
+      "timestamp": "2035-07-15T19:15:45+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "보험 있냐",
+      "content": "기사마다 말 다르면 공통으로 겹치는 부분부터 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2035-000050-v8-003",
+      "id": "c-2035-000050-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-15T19:10:46+09:00",
+      "timestamp": "2035-07-15T19:20:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "39.125"
       },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "content": "실제 거래가 오른건지 판매자가 가격만 올린건지 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2035-000050-v8-004",
-      "parentId": "c-2035-000050-v8-002",
-      "timestamp": "2035-07-15T19:12:20+09:00",
+      "id": "c-2035-000050-b1-003",
+      "parentId": null,
+      "timestamp": "2035-07-15T19:28:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "210.178"
       },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "content": "{{con:real}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000050-v8-005",
+      "id": "c-2035-000050-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-15T19:16:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000050-v8-006",
-      "parentId": null,
-      "timestamp": "2035-07-15T19:18:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000050-v8-007",
-      "parentId": null,
-      "timestamp": "2035-07-15T19:21:40+09:00",
+      "timestamp": "2035-07-15T19:36:04+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "둘다 진정좀",
+      "content": "며칠 지나면 다시 내려갈수도 있음",
       "deleted": false
     },
     {
-      "id": "c-2035-000050-v8-008",
+      "id": "c-2035-000050-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-15T19:24:32+09:00",
+      "timestamp": "2035-07-15T19:42:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "210.178"
       },
-      "content": "보험 있냐",
+      "content": "{{con:dororong}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000050-v8-009",
+      "id": "c-2035-000050-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-15T19:27:32+09:00",
+      "timestamp": "2035-07-15T19:51:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "14.32"
       },
-      "content": "보험 있냐",
+      "content": "스텔라 영상에 나온 장비부터 검색량 튄듯",
       "deleted": false
     },
     {
-      "id": "c-2035-000050-v8-010",
-      "parentId": "c-2035-000050-v8-005",
-      "timestamp": "2035-07-15T19:29:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000050-v8-011",
+      "id": "c-2035-000050-b1-007",
       "parentId": null,
-      "timestamp": "2035-07-15T19:33:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000050-v8-012",
-      "parentId": "c-2035-000050-v8-007",
-      "timestamp": "2035-07-15T19:36:11+09:00",
+      "timestamp": "2035-07-15T20:01:33+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
+      "content": "이슈장비 따라사는건 진짜 조심",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000050-b1-008",
+      "parentId": "c-2035-000050-b1-006",
+      "timestamp": "2035-07-15T20:06:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "그건 실제 계약서/공지 봐야됨",
       "deleted": false
     }
   ],

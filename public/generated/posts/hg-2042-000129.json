@@ -33,159 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000129-pilot001",
+      "id": "c-2042-000129-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-13T13:34:57+09:00",
+      "timestamp": "2042-09-13T13:33:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "106.248"
       },
-      "content": "영상조회수 점수 15점에서 이미 웃고 나옴",
+      "content": "공식랭킹도 아닌데 TOP10 표만 뜨면 하루종일 싸움ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2042-000129-pilot002",
+      "id": "c-2042-000129-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-13T13:39:13+09:00",
+      "timestamp": "2042-09-13T13:37:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "210.178"
       },
-      "content": "7위 이채린은 너무 높지 않냐",
+      "content": "신인 바로 넣는건 자료 너무 적지 않냐",
       "deleted": false
     },
     {
-      "id": "c-2042-000129-pilot003",
+      "id": "c-2042-000129-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-13T13:40:58+09:00",
+      "timestamp": "2042-09-13T13:40:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "106.248"
       },
-      "content": "낮은데? 최근 실적 보면",
+      "content": "A급을 너무 쉽게 말하는것도 문제임",
       "deleted": false
     },
     {
-      "id": "c-2042-000129-pilot004",
+      "id": "c-2042-000129-b2m-004",
       "parentId": null,
-      "timestamp": "2042-09-13T13:42:29+09:00",
+      "timestamp": "2042-09-13T13:43:59+09:00",
       "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
       },
-      "content": "제작자 네뷸라팬이라는 증거: 4명 넣음",
+      "content": "상성까지 넣으면 순위표 자체가 의미없어짐",
       "deleted": false
     },
     {
-      "id": "c-2042-000129-pilot005",
+      "id": "c-2042-000129-b2m-005",
+      "parentId": "c-2042-000129-b2m-004",
+      "timestamp": "2042-09-13T13:45:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "최근실적 기준인지 최고점 기준인지부터 통일해라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000129-b2m-006",
       "parentId": null,
-      "timestamp": "2042-09-13T13:46:20+09:00",
+      "timestamp": "2042-09-13T13:48:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "210.178"
       },
-      "content": "공식자료처럼 디자인한게 제일 악질임ㅋㅋ",
+      "content": "{{con:kwah}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000129-pilot006",
+      "id": "c-2042-000129-b2m-007",
       "parentId": null,
-      "timestamp": "2042-09-13T13:50:16+09:00",
+      "timestamp": "2042-09-13T13:50:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "106.248"
       },
-      "content": "윤영우보다 이채린 위는 납득 안감",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000129-pilot007",
-      "parentId": "c-2042-000129-pilot006",
-      "timestamp": "2042-09-13T13:53:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "상성까지 보면 또 다름",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000129-pilot008",
-      "parentId": "c-2042-000129-pilot007",
-      "timestamp": "2042-09-13T13:54:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "랭킹표에 상성칸도 만들어라 그럼ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000129-pilot009",
-      "parentId": null,
-      "timestamp": "2042-09-13T13:56:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "김민찬 B인데 왜 댓글에서 자꾸 끼워넣음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000129-pilot010",
-      "parentId": "c-2042-000129-pilot009",
-      "timestamp": "2042-09-13T13:59:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "B라고 사람 아닌줄 아는 애들 많음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000129-pilot011",
-      "parentId": null,
-      "timestamp": "2042-09-13T14:02:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "내가 만들면 내최애 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000129-pilot012",
-      "parentId": null,
-      "timestamp": "2042-09-13T14:05:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "{{con:Intelligence}} 공식랭킹 분석중",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000129-pilot013",
-      "parentId": null,
-      "timestamp": "2042-09-13T14:09:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "내일 TOP 10 수정본 또 올라온다에 만원",
+      "content": "ㅋㅋ 또싸운다",
       "deleted": false
     }
   ],

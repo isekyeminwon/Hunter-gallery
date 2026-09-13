@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000069-v8-001",
+      "id": "c-2041-000069-b2m-001",
       "parentId": null,
-      "timestamp": "2041-02-21T03:44:50+09:00",
+      "timestamp": "2041-02-21T03:43:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
+      },
+      "content": "어디로 가느냐에 따라 성장경로도 완전 달라질듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000069-b2m-002",
+      "parentId": null,
+      "timestamp": "2041-02-21T03:47:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.250"
       },
-      "content": "이런표는 만든사람 팬심이 반임",
+      "content": "기사 같은날 떴다고 바로 라이벌 되는거냐ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000069-v8-002",
+      "id": "c-2041-000069-b2m-003",
       "parentId": null,
-      "timestamp": "2041-02-21T03:48:14+09:00",
+      "timestamp": "2041-02-21T03:49:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "59.10"
       },
-      "content": "표 디자인만 보면 국가자료임",
+      "content": "신입 A랑 오래 뛴 베테랑을 등급 하나로만 비교하긴 어려움",
       "deleted": false
     },
     {
-      "id": "c-2041-000069-v8-003",
+      "id": "c-2041-000069-b2m-004",
       "parentId": null,
-      "timestamp": "2041-02-21T03:50:03+09:00",
+      "timestamp": "2041-02-21T03:51:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "106.101"
       },
-      "content": "A 평범취급은 갤에서만 가능",
+      "content": "신인 첫해는 표본이 너무 적음",
       "deleted": false
     },
     {
-      "id": "c-2041-000069-v8-004",
+      "id": "c-2041-000069-b2m-005",
       "parentId": null,
-      "timestamp": "2041-02-21T03:52:29+09:00",
+      "timestamp": "2041-02-21T03:55:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "59.10"
       },
-      "content": "랭킹충들 출근했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-005",
-      "parentId": "c-2041-000069-v8-003",
-      "timestamp": "2041-02-21T03:55:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-006",
-      "parentId": "c-2041-000069-v8-001",
-      "timestamp": "2041-02-21T03:58:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-007",
-      "parentId": null,
-      "timestamp": "2041-02-21T04:01:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-008",
-      "parentId": "c-2041-000069-v8-005",
-      "timestamp": "2041-02-21T04:04:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-009",
-      "parentId": null,
-      "timestamp": "2041-02-21T04:06:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "상성 변수 빼고 몇위가 뭔의미냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-010",
-      "parentId": "c-2041-000069-v8-005",
-      "timestamp": "2041-02-21T04:10:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-011",
-      "parentId": "c-2041-000069-v8-009",
-      "timestamp": "2041-02-21T04:12:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-012",
-      "parentId": null,
-      "timestamp": "2041-02-21T04:14:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "내최애 1위 넣으면 끝",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-013",
-      "parentId": null,
-      "timestamp": "2041-02-21T04:16:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "요즘 A를 너무 쉽게 말함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-014",
-      "parentId": null,
-      "timestamp": "2041-02-21T04:19:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "오늘 끝나도 내일 또함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-015",
-      "parentId": null,
-      "timestamp": "2041-02-21T04:22:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-016",
-      "parentId": "c-2041-000069-v8-011",
-      "timestamp": "2041-02-21T04:25:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000069-v8-017",
-      "parentId": null,
-      "timestamp": "2041-02-21T04:28:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "이 떡밥 다음주에 또 올라옴",
+      "content": "{{con:real}}",
       "deleted": false
     }
   ],

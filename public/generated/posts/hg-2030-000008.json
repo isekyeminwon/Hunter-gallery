@@ -33,159 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000008-v8-001",
+      "id": "c-2030-000008-b1-001",
       "parentId": null,
-      "timestamp": "2030-04-22T10:08:31+09:00",
+      "timestamp": "2030-04-22T10:17:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "223.38"
       },
-      "content": "나도그럼",
+      "content": "공식훈련 영상 보니까 S 체급은 확실히 다르긴함",
       "deleted": false
     },
     {
-      "id": "c-2030-000008-v8-002",
+      "id": "c-2030-000008-b1-002",
       "parentId": null,
-      "timestamp": "2030-04-22T10:11:17+09:00",
+      "timestamp": "2030-04-22T10:26:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "급하게 사람뽑는 글은 조건 더 잘봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000008-b1-003",
+      "parentId": null,
+      "timestamp": "2030-04-22T10:33:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "이슈 뜨자마자 관련 구인 늘어나는거 진짜 빠르네",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000008-b1-004",
+      "parentId": null,
+      "timestamp": "2030-04-22T10:40:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "124.53"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-003",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:13:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-004",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:14:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-005",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:18:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-006",
-      "parentId": "c-2030-000008-v8-001",
-      "timestamp": "2030-04-22T10:21:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-007",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:25:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-008",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:28:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-009",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:30:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-010",
-      "parentId": "c-2030-000008-v8-004",
-      "timestamp": "2030-04-22T10:32:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-011",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:35:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "강주아 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-012",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:37:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000008-v8-013",
-      "parentId": null,
-      "timestamp": "2030-04-22T10:39:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "난 반대",
+      "content": "일당만 올려놓고 역할 애매한 글은 거름",
       "deleted": false
     }
   ],

@@ -33,183 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000013-v8-001",
+      "id": "c-2039-000013-b2m-001",
       "parentId": null,
       "timestamp": "2039-09-03T13:04:54+09:00",
       "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-002",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:06:18+09:00",
-      "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-003",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:07:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-004",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:09:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-005",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:11:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-006",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:14:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-007",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:18:06+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
+        "ip": "210.178"
       },
       "content": "자라",
       "deleted": false
     },
     {
-      "id": "c-2039-000013-v8-008",
+      "id": "c-2039-000013-b2m-002",
       "parentId": null,
-      "timestamp": "2039-09-03T13:19:42+09:00",
+      "timestamp": "2039-09-03T13:08:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-009",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:22:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-010",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:25:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "211.234"
       },
       "content": "개웃기네",
       "deleted": false
     },
     {
-      "id": "c-2039-000013-v8-011",
+      "id": "c-2039-000013-b2m-003",
       "parentId": null,
-      "timestamp": "2039-09-03T13:28:39+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-012",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:32:32+09:00",
+      "timestamp": "2039-09-03T13:11:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-013",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:33:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000013-v8-014",
-      "parentId": null,
-      "timestamp": "2039-09-03T13:36:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "39.125"
       },
       "content": "ㄹㅇ",
       "deleted": false
     },
     {
-      "id": "c-2039-000013-v8-015",
+      "id": "c-2039-000013-b2m-004",
       "parentId": null,
-      "timestamp": "2039-09-03T13:39:39+09:00",
+      "timestamp": "2039-09-03T13:14:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "210.178"
       },
-      "content": "이건 인정",
+      "content": "{{con:real}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000013-b2m-005",
+      "parentId": null,
+      "timestamp": "2039-09-03T13:17:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "나도그럼",
       "deleted": false
     }
   ],

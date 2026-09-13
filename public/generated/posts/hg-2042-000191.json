@@ -33,87 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000191-v8-001",
+      "id": "c-2042-000191-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-17T08:56:32+09:00",
+      "timestamp": "2042-09-17T08:56:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "59.10"
       },
-      "content": "사람부터 괜찮은지 봐야지",
+      "content": "등록 안된 팀이 들어간거면 입장절차부터 문제지",
       "deleted": false
     },
     {
-      "id": "c-2042-000191-v8-002",
+      "id": "c-2042-000191-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T08:56:48+09:00",
+      "timestamp": "2042-09-17T08:57:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.221"
       },
-      "content": "업데이트 된거 있음?",
+      "content": "기사에 나온 적발내용 이상으로 멤버신상 캐는건 하지마라",
       "deleted": false
     },
     {
-      "id": "c-2042-000191-v8-003",
-      "parentId": "c-2042-000191-v8-002",
-      "timestamp": "2042-09-17T08:57:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000191-v8-004",
+      "id": "c-2042-000191-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-17T08:57:28+09:00",
+      "timestamp": "2042-09-17T08:57:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "118.221"
       },
-      "content": "현장 주변이면 우회공지부터 봐",
+      "content": "무등록=부정등록이랑은 다른 케이스임",
       "deleted": false
     },
     {
-      "id": "c-2042-000191-v8-005",
+      "id": "c-2042-000191-b2m-004",
       "parentId": null,
-      "timestamp": "2042-09-17T08:58:05+09:00",
+      "timestamp": "2042-09-17T08:58:18+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "59.10"
       },
-      "content": "짤 몇개로 사고경위 다아는척은 하지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000191-v8-006",
-      "parentId": "c-2042-000191-v8-004",
-      "timestamp": "2042-09-17T08:58:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000191-v8-007",
-      "parentId": null,
-      "timestamp": "2042-09-17T08:59:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "기사 뜨자마자 누구탓인지 정했네",
+      "content": "보험/공략권까지 정상인지 같이 조사하겠네",
       "deleted": false
     }
   ],

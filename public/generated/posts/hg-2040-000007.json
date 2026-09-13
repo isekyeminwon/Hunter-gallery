@@ -33,63 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000007-v8-001",
+      "id": "c-2040-000007-b2m-001",
       "parentId": null,
-      "timestamp": "2040-06-02T07:11:58+09:00",
+      "timestamp": "2040-06-02T07:10:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "106.101"
       },
-      "content": "면허 땄다고 이 일만 해야되는건 아니지",
+      "content": "전투직만 생각하면 빡센데 짐꾼/지원으로 오래 하는사람은 있음",
       "deleted": false
     },
     {
-      "id": "c-2040-000007-v8-002",
+      "id": "c-2040-000007-b2m-002",
       "parentId": null,
-      "timestamp": "2040-06-02T07:14:36+09:00",
+      "timestamp": "2040-06-02T07:14:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "106.101"
       },
-      "content": "짐꾼/지원으로 오래 하는사람은 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000007-v8-003",
-      "parentId": "c-2040-000007-v8-002",
-      "timestamp": "2040-06-02T07:16:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000007-v8-004",
-      "parentId": "c-2040-000007-v8-001",
-      "timestamp": "2040-06-02T07:18:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000007-v8-005",
-      "parentId": "c-2040-000007-v8-001",
-      "timestamp": "2040-06-02T07:22:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이건 물어볼만함",
+      "content": "좋은팀 반복해서 다니면 F도 현장경력 쓸데 있음",
       "deleted": false
     }
   ],

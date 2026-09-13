@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000003-v8-001",
+      "id": "c-2032-000003-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-08T10:09:36+09:00",
+      "timestamp": "2032-05-08T10:10:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "106.245"
       },
-      "content": "이채린 단독은 요즘 좀 뜸한편",
+      "content": "첫 공략에서 잡몹 처리속도 진짜 말이 안됨",
       "deleted": false
     },
     {
-      "id": "c-2032-000003-v8-002",
+      "id": "c-2032-000003-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-08T10:11:46+09:00",
+      "timestamp": "2032-05-08T10:16:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "175.214"
       },
-      "content": "김채연 영상은 범위 잡히는 장면이 제일 미침",
+      "content": "마법계 S 나오니까 네뷸라 얘기 바로 나오네",
       "deleted": false
     },
     {
-      "id": "c-2032-000003-v8-003",
+      "id": "c-2032-000003-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-08T10:13:20+09:00",
+      "timestamp": "2032-05-08T10:23:48+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "후속캠 같이 보면 느낌 더옴",
+      "content": "강주아랑 비교는 능력성격부터 달라서 끝이 없을듯",
       "deleted": false
     },
     {
-      "id": "c-2032-000003-v8-004",
-      "parentId": "c-2032-000003-v8-003",
-      "timestamp": "2032-05-08T10:15:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "네뷸라 공채널 뒤져보면 나올듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000003-v8-005",
-      "parentId": "c-2032-000003-v8-004",
-      "timestamp": "2032-05-08T10:18:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "원본 찾으면 링크좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000003-v8-006",
+      "id": "c-2032-000003-b1-004",
       "parentId": null,
-      "timestamp": "2032-05-08T10:21:36+09:00",
+      "timestamp": "2032-05-08T10:35:25+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "김채연 영상은 광역장면에서 조회수 터짐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000003-v8-007",
-      "parentId": null,
-      "timestamp": "2032-05-08T10:24:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "짤만 돌면 원본 찾기 빡셈",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000003-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-08T10:27:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "네뷸라 공식채널 은근 자료 많음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000003-v8-009",
-      "parentId": "c-2032-000003-v8-006",
-      "timestamp": "2032-05-08T10:29:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "그 짤 예전거일수도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000003-v8-010",
-      "parentId": null,
-      "timestamp": "2032-05-08T10:32:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "마법계 설명영상은 생각보다 볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000003-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-08T10:34:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000003-v8-012",
-      "parentId": null,
-      "timestamp": "2032-05-08T10:37:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이건 처음듣네",
+      "content": "김채연 광역기 범위가 영상밖까지 가는게 제일 무섭다",
       "deleted": false
     }
   ],

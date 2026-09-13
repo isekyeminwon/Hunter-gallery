@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000022-v8-001",
+      "id": "c-2029-000022-b1-001",
       "parentId": null,
-      "timestamp": "2029-03-03T18:34:09+09:00",
+      "timestamp": "2029-03-03T18:40:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "118.44"
       },
-      "content": "화려한 공략보다 이게 초보한텐 나음",
+      "content": "새장비라고 안찍었다가 손해보는사람 있음",
       "deleted": false
     },
     {
-      "id": "c-2029-000022-v8-002",
+      "id": "c-2029-000022-b1-002",
       "parentId": null,
-      "timestamp": "2029-03-03T18:37:25+09:00",
+      "timestamp": "2029-03-03T18:51:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "118.44"
       },
-      "content": "이거 저장해둠",
+      "content": "렌탈은 이거 필수임 반납때 기억싸움 안남",
       "deleted": false
     },
     {
-      "id": "c-2029-000022-v8-003",
-      "parentId": null,
-      "timestamp": "2029-03-03T18:40:05+09:00",
+      "id": "c-2029-000022-b1-003",
+      "parentId": "c-2029-000022-b1-002",
+      "timestamp": "2029-03-03T18:57:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "117.111"
       },
-      "content": "우리쪽은 방식이 살짝 다름",
+      "content": "사진 시간 남는것도 은근 도움됨",
       "deleted": false
     }
   ],

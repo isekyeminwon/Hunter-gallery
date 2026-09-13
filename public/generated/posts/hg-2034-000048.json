@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000048-v8-001",
+      "id": "c-2034-000048-b1-001",
       "parentId": null,
-      "timestamp": "2034-01-13T06:37:23+09:00",
+      "timestamp": "2034-01-13T06:44:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "59.5"
       },
-      "content": "고의로 낮추면 주변이 틀린정보로 판단하게 됨",
+      "content": "협회 신고창구로 넣고 커뮤에 신상박제는 하지마",
       "deleted": false
     },
     {
-      "id": "c-2034-000048-v8-002",
+      "id": "c-2034-000048-b1-002",
       "parentId": null,
-      "timestamp": "2034-01-13T06:40:59+09:00",
+      "timestamp": "2034-01-13T06:55:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "58.29"
       },
-      "content": "강제소집 회피 이미지까지 붙어서 더 욕먹음",
+      "content": "측정오류랑 부정등록은 구분해야됨",
       "deleted": false
     },
     {
-      "id": "c-2034-000048-v8-003",
-      "parentId": "c-2034-000048-v8-001",
-      "timestamp": "2034-01-13T06:42:25+09:00",
+      "id": "c-2034-000048-b1-003",
+      "parentId": "c-2034-000048-b1-002",
+      "timestamp": "2034-01-13T07:06:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "59.5"
       },
-      "content": "강제소집 회피 이미지도 크고",
+      "content": "실제 피해/규정위반 있으면 기록첨부해서 신고",
       "deleted": false
     }
   ],

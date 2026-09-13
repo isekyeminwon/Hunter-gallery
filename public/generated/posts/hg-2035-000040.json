@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000040-v8-001",
+      "id": "c-2035-000040-b1-001",
       "parentId": null,
-      "timestamp": "2035-01-07T22:13:02+09:00",
+      "timestamp": "2035-01-07T22:19:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "182.214"
       },
-      "content": "해본사람 있냐",
+      "content": "교통비/대기수당 주는팀도 있고 아예 없는팀도 있음",
       "deleted": false
     },
     {
-      "id": "c-2035-000040-v8-002",
+      "id": "c-2035-000040-b1-002",
       "parentId": null,
-      "timestamp": "2035-01-07T22:15:42+09:00",
+      "timestamp": "2035-01-07T22:27:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "121.140"
       },
-      "content": "이건 나도 모르겠네",
+      "content": "이거 애매한 구인은 출발전에 꼭 물어봐",
       "deleted": false
     },
     {
-      "id": "c-2035-000040-v8-003",
+      "id": "c-2035-000040-b1-003",
       "parentId": null,
-      "timestamp": "2035-01-07T22:19:41+09:00",
+      "timestamp": "2035-01-07T22:36:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "223.33"
       },
-      "content": "검색결과가 죄다 옛날거임",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000040-v8-004",
-      "parentId": null,
-      "timestamp": "2035-01-07T22:21:34+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "이런건 물어봐도 됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000040-v8-005",
-      "parentId": null,
-      "timestamp": "2035-01-07T22:24:44+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "첫번엔 나도 잘못알았음",
+      "content": "취소시 지급조건 계약서에 따로 적혀있어야됨",
       "deleted": false
     }
   ],

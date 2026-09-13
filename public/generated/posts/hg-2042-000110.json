@@ -33,87 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000110-v8-001",
+      "id": "c-2042-000110-b2m-001",
       "parentId": null,
-      "timestamp": "2042-07-27T04:12:14+09:00",
+      "timestamp": "2042-07-27T04:11:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "223.62"
       },
-      "content": "마법계 지인이 네뷸라 선호하긴하더라",
+      "content": "취업이면 복지/교육도 봐야지 누가세냐만 볼건 아님",
       "deleted": false
     },
     {
-      "id": "c-2042-000110-v8-002",
+      "id": "c-2042-000110-b2m-002",
       "parentId": null,
-      "timestamp": "2042-07-27T04:13:57+09:00",
+      "timestamp": "2042-07-27T04:14:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "223.52"
       },
-      "content": "백호는 장비지원 이미지가 확실하긴함",
+      "content": "길드 간판 같아도 파티 운영은 다를수 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000110-v8-003",
-      "parentId": "c-2042-000110-v8-001",
-      "timestamp": "2042-07-27T04:16:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000110-v8-004",
-      "parentId": "c-2042-000110-v8-002",
-      "timestamp": "2042-07-27T04:18:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000110-v8-005",
+      "id": "c-2042-000110-b2m-003",
       "parentId": null,
-      "timestamp": "2042-07-27T04:20:21+09:00",
+      "timestamp": "2042-07-27T04:17:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "223.62"
       },
-      "content": "일단 셋다 붙고 고민하자ㅋㅋ",
+      "content": "{{con:kwah}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000110-v8-006",
+      "id": "c-2042-000110-b2m-004",
       "parentId": null,
-      "timestamp": "2042-07-27T04:21:43+09:00",
+      "timestamp": "2042-07-27T04:19:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "223.62"
+      },
+      "content": "한성은 상징적인 상위헌터들이 있어서 이미지빨이 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000110-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-07-27T04:21:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "방송쪽 거부감 있으면 스텔라는 선택지에서 갈릴듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000110-b2m-006",
+      "parentId": null,
+      "timestamp": "2042-07-27T04:24:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "네뷸라는 교육, 백호는 장비/복지로 많이 비교됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000110-b2m-007",
+      "parentId": null,
+      "timestamp": "2042-07-27T04:27:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "전투서열하고 직장선호는 별개임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000110-b2m-008",
+      "parentId": null,
+      "timestamp": "2042-07-27T04:31:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
       },
       "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000110-v8-007",
-      "parentId": null,
-      "timestamp": "2042-07-27T04:25:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "스텔라는 대중노출 감수해야할듯",
       "deleted": false
     }
   ],

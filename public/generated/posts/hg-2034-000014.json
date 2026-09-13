@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000014-v8-001",
+      "id": "c-2034-000014-b1-001",
       "parentId": null,
-      "timestamp": "2034-03-13T13:33:16+09:00",
+      "timestamp": "2034-03-13T13:34:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "175.214"
       },
-      "content": "초보는 이런글이 더 필요함",
+      "content": "이시율 하나로 한성 간판이 너무 세짐",
       "deleted": false
     },
     {
-      "id": "c-2034-000014-v8-002",
+      "id": "c-2034-000014-b1-002",
       "parentId": null,
-      "timestamp": "2034-03-13T13:35:46+09:00",
+      "timestamp": "2034-03-13T13:41:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "한성 들어가서 A급이 묻힌다는 말이 나오는게 웃김",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000014-b1-003",
+      "parentId": null,
+      "timestamp": "2034-03-13T13:47:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.214"
+      },
+      "content": "복지표랑 전투력표를 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000014-b1-004",
+      "parentId": null,
+      "timestamp": "2034-03-13T13:51:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "210.178"
       },
-      "content": "우리쪽은 방식이 살짝 다름",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-003",
-      "parentId": null,
-      "timestamp": "2034-03-13T13:38:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "입구에서라도 맞추고 들어가",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-004",
-      "parentId": "c-2034-000014-v8-003",
-      "timestamp": "2034-03-13T13:40:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-005",
-      "parentId": "c-2034-000014-v8-003",
-      "timestamp": "2034-03-13T13:43:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-006",
-      "parentId": "c-2034-000014-v8-002",
-      "timestamp": "2034-03-13T13:46:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-007",
-      "parentId": null,
-      "timestamp": "2034-03-13T13:48:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-008",
-      "parentId": null,
-      "timestamp": "2034-03-13T13:51:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-009",
-      "parentId": "c-2034-000014-v8-003",
-      "timestamp": "2034-03-13T13:54:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-010",
-      "parentId": "c-2034-000014-v8-008",
-      "timestamp": "2034-03-13T13:55:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-011",
-      "parentId": "c-2034-000014-v8-009",
-      "timestamp": "2034-03-13T13:57:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000014-v8-012",
-      "parentId": null,
-      "timestamp": "2034-03-13T13:59:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "체크할때 다시본다",
+      "content": "네뷸라 백호 2위싸움이라는 말도 너무 단순함",
       "deleted": false
     }
   ],

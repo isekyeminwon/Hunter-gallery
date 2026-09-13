@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000040-v8-001",
+      "id": "c-2040-000040-b2m-001",
       "parentId": null,
-      "timestamp": "2040-01-23T21:44:59+09:00",
+      "timestamp": "2040-01-23T21:43:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "211.246"
       },
-      "content": "중간 이동구간 엄청 잘라냈더라",
+      "content": "편집본에서 이동/대기시간 엄청 잘리는 편임",
       "deleted": false
     },
     {
-      "id": "c-2040-000040-v8-002",
+      "id": "c-2040-000040-b2m-002",
       "parentId": null,
-      "timestamp": "2040-01-23T21:47:43+09:00",
+      "timestamp": "2040-01-23T21:46:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "211.246"
       },
-      "content": "팬아닌데 이번건 볼만함",
+      "content": "5분대 편집 진짜 잘했더라",
       "deleted": false
     }
   ],

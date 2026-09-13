@@ -33,123 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000117-v8-001",
+      "id": "c-2042-000117-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-05T02:52:43+09:00",
+      "timestamp": "2042-08-05T02:52:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "211.58"
       },
-      "content": "경상이라니 그나마 다행이네",
+      "content": "팀/길드명은 기사에 안나온거같은데",
       "deleted": false
     },
     {
-      "id": "c-2042-000117-v8-002",
+      "id": "c-2042-000117-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-05T02:54:39+09:00",
+      "timestamp": "2042-08-05T02:56:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.36"
       },
-      "content": "공략 중단하고 복귀했다는 기사까진 봄",
+      "content": "원인은 아직 조사중이라 특정장비 탓은 이른듯",
       "deleted": false
     },
     {
-      "id": "c-2042-000117-v8-003",
+      "id": "c-2042-000117-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-05T02:56:56+09:00",
+      "timestamp": "2042-08-05T02:57:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "106.102"
       },
-      "content": "괜히 신상부터 캐지는 말자",
+      "content": "공략 중단하고 복귀했다는 내용까진 봄",
       "deleted": false
     },
     {
-      "id": "c-2042-000117-v8-004",
+      "id": "c-2042-000117-b2m-004",
       "parentId": null,
-      "timestamp": "2042-08-05T03:00:34+09:00",
+      "timestamp": "2042-08-05T03:00:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "211.36"
       },
-      "content": "어느길드인지는 기사에 안나왔던데",
+      "content": "{{con:wait}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000117-v8-005",
+      "id": "c-2042-000117-b2m-005",
       "parentId": null,
-      "timestamp": "2042-08-05T03:03:09+09:00",
+      "timestamp": "2042-08-05T03:03:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "118.44"
       },
-      "content": "다친사람 수는 기사마다 같은거 맞음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000117-v8-006",
-      "parentId": null,
-      "timestamp": "2042-08-05T03:05:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "추가기사 뜨면 원인도 나오겠지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000117-v8-007",
-      "parentId": null,
-      "timestamp": "2042-08-05T03:07:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000117-v8-008",
-      "parentId": null,
-      "timestamp": "2042-08-05T03:11:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000117-v8-009",
-      "parentId": null,
-      "timestamp": "2042-08-05T03:13:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000117-v8-010",
-      "parentId": null,
-      "timestamp": "2042-08-05T03:15:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "ㄹㅇ",
+      "content": "기사엔 경상으로 확인된거 맞는듯",
       "deleted": false
     }
   ],

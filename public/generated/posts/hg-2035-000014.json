@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000014-v8-001",
+      "id": "c-2035-000014-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T10:03:54+09:00",
+      "timestamp": "2035-07-15T10:11:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "106.101"
       },
-      "content": "이건 최신 공지 봐야됨",
+      "content": "같은 캡처 계정만 바꿔서 올라오는중",
       "deleted": false
     },
     {
-      "id": "c-2035-000014-v8-002",
+      "id": "c-2035-000014-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-15T10:06:47+09:00",
+      "timestamp": "2035-07-15T10:16:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "223.62"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "공식채널에 없는 소속/계약정보는 일단 거름",
       "deleted": false
     },
     {
-      "id": "c-2035-000014-v8-003",
+      "id": "c-2035-000014-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-15T10:09:28+09:00",
+      "timestamp": "2035-07-15T10:24:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "기사캡처처럼 꾸민 합성짤이 제일 짜증남",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000014-b1-004",
+      "parentId": null,
+      "timestamp": "2035-07-15T10:27:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.194"
       },
-      "content": "최신기준도 같음?",
+      "content": "도배 신고하고 먹이주지마",
       "deleted": false
     },
     {
-      "id": "c-2035-000014-v8-004",
+      "id": "c-2035-000014-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-15T10:13:24+09:00",
+      "timestamp": "2035-07-15T10:37:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.194"
-      },
-      "content": "애매하면 신상은 올리지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-005",
-      "parentId": "c-2035-000014-v8-004",
-      "timestamp": "2035-07-15T10:15:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-006",
-      "parentId": "c-2035-000014-v8-004",
-      "timestamp": "2035-07-15T10:17:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-007",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:20:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "규정이랑 관행은 또 다를수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-008",
-      "parentId": "c-2035-000014-v8-004",
-      "timestamp": "2035-07-15T10:23:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-009",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:25:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "신고해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-010",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:28:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:29:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
       },
       "content": "{{con:dororong}}",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:31:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-013",
-      "parentId": "c-2035-000014-v8-008",
-      "timestamp": "2035-07-15T10:35:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-014",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:38:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "명의 빌려주는건 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-015",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:41:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-016",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:43:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000014-v8-017",
-      "parentId": "c-2035-000014-v8-015",
-      "timestamp": "2035-07-15T10:45:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "실제 신고사례 있음?",
       "deleted": false
     }
   ],

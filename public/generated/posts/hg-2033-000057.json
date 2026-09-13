@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000057-v8-001",
+      "id": "c-2033-000057-b1-001",
       "parentId": null,
-      "timestamp": "2033-10-25T14:00:30+09:00",
+      "timestamp": "2033-10-25T14:06:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "175.214"
       },
-      "content": "안에서 정하려면 늦음",
+      "content": "팀장 목소리 안들릴때 대신 콜할 사람도 정해두면 좋음",
       "deleted": false
     },
     {
-      "id": "c-2033-000057-v8-002",
+      "id": "c-2033-000057-b1-002",
       "parentId": null,
-      "timestamp": "2033-10-25T14:03:44+09:00",
+      "timestamp": "2033-10-25T14:12:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "39.125"
       },
-      "content": "내가 가는팀은 반대로함",
+      "content": "철수 결정났는데 한마리만 더가 제일 위험함",
       "deleted": false
     },
     {
-      "id": "c-2033-000057-v8-003",
-      "parentId": "c-2033-000057-v8-001",
-      "timestamp": "2033-10-25T14:07:00+09:00",
+      "id": "c-2033-000057-b1-003",
+      "parentId": null,
+      "timestamp": "2033-10-25T14:23:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "175.214"
       },
-      "content": "한번 고생하면 안까먹음",
+      "content": "후퇴콜 하나로 통일하는거 ㄹㅇ 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000057-b1-004",
+      "parentId": null,
+      "timestamp": "2033-10-25T14:31:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "인원체크 두번하는건 과한게 아님",
       "deleted": false
     }
   ],

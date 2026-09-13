@@ -33,15 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000083-v8-001",
+      "id": "c-2040-000083-b2m-001",
       "parentId": null,
-      "timestamp": "2040-02-11T11:59:41+09:00",
+      "timestamp": "2040-02-11T12:00:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "61.79"
       },
-      "content": "나도 예전에 이걸로 물어봤었음",
+      "content": "본인 나온 영상이면 가져가는 사람 있음. 대신 내가 뭘 했는지 설명할수 있어야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000083-b2m-002",
+      "parentId": null,
+      "timestamp": "2040-02-11T12:03:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "파티원 얼굴 공개문제는 체크하고",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000083-b2m-003",
+      "parentId": null,
+      "timestamp": "2040-02-11T12:04:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "하이라이트만 던지는것보다 상황설명 짧게 붙이는게 낫다더라",
       "deleted": false
     }
   ],

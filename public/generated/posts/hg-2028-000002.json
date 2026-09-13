@@ -33,207 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000002-v8-001",
+      "id": "c-2028-000002-b1-001",
       "parentId": null,
-      "timestamp": "2028-01-22T12:10:02+09:00",
+      "timestamp": "2028-01-22T12:12:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "1.239"
       },
-      "content": "나도 처음엔 D E 왜없냐 했음ㅋㅋ",
+      "content": "긴급동원 기준까지 들어가니 제도가 거의 다 갖춰지는 느낌",
       "deleted": false
     },
     {
-      "id": "c-2028-000002-v8-002",
+      "id": "c-2028-000002-b1-002",
       "parentId": null,
-      "timestamp": "2028-01-22T12:12:00+09:00",
+      "timestamp": "2028-01-22T12:18:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "118.44"
       },
-      "content": "게임 등급표 생각하면 이상해보이는게 정상",
+      "content": "등급표보다 계약서가 더 무서워지는 시기네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2028-000002-v8-003",
-      "parentId": "c-2028-000002-v8-001",
-      "timestamp": "2028-01-22T12:15:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-004",
-      "parentId": "c-2028-000002-v8-002",
-      "timestamp": "2028-01-22T12:18:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-005",
+      "id": "c-2028-000002-b1-003",
       "parentId": null,
-      "timestamp": "2028-01-22T12:20:30+09:00",
+      "timestamp": "2028-01-22T12:23:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "106.101"
       },
-      "content": "행정분류 개편되다 저렇게 남은걸로 앎",
+      "content": "공략권값이랑 실제 마석수익은 따로 계산해야됨",
       "deleted": false
     },
     {
-      "id": "c-2028-000002-v8-006",
+      "id": "c-2028-000002-b1-004",
       "parentId": null,
-      "timestamp": "2028-01-22T12:22:13+09:00",
+      "timestamp": "2028-01-22T12:32:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "1.239"
       },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-007",
-      "parentId": null,
-      "timestamp": "2028-01-22T12:23:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "F C B A S로 굳어서 그런거",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-008",
-      "parentId": null,
-      "timestamp": "2028-01-22T12:26:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-009",
-      "parentId": "c-2028-000002-v8-002",
-      "timestamp": "2028-01-22T12:30:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-010",
-      "parentId": null,
-      "timestamp": "2028-01-22T12:31:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "이거 경험자 하나만 더 와봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-011",
-      "parentId": null,
-      "timestamp": "2028-01-22T12:32:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-012",
-      "parentId": "c-2028-000002-v8-010",
-      "timestamp": "2028-01-22T12:34:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-013",
-      "parentId": null,
-      "timestamp": "2028-01-22T12:36:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-014",
-      "parentId": null,
-      "timestamp": "2028-01-22T12:38:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-015",
-      "parentId": "c-2028-000002-v8-010",
-      "timestamp": "2028-01-22T12:40:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-016",
-      "parentId": "c-2028-000002-v8-015",
-      "timestamp": "2028-01-22T12:43:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000002-v8-017",
-      "parentId": null,
-      "timestamp": "2028-01-22T12:46:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "근거는?",
+      "content": "공략권 입찰 시작하니까 진짜 업계 느낌나네",
       "deleted": false
     }
   ],

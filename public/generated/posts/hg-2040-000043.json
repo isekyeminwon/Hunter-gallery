@@ -33,27 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000043-v8-001",
+      "id": "c-2040-000043-b2m-001",
       "parentId": null,
-      "timestamp": "2040-03-12T07:09:40+09:00",
+      "timestamp": "2040-03-12T07:09:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "118.235"
       },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000043-v8-002",
-      "parentId": null,
-      "timestamp": "2040-03-12T07:12:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "나도그럼",
+      "content": "헌터도 치과의자 누우면 똑같음ㅋㅋ",
       "deleted": false
     }
   ],

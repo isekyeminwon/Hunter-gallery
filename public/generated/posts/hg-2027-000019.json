@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000019-v8-001",
+      "id": "c-2027-000019-b1-001",
       "parentId": null,
-      "timestamp": "2027-08-03T15:15:43+09:00",
+      "timestamp": "2027-08-03T15:18:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "우리팀은 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000019-v8-002",
-      "parentId": null,
-      "timestamp": "2027-08-03T15:18:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "61.79"
       },
       "content": "정성추",
       "deleted": false
     },
     {
-      "id": "c-2027-000019-v8-003",
-      "parentId": "c-2027-000019-v8-002",
-      "timestamp": "2027-08-03T15:22:23+09:00",
+      "id": "c-2027-000019-b1-002",
+      "parentId": null,
+      "timestamp": "2027-08-03T15:29:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "175.194"
       },
-      "content": "뉴비면 체크해둘만함",
+      "content": "우리팀은 이부분 조금 다르게함",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000019-b1-003",
+      "parentId": null,
+      "timestamp": "2027-08-03T15:36:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "체크리스트에 넣어둔다",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000019-b1-004",
+      "parentId": null,
+      "timestamp": "2027-08-03T15:47:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "이런건 현장 한번 나가보면 왜 적었는지 앎",
       "deleted": false
     }
   ],

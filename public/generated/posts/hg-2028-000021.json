@@ -33,207 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000021-v8-001",
+      "id": "c-2028-000021-b1-001",
       "parentId": null,
-      "timestamp": "2028-01-25T10:12:45+09:00",
+      "timestamp": "2028-01-25T10:14:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "175.214"
       },
-      "content": "공략권이랑 마석값은 따로 봐야됨",
+      "content": "F급 짐꾼 취급 박하다고 해도 현장에선 없으면 티남",
       "deleted": false
     },
     {
-      "id": "c-2028-000021-v8-002",
+      "id": "c-2028-000021-b1-002",
       "parentId": null,
-      "timestamp": "2028-01-25T10:14:53+09:00",
+      "timestamp": "2028-01-25T10:25:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "125.180"
       },
-      "content": "낙찰가 높아도 회수 기대 크면 경쟁붙지",
+      "content": "공략권 있다고 아무나 같이 들어가는건 아니더라",
       "deleted": false
     },
     {
-      "id": "c-2028-000021-v8-003",
-      "parentId": "c-2028-000021-v8-001",
-      "timestamp": "2028-01-25T10:17:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "공략권이랑 마석값은 별개지",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-004",
+      "id": "c-2028-000021-b1-003",
       "parentId": null,
-      "timestamp": "2028-01-25T10:19:01+09:00",
+      "timestamp": "2028-01-25T10:30:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "211.246"
       },
-      "content": "권리 가진팀 아니면 그냥 들어가는 구조가 아님",
+      "content": "공략권 싸게 샀다고 무조건 개꿀은 아님",
       "deleted": false
     },
     {
-      "id": "c-2028-000021-v8-005",
-      "parentId": "c-2028-000021-v8-001",
-      "timestamp": "2028-01-25T10:22:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "낙찰가만 보면 계산안됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-006",
-      "parentId": "c-2028-000021-v8-004",
-      "timestamp": "2028-01-25T10:25:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "권리 가진팀 아니면 그냥 들어가는 구조 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-007",
+      "id": "c-2028-000021-b1-004",
       "parentId": null,
-      "timestamp": "2028-01-25T10:27:50+09:00",
+      "timestamp": "2028-01-25T10:39:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "125.180"
       },
-      "content": "인건비 장비 보험 빼면 계산 달라짐",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-008",
-      "parentId": "c-2028-000021-v8-004",
-      "timestamp": "2028-01-25T10:31:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "인건비 장비 보험까지 빼야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-009",
-      "parentId": "c-2028-000021-v8-005",
-      "timestamp": "2028-01-25T10:35:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "싸게샀다고 무조건 이득 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-010",
-      "parentId": null,
-      "timestamp": "2028-01-25T10:38:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "싸게 샀다고 무조건 이득은 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-011",
-      "parentId": "c-2028-000021-v8-010",
-      "timestamp": "2028-01-25T10:42:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "낙찰가만 보면 계산안됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-012",
-      "parentId": "c-2028-000021-v8-008",
-      "timestamp": "2028-01-25T10:44:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "싸게샀다고 무조건 이득 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-013",
-      "parentId": "c-2028-000021-v8-008",
-      "timestamp": "2028-01-25T10:45:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "권리 가진팀 아니면 그냥 들어가는 구조 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-014",
-      "parentId": null,
-      "timestamp": "2028-01-25T10:49:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-015",
-      "parentId": null,
-      "timestamp": "2028-01-25T10:52:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-016",
-      "parentId": null,
-      "timestamp": "2028-01-25T10:55:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000021-v8-017",
-      "parentId": null,
-      "timestamp": "2028-01-25T10:59:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "근거는?",
+      "content": "권리자랑 실제 참가팀 정보 맞는지 입구에서 보더라",
       "deleted": false
     }
   ],

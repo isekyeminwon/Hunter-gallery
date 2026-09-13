@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000006-v8-001",
+      "id": "c-2027-000006-b1-001",
       "parentId": null,
-      "timestamp": "2027-02-16T05:44:25+09:00",
+      "timestamp": "2027-02-16T05:49:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "118.41"
       },
-      "content": "이건 나도 모르겠네",
+      "content": "현장활동 안하면 면허는 또 별개고",
       "deleted": false
     },
     {
-      "id": "c-2027-000006-v8-002",
+      "id": "c-2027-000006-b1-002",
       "parentId": null,
-      "timestamp": "2027-02-16T05:47:31+09:00",
+      "timestamp": "2027-02-16T05:55:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "118.41"
       },
-      "content": "처음부터 알기 힘든거 맞음",
+      "content": "측정은 했는데 미각성으로 나온 사람도 기록번호 자체는 생기는걸로 앎",
       "deleted": false
     },
     {
-      "id": "c-2027-000006-v8-003",
+      "id": "c-2027-000006-b1-003",
       "parentId": null,
-      "timestamp": "2027-02-16T05:50:53+09:00",
+      "timestamp": "2027-02-16T06:01:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "118.47"
       },
-      "content": "이거 초보때 은근 헷갈림",
+      "content": "헌터면허랑 측정기록번호는 같은게 아님",
       "deleted": false
     },
     {
-      "id": "c-2027-000006-v8-004",
+      "id": "c-2027-000006-b1-004",
       "parentId": null,
-      "timestamp": "2027-02-16T05:53:19+09:00",
+      "timestamp": "2027-02-16T06:09:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "223.62"
       },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-005",
-      "parentId": null,
-      "timestamp": "2027-02-16T05:55:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "검색해도 예전얘기만 나와",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-006",
-      "parentId": "c-2027-000006-v8-004",
-      "timestamp": "2027-02-16T05:58:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-007",
-      "parentId": "c-2027-000006-v8-002",
-      "timestamp": "2027-02-16T06:01:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-008",
-      "parentId": null,
-      "timestamp": "2027-02-16T06:04:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-009",
-      "parentId": "c-2027-000006-v8-003",
-      "timestamp": "2027-02-16T06:07:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-010",
-      "parentId": null,
-      "timestamp": "2027-02-16T06:10:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-011",
-      "parentId": null,
-      "timestamp": "2027-02-16T06:13:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-012",
-      "parentId": "c-2027-000006-v8-006",
-      "timestamp": "2027-02-16T06:16:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-013",
-      "parentId": null,
-      "timestamp": "2027-02-16T06:20:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-014",
-      "parentId": null,
-      "timestamp": "2027-02-16T06:23:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-015",
-      "parentId": null,
-      "timestamp": "2027-02-16T06:26:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-016",
-      "parentId": null,
-      "timestamp": "2027-02-16T06:28:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-017",
-      "parentId": "c-2027-000006-v8-013",
-      "timestamp": "2027-02-16T06:30:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000006-v8-018",
-      "parentId": null,
-      "timestamp": "2027-02-16T06:33:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "이건 나도 궁금함",
+      "content": "등록번호라고 다 헌터인건 아니라는거",
       "deleted": false
     }
   ],

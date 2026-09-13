@@ -33,99 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000032-v8-001",
+      "id": "c-2039-000032-b2m-001",
       "parentId": null,
-      "timestamp": "2039-11-22T22:19:57+09:00",
+      "timestamp": "2039-11-22T22:20:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "220.79"
       },
-      "content": "헌터활동이랑 콘텐츠 붙는거 싫으면 안맞음",
+      "content": "취업선호랑 전투서열은 따로 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2039-000032-v8-002",
+      "id": "c-2039-000032-b2m-002",
       "parentId": null,
-      "timestamp": "2039-11-22T22:23:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "장비지원 후기는 백호가 제일 자주보임",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000032-v8-003",
-      "parentId": null,
-      "timestamp": "2039-11-22T22:25:07+09:00",
+      "timestamp": "2039-11-22T22:23:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "124.53"
       },
-      "content": "취업이랑 누가세냐는 다른문제지",
+      "content": "상위길드라고 모든 파티 분위기가 같은건 아님",
       "deleted": false
     },
     {
-      "id": "c-2039-000032-v8-004",
-      "parentId": "c-2039-000032-v8-002",
-      "timestamp": "2039-11-22T22:26:54+09:00",
+      "id": "c-2039-000032-b2m-003",
+      "parentId": "c-2039-000032-b2m-002",
+      "timestamp": "2039-11-22T22:25:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "223.33"
       },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "content": "전투서열하고 직장선호는 별개임",
       "deleted": false
     },
     {
-      "id": "c-2039-000032-v8-005",
+      "id": "c-2039-000032-b2m-004",
       "parentId": null,
       "timestamp": "2039-11-22T22:28:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "220.79"
       },
-      "content": "셋다 붙으면 그때 고민한다ㅋㅋ",
+      "content": "스텔라는 방송노출 싫어하면 호불호 갈릴듯",
       "deleted": false
     },
     {
-      "id": "c-2039-000032-v8-006",
-      "parentId": "c-2039-000032-v8-003",
-      "timestamp": "2039-11-22T22:32:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000032-v8-007",
+      "id": "c-2039-000032-b2m-005",
       "parentId": null,
-      "timestamp": "2039-11-22T22:35:57+09:00",
+      "timestamp": "2039-11-22T22:30:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "223.33"
       },
-      "content": "한성 지원서 통과부터 하라는 소리 나온다",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000032-v8-008",
-      "parentId": null,
-      "timestamp": "2039-11-22T22:39:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "연구/교육 보면 네뷸라가 매력있지",
+      "content": "마법계면 네뷸라, 장비/복지는 백호 얘기 많이 나옴",
       "deleted": false
     }
   ],

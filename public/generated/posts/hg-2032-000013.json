@@ -33,219 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000013-v8-001",
+      "id": "c-2032-000013-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-11T09:47:00+09:00",
+      "timestamp": "2032-05-11T09:55:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "175.214"
       },
-      "content": "마법계 설명영상은 생각보다 볼만함",
+      "content": "김채연 때문에 네뷸라 지원자 더몰리겠다",
       "deleted": false
     },
     {
-      "id": "c-2032-000013-v8-002",
+      "id": "c-2032-000013-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-11T09:48:47+09:00",
+      "timestamp": "2032-05-11T10:03:38+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "김채연 영상은 광역장면에서 조회수 터짐",
+      "content": "서리여왕 별명은 누가 붙였든 잘붙긴함",
       "deleted": false
     },
     {
-      "id": "c-2032-000013-v8-003",
+      "id": "c-2032-000013-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-11T09:50:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "김채연 영상은 범위 잡히는 장면이 제일 미침",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-004",
-      "parentId": "c-2032-000013-v8-002",
-      "timestamp": "2032-05-11T09:53:27+09:00",
+      "timestamp": "2032-05-11T10:13:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.44"
       },
-      "content": "원본 찾으면 링크좀",
+      "content": "첫 공식공략인데 속도부터 S급 티남",
       "deleted": false
     },
     {
-      "id": "c-2032-000013-v8-005",
+      "id": "c-2032-000013-b1-004",
       "parentId": null,
-      "timestamp": "2032-05-11T09:57:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "후속캠 같이 보면 느낌 더옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-006",
-      "parentId": null,
-      "timestamp": "2032-05-11T09:58:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이채린 단독은 요즘 좀 뜸한편",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-007",
-      "parentId": null,
-      "timestamp": "2032-05-11T10:01:07+09:00",
+      "timestamp": "2032-05-11T10:22:09+09:00",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "짤만 돌면 원본 찾기 빡셈",
+      "content": "둘 비교할때 조건부터 정해야됨",
       "deleted": false
     },
     {
-      "id": "c-2032-000013-v8-008",
-      "parentId": "c-2032-000013-v8-001",
-      "timestamp": "2032-05-11T10:04:48+09:00",
+      "id": "c-2032-000013-b1-005",
+      "parentId": "c-2032-000013-b1-001",
+      "timestamp": "2032-05-11T10:26:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "175.214"
       },
-      "content": "그 짤 예전거일수도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-009",
-      "parentId": "c-2032-000013-v8-005",
-      "timestamp": "2032-05-11T10:08:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "김채연 영상이면 후속캠도 같이 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-010",
-      "parentId": null,
-      "timestamp": "2032-05-11T10:11:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "네뷸라 공식채널 은근 자료 많음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-11T10:13:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-012",
-      "parentId": "c-2032-000013-v8-009",
-      "timestamp": "2032-05-11T10:15:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "네뷸라 공채널 뒤져보면 나올듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-013",
-      "parentId": null,
-      "timestamp": "2032-05-11T10:18:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "김채연 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-014",
-      "parentId": null,
-      "timestamp": "2032-05-11T10:20:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-015",
-      "parentId": null,
-      "timestamp": "2032-05-11T10:24:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-016",
-      "parentId": null,
-      "timestamp": "2032-05-11T10:27:59+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-017",
-      "parentId": "c-2032-000013-v8-015",
-      "timestamp": "2032-05-11T10:29:25+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "단독영상은 요즘 뜸하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000013-v8-018",
-      "parentId": "c-2032-000013-v8-015",
-      "timestamp": "2032-05-11T10:31:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "그 짤 예전거일수도 있음",
+      "content": "서리여왕 별명은 잘붙음ㅋㅋ",
       "deleted": false
     }
   ],

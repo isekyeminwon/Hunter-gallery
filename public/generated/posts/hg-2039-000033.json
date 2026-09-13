@@ -33,75 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000033-v8-001",
+      "id": "c-2039-000033-b2m-001",
       "parentId": null,
-      "timestamp": "2039-12-04T16:56:10+09:00",
+      "timestamp": "2039-12-04T16:54:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "1.239"
       },
-      "content": "해본사람 있냐",
+      "content": "자주 나가면 편한데 월 1~2회면 손해일수 있음",
       "deleted": false
     },
     {
-      "id": "c-2039-000033-v8-002",
+      "id": "c-2039-000033-b2m-002",
       "parentId": null,
-      "timestamp": "2039-12-04T16:57:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "처음부터 알기 힘든거 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000033-v8-003",
-      "parentId": "c-2039-000033-v8-001",
-      "timestamp": "2039-12-04T16:59:49+09:00",
+      "timestamp": "2039-12-04T16:57:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "1.239"
       },
-      "content": "나도 처음엔 헷갈렸음",
+      "content": "소모품 포함인지 별도인지 꼭 확인",
       "deleted": false
     },
     {
-      "id": "c-2039-000033-v8-004",
-      "parentId": "c-2039-000033-v8-002",
-      "timestamp": "2039-12-04T17:01:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000033-v8-005",
+      "id": "c-2039-000033-b2m-003",
       "parentId": null,
-      "timestamp": "2039-12-04T17:03:34+09:00",
+      "timestamp": "2039-12-04T17:00:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "223.38"
       },
-      "content": "이거 초보때 은근 헷갈림",
+      "content": "수리중 대차해주는지부터 봐. 장기계약은 그게 체감 큼",
       "deleted": false
     },
     {
-      "id": "c-2039-000033-v8-006",
-      "parentId": null,
-      "timestamp": "2039-12-04T17:06:32+09:00",
+      "id": "c-2039-000033-b2m-004",
+      "parentId": "c-2039-000033-b2m-001",
+      "timestamp": "2039-12-04T17:02:11+09:00",
       "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
       },
-      "content": "검색결과가 죄다 옛날거임",
+      "content": "중도해지 위약금도 봐라 싸다고 묶었다가 못나옴",
       "deleted": false
     }
   ],

@@ -33,27 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000068-v8-001",
+      "id": "c-2040-000068-b2m-001",
       "parentId": null,
-      "timestamp": "2040-03-16T22:26:38+09:00",
+      "timestamp": "2040-03-16T22:27:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "223.62"
       },
-      "content": "김채연 영상은 광역장면에서 조회수 터짐",
+      "content": "최근 실적이랑 옛 최고점 섞어놓으면 답 안나옴",
       "deleted": false
     },
     {
-      "id": "c-2040-000068-v8-002",
+      "id": "c-2040-000068-b2m-002",
       "parentId": null,
-      "timestamp": "2040-03-16T22:29:29+09:00",
+      "timestamp": "2040-03-16T22:29:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "1.239"
       },
-      "content": "마법계 설명영상은 생각보다 볼만함",
+      "content": "김채연 광역영상은 화면밖이 더 무서움",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000068-b2m-003",
+      "parentId": null,
+      "timestamp": "2040-03-16T22:33:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "강주아랑 붙이는건 이제 연례행사냐ㅋㅋ",
       "deleted": false
     }
   ],

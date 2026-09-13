@@ -33,303 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000002-v8-001",
+      "id": "c-2041-000002-b2m-001",
       "parentId": null,
-      "timestamp": "2041-07-03T18:22:25+09:00",
+      "timestamp": "2041-07-03T18:22:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "211.234"
       },
-      "content": "해본사람 있냐",
+      "content": "현장마다 다른데 편집본 10분이 실제론 몇시간인 경우 흔함",
       "deleted": false
     },
     {
-      "id": "c-2041-000002-v8-002",
+      "id": "c-2041-000002-b2m-002",
       "parentId": null,
-      "timestamp": "2041-07-03T18:23:59+09:00",
+      "timestamp": "2041-07-03T18:25:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "39.125"
       },
-      "content": "나도 답 기다림",
+      "content": "장기전이면 철수판단 기다리는 시간도 길어짐",
       "deleted": false
     },
     {
-      "id": "c-2041-000002-v8-003",
-      "parentId": "c-2041-000002-v8-002",
-      "timestamp": "2041-07-03T18:25:56+09:00",
+      "id": "c-2041-000002-b2m-003",
+      "parentId": null,
+      "timestamp": "2041-07-03T18:28:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "58.29"
       },
-      "content": "나도 처음엔 헷갈렸음",
+      "content": "{{con:hi_star}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000002-v8-004",
-      "parentId": null,
-      "timestamp": "2041-07-03T18:27:31+09:00",
+      "id": "c-2041-000002-b2m-004",
+      "parentId": "c-2041-000002-b2m-002",
+      "timestamp": "2041-07-03T18:31:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "39.125"
       },
-      "content": "최신 후기 찾기가 더힘듦",
+      "content": "촬영영상은 대기부분 거의 다 자르니까 체감차 큼",
       "deleted": false
     },
     {
-      "id": "c-2041-000002-v8-005",
-      "parentId": "c-2041-000002-v8-003",
-      "timestamp": "2041-07-03T18:29:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-006",
-      "parentId": "c-2041-000002-v8-001",
-      "timestamp": "2041-07-03T18:30:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-007",
-      "parentId": null,
-      "timestamp": "2041-07-03T18:32:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "이건 나도 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-008",
-      "parentId": "c-2041-000002-v8-003",
-      "timestamp": "2041-07-03T18:35:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-009",
-      "parentId": "c-2041-000002-v8-003",
-      "timestamp": "2041-07-03T18:38:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-010",
-      "parentId": null,
-      "timestamp": "2041-07-03T18:40:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "이건 첫번엔 잘모름",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-011",
-      "parentId": null,
-      "timestamp": "2041-07-03T18:42:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-012",
-      "parentId": "c-2041-000002-v8-008",
-      "timestamp": "2041-07-03T18:46:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-013",
-      "parentId": null,
-      "timestamp": "2041-07-03T18:49:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-014",
-      "parentId": null,
-      "timestamp": "2041-07-03T18:51:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "처음이면 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-015",
-      "parentId": null,
-      "timestamp": "2041-07-03T18:53:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-016",
-      "parentId": null,
-      "timestamp": "2041-07-03T18:56:07+09:00",
+      "id": "c-2041-000002-b2m-005",
+      "parentId": "c-2041-000002-b2m-001",
+      "timestamp": "2041-07-03T18:33:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.248"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-017",
-      "parentId": "c-2041-000002-v8-010",
-      "timestamp": "2041-07-03T18:59:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-018",
-      "parentId": null,
-      "timestamp": "2041-07-03T19:01:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-019",
-      "parentId": null,
-      "timestamp": "2041-07-03T19:04:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "나도 처음엔 이거 몰랐음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-020",
-      "parentId": null,
-      "timestamp": "2041-07-03T19:06:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-021",
-      "parentId": null,
-      "timestamp": "2041-07-03T19:08:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-022",
-      "parentId": null,
-      "timestamp": "2041-07-03T19:12:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-023",
-      "parentId": null,
-      "timestamp": "2041-07-03T19:14:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-024",
-      "parentId": null,
-      "timestamp": "2041-07-03T19:15:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000002-v8-025",
-      "parentId": null,
-      "timestamp": "2041-07-03T19:17:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이건 처음듣네",
+      "content": "입구대기/장비확인/정찰에서 시간 제일 많이 먹음",
       "deleted": false
     }
   ],

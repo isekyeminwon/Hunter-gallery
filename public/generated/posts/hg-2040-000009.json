@@ -33,15 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000009-v8-001",
+      "id": "c-2040-000009-b2m-001",
       "parentId": null,
-      "timestamp": "2040-09-16T11:49:34+09:00",
+      "timestamp": "2040-09-16T11:48:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "59.10"
       },
-      "content": "낙찰가 높아도 회수 기대 크면 경쟁붙지",
+      "content": "공략권은 누가 들어가서 공략할 권리냐는거고 마석값이랑 별개임",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000009-b2m-002",
+      "parentId": null,
+      "timestamp": "2040-09-16T11:52:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "공략권 가진 팀이라고 현장규정까지 마음대로는 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000009-b2m-003",
+      "parentId": null,
+      "timestamp": "2040-09-16T11:53:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "인건비/장비/보험/운송 빼고 남는걸 봐야지",
       "deleted": false
     }
   ],

@@ -33,363 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000017-v8-001",
+      "id": "c-2041-000017-b2m-001",
       "parentId": null,
-      "timestamp": "2041-04-12T12:03:28+09:00",
+      "timestamp": "2041-04-12T12:05:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "211.201"
       },
-      "content": "정화계 없다고 무조건 못가는건 아님",
+      "content": "합동훈련은 전투보다 콜 맞추는 시간이 더 오래걸린다더라",
       "deleted": false
     },
     {
-      "id": "c-2041-000017-v8-002",
+      "id": "c-2041-000017-b2m-002",
       "parentId": null,
-      "timestamp": "2041-04-12T12:05:51+09:00",
+      "timestamp": "2041-04-12T12:07:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "39.7"
       },
-      "content": "보호구/소모품까지 넣으면 수익 달라짐",
+      "content": "철수콜 반복시키는 이유가 실전에서 안헷갈리려고 하는거지",
       "deleted": false
     },
     {
-      "id": "c-2041-000017-v8-003",
+      "id": "c-2041-000017-b2m-003",
       "parentId": null,
-      "timestamp": "2041-04-12T12:08:52+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "공략권 싸도 세척비에서 울수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-004",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:12:45+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "정화계 있으면 편한건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-005",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:16:33+09:00",
+      "timestamp": "2041-04-12T12:10:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "118.235"
       },
-      "content": "묘지형 두번 가고 손절한놈 봄",
+      "content": "{{con:wait}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000017-v8-006",
-      "parentId": "c-2041-000017-v8-004",
-      "timestamp": "2041-04-12T12:19:36+09:00",
+      "id": "c-2041-000017-b2m-004",
+      "parentId": null,
+      "timestamp": "2041-04-12T12:14:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "118.235"
       },
-      "content": "냄새 분진때문에 싫어하는팀 많음",
+      "content": "{{con:good}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000017-v8-007",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:21:36+09:00",
+      "id": "c-2041-000017-b2m-005",
+      "parentId": "c-2041-000017-b2m-002",
+      "timestamp": "2041-04-12T12:18:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "211.201"
       },
-      "content": "냄새 분진 싫어서 거르는팀 많음",
+      "content": "이건 경험자 하나 더 와봐야겠다",
       "deleted": false
     },
     {
-      "id": "c-2041-000017-v8-008",
+      "id": "c-2041-000017-b2m-006",
       "parentId": null,
-      "timestamp": "2041-04-12T12:24:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-009",
-      "parentId": "c-2041-000017-v8-007",
-      "timestamp": "2041-04-12T12:26:58+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "없다고 무조건 못가는건 아니고",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-010",
-      "parentId": "c-2041-000017-v8-004",
-      "timestamp": "2041-04-12T12:29:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "세척비까지 넣으면 계산 달라짐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-011",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:31:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-012",
-      "parentId": "c-2041-000017-v8-006",
-      "timestamp": "2041-04-12T12:34:00+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "공략권 싼데는 이유가 있을수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-013",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:37:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-014",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:41:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-015",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:45:21+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-016",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:47:53+09:00",
+      "timestamp": "2041-04-12T12:21:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "112.171"
       },
-      "content": "그건 좀",
+      "content": "부상자 가정 넣으면 지원인력 동선부터 꼬임",
       "deleted": false
     },
     {
-      "id": "c-2041-000017-v8-017",
+      "id": "c-2041-000017-b2m-007",
       "parentId": null,
-      "timestamp": "2041-04-12T12:51:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-018",
-      "parentId": null,
-      "timestamp": "2041-04-12T12:54:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-019",
-      "parentId": "c-2041-000017-v8-015",
-      "timestamp": "2041-04-12T12:58:23+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "정화계 있으면 편한건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-020",
-      "parentId": null,
-      "timestamp": "2041-04-12T13:00:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-021",
-      "parentId": null,
-      "timestamp": "2041-04-12T13:03:10+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-022",
-      "parentId": "c-2041-000017-v8-018",
-      "timestamp": "2041-04-12T13:04:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "공략권 싼데는 이유가 있을수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-023",
-      "parentId": null,
-      "timestamp": "2041-04-12T13:07:33+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-024",
-      "parentId": null,
-      "timestamp": "2041-04-12T13:10:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-025",
-      "parentId": null,
-      "timestamp": "2041-04-12T13:13:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-026",
-      "parentId": null,
-      "timestamp": "2041-04-12T13:17:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-027",
-      "parentId": "c-2041-000017-v8-020",
-      "timestamp": "2041-04-12T13:20:35+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "공략권 싼데는 이유가 있을수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-028",
-      "parentId": null,
-      "timestamp": "2041-04-12T13:23:11+09:00",
+      "timestamp": "2041-04-12T12:24:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "112.171"
       },
-      "content": "나도 비슷했음",
+      "content": "훈련점수로 길드서열 매기는건 너무 헌갤식ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000017-v8-029",
+      "id": "c-2041-000017-b2m-008",
       "parentId": null,
-      "timestamp": "2041-04-12T13:25:22+09:00",
+      "timestamp": "2041-04-12T12:25:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "39.7"
       },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000017-v8-030",
-      "parentId": null,
-      "timestamp": "2041-04-12T13:28:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "이건 인정",
+      "content": "다른 길드끼리 장비규격 맞추는것도 은근 일임",
       "deleted": false
     }
   ],

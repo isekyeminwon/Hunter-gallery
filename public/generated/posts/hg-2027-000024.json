@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000024-v8-001",
+      "id": "c-2027-000024-b1-001",
       "parentId": null,
-      "timestamp": "2027-05-20T17:38:02+09:00",
+      "timestamp": "2027-05-20T17:39:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "211.235"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "긴급상황 아니면 112보다 등록민원쪽이 맞을듯",
       "deleted": false
     },
     {
-      "id": "c-2027-000024-v8-002",
+      "id": "c-2027-000024-b1-002",
       "parentId": null,
-      "timestamp": "2027-05-20T17:41:44+09:00",
+      "timestamp": "2027-05-20T17:48:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "211.235"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
+      "content": "신고한다고 신상캐서 첨부할 필요는 없음",
       "deleted": false
     },
     {
-      "id": "c-2027-000024-v8-003",
-      "parentId": null,
-      "timestamp": "2027-05-20T17:45:10+09:00",
+      "id": "c-2027-000024-b1-003",
+      "parentId": "c-2027-000024-b1-001",
+      "timestamp": "2027-05-20T17:57:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "58.29"
       },
-      "content": "그거 개정 안됐나",
+      "content": "협회 신고창구 따로 생긴걸로 앎",
+      "deleted": false
+    },
+    {
+      "id": "c-2027-000024-b1-004",
+      "parentId": null,
+      "timestamp": "2027-05-20T18:08:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "단순 의심만으로 박제하진마",
       "deleted": false
     }
   ],

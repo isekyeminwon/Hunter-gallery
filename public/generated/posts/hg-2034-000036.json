@@ -33,15 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000036-v8-001",
+      "id": "c-2034-000036-b1-001",
       "parentId": null,
-      "timestamp": "2034-01-19T05:27:08+09:00",
+      "timestamp": "2034-01-19T05:30:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "106.248"
       },
-      "content": "나도 예전에 이걸로 물어봤었음",
+      "content": "첫 측정 오류 의심될때 재검 넣는거지 레벨업 확인용은 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000036-b1-002",
+      "parentId": null,
+      "timestamp": "2034-01-19T05:36:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "컨디션 때문에 약간 흔들릴수는 있다고 들음",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000036-b1-003",
+      "parentId": null,
+      "timestamp": "2034-01-19T05:45:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "재측정하면 소폭 차이는 나도 등급 뒤집히는건 흔치않다던데",
       "deleted": false
     }
   ],

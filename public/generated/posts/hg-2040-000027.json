@@ -33,39 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000027-v8-001",
+      "id": "c-2040-000027-b2m-001",
       "parentId": null,
-      "timestamp": "2040-01-21T10:12:30+09:00",
+      "timestamp": "2040-01-21T10:13:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "223.38"
       },
-      "content": "팬아닌데 이번건 볼만함",
+      "content": "공식 공지 기준 8시였던걸로 봄",
       "deleted": false
     },
     {
-      "id": "c-2040-000027-v8-002",
+      "id": "c-2040-000027-b2m-002",
       "parentId": null,
-      "timestamp": "2040-01-21T10:16:17+09:00",
+      "timestamp": "2040-01-21T10:15:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "182.214"
       },
-      "content": "풀버전도 풀어줬으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000027-v8-003",
-      "parentId": null,
-      "timestamp": "2040-01-21T10:17:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이번 편집 진짜 잘뽑았네",
+      "content": "다시보기는 보통 금방 올라오는데 당일은 케바케",
       "deleted": false
     }
   ],

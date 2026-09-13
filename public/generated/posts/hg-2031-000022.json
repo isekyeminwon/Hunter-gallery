@@ -33,159 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000022-v8-001",
+      "id": "c-2031-000022-b1-001",
       "parentId": null,
-      "timestamp": "2031-08-22T14:02:27+09:00",
+      "timestamp": "2031-08-22T14:04:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "112.171"
       },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "content": "해외이적 제안 자체는 있을수 있겠지만 명단썰은 못믿겠음",
       "deleted": false
     },
     {
-      "id": "c-2031-000022-v8-002",
+      "id": "c-2031-000022-b1-002",
       "parentId": null,
-      "timestamp": "2031-08-22T14:03:48+09:00",
+      "timestamp": "2031-08-22T14:08:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "121.163"
       },
-      "content": "보험 있냐",
+      "content": "구체 길드명 나온건 출처부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2031-000022-v8-003",
+      "id": "c-2031-000022-b1-003",
       "parentId": null,
-      "timestamp": "2031-08-22T14:05:14+09:00",
+      "timestamp": "2031-08-22T14:17:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "112.171"
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "A급이면 해외오퍼 오는게 이상하진 않지",
       "deleted": false
     },
     {
-      "id": "c-2031-000022-v8-004",
-      "parentId": "c-2031-000022-v8-001",
-      "timestamp": "2031-08-22T14:07:12+09:00",
+      "id": "c-2031-000022-b1-004",
+      "parentId": "c-2031-000022-b1-001",
+      "timestamp": "2031-08-22T14:22:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "121.163"
       },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000022-v8-005",
-      "parentId": null,
-      "timestamp": "2031-08-22T14:09:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000022-v8-006",
-      "parentId": "c-2031-000022-v8-004",
-      "timestamp": "2031-08-22T14:11:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000022-v8-007",
-      "parentId": "c-2031-000022-v8-003",
-      "timestamp": "2031-08-22T14:14:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000022-v8-008",
-      "parentId": null,
-      "timestamp": "2031-08-22T14:18:05+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000022-v8-009",
-      "parentId": "c-2031-000022-v8-003",
-      "timestamp": "2031-08-22T14:22:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000022-v8-010",
-      "parentId": null,
-      "timestamp": "2031-08-22T14:25:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000022-v8-011",
-      "parentId": null,
-      "timestamp": "2031-08-22T14:29:38+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "계약주체 누구임",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000022-v8-012",
-      "parentId": null,
-      "timestamp": "2031-08-22T14:33:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000022-v8-013",
-      "parentId": "c-2031-000022-v8-008",
-      "timestamp": "2031-08-22T14:35:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "조건부터 봐야됨",
+      "content": "세금/비자/공략자격까지 있어서 생각보다 복잡할듯",
       "deleted": false
     }
   ],

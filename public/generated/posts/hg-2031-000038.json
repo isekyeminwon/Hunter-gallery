@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000038-v8-001",
+      "id": "c-2031-000038-b1-001",
       "parentId": null,
-      "timestamp": "2031-11-05T03:18:59+09:00",
+      "timestamp": "2031-11-05T03:23:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "118.221"
       },
-      "content": "한번 더 보자는 말이 제일 무서움",
+      "content": "첫체크 끝나고 이동직전에 한번 더하는거 좋음",
       "deleted": false
     },
     {
-      "id": "c-2031-000038-v8-002",
+      "id": "c-2031-000038-b1-002",
       "parentId": null,
-      "timestamp": "2031-11-05T03:21:26+09:00",
+      "timestamp": "2031-11-05T03:32:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "118.221"
       },
-      "content": "저위험이라도 퇴로는 잡고 들어가",
+      "content": "한명씩 이름 부르는게 느려보여도 제일 확실함",
       "deleted": false
     },
     {
-      "id": "c-2031-000038-v8-003",
+      "id": "c-2031-000038-b1-003",
       "parentId": null,
-      "timestamp": "2031-11-05T03:24:35+09:00",
+      "timestamp": "2031-11-05T03:39:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "106.102"
       },
-      "content": "팀장 전투중이면 대체콜도 있어야됨",
+      "content": "철수때 다들 급해서 여기서 실수남",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000038-b1-004",
+      "parentId": "c-2031-000038-b1-001",
+      "timestamp": "2031-11-05T03:48:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "짐꾼/촬영까지 포함해서 세야됨",
       "deleted": false
     }
   ],

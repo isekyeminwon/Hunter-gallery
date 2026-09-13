@@ -33,87 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000098-v8-001",
+      "id": "c-2042-000098-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-25T03:57:28+09:00",
+      "timestamp": "2042-08-25T03:56:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "223.62"
       },
-      "content": "방송쪽 거부감 있으면 호불호 세겠네",
+      "content": "렌탈 받을때 버클/스트랩/배터리 실제로 확인해",
       "deleted": false
     },
     {
-      "id": "c-2042-000098-v8-002",
+      "id": "c-2042-000098-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-25T04:00:48+09:00",
+      "timestamp": "2042-08-25T04:00:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "118.41"
       },
-      "content": "마법계는 네뷸라 교육이 솔깃하긴함",
+      "content": "흠집 사진 찍어두면 반납할때 싸움 덜남",
       "deleted": false
     },
     {
-      "id": "c-2042-000098-v8-003",
+      "id": "c-2042-000098-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-25T04:03:37+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "선택권부터 달라는 댓글 예상함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000098-v8-004",
-      "parentId": null,
-      "timestamp": "2042-08-25T04:05:00+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "길드 전투순위로 직장 고르는건 좀ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000098-v8-005",
-      "parentId": "c-2042-000098-v8-004",
-      "timestamp": "2042-08-25T04:06:46+09:00",
+      "timestamp": "2042-08-25T04:02:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "14.32"
       },
-      "content": "취업이면 복지/교육도 봐야지",
+      "content": "{{con:Intelligence}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000098-v8-006",
-      "parentId": "c-2042-000098-v8-005",
-      "timestamp": "2042-08-25T04:09:39+09:00",
+      "id": "c-2042-000098-b2m-004",
+      "parentId": "c-2042-000098-b2m-001",
+      "timestamp": "2042-08-25T04:06:17+09:00",
       "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
       },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "content": "예비배터리까지 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000098-v8-007",
-      "parentId": null,
-      "timestamp": "2042-08-25T04:11:36+09:00",
+      "id": "c-2042-000098-b2m-005",
+      "parentId": "c-2042-000098-b2m-002",
+      "timestamp": "2042-08-25T04:08:55+09:00",
       "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
       },
-      "content": "복지로 백호 미는사람 많은 이유는 있음",
+      "content": "입구에서 실제 작동 한번 해봐",
       "deleted": false
     }
   ],

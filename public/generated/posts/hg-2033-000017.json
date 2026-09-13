@@ -33,171 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000017-v8-001",
+      "id": "c-2033-000017-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-16T17:27:16+09:00",
+      "timestamp": "2033-09-16T17:36:01+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "기존 규격 장비로 감당 안되는 얘기 나온적 있음",
+      "content": "장비가 SS급이라는 새등급으로 바로 나뉘는건 아니겠지",
       "deleted": false
     },
     {
-      "id": "c-2033-000017-v8-002",
+      "id": "c-2033-000017-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-16T17:29:38+09:00",
+      "timestamp": "2033-09-16T17:45:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "211.246"
       },
-      "content": "SS가 기존 S로 설명 안되는놈 나와서 만든거잖아",
+      "content": "기존 장비를 그대로 쓰기엔 출력/내구 기준이 안맞는다는 얘기 나옴",
       "deleted": false
     },
     {
-      "id": "c-2033-000017-v8-003",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:33:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "이시율 보고도 몇배냐 묻는건 무리",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-004",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:37:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "S 몇명분 이런 계산은 의미없지 않나",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-005",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:39:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-006",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:41:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "다른사람은 어땠음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-007",
-      "parentId": "c-2033-000017-v8-006",
-      "timestamp": "2033-09-16T17:44:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-008",
-      "parentId": "c-2033-000017-v8-002",
-      "timestamp": "2033-09-16T17:47:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-009",
+      "id": "c-2033-000017-b1-003",
       "parentId": null,
       "timestamp": "2033-09-16T17:50:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "14.32"
       },
-      "content": "ㄹㅇ",
+      "content": "검 하나만 봐도 일반 규격이랑 같은지 궁금하긴함",
       "deleted": false
     },
     {
-      "id": "c-2033-000017-v8-010",
+      "id": "c-2033-000017-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-16T17:52:09+09:00",
+      "timestamp": "2033-09-16T17:55:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "39.125"
       },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:53:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-012",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:56:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-013",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:58:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000017-v8-014",
-      "parentId": null,
-      "timestamp": "2033-09-16T18:01:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "나도 비슷했음",
+      "content": "이시율 전용 세팅 따로 들어간다는 기사 봤음",
       "deleted": false
     }
   ],

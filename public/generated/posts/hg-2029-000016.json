@@ -33,63 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000016-v8-001",
+      "id": "c-2029-000016-b1-001",
       "parentId": null,
-      "timestamp": "2029-09-19T11:39:07+09:00",
+      "timestamp": "2029-09-19T11:47:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "61.79"
       },
-      "content": "이거 답 아는사람?",
+      "content": "렌탈 몇번 해보고 자주 쓰는것부터 사는게 덜낭비임",
       "deleted": false
     },
     {
-      "id": "c-2029-000016-v8-002",
+      "id": "c-2029-000016-b1-002",
       "parentId": null,
-      "timestamp": "2029-09-19T11:41:22+09:00",
+      "timestamp": "2029-09-19T11:57:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "175.214"
       },
-      "content": "처음하면 헷갈릴만하지",
+      "content": "능력계열/역할 말해야 예산 얘기가 됨",
       "deleted": false
     },
     {
-      "id": "c-2029-000016-v8-003",
+      "id": "c-2029-000016-b1-003",
       "parentId": null,
-      "timestamp": "2029-09-19T11:43:58+09:00",
+      "timestamp": "2029-09-19T12:04:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "61.79"
       },
-      "content": "이거 초보때 은근 헷갈림",
+      "content": "보호구랑 신발은 너무 아끼지 않는게 낫더라",
       "deleted": false
     },
     {
-      "id": "c-2029-000016-v8-004",
+      "id": "c-2029-000016-b1-004",
       "parentId": null,
-      "timestamp": "2029-09-19T11:47:54+09:00",
+      "timestamp": "2029-09-19T12:08:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "175.214"
       },
-      "content": "최신 후기 찾기가 더힘듦",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000016-v8-005",
-      "parentId": null,
-      "timestamp": "2029-09-19T11:51:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "해본사람 있냐",
+      "content": "처음부터 풀세트 최고급으로 맞추지마",
       "deleted": false
     }
   ],

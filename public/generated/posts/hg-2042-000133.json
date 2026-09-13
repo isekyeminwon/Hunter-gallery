@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000133-v8-001",
+      "id": "c-2042-000133-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-12T15:40:54+09:00",
+      "timestamp": "2042-09-12T15:42:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "211.58"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "공식프로필/기사에 공개된 정보와 주소·가족·연락처는 완전 다름",
       "deleted": false
     },
     {
-      "id": "c-2042-000133-v8-002",
+      "id": "c-2042-000133-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-12T15:43:15+09:00",
+      "timestamp": "2042-09-12T15:43:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "59.10"
       },
-      "content": "규정이랑 관행은 또 다를수 있음",
+      "content": "실명 공개된 헌터라도 집주소/가족정보까지 퍼뜨리면 안됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000133-v8-003",
+      "id": "c-2042-000133-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-12T15:46:49+09:00",
+      "timestamp": "2042-09-12T15:46:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "211.58"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "학교/직장 과거사진도 공개출처인지 확인해야됨",
       "deleted": false
     }
   ],

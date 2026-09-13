@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000029-v8-001",
+      "id": "c-2042-000029-b2m-001",
       "parentId": null,
-      "timestamp": "2042-04-12T18:32:33+09:00",
+      "timestamp": "2042-04-12T18:32:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "118.41"
       },
-      "content": "개인거 있어도 팀보험은 따로 봄",
+      "content": "보호구 폐기까지 생기면 싼 공략권 의미 없어질수 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000029-v8-002",
+      "id": "c-2042-000029-b2m-002",
       "parentId": null,
-      "timestamp": "2042-04-12T18:36:25+09:00",
+      "timestamp": "2042-04-12T18:35:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.250"
       },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "content": "정화계 있으면 편한건 맞는데 없다고 무조건 못가는건 아님",
       "deleted": false
     },
     {
-      "id": "c-2042-000029-v8-003",
+      "id": "c-2042-000029-b2m-003",
       "parentId": null,
-      "timestamp": "2042-04-12T18:39:50+09:00",
+      "timestamp": "2042-04-12T18:37:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "118.41"
       },
-      "content": "현장등급 제한 먼저 봐",
+      "content": "{{con:real}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000029-v8-004",
-      "parentId": "c-2042-000029-v8-003",
-      "timestamp": "2042-04-12T18:42:10+09:00",
+      "id": "c-2042-000029-b2m-004",
+      "parentId": "c-2042-000029-b2m-001",
+      "timestamp": "2042-04-12T18:40:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "117.111"
       },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-005",
-      "parentId": "c-2042-000029-v8-002",
-      "timestamp": "2042-04-12T18:44:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "보험됨 한줄로 끝내면 불안함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-006",
-      "parentId": null,
-      "timestamp": "2042-04-12T18:46:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "회사명보다 뭘 보장하는지가 중요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-007",
-      "parentId": "c-2042-000029-v8-002",
-      "timestamp": "2042-04-12T18:49:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-008",
-      "parentId": null,
-      "timestamp": "2042-04-12T18:51:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-009",
-      "parentId": "c-2042-000029-v8-005",
-      "timestamp": "2042-04-12T18:53:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "후송/치료 범위도 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-010",
-      "parentId": null,
-      "timestamp": "2042-04-12T18:56:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-011",
-      "parentId": "c-2042-000029-v8-010",
-      "timestamp": "2042-04-12T18:58:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "보장범위가 제일 중요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-012",
-      "parentId": "c-2042-000029-v8-006",
-      "timestamp": "2042-04-12T19:00:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-013",
-      "parentId": null,
-      "timestamp": "2042-04-12T19:04:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "누가 가입시키는지부터 확인",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-014",
-      "parentId": "c-2042-000029-v8-007",
-      "timestamp": "2042-04-12T19:06:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-015",
-      "parentId": null,
-      "timestamp": "2042-04-12T19:09:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-016",
-      "parentId": null,
-      "timestamp": "2042-04-12T19:12:33+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-017",
-      "parentId": null,
-      "timestamp": "2042-04-12T19:15:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "보험됨 한줄만 믿지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000029-v8-018",
-      "parentId": null,
-      "timestamp": "2042-04-12T19:17:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㄹㅇ",
+      "content": "정화계 없다고 무조건 못가는건 아님",
       "deleted": false
     }
   ],

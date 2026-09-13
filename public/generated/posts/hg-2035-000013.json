@@ -33,183 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000013-v8-001",
+      "id": "c-2035-000013-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-12T19:07:26+09:00",
+      "timestamp": "2035-07-12T19:12:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "39.125"
       },
-      "content": "풀버전도 풀어줬으면",
+      "content": "새로고침 할때마다 같은 떡밥 올라오네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000013-v8-002",
+      "id": "c-2035-000013-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-12T19:10:07+09:00",
+      "timestamp": "2035-07-12T19:22:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "106.101"
       },
-      "content": "별하나 표정 짤 바로 돌겠네ㅋㅋ",
+      "content": "이정도면 하루종일 이 얘기만 하겠다",
       "deleted": false
     },
     {
-      "id": "c-2035-000013-v8-003",
+      "id": "c-2035-000013-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-12T19:13:31+09:00",
+      "timestamp": "2035-07-12T19:32:43+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
       },
-      "content": "댓글보다 영상 타임스탬프 공유하는게 낫다ㅋㅋ",
+      "content": "측정결과 확인된 부분만 보면 되는걸 왜 신상썰까지 가냐",
       "deleted": false
     },
     {
-      "id": "c-2035-000013-v8-004",
-      "parentId": "c-2035-000013-v8-001",
-      "timestamp": "2035-07-12T19:16:20+09:00",
+      "id": "c-2035-000013-b1-004",
+      "parentId": "c-2035-000013-b1-003",
+      "timestamp": "2035-07-12T19:42:19+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
       },
-      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
+      "content": "짤 말고 공식영상부터 봐야겠다",
       "deleted": false
     },
     {
-      "id": "c-2035-000013-v8-005",
+      "id": "c-2035-000013-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-12T19:20:13+09:00",
+      "timestamp": "2035-07-12T19:48:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "211.202"
       },
-      "content": "중간 이동구간 엄청 잘라냈더라",
+      "content": "{{con:heehee}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000013-v8-006",
-      "parentId": "c-2035-000013-v8-003",
-      "timestamp": "2035-07-12T19:23:46+09:00",
+      "id": "c-2035-000013-b1-006",
+      "parentId": "c-2035-000013-b1-002",
+      "timestamp": "2035-07-12T19:57:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "106.101"
       },
-      "content": "이번 편집은 진짜 잘뽑힘",
+      "content": "풀버전도 보고싶음",
       "deleted": false
     },
     {
-      "id": "c-2035-000013-v8-007",
+      "id": "c-2035-000013-b1-007",
       "parentId": null,
-      "timestamp": "2035-07-12T19:25:43+09:00",
+      "timestamp": "2035-07-12T20:07:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "39.125"
       },
-      "content": "{{con:kwah}}{{con:kwah}}",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000013-v8-008",
-      "parentId": null,
-      "timestamp": "2035-07-12T19:28:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "팬아닌데 이번건 볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000013-v8-009",
-      "parentId": null,
-      "timestamp": "2035-07-12T19:31:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "촬영팀 고생한 티 남",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000013-v8-010",
-      "parentId": null,
-      "timestamp": "2035-07-12T19:33:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "엔딩컷 노린 티 나는데 잘나오긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000013-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-12T19:37:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000013-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-12T19:41:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "보스방 들어갈때 음악 끊는거 좋았음",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000013-v8-013",
-      "parentId": null,
-      "timestamp": "2035-07-12T19:44:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000013-v8-014",
-      "parentId": "c-2035-000013-v8-007",
-      "timestamp": "2035-07-12T19:46:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "풀버전도 보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000013-v8-015",
-      "parentId": null,
-      "timestamp": "2035-07-12T19:50:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "ㅇㅇ",
+      "content": "오늘 추천글 절반이 이거임",
       "deleted": false
     }
   ],

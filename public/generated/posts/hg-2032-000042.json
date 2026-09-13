@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000042-v8-001",
+      "id": "c-2032-000042-b1-001",
       "parentId": null,
-      "timestamp": "2032-07-15T10:27:23+09:00",
+      "timestamp": "2032-07-15T10:29:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "39.125"
       },
-      "content": "찾아보면 몇년전 글만 뜸",
+      "content": "길드마다 천차만별이라 계약서 없으면 답못함",
       "deleted": false
     },
     {
-      "id": "c-2032-000042-v8-002",
+      "id": "c-2032-000042-b1-002",
       "parentId": null,
-      "timestamp": "2032-07-15T10:29:56+09:00",
+      "timestamp": "2032-07-15T10:35:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "118.33"
       },
-      "content": "이건 첫번엔 잘모름",
+      "content": "계약기간 남았으면 위약조항 있는곳 많음",
       "deleted": false
     },
     {
-      "id": "c-2032-000042-v8-003",
-      "parentId": "c-2032-000042-v8-001",
-      "timestamp": "2032-07-15T10:32:09+09:00",
+      "id": "c-2032-000042-b1-003",
+      "parentId": null,
+      "timestamp": "2032-07-15T10:40:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "59.10"
       },
-      "content": "나도 처음엔 헷갈렸음",
+      "content": "이적 자체보다 중도해지 조항을 읽어야됨",
       "deleted": false
     }
   ],

@@ -33,39 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000023-v8-001",
+      "id": "c-2042-000023-b2m-001",
       "parentId": null,
-      "timestamp": "2042-01-11T20:24:12+09:00",
+      "timestamp": "2042-01-11T20:26:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "59.5"
       },
-      "content": "작동확인 입구에서 한번 더함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000023-v8-002",
-      "parentId": null,
-      "timestamp": "2042-01-11T20:27:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "렌탈은 인수할때 흠집 사진 찍어둬",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000023-v8-003",
-      "parentId": null,
-      "timestamp": "2042-01-11T20:31:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "반납때 싸우기싫으면 상태 기록해둬",
+      "content": "ㅋㅋㅋㅋ",
       "deleted": false
     }
   ],

@@ -33,147 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000044-v8-001",
+      "id": "c-2035-000044-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T09:44:49+09:00",
+      "timestamp": "2035-07-15T09:47:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "59.5"
       },
-      "content": "ㅋㅋ",
+      "content": "공식 인터뷰 원본부터 보고싶다",
       "deleted": false
     },
     {
-      "id": "c-2035-000044-v8-002",
+      "id": "c-2035-000044-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-15T09:48:04+09:00",
+      "timestamp": "2035-07-15T09:56:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "220.79"
       },
-      "content": "나도그럼",
+      "content": "이정도면 하루종일 이 얘기만 하겠다",
       "deleted": false
     },
     {
-      "id": "c-2035-000044-v8-003",
+      "id": "c-2035-000044-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-15T09:50:51+09:00",
+      "timestamp": "2035-07-15T10:01:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "220.79"
       },
-      "content": "ㄹㅇ",
+      "content": "오늘 추천글 절반이 이거임",
       "deleted": false
     },
     {
-      "id": "c-2035-000044-v8-004",
+      "id": "c-2035-000044-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-15T09:53:42+09:00",
+      "timestamp": "2035-07-15T10:13:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "223.38"
       },
-      "content": "ㄹㅇ",
+      "content": "{{con:kwah}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000044-v8-005",
+      "id": "c-2035-000044-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-15T09:56:50+09:00",
+      "timestamp": "2035-07-15T10:22:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "59.5"
       },
-      "content": "이건 인정",
+      "content": "별하나 최강논쟁은 발표 몇시간만에 시작하냐",
       "deleted": false
     },
     {
-      "id": "c-2035-000044-v8-006",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:00:35+09:00",
+      "id": "c-2035-000044-b1-006",
+      "parentId": "c-2035-000044-b1-003",
+      "timestamp": "2035-07-15T10:32:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "106.245"
       },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000044-v8-007",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:04:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000044-v8-008",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:07:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000044-v8-009",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:10:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000044-v8-010",
-      "parentId": "c-2035-000044-v8-006",
-      "timestamp": "2035-07-15T10:13:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000044-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:16:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000044-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:18:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㄹㅇ",
+      "content": "나는 그렇게까지는 안봄",
       "deleted": false
     }
   ],

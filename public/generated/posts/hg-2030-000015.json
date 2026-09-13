@@ -33,207 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000015-v8-001",
+      "id": "c-2030-000015-b1-001",
       "parentId": null,
-      "timestamp": "2030-04-25T13:43:41+09:00",
+      "timestamp": "2030-04-25T13:49:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "175.214"
       },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "content": "발표난지 얼마나 됐다고 벌써 협찬ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2030-000015-v8-002",
+      "id": "c-2030-000015-b1-002",
       "parentId": null,
-      "timestamp": "2030-04-25T13:45:55+09:00",
+      "timestamp": "2030-04-25T13:59:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "공식계약인지 샘플제공인지부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000015-b1-003",
+      "parentId": null,
+      "timestamp": "2030-04-25T14:04:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.235"
       },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-003",
-      "parentId": "c-2030-000015-v8-002",
-      "timestamp": "2030-04-25T13:48:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-004",
-      "parentId": "c-2030-000015-v8-003",
-      "timestamp": "2030-04-25T13:51:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-005",
-      "parentId": null,
-      "timestamp": "2030-04-25T13:54:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "계약주체 누구임",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-006",
-      "parentId": "c-2030-000015-v8-002",
-      "timestamp": "2030-04-25T13:56:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-007",
-      "parentId": "c-2030-000015-v8-006",
-      "timestamp": "2030-04-25T13:57:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-008",
-      "parentId": "c-2030-000015-v8-007",
-      "timestamp": "2030-04-25T14:01:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-009",
-      "parentId": "c-2030-000015-v8-007",
-      "timestamp": "2030-04-25T14:04:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-010",
-      "parentId": null,
-      "timestamp": "2030-04-25T14:08:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-011",
-      "parentId": null,
-      "timestamp": "2030-04-25T14:09:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-012",
-      "parentId": null,
-      "timestamp": "2030-04-25T14:11:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-013",
-      "parentId": null,
-      "timestamp": "2030-04-25T14:14:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-014",
-      "parentId": "c-2030-000015-v8-012",
-      "timestamp": "2030-04-25T14:17:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-015",
-      "parentId": "c-2030-000015-v8-008",
-      "timestamp": "2030-04-25T14:21:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "ㅇㅇ 그건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-016",
-      "parentId": "c-2030-000015-v8-011",
-      "timestamp": "2030-04-25T14:25:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000015-v8-017",
-      "parentId": "c-2030-000015-v8-010",
-      "timestamp": "2030-04-25T14:28:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "예상시간 몇시간인데",
+      "content": "광고업계 진짜 빠르다",
       "deleted": false
     }
   ],

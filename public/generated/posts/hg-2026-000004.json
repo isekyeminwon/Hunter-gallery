@@ -33,363 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000004-v8-001",
+      "id": "c-2026-000004-b1-001",
       "parentId": null,
-      "timestamp": "2026-04-06T15:13:22+09:00",
+      "timestamp": "2026-04-06T15:19:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "14.32"
       },
-      "content": "이런건 한번 당하면 안까먹음",
+      "content": "면허사진 망한사람 벌써 많네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2026-000004-v8-002",
+      "id": "c-2026-000004-b1-002",
       "parentId": null,
-      "timestamp": "2026-04-06T15:15:42+09:00",
+      "timestamp": "2026-04-06T15:30:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "59.5"
       },
-      "content": "입장전에 맞춰두는게 낫지",
+      "content": "안전교육은 귀찮아도 내용 자체는 필요한거 많더라",
       "deleted": false
     },
     {
-      "id": "c-2026-000004-v8-003",
+      "id": "c-2026-000004-b1-003",
       "parentId": null,
-      "timestamp": "2026-04-06T15:17:21+09:00",
+      "timestamp": "2026-04-06T15:35:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "118.47"
       },
-      "content": "정성추",
+      "content": "이제 사고나면 조사창구도 한군데로 모이는건가",
       "deleted": false
     },
     {
-      "id": "c-2026-000004-v8-004",
-      "parentId": "c-2026-000004-v8-003",
-      "timestamp": "2026-04-06T15:21:21+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-005",
-      "parentId": "c-2026-000004-v8-003",
-      "timestamp": "2026-04-06T15:23:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-006",
-      "parentId": "c-2026-000004-v8-005",
-      "timestamp": "2026-04-06T15:27:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-007",
-      "parentId": "c-2026-000004-v8-003",
-      "timestamp": "2026-04-06T15:29:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-008",
+      "id": "c-2026-000004-b1-004",
       "parentId": null,
-      "timestamp": "2026-04-06T15:31:35+09:00",
+      "timestamp": "2026-04-06T15:43:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "59.5"
       },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-009",
-      "parentId": null,
-      "timestamp": "2026-04-06T15:35:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "댓글 읽다 본문 다시봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-010",
-      "parentId": null,
-      "timestamp": "2026-04-06T15:36:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-011",
-      "parentId": null,
-      "timestamp": "2026-04-06T15:39:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-012",
-      "parentId": null,
-      "timestamp": "2026-04-06T15:41:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-013",
-      "parentId": "c-2026-000004-v8-009",
-      "timestamp": "2026-04-06T15:45:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-014",
-      "parentId": null,
-      "timestamp": "2026-04-06T15:48:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "체크리스트로 저장해둔다",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-015",
-      "parentId": "c-2026-000004-v8-009",
-      "timestamp": "2026-04-06T15:51:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-016",
-      "parentId": null,
-      "timestamp": "2026-04-06T15:54:47+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-017",
-      "parentId": null,
-      "timestamp": "2026-04-06T15:57:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-018",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:00:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-019",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:01:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "우리팀은 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-020",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:03:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-021",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:06:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-022",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:10:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-023",
-      "parentId": "c-2026-000004-v8-018",
-      "timestamp": "2026-04-06T16:13:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-024",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:15:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-025",
-      "parentId": "c-2026-000004-v8-023",
-      "timestamp": "2026-04-06T16:18:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-026",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:21:31+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-027",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:24:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-028",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:27:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-029",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:29:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000004-v8-030",
-      "parentId": null,
-      "timestamp": "2026-04-06T16:31:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "그건 좀",
+      "content": "협회 첫날부터 줄 저정도면 며칠은 계속 저럴듯",
       "deleted": false
     }
   ],

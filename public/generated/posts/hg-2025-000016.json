@@ -33,183 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2025-000016-v8-001",
+      "id": "c-2025-000016-b1-001",
       "parentId": null,
-      "timestamp": "2025-06-23T16:42:47+09:00",
+      "timestamp": "2025-06-23T16:43:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "211.235"
       },
-      "content": "이건 나도 궁금함",
+      "content": "직접 실험해볼 생각은 하지마라ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2025-000016-v8-002",
+      "id": "c-2025-000016-b1-002",
       "parentId": null,
-      "timestamp": "2025-06-23T16:45:27+09:00",
+      "timestamp": "2025-06-23T16:51:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "118.47"
       },
-      "content": "처음이면 물어볼만함",
+      "content": "신체강화 정도가 사람마다 다를수도 있고",
       "deleted": false
     },
     {
-      "id": "c-2025-000016-v8-003",
-      "parentId": "c-2025-000016-v8-001",
-      "timestamp": "2025-06-23T16:48:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-004",
+      "id": "c-2025-000016-b1-003",
       "parentId": null,
-      "timestamp": "2025-06-23T16:51:31+09:00",
+      "timestamp": "2025-06-23T16:54:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "118.47"
       },
-      "content": "해본사람 있냐",
+      "content": "S라고 총알 면역이라는 공식설정이 있는건 아니잖아",
       "deleted": false
     },
     {
-      "id": "c-2025-000016-v8-005",
+      "id": "c-2025-000016-b1-004",
       "parentId": null,
-      "timestamp": "2025-06-23T16:53:09+09:00",
+      "timestamp": "2025-06-23T17:06:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "118.47"
       },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-006",
-      "parentId": null,
-      "timestamp": "2025-06-23T16:54:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-007",
-      "parentId": "c-2025-000016-v8-002",
-      "timestamp": "2025-06-23T16:57:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-008",
-      "parentId": null,
-      "timestamp": "2025-06-23T17:01:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-009",
-      "parentId": null,
-      "timestamp": "2025-06-23T17:03:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-010",
-      "parentId": null,
-      "timestamp": "2025-06-23T17:05:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-011",
-      "parentId": null,
-      "timestamp": "2025-06-23T17:07:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-012",
-      "parentId": "c-2025-000016-v8-007",
-      "timestamp": "2025-06-23T17:09:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-013",
-      "parentId": null,
-      "timestamp": "2025-06-23T17:11:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-014",
-      "parentId": null,
-      "timestamp": "2025-06-23T17:15:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000016-v8-015",
-      "parentId": null,
-      "timestamp": "2025-06-23T17:16:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이건 처음듣네",
+      "content": "강무혁 영상 몇개 보고 방탄인간 취급하는건 너무감",
       "deleted": false
     }
   ],

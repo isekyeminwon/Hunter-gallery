@@ -33,183 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000010-v8-001",
+      "id": "c-2030-000010-b1-001",
       "parentId": null,
-      "timestamp": "2030-04-20T15:24:06+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "백호 광고팀 일한다ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000010-v8-002",
-      "parentId": null,
-      "timestamp": "2030-04-20T15:26:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "강주아 광고 진짜 자주나오네",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000010-v8-003",
-      "parentId": null,
-      "timestamp": "2030-04-20T15:30:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "댓글에 네뷸라팬 벌써옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000010-v8-004",
-      "parentId": null,
-      "timestamp": "2030-04-20T15:34:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "강주아 광고 또 찍었네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000010-v8-005",
-      "parentId": null,
-      "timestamp": "2030-04-20T15:36:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "팬 아닌데 이건 잘뽑힘",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000010-v8-006",
-      "parentId": "c-2030-000010-v8-002",
-      "timestamp": "2030-04-20T15:39:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "장비 보는맛은 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000010-v8-007",
-      "parentId": null,
-      "timestamp": "2030-04-20T15:41:22+09:00",
+      "timestamp": "2030-04-20T15:26:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "14.32"
       },
-      "content": "백호 영상은 장비보는맛 있음",
+      "content": "전체 인터뷰도 풀어줬으면 좋겠다",
       "deleted": false
     },
     {
-      "id": "c-2030-000010-v8-008",
+      "id": "c-2030-000010-b1-002",
       "parentId": null,
-      "timestamp": "2030-04-20T15:42:55+09:00",
+      "timestamp": "2030-04-20T15:33:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "125.180"
       },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "강주아 능력 계약이라는 말부터 설명이 필요함",
       "deleted": false
     },
     {
-      "id": "c-2030-000010-v8-009",
-      "parentId": "c-2030-000010-v8-004",
-      "timestamp": "2030-04-20T15:45:58+09:00",
+      "id": "c-2030-000010-b1-003",
+      "parentId": "c-2030-000010-b1-002",
+      "timestamp": "2030-04-20T15:37:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "223.33"
       },
-      "content": "팬아닌데 영상은 괜찮네",
+      "content": "백호썰은 공식 뜨기전까진 모르지",
       "deleted": false
     },
     {
-      "id": "c-2030-000010-v8-010",
+      "id": "c-2030-000010-b1-004",
       "parentId": null,
-      "timestamp": "2030-04-20T15:47:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000010-v8-011",
-      "parentId": null,
-      "timestamp": "2030-04-20T15:49:29+09:00",
+      "timestamp": "2030-04-20T15:43:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "118.33"
       },
-      "content": "이건 인정",
+      "content": "장비업체 광고 붙는 속도 미쳤네",
       "deleted": false
     },
     {
-      "id": "c-2030-000010-v8-012",
+      "id": "c-2030-000010-b1-005",
       "parentId": null,
-      "timestamp": "2030-04-20T15:53:22+09:00",
+      "timestamp": "2030-04-20T15:52:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "14.32"
       },
-      "content": "강주아 얘기는 맨날 갈리네",
+      "content": "자막 잘린 앞뒤 문맥도 보고싶음",
       "deleted": false
     },
     {
-      "id": "c-2030-000010-v8-013",
+      "id": "c-2030-000010-b1-006",
       "parentId": null,
-      "timestamp": "2030-04-20T15:54:43+09:00",
+      "timestamp": "2030-04-20T16:03:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "125.180"
       },
-      "content": "니들 왜 갑자기 싸우냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000010-v8-014",
-      "parentId": null,
-      "timestamp": "2030-04-20T15:57:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000010-v8-015",
-      "parentId": null,
-      "timestamp": "2030-04-20T16:00:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "ㅇㅇ",
+      "content": "짧은 클립 하나로 성격까지 판단하는건 오바",
       "deleted": false
     }
   ],

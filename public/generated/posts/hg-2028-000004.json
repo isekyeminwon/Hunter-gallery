@@ -33,303 +33,135 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000004-v8-001",
+      "id": "c-2028-000004-b1-001",
       "parentId": null,
-      "timestamp": "2028-01-22T16:38:39+09:00",
+      "timestamp": "2028-01-22T16:39:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.52"
       },
-      "content": "뉴비한텐 이런글이 더 도움됨",
+      "content": "긴급동원 기준까지 들어가니 제도가 거의 다 갖춰지는 느낌",
       "deleted": false
     },
     {
-      "id": "c-2028-000004-v8-002",
+      "id": "c-2028-000004-b1-002",
       "parentId": null,
-      "timestamp": "2028-01-22T16:41:28+09:00",
+      "timestamp": "2028-01-22T16:50:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "118.44"
       },
-      "content": "이런건 북마크해놔야됨",
+      "content": "짐무게랑 예상시간 미리 말해주는팀이 편함",
       "deleted": false
     },
     {
-      "id": "c-2028-000004-v8-003",
+      "id": "c-2028-000004-b1-003",
       "parentId": null,
-      "timestamp": "2028-01-22T16:44:14+09:00",
+      "timestamp": "2028-01-22T16:58:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "223.38"
       },
-      "content": "입장전에 맞춰두는게 낫지",
+      "content": "F급 짐꾼 취급 박하다고 해도 현장에선 없으면 티남",
       "deleted": false
     },
     {
-      "id": "c-2028-000004-v8-004",
+      "id": "c-2028-000004-b1-004",
       "parentId": null,
-      "timestamp": "2028-01-22T16:47:56+09:00",
+      "timestamp": "2028-01-22T17:06:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "118.221"
       },
-      "content": "정성추",
+      "content": "짐꾼이라고 잡일 다 시키는팀은 거르는게 맞음",
       "deleted": false
     },
     {
-      "id": "c-2028-000004-v8-005",
+      "id": "c-2028-000004-b1-005",
       "parentId": null,
-      "timestamp": "2028-01-22T16:49:20+09:00",
+      "timestamp": "2028-01-22T17:10:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.52"
       },
-      "content": "당해보면 왜 적었는지 앎",
+      "content": "공략권값이랑 실제 마석수익은 따로 계산해야됨",
       "deleted": false
     },
     {
-      "id": "c-2028-000004-v8-006",
-      "parentId": "c-2028-000004-v8-003",
-      "timestamp": "2028-01-22T16:51:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-007",
+      "id": "c-2028-000004-b1-006",
       "parentId": null,
-      "timestamp": "2028-01-22T16:55:33+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "우리쪽은 방식이 살짝 다름",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-008",
-      "parentId": "c-2028-000004-v8-007",
-      "timestamp": "2028-01-22T16:57:40+09:00",
+      "timestamp": "2028-01-22T17:18:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "118.221"
       },
-      "content": "한번 고생하면 안까먹음",
+      "content": "처음이면 일당보다 팀 후기부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2028-000004-v8-009",
-      "parentId": "c-2028-000004-v8-008",
-      "timestamp": "2028-01-22T17:00:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-010",
+      "id": "c-2028-000004-b1-007",
       "parentId": null,
-      "timestamp": "2028-01-22T17:02:50+09:00",
+      "timestamp": "2028-01-22T17:29:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "211.58"
       },
-      "content": "둘다 진정좀",
+      "content": "좋은 짐꾼 한명 있으면 전투인원 체력 보존 체감 큼",
       "deleted": false
     },
     {
-      "id": "c-2028-000004-v8-011",
+      "id": "c-2028-000004-b1-008",
+      "parentId": "c-2028-000004-b1-003",
+      "timestamp": "2028-01-22T17:35:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "짐꾼한테 전투시키는팀은 거름",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000004-b1-009",
+      "parentId": "c-2028-000004-b1-004",
+      "timestamp": "2028-01-22T17:45:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "일당보다 팀후기 먼저 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000004-b1-010",
+      "parentId": "c-2028-000004-b1-008",
+      "timestamp": "2028-01-22T17:52:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "짐무게 미리 말해주는팀이 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000004-b1-011",
       "parentId": null,
-      "timestamp": "2028-01-22T17:06:21+09:00",
+      "timestamp": "2028-01-22T18:01:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "211.58"
       },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-012",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:09:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-013",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:13:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-014",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:16:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "체크리스트로 저장해둔다",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-015",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:19:16+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-016",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:21:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-017",
-      "parentId": "c-2028-000004-v8-015",
-      "timestamp": "2028-01-22T17:24:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-018",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:26:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-019",
-      "parentId": "c-2028-000004-v8-015",
-      "timestamp": "2028-01-22T17:30:15+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-020",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:32:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "우리팀은 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-021",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:34:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-022",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:37:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-023",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:40:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-024",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:43:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000004-v8-025",
-      "parentId": null,
-      "timestamp": "2028-01-22T17:46:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이런건 한번 당하면 안까먹음",
+      "content": "공략권 입찰 시작하니까 진짜 업계 느낌나네",
       "deleted": false
     }
   ],

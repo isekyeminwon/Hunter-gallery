@@ -33,315 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000027-v8-001",
+      "id": "c-2030-000027-b1-001",
       "parentId": null,
-      "timestamp": "2030-11-06T04:45:09+09:00",
+      "timestamp": "2030-11-06T04:53:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "118.47"
       },
-      "content": "댓글보다 영상 타임스탬프 공유하는게 낫다ㅋㅋ",
+      "content": "삭제기준 적혀있으면 그냥 지키면 되지",
       "deleted": false
     },
     {
-      "id": "c-2030-000027-v8-002",
+      "id": "c-2030-000027-b1-002",
       "parentId": null,
-      "timestamp": "2030-11-06T04:48:02+09:00",
+      "timestamp": "2030-11-06T05:01:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "59.5"
       },
-      "content": "촬영팀 고생한 티 남",
+      "content": "공지 내용 안읽고 제목만 보고 싸우는놈 꼭나옴",
       "deleted": false
     },
     {
-      "id": "c-2030-000027-v8-003",
-      "parentId": null,
-      "timestamp": "2030-11-06T04:51:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "이번 편집 진짜 잘뽑았네",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-004",
-      "parentId": "c-2030-000027-v8-002",
-      "timestamp": "2030-11-06T04:52:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-005",
-      "parentId": "c-2030-000027-v8-002",
-      "timestamp": "2030-11-06T04:56:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "이번 편집은 진짜 잘뽑힘",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-006",
-      "parentId": null,
-      "timestamp": "2030-11-06T04:58:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "별하나 표정 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-007",
-      "parentId": "c-2030-000027-v8-006",
-      "timestamp": "2030-11-06T04:59:51+09:00",
+      "id": "c-2030-000027-b1-003",
+      "parentId": "c-2030-000027-b1-001",
+      "timestamp": "2030-11-06T05:10:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "210.178"
       },
-      "content": "풀버전도 보고싶다",
+      "content": "피해자 신상은 퍼오지말자",
       "deleted": false
     },
     {
-      "id": "c-2030-000027-v8-008",
+      "id": "c-2030-000027-b1-004",
       "parentId": null,
-      "timestamp": "2030-11-06T05:03:03+09:00",
+      "timestamp": "2030-11-06T05:21:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "59.5"
       },
-      "content": "엔딩컷 노린 티 나는데 잘나오긴함",
+      "content": "공연장 안에서 게이트면 기존 통제랑 얘기가 완전 다르지",
       "deleted": false
     },
     {
-      "id": "c-2030-000027-v8-009",
+      "id": "c-2030-000027-b1-005",
       "parentId": null,
-      "timestamp": "2030-11-06T05:05:07+09:00",
+      "timestamp": "2030-11-06T05:30:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "112.171"
       },
-      "content": "둘다 진정좀",
+      "content": "공식 공지 뜨기전까진 내부구조 썰 믿지마",
       "deleted": false
     },
     {
-      "id": "c-2030-000027-v8-010",
-      "parentId": "c-2030-000027-v8-005",
-      "timestamp": "2030-11-06T05:07:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-011",
+      "id": "c-2030-000027-b1-006",
       "parentId": null,
-      "timestamp": "2030-11-06T05:10:23+09:00",
+      "timestamp": "2030-11-06T05:40:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "112.171"
       },
-      "content": "팬아닌데 이번건 볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-012",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:12:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "보스방 들어갈때 음악 끊는거 좋았음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-013",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:15:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "중간 이동구간 엄청 잘라냈더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-014",
-      "parentId": "c-2030-000027-v8-007",
-      "timestamp": "2030-11-06T05:17:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이번 편집은 진짜 잘뽑힘",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-015",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:18:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "풀버전도 풀어줬으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-016",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:22:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-017",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:25:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-018",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:28:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "별하나 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-019",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:31:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "댓글끼리 논문쓰네",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-020",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:33:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-021",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:35:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-022",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:38:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-023",
-      "parentId": "c-2030-000027-v8-019",
-      "timestamp": "2030-11-06T05:41:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-024",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:44:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-025",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:47:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000027-v8-026",
-      "parentId": null,
-      "timestamp": "2030-11-06T05:48:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이건 인정",
+      "content": "신상/위치 노출은 진짜 선넘지마",
       "deleted": false
     }
   ],

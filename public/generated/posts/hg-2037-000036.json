@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000036-v8-001",
+      "id": "c-2037-000036-b2m-001",
       "parentId": null,
-      "timestamp": "2037-06-12T14:52:33+09:00",
+      "timestamp": "2037-06-12T14:53:32+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
       },
-      "content": "민간쪽은 조건이 다 달라서 귀찮음",
+      "content": "정산 빠른 매입처 선호하는 이유가 있음",
       "deleted": false
     },
     {
-      "id": "c-2037-000036-v8-002",
+      "id": "c-2037-000036-b2m-002",
       "parentId": null,
-      "timestamp": "2037-06-12T14:55:41+09:00",
+      "timestamp": "2037-06-12T14:55:59+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
       },
-      "content": "정산 빨리해주는곳 선호하는 이유가 있음",
+      "content": "조금 높게 쳐줘도 수수료 떼면 별차이 없을수 있음",
       "deleted": false
     },
     {
-      "id": "c-2037-000036-v8-003",
-      "parentId": null,
-      "timestamp": "2037-06-12T14:57:53+09:00",
+      "id": "c-2037-000036-b2m-003",
+      "parentId": "c-2037-000036-b2m-001",
+      "timestamp": "2037-06-12T14:58:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "106.250"
       },
-      "content": "마석 등급만 보고 가격 딱 정해지는건 아니더라",
+      "content": "수수료까지 빼고 비교해야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000036-b2m-004",
+      "parentId": null,
+      "timestamp": "2037-06-12T15:00:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "공략권 가격이 높다고 마석수익 무조건 높은건 아님",
       "deleted": false
     }
   ],

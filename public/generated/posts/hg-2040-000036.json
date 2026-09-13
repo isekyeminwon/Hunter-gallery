@@ -33,159 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000036-v8-001",
+      "id": "c-2040-000036-b2m-001",
       "parentId": null,
-      "timestamp": "2040-08-11T13:27:26+09:00",
+      "timestamp": "2040-08-11T13:27:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "211.58"
       },
-      "content": "댓글이 영상보다 재밌음",
+      "content": "인터뷰 짧은데 팬계정 편집본은 열개씩 나옴",
       "deleted": false
     },
     {
-      "id": "c-2040-000036-v8-002",
+      "id": "c-2040-000036-b2m-002",
       "parentId": null,
-      "timestamp": "2040-08-11T13:29:01+09:00",
+      "timestamp": "2040-08-11T13:31:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "106.102"
       },
-      "content": "편집은 잘했네",
+      "content": "원본 인터뷰보다 짤이 먼저 도는게 국룰",
       "deleted": false
     },
     {
-      "id": "c-2040-000036-v8-003",
+      "id": "c-2040-000036-b2m-003",
       "parentId": null,
-      "timestamp": "2040-08-11T13:30:39+09:00",
+      "timestamp": "2040-08-11T13:34:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "106.101"
       },
-      "content": "공식 업로드 먼저 찾아본다",
+      "content": "{{con:real}}",
       "deleted": false
     },
     {
-      "id": "c-2040-000036-v8-004",
+      "id": "c-2040-000036-b2m-004",
       "parentId": null,
-      "timestamp": "2040-08-11T13:33:01+09:00",
+      "timestamp": "2040-08-11T13:35:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "211.58"
       },
-      "content": "밑에서 더 재밌게 싸우네",
+      "content": "기사사진 한장으로 성격분석 그만ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2040-000036-v8-005",
+      "id": "c-2040-000036-b2m-005",
       "parentId": null,
-      "timestamp": "2040-08-11T13:34:22+09:00",
+      "timestamp": "2040-08-11T13:38:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "211.58"
       },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000036-v8-006",
-      "parentId": null,
-      "timestamp": "2040-08-11T13:37:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000036-v8-007",
-      "parentId": null,
-      "timestamp": "2040-08-11T13:39:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "이서 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000036-v8-008",
-      "parentId": null,
-      "timestamp": "2040-08-11T13:41:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000036-v8-009",
-      "parentId": "c-2040-000036-v8-005",
-      "timestamp": "2040-08-11T13:43:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000036-v8-010",
-      "parentId": null,
-      "timestamp": "2040-08-11T13:46:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "공식채널부터 봐야겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000036-v8-011",
-      "parentId": "c-2040-000036-v8-009",
-      "timestamp": "2040-08-11T13:48:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "풀버전 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000036-v8-012",
-      "parentId": null,
-      "timestamp": "2040-08-11T13:51:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "짤만 돌아서 못찾겠음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000036-v8-013",
-      "parentId": null,
-      "timestamp": "2040-08-11T13:54:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "이서 최근거 더 봐야 알듯",
+      "content": "기사 몇줄로 순위박는건 너무감",
       "deleted": false
     }
   ],

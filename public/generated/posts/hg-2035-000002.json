@@ -33,75 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000002-v8-001",
+      "id": "c-2035-000002-b1-001",
       "parentId": null,
-      "timestamp": "2035-01-12T14:25:32+09:00",
+      "timestamp": "2035-01-12T14:33:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "14.32"
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "{{con:idk}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000002-v8-002",
+      "id": "c-2035-000002-b1-002",
       "parentId": null,
-      "timestamp": "2035-01-12T14:27:36+09:00",
+      "timestamp": "2035-01-12T14:41:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "14.32"
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "현장경험 있으면 이부분 공감할듯",
       "deleted": false
     },
     {
-      "id": "c-2035-000002-v8-003",
+      "id": "c-2035-000002-b1-003",
       "parentId": null,
-      "timestamp": "2035-01-12T14:29:43+09:00",
+      "timestamp": "2035-01-12T14:46:06+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "당일도 있고 며칠뒤도 있음",
+      "content": "체크리스트에 넣어둔다",
       "deleted": false
     },
     {
-      "id": "c-2035-000002-v8-004",
+      "id": "c-2035-000002-b1-004",
       "parentId": null,
-      "timestamp": "2035-01-12T14:32:25+09:00",
+      "timestamp": "2035-01-12T14:56:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "14.32"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000002-v8-005",
-      "parentId": null,
-      "timestamp": "2035-01-12T14:35:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000002-v8-006",
-      "parentId": null,
-      "timestamp": "2035-01-12T14:38:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "content": "정성추",
       "deleted": false
     }
   ],

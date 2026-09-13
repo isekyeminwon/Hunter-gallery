@@ -33,87 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000082-v8-001",
+      "id": "c-2040-000082-b2m-001",
       "parentId": null,
-      "timestamp": "2040-01-04T18:04:20+09:00",
+      "timestamp": "2040-01-04T18:04:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "14.32"
       },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "content": "공략끝나면 외관/고정부/배터리/오염 순서로 봄",
       "deleted": false
     },
     {
-      "id": "c-2040-000082-v8-002",
+      "id": "c-2040-000082-b2m-002",
       "parentId": null,
-      "timestamp": "2040-01-04T18:06:43+09:00",
+      "timestamp": "2040-01-04T18:08:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "110.70"
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "고장 없어도 사용시간 기록해두면 교체주기 잡기 편함",
       "deleted": false
     },
     {
-      "id": "c-2040-000082-v8-003",
-      "parentId": "c-2040-000082-v8-001",
-      "timestamp": "2040-01-04T18:08:07+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "일주일 넘으면 한번 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000082-v8-004",
-      "parentId": "c-2040-000082-v8-003",
-      "timestamp": "2040-01-04T18:11:42+09:00",
+      "id": "c-2040-000082-b2m-003",
+      "parentId": "c-2040-000082-b2m-001",
+      "timestamp": "2040-01-04T18:11:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "14.32"
       },
-      "content": "정산일 적혀있으면 덜싸움",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000082-v8-005",
-      "parentId": null,
-      "timestamp": "2040-01-04T18:14:37+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "당일도 있고 며칠뒤도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000082-v8-006",
-      "parentId": null,
-      "timestamp": "2040-01-04T18:16:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000082-v8-007",
-      "parentId": "c-2040-000082-v8-001",
-      "timestamp": "2040-01-04T18:19:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "당일정산이 편하긴함",
+      "content": "수리보낼건 현장에서 따로 표시해두면 안섞임",
       "deleted": false
     }
   ],

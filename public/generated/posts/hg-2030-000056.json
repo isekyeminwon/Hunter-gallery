@@ -33,111 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000056-v8-001",
+      "id": "c-2030-000056-b1-001",
       "parentId": null,
-      "timestamp": "2030-05-13T05:02:06+09:00",
+      "timestamp": "2030-05-13T05:06:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "211.201"
       },
-      "content": "이건 한번 터지면 평생 챙김",
+      "content": "렌탈은 이거 필수임 반납때 기억싸움 안남",
       "deleted": false
     },
     {
-      "id": "c-2030-000056-v8-002",
+      "id": "c-2030-000056-b1-002",
       "parentId": null,
-      "timestamp": "2030-05-13T05:04:53+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "다음 현장전에 한번 더봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000056-v8-003",
-      "parentId": null,
-      "timestamp": "2030-05-13T05:08:19+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "처음가는사람은 이런거 봐둬",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000056-v8-004",
-      "parentId": "c-2030-000056-v8-002",
-      "timestamp": "2030-05-13T05:10:40+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000056-v8-005",
-      "parentId": "c-2030-000056-v8-003",
-      "timestamp": "2030-05-13T05:14:34+09:00",
+      "timestamp": "2030-05-13T05:16:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "223.39"
       },
-      "content": "우리팀은 이부분 조금 다르게함",
+      "content": "사진 시간 남는것도 은근 도움됨",
       "deleted": false
     },
     {
-      "id": "c-2030-000056-v8-006",
-      "parentId": "c-2030-000056-v8-001",
-      "timestamp": "2030-05-13T05:18:01+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000056-v8-007",
-      "parentId": "c-2030-000056-v8-006",
-      "timestamp": "2030-05-13T05:19:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000056-v8-008",
+      "id": "c-2030-000056-b1-003",
       "parentId": null,
-      "timestamp": "2030-05-13T05:23:42+09:00",
+      "timestamp": "2030-05-13T05:23:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "211.201"
       },
-      "content": "들어가기전에 얘기 끝내야됨",
+      "content": "흠집뿐 아니라 버클/스트랩도 찍어둬",
       "deleted": false
     },
     {
-      "id": "c-2030-000056-v8-009",
-      "parentId": null,
-      "timestamp": "2030-05-13T05:27:26+09:00",
+      "id": "c-2030-000056-b1-004",
+      "parentId": "c-2030-000056-b1-003",
+      "timestamp": "2030-05-13T05:28:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "223.52"
       },
-      "content": "정성추",
+      "content": "새장비라고 안찍었다가 손해보는사람 있음",
       "deleted": false
     }
   ],

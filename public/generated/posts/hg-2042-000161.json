@@ -33,111 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000161-v8-001",
+      "id": "c-2042-000161-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-17T01:24:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "한성 붙여주면 간다는놈 백퍼 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000161-v8-002",
-      "parentId": null,
-      "timestamp": "2042-09-17T01:25:46+09:00",
+      "timestamp": "2042-09-17T01:23:14+09:00",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "취업이랑 누가세냐는 다른문제지",
+      "content": "네뷸라가 마법계 인프라 강한건 맞는데 원탑을 길드전체로 못박긴 애매함",
       "deleted": false
     },
     {
-      "id": "c-2042-000161-v8-003",
+      "id": "c-2042-000161-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T01:29:31+09:00",
+      "timestamp": "2042-09-17T01:25:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "106.250"
       },
-      "content": "복지글 검색하면 백호 얘기 많이 뜸",
+      "content": "김채연/이채린 같은 전력 때문에 이미지 세진건 맞음",
       "deleted": false
     },
     {
-      "id": "c-2042-000161-v8-004",
-      "parentId": "c-2042-000161-v8-002",
-      "timestamp": "2042-09-17T01:31:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000161-v8-005",
-      "parentId": "c-2042-000161-v8-001",
-      "timestamp": "2042-09-17T01:32:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000161-v8-006",
+      "id": "c-2042-000161-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-17T01:35:27+09:00",
+      "timestamp": "2042-09-17T01:28:53+09:00",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "연구/교육 보면 네뷸라가 매력있지",
+      "content": "{{con:Intelligence}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000161-v8-007",
-      "parentId": "c-2042-000161-v8-005",
-      "timestamp": "2042-09-17T01:37:24+09:00",
+      "id": "c-2042-000161-b2m-004",
+      "parentId": "c-2042-000161-b2m-002",
+      "timestamp": "2042-09-17T01:30:31+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
+        "type": "fixed",
+        "name": "마탑첩자",
+        "ip": null
       },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000161-v8-008",
-      "parentId": null,
-      "timestamp": "2042-09-17T01:39:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "카메라 싫어하면 스텔라는 좀 힘들듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000161-v8-009",
-      "parentId": null,
-      "timestamp": "2042-09-17T01:43:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "지원자 입장에선 붙는곳이 1순위",
+      "content": "연구/교육까지 포함하면 네뷸라 강점이 확실하긴함",
       "deleted": false
     }
   ],

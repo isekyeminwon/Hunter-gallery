@@ -34,147 +34,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2022-000004-v8-001",
+      "id": "c-2022-000004-b1-001",
       "parentId": null,
-      "timestamp": "2022-07-28T13:12:41+09:00",
+      "timestamp": "2022-07-28T13:19:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "117.111"
       },
-      "content": "동네사람이면 걍 멀리있어라",
+      "content": "공식명칭인지 인터넷발인지 나도 궁금했음",
       "deleted": false
     },
     {
-      "id": "c-2022-000004-v8-002",
+      "id": "c-2022-000004-b1-002",
       "parentId": null,
-      "timestamp": "2022-07-28T13:15:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "저거 아직도 안사라졌냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000004-v8-003",
-      "parentId": "c-2022-000004-v8-001",
-      "timestamp": "2022-07-28T13:18:33+09:00",
+      "timestamp": "2022-07-28T13:25:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "최근기준 아는사람?",
+      "content": "처음엔 이상공간 검은구멍 별말 다나왔는데 게이트가 굳은듯",
       "deleted": false
     },
     {
-      "id": "c-2022-000004-v8-004",
+      "id": "c-2022-000004-b1-003",
+      "parentId": "c-2022-000004-b1-001",
+      "timestamp": "2022-07-28T13:35:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "기사들도 요즘은 게이트라고 쓰더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000004-b1-004",
       "parentId": null,
-      "timestamp": "2022-07-28T13:20:10+09:00",
+      "timestamp": "2022-07-28T13:45:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "223.52"
       },
-      "content": "통제선 더 넓어졌네",
+      "content": "요즘 기사도 거의 게이트로 통일해서 쓰더라",
       "deleted": false
     },
     {
-      "id": "c-2022-000004-v8-005",
-      "parentId": "c-2022-000004-v8-004",
-      "timestamp": "2022-07-28T13:22:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000004-v8-006",
+      "id": "c-2022-000004-b1-005",
       "parentId": null,
-      "timestamp": "2022-07-28T13:25:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "방송사 화면에도 잡혔는데 합성은 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000004-v8-007",
-      "parentId": "c-2022-000004-v8-003",
-      "timestamp": "2022-07-28T13:29:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000004-v8-008",
-      "parentId": "c-2022-000004-v8-002",
-      "timestamp": "2022-07-28T13:32:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000004-v8-009",
-      "parentId": null,
-      "timestamp": "2022-07-28T13:36:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "며칠째 그대로인게 제일 소름임",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000004-v8-010",
-      "parentId": null,
-      "timestamp": "2022-07-28T13:39:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "가까이 가서 찍는놈들은 겁도없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000004-v8-011",
-      "parentId": null,
-      "timestamp": "2022-07-28T13:42:42+09:00",
+      "timestamp": "2022-07-28T13:53:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2022-000004-v8-012",
-      "parentId": "c-2022-000004-v8-005",
-      "timestamp": "2022-07-28T13:46:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "이건 물어볼만함",
+      "content": "뉴스 자막부터 게이트라고 박기 시작한 뒤로 다 그렇게 부르는거같음",
       "deleted": false
     }
   ],

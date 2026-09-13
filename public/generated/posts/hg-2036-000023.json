@@ -33,99 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000023-v8-001",
+      "id": "c-2036-000023-b1-001",
       "parentId": null,
-      "timestamp": "2036-10-12T16:05:59+09:00",
+      "timestamp": "2036-10-12T16:08:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "110.70"
       },
-      "content": "이건 경험값 한번 내면 기억남",
+      "content": "{{con:idk}}",
       "deleted": false
     },
     {
-      "id": "c-2036-000023-v8-002",
+      "id": "c-2036-000023-b1-002",
       "parentId": null,
-      "timestamp": "2036-10-12T16:07:39+09:00",
+      "timestamp": "2036-10-12T16:16:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "들어가기전에 얘기 끝내야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000023-v8-003",
-      "parentId": null,
-      "timestamp": "2036-10-12T16:10:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "내가 가는팀은 반대로함",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000023-v8-004",
-      "parentId": "c-2036-000023-v8-001",
-      "timestamp": "2036-10-12T16:13:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000023-v8-005",
-      "parentId": null,
-      "timestamp": "2036-10-12T16:15:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "118.41"
       },
       "content": "정성추",
       "deleted": false
     },
     {
-      "id": "c-2036-000023-v8-006",
-      "parentId": "c-2036-000023-v8-005",
-      "timestamp": "2036-10-12T16:18:08+09:00",
+      "id": "c-2036-000023-b1-003",
+      "parentId": "c-2036-000023-b1-001",
+      "timestamp": "2036-10-12T16:23:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "118.41"
       },
-      "content": "한번 고생하면 안까먹음",
+      "content": "그건 따로봐야지",
       "deleted": false
     },
     {
-      "id": "c-2036-000023-v8-007",
-      "parentId": null,
-      "timestamp": "2036-10-12T16:21:02+09:00",
+      "id": "c-2036-000023-b1-004",
+      "parentId": "c-2036-000023-b1-001",
+      "timestamp": "2036-10-12T16:30:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "211.234"
       },
-      "content": "정성추",
+      "content": "그건 인정",
       "deleted": false
     },
     {
-      "id": "c-2036-000023-v8-008",
+      "id": "c-2036-000023-b1-005",
       "parentId": null,
-      "timestamp": "2036-10-12T16:23:45+09:00",
+      "timestamp": "2036-10-12T16:36:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "110.70"
       },
-      "content": "이런게 실제로 도움됨",
+      "content": "처음엔 과해보여도 한번 꼬이면 이해됨",
       "deleted": false
     }
   ],

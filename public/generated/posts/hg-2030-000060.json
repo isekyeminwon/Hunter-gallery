@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000060-v8-001",
+      "id": "c-2030-000060-b1-001",
       "parentId": null,
-      "timestamp": "2030-01-11T01:51:58+09:00",
+      "timestamp": "2030-01-11T01:59:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "112.171"
       },
-      "content": "통제 풀리는 시간 나온거 있음?",
+      "content": "진입팀 대기시키는중이라는 글은 봄",
       "deleted": false
     },
     {
-      "id": "c-2030-000060-v8-002",
+      "id": "c-2030-000060-b1-002",
       "parentId": null,
-      "timestamp": "2030-01-11T01:54:54+09:00",
+      "timestamp": "2030-01-11T02:06:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "110.70"
       },
-      "content": "현장 구경간다고 차끌고 가는놈 없지?",
+      "content": "입구만 막은거면 내부 사고인지 외부 장비문제인지 아직 모르겠네",
       "deleted": false
     },
     {
-      "id": "c-2030-000060-v8-003",
-      "parentId": null,
-      "timestamp": "2030-01-11T01:57:30+09:00",
+      "id": "c-2030-000060-b1-003",
+      "parentId": "c-2030-000060-b1-002",
+      "timestamp": "2030-01-11T02:16:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.235"
       },
-      "content": "협회차량 많이 들어갔네",
+      "content": "근처에서 사진찍겠다고 붙어있지는 마라",
       "deleted": false
     },
     {
-      "id": "c-2030-000060-v8-004",
+      "id": "c-2030-000060-b1-004",
       "parentId": null,
-      "timestamp": "2030-01-11T02:01:29+09:00",
+      "timestamp": "2030-01-11T02:23:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "112.171"
       },
-      "content": "근처면 그냥 우회하는게 답",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000060-v8-005",
-      "parentId": null,
-      "timestamp": "2030-01-11T02:04:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "기사엔 통제중이라고만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000060-v8-006",
-      "parentId": null,
-      "timestamp": "2030-01-11T02:06:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "오전안에 풀리면 다행이고",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000060-v8-007",
-      "parentId": null,
-      "timestamp": "2030-01-11T02:09:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "왜 여기서 싸우냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000060-v8-008",
-      "parentId": null,
-      "timestamp": "2030-01-11T02:13:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000060-v8-009",
-      "parentId": null,
-      "timestamp": "2030-01-11T02:15:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000060-v8-010",
-      "parentId": null,
-      "timestamp": "2030-01-11T02:17:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000060-v8-011",
-      "parentId": "c-2030-000060-v8-009",
-      "timestamp": "2030-01-11T02:19:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "통제 풀리는 시간 나왔음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000060-v8-012",
-      "parentId": null,
-      "timestamp": "2030-01-11T02:22:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "나만 이렇게 하는건가",
+      "content": "통제 풀리는 시간 공지 아직 없음?",
       "deleted": false
     }
   ],

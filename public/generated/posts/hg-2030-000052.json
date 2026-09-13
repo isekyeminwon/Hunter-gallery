@@ -33,63 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000052-v8-001",
+      "id": "c-2030-000052-b1-001",
       "parentId": null,
-      "timestamp": "2030-09-15T16:21:14+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000052-v8-002",
-      "parentId": null,
-      "timestamp": "2030-09-15T16:25:00+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "검색결과가 죄다 옛날거임",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000052-v8-003",
-      "parentId": null,
-      "timestamp": "2030-09-15T16:27:11+09:00",
+      "timestamp": "2030-09-15T16:27:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "39.7"
       },
-      "content": "첫번엔 나도 잘못알았음",
+      "content": "재검 사유 적는게 은근 귀찮다더라",
       "deleted": false
     },
     {
-      "id": "c-2030-000052-v8-004",
+      "id": "c-2030-000052-b1-002",
       "parentId": null,
-      "timestamp": "2030-09-15T16:29:53+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "처음하면 헷갈릴만하지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000052-v8-005",
-      "parentId": "c-2030-000052-v8-002",
-      "timestamp": "2030-09-15T16:31:36+09:00",
+      "timestamp": "2030-09-15T16:38:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "117.111"
       },
-      "content": "최근기준 아는사람?",
+      "content": "첫 측정 오류 의심될때 재검 넣는거지 레벨업 확인용은 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000052-b1-003",
+      "parentId": null,
+      "timestamp": "2030-09-15T16:46:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "재측정하면 소폭 차이는 나도 등급 뒤집히는건 흔치않다던데",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000052-b1-004",
+      "parentId": null,
+      "timestamp": "2030-09-15T16:51:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "컨디션 때문에 약간 흔들릴수는 있다고 들음",
       "deleted": false
     }
   ],

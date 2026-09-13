@@ -33,75 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000061-v8-001",
+      "id": "c-2033-000061-b1-001",
       "parentId": null,
-      "timestamp": "2033-06-23T12:20:47+09:00",
+      "timestamp": "2033-06-23T12:22:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "106.102"
       },
-      "content": "충전만 보고 예비배터리 상태 안보면 망함",
+      "content": "배터리도 따로 하나 더",
       "deleted": false
     },
     {
-      "id": "c-2033-000061-v8-002",
+      "id": "c-2033-000061-b1-002",
       "parentId": null,
-      "timestamp": "2033-06-23T12:24:42+09:00",
+      "timestamp": "2033-06-23T12:33:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "118.41"
       },
-      "content": "랜턴 두개가 과한줄 알았는데 하나 죽어보면 바뀜",
+      "content": "메인 하나 죽으면 예비 바로 꺼낼수 있게 둬야됨",
       "deleted": false
     },
     {
-      "id": "c-2033-000061-v8-003",
-      "parentId": "c-2033-000061-v8-002",
-      "timestamp": "2033-06-23T12:27:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000061-v8-004",
-      "parentId": "c-2033-000061-v8-001",
-      "timestamp": "2033-06-23T12:29:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000061-v8-005",
+      "id": "c-2033-000061-b1-003",
       "parentId": null,
-      "timestamp": "2033-06-23T12:30:55+09:00",
+      "timestamp": "2033-06-23T12:43:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "118.44"
       },
-      "content": "야간은 조명 하나 나가면 체감 큼",
+      "content": "가방 제일안쪽에 예비 넣는놈 꼭있음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000061-v8-006",
+      "id": "c-2033-000061-b1-004",
       "parentId": null,
-      "timestamp": "2033-06-23T12:32:31+09:00",
+      "timestamp": "2033-06-23T12:47:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "106.102"
       },
-      "content": "배터리 확인하고 들어가",
+      "content": "동굴형은 빛 하나 꺼지는순간 체감이 확옴",
       "deleted": false
     }
   ],

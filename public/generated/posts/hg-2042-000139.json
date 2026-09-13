@@ -33,111 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000139-v8-001",
+      "id": "c-2042-000139-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-05T05:33:54+09:00",
+      "timestamp": "2042-09-05T05:34:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.52"
       },
-      "content": "회사명보다 뭘 보장하는지가 중요함",
+      "content": "장기렌탈이면 수리대차 조건부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2042-000139-v8-002",
+      "id": "c-2042-000139-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-05T05:37:50+09:00",
+      "timestamp": "2042-09-05T05:37:02+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "개인거 있어도 팀보험은 따로 봄",
+      "content": "예비배터리까지 켜봐야됨 잔량표시만 믿다 당함",
       "deleted": false
     },
     {
-      "id": "c-2042-000139-v8-003",
+      "id": "c-2042-000139-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-05T05:40:03+09:00",
+      "timestamp": "2042-09-05T05:40:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "118.33"
       },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000139-v8-004",
-      "parentId": null,
-      "timestamp": "2042-09-05T05:41:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "보험사 이름보다 보장범위가 먼저임",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000139-v8-005",
-      "parentId": null,
-      "timestamp": "2042-09-05T05:45:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "후송/치료 범위도 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000139-v8-006",
-      "parentId": null,
-      "timestamp": "2042-09-05T05:48:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "현장등급 제한 먼저 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000139-v8-007",
-      "parentId": null,
-      "timestamp": "2042-09-05T05:50:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "보험됨 한줄만 믿지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000139-v8-008",
-      "parentId": null,
-      "timestamp": "2042-09-05T05:52:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000139-v8-009",
-      "parentId": null,
-      "timestamp": "2042-09-05T05:55:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "가방 지퍼 하나 터져도 현장에선 존나 귀찮음",
       "deleted": false
     }
   ],

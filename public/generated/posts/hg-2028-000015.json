@@ -33,63 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000015-v8-001",
+      "id": "c-2028-000015-b1-001",
       "parentId": null,
-      "timestamp": "2028-06-02T13:03:11+09:00",
+      "timestamp": "2028-06-02T13:10:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.234"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "content": "처음이면 일당보다 팀 후기부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2028-000015-v8-002",
+      "id": "c-2028-000015-b1-002",
       "parentId": null,
-      "timestamp": "2028-06-02T13:05:36+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000015-v8-003",
-      "parentId": null,
-      "timestamp": "2028-06-02T13:08:16+09:00",
+      "timestamp": "2028-06-02T13:15:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "223.39"
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "좋은 짐꾼 한명 있으면 전투인원 체력 보존 체감 큼",
       "deleted": false
     },
     {
-      "id": "c-2028-000015-v8-004",
-      "parentId": "c-2028-000015-v8-003",
-      "timestamp": "2028-06-02T13:09:45+09:00",
+      "id": "c-2028-000015-b1-003",
+      "parentId": null,
+      "timestamp": "2028-06-02T13:27:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "211.36"
       },
-      "content": "일주일 넘으면 한번 물어봐야지",
+      "content": "짐무게랑 예상시간 미리 말해주는팀이 편함",
       "deleted": false
     },
     {
-      "id": "c-2028-000015-v8-005",
-      "parentId": "c-2028-000015-v8-002",
-      "timestamp": "2028-06-02T13:11:10+09:00",
+      "id": "c-2028-000015-b1-004",
+      "parentId": null,
+      "timestamp": "2028-06-02T13:31:05+09:00",
       "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.39"
       },
-      "content": "정산일 적혀있으면 덜싸움",
+      "content": "짐꾼이라고 잡일 다 시키는팀은 거르는게 맞음",
       "deleted": false
     }
   ],

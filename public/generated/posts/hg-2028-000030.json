@@ -33,75 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000030-v8-001",
+      "id": "c-2028-000030-b1-001",
       "parentId": null,
-      "timestamp": "2028-10-08T10:48:53+09:00",
+      "timestamp": "2028-10-08T10:52:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "106.101"
       },
-      "content": "내최애 1위 넣으면 끝",
+      "content": "실적이랑 팬심이랑 섞여서 답없음",
       "deleted": false
     },
     {
-      "id": "c-2028-000030-v8-002",
+      "id": "c-2028-000030-b1-002",
       "parentId": null,
-      "timestamp": "2028-10-08T10:52:44+09:00",
+      "timestamp": "2028-10-08T11:03:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "211.197"
       },
-      "content": "요즘 A를 너무 쉽게 말함",
+      "content": "비공식인데 디자인은 공식문서급임",
       "deleted": false
     },
     {
-      "id": "c-2028-000030-v8-003",
-      "parentId": "c-2028-000030-v8-002",
-      "timestamp": "2028-10-08T10:55:21+09:00",
+      "id": "c-2028-000030-b1-003",
+      "parentId": null,
+      "timestamp": "2028-10-08T11:08:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "106.101"
       },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
+      "content": "내최애 1위 넣으면 끝나는 문제",
       "deleted": false
     },
     {
-      "id": "c-2028-000030-v8-004",
-      "parentId": null,
-      "timestamp": "2028-10-08T10:58:14+09:00",
+      "id": "c-2028-000030-b1-004",
+      "parentId": "c-2028-000030-b1-003",
+      "timestamp": "2028-10-08T11:17:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "211.197"
       },
-      "content": "상성 넣으면 표 다시짜야됨",
+      "content": "최근 실적도 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2028-000030-v8-005",
+      "id": "c-2028-000030-b1-005",
       "parentId": null,
-      "timestamp": "2028-10-08T11:00:14+09:00",
+      "timestamp": "2028-10-08T11:26:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "14.32"
       },
-      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000030-v8-006",
-      "parentId": null,
-      "timestamp": "2028-10-08T11:04:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이 떡밥 다음주에 또 올라옴",
+      "content": "또 순위표 만들었네ㅋㅋ",
       "deleted": false
     }
   ],

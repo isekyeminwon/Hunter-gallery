@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000022-v8-001",
+      "id": "c-2037-000022-b2m-001",
       "parentId": null,
-      "timestamp": "2037-10-13T22:06:16+09:00",
+      "timestamp": "2037-10-13T22:05:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "106.250"
       },
-      "content": "새거라고 멀쩡한거 아님",
+      "content": "자라",
       "deleted": false
     },
     {
-      "id": "c-2037-000022-v8-002",
+      "id": "c-2037-000022-b2m-002",
       "parentId": null,
-      "timestamp": "2037-10-13T22:09:33+09:00",
+      "timestamp": "2037-10-13T22:06:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "211.234"
       },
-      "content": "반납때 싸우기싫으면 상태 기록해둬",
+      "content": "나도그럼",
       "deleted": false
     }
   ],

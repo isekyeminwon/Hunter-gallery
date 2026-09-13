@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000001-v8-001",
+      "id": "c-2027-000001-b1-001",
       "parentId": null,
-      "timestamp": "2027-02-15T09:45:29+09:00",
+      "timestamp": "2027-02-15T09:52:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "106.245"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
+      "content": "재검으로 수치 조금 바뀌어도 등급까지 뒤집히는건 드물다던데",
       "deleted": false
     },
     {
-      "id": "c-2027-000001-v8-002",
+      "id": "c-2027-000001-b1-002",
       "parentId": null,
-      "timestamp": "2027-02-15T09:48:17+09:00",
+      "timestamp": "2027-02-15T10:00:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "125.180"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "검사결과 회사에 어디까지 보여줘야되는지가 더 문제임",
       "deleted": false
     },
     {
-      "id": "c-2027-000001-v8-003",
+      "id": "c-2027-000001-b1-003",
       "parentId": null,
-      "timestamp": "2027-02-15T09:50:04+09:00",
+      "timestamp": "2027-02-15T10:09:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "125.180"
       },
-      "content": "신고해본사람 있음?",
+      "content": "등록정보 유출은 진짜 크게 터질만한 문제다",
       "deleted": false
     },
     {
-      "id": "c-2027-000001-v8-004",
-      "parentId": "c-2027-000001-v8-001",
-      "timestamp": "2027-02-15T09:51:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000001-v8-005",
-      "parentId": "c-2027-000001-v8-001",
-      "timestamp": "2027-02-15T09:53:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000001-v8-006",
-      "parentId": "c-2027-000001-v8-005",
-      "timestamp": "2027-02-15T09:55:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000001-v8-007",
+      "id": "c-2027-000001-b1-004",
       "parentId": null,
-      "timestamp": "2027-02-15T09:58:45+09:00",
+      "timestamp": "2027-02-15T10:16:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "211.234"
       },
-      "content": "이건 최신 공지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000001-v8-008",
-      "parentId": null,
-      "timestamp": "2027-02-15T10:01:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "그 조항 아직 그대로임?",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000001-v8-009",
-      "parentId": "c-2027-000001-v8-002",
-      "timestamp": "2027-02-15T10:04:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000001-v8-010",
-      "parentId": null,
-      "timestamp": "2027-02-15T10:08:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000001-v8-011",
-      "parentId": null,
-      "timestamp": "2027-02-15T10:11:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000001-v8-012",
-      "parentId": null,
-      "timestamp": "2027-02-15T10:15:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "규정이랑 관행은 또 다를수 있음",
+      "content": "측정 의무면 생일 지나자마자 예약전쟁이겠네",
       "deleted": false
     }
   ],

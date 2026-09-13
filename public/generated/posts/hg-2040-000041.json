@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000041-v8-001",
+      "id": "c-2040-000041-b2m-001",
       "parentId": null,
-      "timestamp": "2040-02-05T10:39:49+09:00",
+      "timestamp": "2040-02-05T10:39:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "초보는 이런글이 더 필요함",
+      "content": "첫날부터 속도 맞추려하지말고 동선 익히게 하는게 낫지",
       "deleted": false
     },
     {
-      "id": "c-2040-000041-v8-002",
+      "id": "c-2040-000041-b2m-002",
       "parentId": null,
-      "timestamp": "2040-02-05T10:41:33+09:00",
+      "timestamp": "2040-02-05T10:42:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "112.171"
       },
-      "content": "이건 경험값 한번 내면 기억남",
+      "content": "역할/장비/콜 이해했는지부터 봄",
       "deleted": false
     },
     {
-      "id": "c-2040-000041-v8-003",
-      "parentId": "c-2040-000041-v8-001",
-      "timestamp": "2040-02-05T10:45:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000041-v8-004",
+      "id": "c-2040-000041-b2m-003",
       "parentId": null,
-      "timestamp": "2040-02-05T10:48:09+09:00",
+      "timestamp": "2040-02-05T10:46:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.235"
       },
-      "content": "체크할때 다시본다",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000041-v8-005",
-      "parentId": null,
-      "timestamp": "2040-02-05T10:51:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "팀마다 이부분은 좀 갈리더라",
+      "content": "실력보다 모르는걸 바로 말하는지 체크하는팀 많더라",
       "deleted": false
     }
   ],

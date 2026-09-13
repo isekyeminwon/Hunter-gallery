@@ -33,159 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000003-v8-001",
+      "id": "c-2037-000003-b2m-001",
       "parentId": null,
-      "timestamp": "2037-08-21T11:04:04+09:00",
+      "timestamp": "2037-08-21T11:03:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "211.234"
       },
-      "content": "이건 한번 터지면 평생 챙김",
+      "content": "현장위치/대피범위/통신채널/철수기준부터 확인",
       "deleted": false
     },
     {
-      "id": "c-2037-000003-v8-002",
+      "id": "c-2037-000003-b2m-002",
       "parentId": null,
-      "timestamp": "2037-08-21T11:05:32+09:00",
+      "timestamp": "2037-08-21T11:06:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "106.102"
+      },
+      "content": "출처 다른 지시 섞이면 현장책임자 공지 하나로 맞춰",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-b2m-003",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:09:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "장비 챙기기 전에 내가 어느팀 지시 받는지부터 확인",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-b2m-004",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:12:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "지원인력은 멋있는 전투보다 집결지랑 이동동선이 먼저임",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000003-b2m-005",
+      "parentId": null,
+      "timestamp": "2037-08-21T11:16:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
       },
       "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-003",
-      "parentId": null,
-      "timestamp": "2037-08-21T11:07:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "우리쪽은 방식이 살짝 다름",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-004",
-      "parentId": "c-2037-000003-v8-001",
-      "timestamp": "2037-08-21T11:09:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-005",
-      "parentId": "c-2037-000003-v8-004",
-      "timestamp": "2037-08-21T11:13:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-006",
-      "parentId": null,
-      "timestamp": "2037-08-21T11:15:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "체크할때 다시본다",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-007",
-      "parentId": null,
-      "timestamp": "2037-08-21T11:17:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "화려한 공략보다 이게 초보한텐 나음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-008",
-      "parentId": null,
-      "timestamp": "2037-08-21T11:20:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 사전에 맞춰놔야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-009",
-      "parentId": "c-2037-000003-v8-003",
-      "timestamp": "2037-08-21T11:24:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-010",
-      "parentId": null,
-      "timestamp": "2037-08-21T11:27:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-011",
-      "parentId": null,
-      "timestamp": "2037-08-21T11:29:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "다른사람은 어땠음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-012",
-      "parentId": null,
-      "timestamp": "2037-08-21T11:30:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000003-v8-013",
-      "parentId": "c-2037-000003-v8-009",
-      "timestamp": "2037-08-21T11:33:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
       "deleted": false
     }
   ],

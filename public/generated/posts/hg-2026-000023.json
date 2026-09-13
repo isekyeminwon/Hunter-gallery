@@ -33,27 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000023-v8-001",
+      "id": "c-2026-000023-b1-001",
       "parentId": null,
-      "timestamp": "2026-10-10T11:07:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "계약주체 누구임",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000023-v8-002",
-      "parentId": null,
-      "timestamp": "2026-10-10T11:11:42+09:00",
+      "timestamp": "2026-10-10T11:12:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "124.53"
       },
-      "content": "조건부터 봐야됨",
+      "content": "역할/보험/현장등급 세개는 보고 지원해",
+      "deleted": false
+    },
+    {
+      "id": "c-2026-000023-b1-002",
+      "parentId": null,
+      "timestamp": "2026-10-10T11:24:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "신규등록자 많아져서 경험자 동행 수요 늘어난듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2026-000023-b1-003",
+      "parentId": null,
+      "timestamp": "2026-10-10T11:33:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "경험횟수 요구하는 글이 많아졌더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2026-000023-b1-004",
+      "parentId": "c-2026-000023-b1-003",
+      "timestamp": "2026-10-10T11:40:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "동행이라고 써놓고 사실상 잡일 다시키는 공고도 있음",
       "deleted": false
     }
   ],

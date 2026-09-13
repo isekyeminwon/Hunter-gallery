@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000047-v8-001",
+      "id": "c-2036-000047-b1-001",
       "parentId": null,
-      "timestamp": "2036-11-14T19:24:39+09:00",
+      "timestamp": "2036-11-14T19:32:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "121.163"
       },
-      "content": "영상보다 밑에서 더 터졌네ㅋㅋ",
+      "content": "생각보다 말 담백하네",
       "deleted": false
     },
     {
-      "id": "c-2036-000047-v8-002",
+      "id": "c-2036-000047-b1-002",
       "parentId": null,
-      "timestamp": "2036-11-14T19:26:51+09:00",
+      "timestamp": "2036-11-14T19:44:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "125.180"
       },
-      "content": "편집은 잘했네",
+      "content": "편집은 잘뽑았네",
       "deleted": false
     },
     {
-      "id": "c-2036-000047-v8-003",
+      "id": "c-2036-000047-b1-003",
       "parentId": null,
-      "timestamp": "2036-11-14T19:29:16+09:00",
+      "timestamp": "2036-11-14T19:48:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "106.248"
       },
-      "content": "공식 업로드 먼저 찾아본다",
+      "content": "자막 잘린 앞뒤 문맥도 보고싶음",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000047-b1-004",
+      "parentId": null,
+      "timestamp": "2036-11-14T19:59:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "전체 인터뷰도 풀어줬으면",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000047-b1-005",
+      "parentId": "c-2036-000047-b1-001",
+      "timestamp": "2036-11-14T20:09:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "편집 잘하긴했네",
       "deleted": false
     }
   ],

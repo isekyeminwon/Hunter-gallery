@@ -33,99 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000059-v8-001",
+      "id": "c-2030-000059-b1-001",
       "parentId": null,
-      "timestamp": "2030-08-05T14:50:33+09:00",
+      "timestamp": "2030-08-05T14:57:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "58.29"
       },
-      "content": "취업은 전투서열이랑 다름",
+      "content": "길드순위라는 말 자체가 뭘 기준으로 하냐부터 싸움",
       "deleted": false
     },
     {
-      "id": "c-2030-000059-v8-002",
+      "id": "c-2030-000059-b1-002",
       "parentId": null,
-      "timestamp": "2030-08-05T14:52:37+09:00",
+      "timestamp": "2030-08-05T15:04:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "223.62"
       },
-      "content": "한성 붙으면 왜 고민하냐는놈 곧옴ㅋㅋ",
+      "content": "공략실적 장비 교육 복지까지 넣으면 순위표 끝도없음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2030-000059-v8-003",
-      "parentId": "c-2030-000059-v8-002",
-      "timestamp": "2030-08-05T14:55:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000059-v8-004",
+      "id": "c-2030-000059-b1-003",
       "parentId": null,
-      "timestamp": "2030-08-05T14:58:34+09:00",
+      "timestamp": "2030-08-05T15:09:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "58.29"
       },
-      "content": "스텔라는 방송 싫으면 호불호 씨게 갈림",
+      "content": "보유 S만 세면 한성이 너무 유리해서 다른 요소가 다 사라짐",
       "deleted": false
     },
     {
-      "id": "c-2030-000059-v8-005",
+      "id": "c-2030-000059-b1-004",
       "parentId": null,
-      "timestamp": "2030-08-05T15:00:36+09:00",
+      "timestamp": "2030-08-05T15:15:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "223.62"
       },
-      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
+      "content": "전투력만 볼거면 그냥 보유 상위헌터 명단이랑 뭐가 다름",
       "deleted": false
     },
     {
-      "id": "c-2030-000059-v8-006",
+      "id": "c-2030-000059-b1-005",
       "parentId": null,
-      "timestamp": "2030-08-05T15:03:29+09:00",
+      "timestamp": "2030-08-05T15:20:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "223.62"
       },
-      "content": "마법계면 네뷸라 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000059-v8-007",
-      "parentId": "c-2030-000059-v8-003",
-      "timestamp": "2030-08-05T15:05:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000059-v8-008",
-      "parentId": "c-2030-000059-v8-003",
-      "timestamp": "2030-08-05T15:08:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "content": "전투력 순위랑 취업하기 좋은 길드는 따로 봐야지",
       "deleted": false
     }
   ],

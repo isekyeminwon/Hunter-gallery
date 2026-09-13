@@ -33,195 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000018-v8-001",
+      "id": "c-2031-000018-b1-001",
       "parentId": null,
-      "timestamp": "2031-08-20T15:03:25+09:00",
+      "timestamp": "2031-08-20T15:09:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "175.223"
       },
-      "content": "나도 예전에 이걸로 물어봤었음",
+      "content": "국가가 이동/공략에 신경쓰는 이유는 있겠지",
       "deleted": false
     },
     {
-      "id": "c-2031-000018-v8-002",
+      "id": "c-2031-000018-b1-002",
       "parentId": null,
-      "timestamp": "2031-08-20T15:06:13+09:00",
+      "timestamp": "2031-08-20T15:15:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "211.197"
       },
-      "content": "나도 답 기다림",
+      "content": "S가 전쟁병기라는 표현은 너무 단순함",
       "deleted": false
     },
     {
-      "id": "c-2031-000018-v8-003",
+      "id": "c-2031-000018-b1-003",
       "parentId": null,
-      "timestamp": "2031-08-20T15:08:10+09:00",
+      "timestamp": "2031-08-20T15:21:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "211.197"
       },
-      "content": "찾아보면 몇년전 글만 뜸",
+      "content": "대형 게이트 대응력이라는 의미에선 국가전력 취급하는건 이해됨",
       "deleted": false
     },
     {
-      "id": "c-2031-000018-v8-004",
-      "parentId": "c-2031-000018-v8-003",
-      "timestamp": "2031-08-20T15:09:41+09:00",
+      "id": "c-2031-000018-b1-004",
+      "parentId": "c-2031-000018-b1-003",
+      "timestamp": "2031-08-20T15:28:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "175.223"
       },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-005",
-      "parentId": "c-2031-000018-v8-004",
-      "timestamp": "2031-08-20T15:12:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-006",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:15:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-007",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:17:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "이런건 물어봐도 됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-008",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:20:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-009",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:22:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "최근에 해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-010",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:24:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-011",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:28:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-012",
-      "parentId": "c-2031-000018-v8-007",
-      "timestamp": "2031-08-20T15:30:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-013",
-      "parentId": "c-2031-000018-v8-007",
-      "timestamp": "2031-08-20T15:33:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-014",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:35:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-015",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:37:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000018-v8-016",
-      "parentId": null,
-      "timestamp": "2031-08-20T15:39:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "난 반대",
+      "content": "군사력 몇개사단 이런 환산은 커뮤식 과장같음",
       "deleted": false
     }
   ],

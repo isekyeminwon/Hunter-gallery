@@ -33,231 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000008-v8-001",
+      "id": "c-2038-000008-b2m-001",
       "parentId": null,
-      "timestamp": "2038-08-03T12:38:33+09:00",
+      "timestamp": "2038-08-03T12:37:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "125.180"
       },
-      "content": "원본 어디임",
+      "content": "조회수 때문에 예전 영상 재업하는 계정들 진짜 많더라",
       "deleted": false
     },
     {
-      "id": "c-2038-000008-v8-002",
+      "id": "c-2038-000008-b2m-002",
       "parentId": null,
-      "timestamp": "2038-08-03T12:40:44+09:00",
+      "timestamp": "2038-08-03T12:39:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "211.235"
       },
-      "content": "편집은 잘했네",
+      "content": "원본 링크 아는사람",
       "deleted": false
     },
     {
-      "id": "c-2038-000008-v8-003",
-      "parentId": "c-2038-000008-v8-002",
-      "timestamp": "2038-08-03T12:42:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-004",
+      "id": "c-2038-000008-b2m-003",
       "parentId": null,
-      "timestamp": "2038-08-03T12:45:57+09:00",
+      "timestamp": "2038-08-03T12:41:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "59.10"
       },
-      "content": "원본 어디임",
+      "content": "샤오룽 장면만 잘라서 도는 편집본이 제일 많음",
       "deleted": false
     },
     {
-      "id": "c-2038-000008-v8-005",
+      "id": "c-2038-000008-b2m-004",
+      "parentId": "c-2038-000008-b2m-002",
+      "timestamp": "2038-08-03T12:43:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "공식 브리핑 링크면 제일 좋고",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000008-b2m-005",
       "parentId": null,
-      "timestamp": "2038-08-03T12:48:11+09:00",
+      "timestamp": "2038-08-03T12:45:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "59.10"
       },
-      "content": "밑에서 더 재밌게 싸우네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-006",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:51:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "공식채널부터 봐야겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-007",
-      "parentId": "c-2038-000008-v8-001",
-      "timestamp": "2038-08-03T12:54:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "그장면 봤음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-008",
-      "parentId": null,
-      "timestamp": "2038-08-03T12:58:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-009",
-      "parentId": "c-2038-000008-v8-003",
-      "timestamp": "2038-08-03T13:00:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "풀버전 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-010",
-      "parentId": null,
-      "timestamp": "2038-08-03T13:04:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "공식쪽부터 찾아봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-011",
-      "parentId": null,
-      "timestamp": "2038-08-03T13:06:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-012",
-      "parentId": null,
-      "timestamp": "2038-08-03T13:08:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-013",
-      "parentId": null,
-      "timestamp": "2038-08-03T13:11:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "짤만 돌아서 못찾겠음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-014",
-      "parentId": "c-2038-000008-v8-011",
-      "timestamp": "2038-08-03T13:13:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-015",
-      "parentId": null,
-      "timestamp": "2038-08-03T13:14:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이걸로도 싸우네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-016",
-      "parentId": null,
-      "timestamp": "2038-08-03T13:17:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "{{con:dororong}}",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-017",
-      "parentId": "c-2038-000008-v8-015",
-      "timestamp": "2038-08-03T13:21:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-018",
-      "parentId": "c-2038-000008-v8-017",
-      "timestamp": "2038-08-03T13:24:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000008-v8-019",
-      "parentId": null,
-      "timestamp": "2038-08-03T13:26:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅅㅂ",
+      "content": "같은 영상인데 자막 다른 버전이 너무 많음",
       "deleted": false
     }
   ],

@@ -33,267 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000030-v8-001",
+      "id": "c-2029-000030-b1-001",
       "parentId": null,
-      "timestamp": "2029-07-25T06:46:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "영상이 거짓말이라기보다 목적이 다른거",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-002",
-      "parentId": null,
-      "timestamp": "2029-07-25T06:50:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "편집본만 보면 15분컷 같음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-003",
-      "parentId": null,
-      "timestamp": "2029-07-25T06:52:05+09:00",
+      "timestamp": "2029-07-25T06:47:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.38"
       },
-      "content": "촬영팀 붙으면 동선도 달라질수 있음",
+      "content": "원본 링크 있는사람",
       "deleted": false
     },
     {
-      "id": "c-2029-000030-v8-004",
-      "parentId": "c-2029-000030-v8-001",
-      "timestamp": "2029-07-25T06:55:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "원본콜 있으면 공부는 훨씬 잘됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-005",
+      "id": "c-2029-000030-b1-002",
       "parentId": null,
-      "timestamp": "2029-07-25T06:58:06+09:00",
+      "timestamp": "2029-07-25T06:53:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "39.7"
       },
-      "content": "원본콜 있는 영상이 공부할땐 낫더라",
+      "content": "댓글속도가 영상보다 빠르네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2029-000030-v8-006",
+      "id": "c-2029-000030-b1-003",
+      "parentId": "c-2029-000030-b1-001",
+      "timestamp": "2029-07-25T07:03:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "캡처말고 원문 보고싶음",
+      "deleted": false
+    },
+    {
+      "id": "c-2029-000030-b1-004",
       "parentId": null,
-      "timestamp": "2029-07-25T06:59:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "대기/확인/철수판단이 편집에서 많이 잘림",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-007",
-      "parentId": "c-2029-000030-v8-002",
-      "timestamp": "2029-07-25T07:02:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "영상이 구라라기보다 목적이 다른거지",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-008",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:04:39+09:00",
+      "timestamp": "2029-07-25T07:08:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "125.180"
       },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "몇분몇초 그장면 다시보는중",
       "deleted": false
     },
     {
-      "id": "c-2029-000030-v8-009",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:08:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-010",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:11:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-011",
+      "id": "c-2029-000030-b1-005",
       "parentId": null,
       "timestamp": "2029-07-25T07:13:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "175.214"
       },
-      "content": "ㄹㅇ",
+      "content": "풀버전 있냐",
       "deleted": false
     },
     {
-      "id": "c-2029-000030-v8-012",
+      "id": "c-2029-000030-b1-006",
       "parentId": null,
-      "timestamp": "2029-07-25T07:17:02+09:00",
+      "timestamp": "2029-07-25T07:24:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "팬계정 짤보다 공식영상부터 보고싶음",
+      "deleted": false
+    },
+    {
+      "id": "c-2029-000030-b1-007",
+      "parentId": null,
+      "timestamp": "2029-07-25T07:30:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.38"
       },
-      "content": "이건 인정",
+      "content": "짤만 돌지말고 원본좀",
       "deleted": false
     },
     {
-      "id": "c-2029-000030-v8-013",
-      "parentId": "c-2029-000030-v8-007",
-      "timestamp": "2029-07-25T07:20:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "대기시간 잘리니까 쉬워보이는거",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-014",
+      "id": "c-2029-000030-b1-008",
       "parentId": null,
-      "timestamp": "2029-07-25T07:22:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-015",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:25:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-016",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:27:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-017",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:30:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-018",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:34:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-019",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:36:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-020",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:39:20+09:00",
+      "timestamp": "2029-07-25T07:34:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "125.180"
       },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-021",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:43:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000030-v8-022",
-      "parentId": null,
-      "timestamp": "2029-07-25T07:45:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "원글 세줄인데 밑이 더김",
+      "content": "편집은 잘뽑았네",
       "deleted": false
     }
   ],

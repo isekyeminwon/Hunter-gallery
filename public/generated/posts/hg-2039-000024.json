@@ -33,159 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000024-v8-001",
+      "id": "c-2039-000024-b2m-001",
       "parentId": null,
-      "timestamp": "2039-05-19T13:20:45+09:00",
+      "timestamp": "2039-05-19T13:19:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "121.140"
       },
-      "content": "사고원인 뜨기전에 길드탓부터 하던거 기억남",
+      "content": "현장원본보다 방송사 요약본이 더 많이 도네",
       "deleted": false
     },
     {
-      "id": "c-2039-000024-v8-002",
+      "id": "c-2039-000024-b2m-002",
       "parentId": null,
-      "timestamp": "2039-05-19T13:24:32+09:00",
+      "timestamp": "2039-05-19T13:22:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "211.235"
       },
-      "content": "영상 한각도만 보고 판단하기 힘든 현장임",
+      "content": "뉴스영상 편집본 조회수 왜이렇게 높냐",
       "deleted": false
     },
     {
-      "id": "c-2039-000024-v8-003",
+      "id": "c-2039-000024-b2m-003",
       "parentId": null,
-      "timestamp": "2039-05-19T13:26:56+09:00",
+      "timestamp": "2039-05-19T13:23:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "118.41"
       },
-      "content": "항만쪽은 차량/물자동선까지 섞여서 복잡함",
+      "content": "자막으로 원인 확정한 영상은 거름",
       "deleted": false
     },
     {
-      "id": "c-2039-000024-v8-004",
+      "id": "c-2039-000024-b2m-004",
       "parentId": null,
-      "timestamp": "2039-05-19T13:29:11+09:00",
+      "timestamp": "2039-05-19T13:27:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "211.202"
       },
-      "content": "지원팀 붙으면 평소 파티콜로 안되는 순간 생김",
+      "content": "한각도 영상만 보면 차량동선이 거의 안보임",
       "deleted": false
     },
     {
-      "id": "c-2039-000024-v8-005",
-      "parentId": "c-2039-000024-v8-001",
-      "timestamp": "2039-05-19T13:31:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000024-v8-006",
-      "parentId": "c-2039-000024-v8-003",
-      "timestamp": "2039-05-19T13:33:40+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "풀버전 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000024-v8-007",
+      "id": "c-2039-000024-b2m-005",
       "parentId": null,
-      "timestamp": "2039-05-19T13:35:17+09:00",
+      "timestamp": "2039-05-19T13:30:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "121.140"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000024-v8-008",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:38:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000024-v8-009",
-      "parentId": "c-2039-000024-v8-003",
-      "timestamp": "2039-05-19T13:42:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000024-v8-010",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:44:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000024-v8-011",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:47:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000024-v8-012",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:50:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000024-v8-013",
-      "parentId": null,
-      "timestamp": "2039-05-19T13:53:13+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "그건 좀",
+      "content": "장비보다 통로확보 먼저라는건 공감",
       "deleted": false
     }
   ],

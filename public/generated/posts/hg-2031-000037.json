@@ -33,111 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000037-v8-001",
+      "id": "c-2031-000037-b1-001",
       "parentId": null,
-      "timestamp": "2031-06-25T16:52:34+09:00",
+      "timestamp": "2031-06-25T16:55:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "223.33"
       },
-      "content": "철수콜 누가하는지 먼저 정해",
+      "content": "첫체크 끝나고 이동직전에 한번 더하는거 좋음",
       "deleted": false
     },
     {
-      "id": "c-2031-000037-v8-002",
+      "id": "c-2031-000037-b1-002",
       "parentId": null,
-      "timestamp": "2031-06-25T16:54:04+09:00",
+      "timestamp": "2031-06-25T17:03:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "121.163"
       },
-      "content": "팀장 전투중이면 대체콜도 있어야됨",
+      "content": "철수때 다들 급해서 여기서 실수남",
       "deleted": false
     },
     {
-      "id": "c-2031-000037-v8-003",
-      "parentId": null,
-      "timestamp": "2031-06-25T16:55:28+09:00",
+      "id": "c-2031-000037-b1-003",
+      "parentId": "c-2031-000037-b1-001",
+      "timestamp": "2031-06-25T17:10:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "211.36"
       },
-      "content": "저위험이라도 퇴로는 잡고 들어가",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000037-v8-004",
-      "parentId": null,
-      "timestamp": "2031-06-25T16:59:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "철수 정했으면 그때는 욕심 접어",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000037-v8-005",
-      "parentId": null,
-      "timestamp": "2031-06-25T17:02:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "한번 더 보자는 말이 제일 무서움",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000037-v8-006",
-      "parentId": null,
-      "timestamp": "2031-06-25T17:03:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000037-v8-007",
-      "parentId": null,
-      "timestamp": "2031-06-25T17:06:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000037-v8-008",
-      "parentId": "c-2031-000037-v8-005",
-      "timestamp": "2031-06-25T17:09:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "팀장 전투중일수도 있으니까",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000037-v8-009",
-      "parentId": null,
-      "timestamp": "2031-06-25T17:13:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "난 반대",
+      "content": "짐꾼/촬영까지 포함해서 세야됨",
       "deleted": false
     }
   ],

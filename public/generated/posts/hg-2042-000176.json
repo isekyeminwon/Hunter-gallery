@@ -33,61 +33,61 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000176-v8-001",
+      "id": "c-2042-000176-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-17T07:03:18+09:00",
+      "timestamp": "2042-09-17T07:04:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "59.5"
       },
-      "content": "출발전에 정해두는게 편함",
+      "content": "애초에 소수점/잔여물 처리 기준을 입장전에 정해놓는게 답",
       "deleted": false
     },
     {
-      "id": "c-2042-000176-v8-002",
+      "id": "c-2042-000176-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T07:04:39+09:00",
+      "timestamp": "2042-09-17T07:07:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "118.221"
       },
-      "content": "우린 저부분만 다르게함",
+      "content": "팀공용비로 넘기거나 다음 정산에 합치는 식으로 미리 정해둬",
       "deleted": false
     },
     {
-      "id": "c-2042-000176-v8-003",
-      "parentId": null,
-      "timestamp": "2042-09-17T07:08:19+09:00",
+      "id": "c-2042-000176-b2m-003",
+      "parentId": "c-2042-000176-b2m-002",
+      "timestamp": "2042-09-17T07:10:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "59.5"
       },
-      "content": "이거 저장해둠",
+      "content": "작은거 하나 때문에 파티 깨지는게 제일 허무함ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2042-000176-v8-004",
-      "parentId": null,
-      "timestamp": "2042-09-17T07:09:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "한번 데이면 다음부턴 자동으로 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000176-v8-005",
+      "id": "c-2042-000176-b2m-004",
       "parentId": null,
       "timestamp": "2042-09-17T07:13:50+09:00",
       "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "한개 남았다고 현장에서 다시 분배룰 만들면 꼭 싸움남",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000176-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-09-17T07:15:53+09:00",
+      "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "121.140"
       },
       "content": "정성추",
       "deleted": false

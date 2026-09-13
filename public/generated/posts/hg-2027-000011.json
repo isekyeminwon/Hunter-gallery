@@ -33,51 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000011-v8-001",
+      "id": "c-2027-000011-b1-001",
       "parentId": null,
-      "timestamp": "2027-05-19T12:21:07+09:00",
+      "timestamp": "2027-05-19T12:25:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "118.47"
       },
-      "content": "공식채널부터 봐야겠다",
+      "content": "팬계정 짤보다 공식영상부터 보고싶음",
       "deleted": false
     },
     {
-      "id": "c-2027-000011-v8-002",
+      "id": "c-2027-000011-b1-002",
       "parentId": null,
-      "timestamp": "2027-05-19T12:24:56+09:00",
+      "timestamp": "2027-05-19T12:32:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "124.53"
       },
-      "content": "댓글이 영상보다 재밌음",
+      "content": "편집은 잘뽑았네",
       "deleted": false
     },
     {
-      "id": "c-2027-000011-v8-003",
-      "parentId": "c-2027-000011-v8-001",
-      "timestamp": "2027-05-19T12:27:30+09:00",
+      "id": "c-2027-000011-b1-003",
+      "parentId": null,
+      "timestamp": "2027-05-19T12:43:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "211.235"
       },
-      "content": "그장면 봤음ㅋㅋ",
+      "content": "댓글속도가 영상보다 빠르네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2027-000011-v8-004",
-      "parentId": "c-2027-000011-v8-001",
-      "timestamp": "2027-05-19T12:28:52+09:00",
+      "id": "c-2027-000011-b1-004",
+      "parentId": null,
+      "timestamp": "2027-05-19T12:49:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.47"
       },
-      "content": "편집 잘했네",
+      "content": "원본 링크 있는사람",
       "deleted": false
     }
   ],

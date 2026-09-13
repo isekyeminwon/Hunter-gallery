@@ -33,111 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000059-v8-001",
+      "id": "c-2042-000059-b2m-001",
       "parentId": null,
-      "timestamp": "2042-06-28T23:06:29+09:00",
+      "timestamp": "2042-06-28T23:07:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "등록 안된 팀이 들어간거면 입장절차부터 문제지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000059-b2m-002",
+      "parentId": null,
+      "timestamp": "2042-06-28T23:10:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.62"
       },
-      "content": "사진 몇장으로 원인확정은 무리임",
+      "content": "무등록=부정등록이랑은 다른 케이스임",
       "deleted": false
     },
     {
-      "id": "c-2042-000059-v8-002",
+      "id": "c-2042-000059-b2m-003",
       "parentId": null,
-      "timestamp": "2042-06-28T23:08:48+09:00",
+      "timestamp": "2042-06-28T23:12:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "125.180"
       },
-      "content": "새로 뜬 내용 있냐",
+      "content": "보험/공략권까지 정상인지 같이 조사하겠네",
       "deleted": false
     },
     {
-      "id": "c-2042-000059-v8-003",
+      "id": "c-2042-000059-b2m-004",
       "parentId": null,
-      "timestamp": "2042-06-28T23:12:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "근처사는 사람은 교통공지 먼저봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000059-v8-004",
-      "parentId": null,
-      "timestamp": "2042-06-28T23:16:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "캡처말고 기사주소 없음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000059-v8-005",
-      "parentId": "c-2042-000059-v8-003",
-      "timestamp": "2042-06-28T23:17:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000059-v8-006",
-      "parentId": "c-2042-000059-v8-001",
-      "timestamp": "2042-06-28T23:19:43+09:00",
+      "timestamp": "2042-06-28T23:15:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.62"
       },
-      "content": "다친사람 별일없었으면",
+      "content": "{{con:sad}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000059-v8-007",
-      "parentId": "c-2042-000059-v8-003",
-      "timestamp": "2042-06-28T23:22:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000059-v8-008",
+      "id": "c-2042-000059-b2m-005",
       "parentId": null,
-      "timestamp": "2042-06-28T23:23:37+09:00",
+      "timestamp": "2042-06-28T23:18:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "118.235"
       },
-      "content": "부상자 상태는 괜찮대?",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000059-v8-009",
-      "parentId": null,
-      "timestamp": "2042-06-28T23:25:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "원인보다 범인부터 찾네ㅋㅋ",
+      "content": "기사에 나온 적발내용 이상으로 멤버신상 캐는건 하지마라",
       "deleted": false
     }
   ],

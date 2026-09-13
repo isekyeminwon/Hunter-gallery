@@ -33,183 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2025-000010-v8-001",
+      "id": "c-2025-000010-b1-001",
       "parentId": null,
-      "timestamp": "2025-06-22T00:45:42+09:00",
+      "timestamp": "2025-06-22T00:52:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "175.223"
       },
-      "content": "원문 링크 있음?",
+      "content": "A랑 비교하던 글들 다 조용해졌네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2025-000010-v8-002",
+      "id": "c-2025-000010-b1-002",
       "parentId": null,
-      "timestamp": "2025-06-22T00:47:48+09:00",
+      "timestamp": "2025-06-22T00:57:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "223.39"
       },
-      "content": "책임자 찾는건 존나 빠르네",
+      "content": "강무혁 투입되고 현장 분위기 자체가 달라진듯",
       "deleted": false
     },
     {
-      "id": "c-2025-000010-v8-003",
+      "id": "c-2025-000010-b1-003",
       "parentId": null,
-      "timestamp": "2025-06-22T00:51:21+09:00",
+      "timestamp": "2025-06-22T01:05:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "211.58"
       },
-      "content": "다친사람 괜찮다냐",
+      "content": "인터뷰 말수 적은건 의외다",
       "deleted": false
     },
     {
-      "id": "c-2025-000010-v8-004",
-      "parentId": "c-2025-000010-v8-001",
-      "timestamp": "2025-06-22T00:53:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-005",
+      "id": "c-2025-000010-b1-004",
       "parentId": null,
-      "timestamp": "2025-06-22T00:55:08+09:00",
+      "timestamp": "2025-06-22T01:15:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "223.39"
       },
-      "content": "추가기사 뜬거 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-006",
-      "parentId": null,
-      "timestamp": "2025-06-22T00:57:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "통제중이면 근처사람은 안내부터 들어",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-007",
-      "parentId": "c-2025-000010-v8-001",
-      "timestamp": "2025-06-22T01:01:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-008",
-      "parentId": "c-2025-000010-v8-003",
-      "timestamp": "2025-06-22T01:04:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-009",
-      "parentId": null,
-      "timestamp": "2025-06-22T01:07:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "현장사진으로 원인까지 맞추진 말자",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-010",
-      "parentId": "c-2025-000010-v8-007",
-      "timestamp": "2025-06-22T01:09:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-011",
-      "parentId": null,
-      "timestamp": "2025-06-22T01:11:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-012",
-      "parentId": null,
-      "timestamp": "2025-06-22T01:13:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-013",
-      "parentId": "c-2025-000010-v8-010",
-      "timestamp": "2025-06-22T01:15:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-014",
-      "parentId": "c-2025-000010-v8-008",
-      "timestamp": "2025-06-22T01:19:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000010-v8-015",
-      "parentId": "c-2025-000010-v8-009",
-      "timestamp": "2025-06-22T01:22:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "원인 나온건 아직 없지?",
+      "content": "영상 충격파 범위가 화면밖까지 가는거 맞냐",
       "deleted": false
     }
   ],

@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000092-v8-001",
+      "id": "c-2041-000092-b2m-001",
       "parentId": null,
-      "timestamp": "2041-07-06T00:49:28+09:00",
+      "timestamp": "2041-07-06T00:49:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "175.223"
       },
-      "content": "팬아닌데 이번건 볼만함",
+      "content": "5분대 편집 진짜 잘했더라",
       "deleted": false
     },
     {
-      "id": "c-2041-000092-v8-002",
+      "id": "c-2041-000092-b2m-002",
       "parentId": null,
-      "timestamp": "2041-07-06T00:51:26+09:00",
+      "timestamp": "2041-07-06T00:51:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "211.235"
       },
-      "content": "이번 편집 진짜 잘뽑았네",
+      "content": "원본콜 버전도 풀어주면 공부용으로 괜찮을듯",
       "deleted": false
     },
     {
-      "id": "c-2041-000092-v8-003",
-      "parentId": "c-2041-000092-v8-002",
-      "timestamp": "2041-07-06T00:54:43+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "이번 편집은 진짜 잘뽑힘",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000092-v8-004",
+      "id": "c-2041-000092-b2m-003",
       "parentId": null,
-      "timestamp": "2041-07-06T00:56:59+09:00",
+      "timestamp": "2041-07-06T00:55:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "182.214"
       },
-      "content": "보스방 들어갈때 음악 끊는거 좋았음",
+      "content": "편집본에서 이동/대기시간 엄청 잘리는 편임",
       "deleted": false
     },
     {
-      "id": "c-2041-000092-v8-005",
+      "id": "c-2041-000092-b2m-004",
       "parentId": null,
-      "timestamp": "2041-07-06T01:00:14+09:00",
+      "timestamp": "2041-07-06T00:58:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "175.223"
       },
-      "content": "중간 이동구간 엄청 잘라냈더라",
+      "content": "공식 풀버전도 풀어줬으면",
       "deleted": false
     },
     {
-      "id": "c-2041-000092-v8-006",
+      "id": "c-2041-000092-b2m-005",
       "parentId": null,
-      "timestamp": "2041-07-06T01:01:35+09:00",
+      "timestamp": "2041-07-06T01:02:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "211.235"
       },
-      "content": "촬영팀 고생한 티 남",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000092-v8-007",
-      "parentId": null,
-      "timestamp": "2041-07-06T01:04:06+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "{{con:kwah}}{{con:kwah}}",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000092-v8-008",
-      "parentId": null,
-      "timestamp": "2041-07-06T01:07:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "별하나 표정 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000092-v8-009",
-      "parentId": "c-2041-000092-v8-005",
-      "timestamp": "2041-07-06T01:10:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000092-v8-010",
-      "parentId": "c-2041-000092-v8-005",
-      "timestamp": "2041-07-06T01:11:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "풀버전도 보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000092-v8-011",
-      "parentId": "c-2041-000092-v8-010",
-      "timestamp": "2041-07-06T01:13:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000092-v8-012",
-      "parentId": null,
-      "timestamp": "2041-07-06T01:16:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "풀버전도 풀어줬으면",
+      "content": "보스방 진입 직전 음악 끊는 연출 자주 쓰네",
       "deleted": false
     }
   ],

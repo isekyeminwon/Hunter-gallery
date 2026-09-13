@@ -33,51 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000035-v8-001",
+      "id": "c-2039-000035-b2m-001",
       "parentId": null,
-      "timestamp": "2039-01-11T21:29:43+09:00",
+      "timestamp": "2039-01-11T21:29:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "61.79"
       },
-      "content": "공략권 싸도 세척비에서 울수 있음",
+      "content": "가본적 있음. 없는 대신 소모품이랑 철수기준 더 빡세게 잡았음",
       "deleted": false
     },
     {
-      "id": "c-2039-000035-v8-002",
+      "id": "c-2039-000035-b2m-002",
       "parentId": null,
-      "timestamp": "2039-01-11T21:33:24+09:00",
+      "timestamp": "2039-01-11T21:31:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "211.201"
       },
-      "content": "냄새 분진 싫어서 거르는팀 많음",
+      "content": "세척비랑 보호구까지 계산하고 가라",
       "deleted": false
     },
     {
-      "id": "c-2039-000035-v8-003",
-      "parentId": "c-2039-000035-v8-001",
-      "timestamp": "2039-01-11T21:35:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "냄새 분진때문에 싫어하는팀 많음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000035-v8-004",
+      "id": "c-2039-000035-b2m-003",
       "parentId": null,
-      "timestamp": "2039-01-11T21:36:52+09:00",
+      "timestamp": "2039-01-11T21:32:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "61.79"
       },
-      "content": "정화계 없다고 무조건 못가는건 아님",
+      "content": "몹구성/공간 좁은지에 따라 체감이 더 큼",
       "deleted": false
     }
   ],

@@ -33,39 +33,15 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000050-pilot001",
+      "id": "c-2042-000050-b2m-001",
       "parentId": null,
-      "timestamp": "2042-04-19T15:30:16+09:00",
+      "timestamp": "2042-04-19T15:28:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "112.171"
       },
-      "content": "사람인데 왜 안오냐ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000050-pilot002",
-      "parentId": null,
-      "timestamp": "2042-04-19T15:33:18+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "가방 잘못메면 등급상관없이 허리 나감",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000050-pilot003",
-      "parentId": null,
-      "timestamp": "2042-04-19T15:35:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "나 C인데 물리치료 다님 질문받음",
+      "content": "개웃기네",
       "deleted": false
     }
   ],

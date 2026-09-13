@@ -33,63 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000053-v8-001",
+      "id": "c-2030-000053-b1-001",
       "parentId": null,
-      "timestamp": "2030-02-21T10:11:29+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "검색결과가 죄다 옛날거임",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000053-v8-002",
-      "parentId": null,
-      "timestamp": "2030-02-21T10:13:15+09:00",
+      "timestamp": "2030-02-21T10:13:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.58"
       },
-      "content": "뉴비면 이거 모를수있음",
+      "content": "렌탈 몇번 해보고 자주 쓰는것부터 사는게 덜낭비임",
       "deleted": false
     },
     {
-      "id": "c-2030-000053-v8-003",
+      "id": "c-2030-000053-b1-002",
       "parentId": null,
-      "timestamp": "2030-02-21T10:15:29+09:00",
+      "timestamp": "2030-02-21T10:21:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.58"
       },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000053-v8-004",
-      "parentId": null,
-      "timestamp": "2030-02-21T10:19:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "나도 예전에 이걸로 물어봤었음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000053-v8-005",
-      "parentId": null,
-      "timestamp": "2030-02-21T10:21:53+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "나도 옆에서 질문좀",
+      "content": "능력계열/역할 말해야 예산 얘기가 됨",
       "deleted": false
     }
   ],

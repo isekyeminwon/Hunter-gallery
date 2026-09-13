@@ -33,171 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000041-v8-001",
+      "id": "c-2033-000041-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-20T22:05:33+09:00",
+      "timestamp": "2033-09-20T22:13:21+09:00",
       "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
       },
-      "content": "개웃기네",
+      "content": "SS는 몇배보다 아예 다른 급으로 보는게 맞는듯",
       "deleted": false
     },
     {
-      "id": "c-2033-000041-v8-002",
+      "id": "c-2033-000041-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-20T22:07:35+09:00",
+      "timestamp": "2033-09-20T22:23:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "175.223"
       },
-      "content": "자라",
+      "content": "SS 하나 떴다고 기존 S들 전부 재평가 들어감ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000041-v8-003",
-      "parentId": "c-2033-000041-v8-002",
-      "timestamp": "2033-09-20T22:09:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-004",
-      "parentId": "c-2033-000041-v8-001",
-      "timestamp": "2033-09-20T22:12:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-005",
+      "id": "c-2033-000041-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-20T22:16:40+09:00",
+      "timestamp": "2033-09-20T22:33:15+09:00",
       "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
       },
-      "content": "뭔데",
+      "content": "이시율 능력명은 복잡하게 안가서 좋다",
       "deleted": false
     },
     {
-      "id": "c-2033-000041-v8-006",
+      "id": "c-2033-000041-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-20T22:20:21+09:00",
+      "timestamp": "2033-09-20T22:43:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "118.44"
       },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-007",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:22:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-008",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:23:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-009",
-      "parentId": "c-2033-000041-v8-005",
-      "timestamp": "2033-09-20T22:27:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-010",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:30:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:32:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-012",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:34:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-013",
-      "parentId": "c-2033-000041-v8-006",
-      "timestamp": "2033-09-20T22:38:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000041-v8-014",
-      "parentId": null,
-      "timestamp": "2033-09-20T22:42:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "개웃기네",
+      "content": "이시율 뜨고 한성 지원자 몰리는건 당연하지",
       "deleted": false
     }
   ],

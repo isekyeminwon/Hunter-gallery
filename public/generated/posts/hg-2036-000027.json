@@ -33,51 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000027-v8-001",
+      "id": "c-2036-000027-b1-001",
       "parentId": null,
-      "timestamp": "2036-01-08T08:01:20+09:00",
+      "timestamp": "2036-01-08T08:08:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "223.33"
       },
-      "content": "나도 예전에 이걸로 물어봤었음",
+      "content": "보증금 액수보다 파손기준 먼저 읽어봐",
       "deleted": false
     },
     {
-      "id": "c-2036-000027-v8-002",
+      "id": "c-2036-000027-b1-002",
       "parentId": null,
-      "timestamp": "2036-01-08T08:04:05+09:00",
+      "timestamp": "2036-01-08T08:15:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "211.58"
       },
-      "content": "뉴비면 이거 모를수있음",
+      "content": "장비 종류랑 등급 따라 보증금 차이 꽤 큼",
       "deleted": false
     },
     {
-      "id": "c-2036-000027-v8-003",
+      "id": "c-2036-000027-b1-003",
       "parentId": null,
-      "timestamp": "2036-01-08T08:08:03+09:00",
+      "timestamp": "2036-01-08T08:20:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "223.33"
       },
-      "content": "나도 이거 궁금했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000027-v8-004",
-      "parentId": null,
-      "timestamp": "2036-01-08T08:10:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "해본사람 있냐",
+      "content": "받을때 흠집 사진 꼭 찍어놔 반납때 편함",
       "deleted": false
     }
   ],

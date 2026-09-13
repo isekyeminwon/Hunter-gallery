@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000021-v8-001",
+      "id": "c-2031-000021-b1-001",
       "parentId": null,
-      "timestamp": "2031-08-20T11:59:23+09:00",
+      "timestamp": "2031-08-20T12:05:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "182.214"
       },
-      "content": "찾아보면 몇년전 글만 뜸",
+      "content": "정확한 협정 내용은 공개된거 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2031-000021-v8-002",
+      "id": "c-2031-000021-b1-002",
       "parentId": null,
-      "timestamp": "2031-08-20T12:01:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "처음하면 헷갈릴만하지",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000021-v8-003",
-      "parentId": null,
-      "timestamp": "2031-08-20T12:02:36+09:00",
+      "timestamp": "2031-08-20T12:11:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "112.171"
       },
-      "content": "나도 이거 궁금했음",
+      "content": "S급이면 경호/현장출입 때문에 일반헌터보다 복잡하긴 할거같음",
       "deleted": false
     },
     {
-      "id": "c-2031-000021-v8-004",
+      "id": "c-2031-000021-b1-003",
+      "parentId": "c-2031-000021-b1-001",
+      "timestamp": "2031-08-20T12:22:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "개인여행이랑 공략참여는 절차 다를듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000021-b1-005",
       "parentId": null,
-      "timestamp": "2031-08-20T12:06:23+09:00",
+      "timestamp": "2031-08-20T12:39:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "211.246"
       },
-      "content": "이거 초보때 은근 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000021-v8-005",
-      "parentId": null,
-      "timestamp": "2031-08-20T12:08:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000021-v8-006",
-      "parentId": "c-2031-000021-v8-005",
-      "timestamp": "2031-08-20T12:10:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000021-v8-007",
-      "parentId": "c-2031-000021-v8-001",
-      "timestamp": "2031-08-20T12:12:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000021-v8-008",
-      "parentId": null,
-      "timestamp": "2031-08-20T12:13:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000021-v8-009",
-      "parentId": "c-2031-000021-v8-005",
-      "timestamp": "2031-08-20T12:15:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000021-v8-010",
-      "parentId": null,
-      "timestamp": "2031-08-20T12:19:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000021-v8-011",
-      "parentId": "c-2031-000021-v8-006",
-      "timestamp": "2031-08-20T12:22:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000021-v8-012",
-      "parentId": null,
-      "timestamp": "2031-08-20T12:26:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "이건 처음듣네",
+      "content": "공식출장이면 당연히 정부끼리 얘기 들어가겠지",
       "deleted": false
     }
   ],

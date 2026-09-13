@@ -33,183 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000038-v8-001",
+      "id": "c-2037-000038-b1-001",
       "parentId": null,
-      "timestamp": "2037-03-11T04:15:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "촬영팀 붙으면 동선도 달라질수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-002",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:18:07+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "영상이 거짓말이라기보다 목적이 다른거",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-003",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:20:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "대기/확인/철수판단이 편집에서 많이 잘림",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-004",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:23:57+09:00",
+      "timestamp": "2037-03-11T04:21:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "14.32"
       },
-      "content": "편집본만 보면 15분컷 같음ㅋㅋ",
+      "content": "마석카메라 도입범위가 어디까지인지 원문 확인해야됨",
       "deleted": false
     },
     {
-      "id": "c-2037-000038-v8-005",
-      "parentId": "c-2037-000038-v8-003",
-      "timestamp": "2037-03-11T04:25:17+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "원본콜 있으면 공부는 훨씬 잘됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-006",
-      "parentId": "c-2037-000038-v8-003",
-      "timestamp": "2037-03-11T04:29:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "대기시간 잘리니까 쉬워보이는거",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-007",
+      "id": "c-2037-000038-b1-002",
       "parentId": null,
-      "timestamp": "2037-03-11T04:32:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-008",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:35:38+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-009",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:39:21+09:00",
+      "timestamp": "2037-03-11T04:33:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.235"
       },
-      "content": "이건 처음듣네",
+      "content": "공식 브리핑에서 확정한건 촬영확대 쪽이고 세부 운영은 더 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2037-000038-v8-010",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:43:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "원본콜 있는 영상이 공부할땐 낫더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-011",
-      "parentId": "c-2037-000038-v8-006",
-      "timestamp": "2037-03-11T04:45:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "편집본은 잘린시간 감안하고 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-012",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:48:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-013",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:50:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-014",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:52:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000038-v8-015",
-      "parentId": null,
-      "timestamp": "2037-03-11T04:55:09+09:00",
+      "id": "c-2037-000038-b1-003",
+      "parentId": "c-2037-000038-b1-001",
+      "timestamp": "2037-03-11T04:43:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "14.32"
       },
-      "content": "나도 비슷했음",
+      "content": "제목만 보고 모든 게이트 생중계된다고 이해하면 안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000038-b1-004",
+      "parentId": "c-2037-000038-b1-001",
+      "timestamp": "2037-03-11T04:47:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "기사마다 '실시간 송출'이랑 '기록영상 공개'를 섞어서 씀",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000038-b1-005",
+      "parentId": null,
+      "timestamp": "2037-03-11T04:55:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "{{con:stop}}",
       "deleted": false
     }
   ],

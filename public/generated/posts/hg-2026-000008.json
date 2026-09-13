@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000008-v8-001",
+      "id": "c-2026-000008-b1-001",
       "parentId": null,
-      "timestamp": "2026-01-13T22:48:26+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "신고해본사람 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000008-v8-002",
-      "parentId": null,
-      "timestamp": "2026-01-13T22:51:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "명의 빌려주는건 괜히 엮이지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000008-v8-003",
-      "parentId": null,
-      "timestamp": "2026-01-13T22:53:24+09:00",
+      "timestamp": "2026-01-13T22:51:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "58.29"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "이건 공지 원문 한번 봐야겠네",
       "deleted": false
     },
     {
-      "id": "c-2026-000008-v8-004",
+      "id": "c-2026-000008-b1-002",
       "parentId": null,
-      "timestamp": "2026-01-13T22:55:41+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "규정이랑 관행은 또 다를수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000008-v8-005",
-      "parentId": "c-2026-000008-v8-002",
-      "timestamp": "2026-01-13T22:59:41+09:00",
+      "timestamp": "2026-01-13T22:56:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "61.79"
       },
-      "content": "최신 공지 한번 봐야겠네",
+      "content": "신상 관련이면 애매할때 안올리는게 낫지",
+      "deleted": false
+    },
+    {
+      "id": "c-2026-000008-b1-003",
+      "parentId": "c-2026-000008-b1-002",
+      "timestamp": "2026-01-13T23:00:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "그건 맞는데 전부는 아닌듯",
       "deleted": false
     }
   ],

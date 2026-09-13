@@ -33,51 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000122-v8-001",
+      "id": "c-2042-000122-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-02T07:01:21+09:00",
+      "timestamp": "2042-08-02T07:00:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "112.171"
       },
-      "content": "후송/치료 범위도 봐야됨",
+      "content": "짐꾼이면 현장등급 제한/후송/치료 범위부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2042-000122-v8-002",
+      "id": "c-2042-000122-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-02T07:05:20+09:00",
+      "timestamp": "2042-08-02T07:02:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "106.250"
       },
-      "content": "두개가 같은 보장이라고 생각하면 안됨",
+      "content": "일당 조금 높아도 보험 애매한팀은 난 안감",
       "deleted": false
     },
     {
-      "id": "c-2042-000122-v8-003",
-      "parentId": "c-2042-000122-v8-001",
-      "timestamp": "2042-08-02T07:06:41+09:00",
+      "id": "c-2042-000122-b2m-003",
+      "parentId": "c-2042-000122-b2m-001",
+      "timestamp": "2042-08-02T07:06:46+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
       },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000122-v8-004",
-      "parentId": null,
-      "timestamp": "2042-08-02T07:08:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "content": "F급이어도 B급 현장 갈수 있으면 보장등급 꼭 봐",
       "deleted": false
     }
   ],

@@ -33,195 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000031-v8-001",
+      "id": "c-2032-000031-b1-001",
       "parentId": null,
-      "timestamp": "2032-07-07T13:00:25+09:00",
+      "timestamp": "2032-07-07T13:04:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "211.197"
       },
-      "content": "이건 나도 모르겠네",
+      "content": "교육/연구 때문에 선호 높은건 맞는데 무조건은 아니지",
       "deleted": false
     },
     {
-      "id": "c-2032-000031-v8-002",
+      "id": "c-2032-000031-b1-002",
       "parentId": null,
-      "timestamp": "2032-07-07T13:03:16+09:00",
+      "timestamp": "2032-07-07T13:14:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "211.197"
       },
-      "content": "첫번엔 나도 잘못알았음",
+      "content": "전투스타일이랑 계약조건 맞아야됨",
       "deleted": false
     },
     {
-      "id": "c-2032-000031-v8-003",
+      "id": "c-2032-000031-b1-003",
       "parentId": null,
-      "timestamp": "2032-07-07T13:06:27+09:00",
+      "timestamp": "2032-07-07T13:21:48+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
       },
-      "content": "해본사람 있냐",
+      "content": "백호 장비지원이나 한성 공략경력 노리는 사람도 있고",
       "deleted": false
     },
     {
-      "id": "c-2032-000031-v8-004",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:09:57+09:00",
+      "id": "c-2032-000031-b1-004",
+      "parentId": "c-2032-000031-b1-001",
+      "timestamp": "2032-07-07T13:32:11+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
       },
-      "content": "이런건 물어봐도 됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-005",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:11:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "최신 후기 찾기가 더힘듦",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-006",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:13:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-007",
-      "parentId": "c-2032-000031-v8-003",
-      "timestamp": "2032-07-07T13:17:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-008",
-      "parentId": "c-2032-000031-v8-004",
-      "timestamp": "2032-07-07T13:20:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-009",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:21:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "대댓글만 따로 글파도 되겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-010",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:24:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "비슷하게 해본놈 더없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-011",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:26:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-012",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:28:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-013",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:32:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 나도 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-014",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:33:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-015",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:35:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000031-v8-016",
-      "parentId": null,
-      "timestamp": "2032-07-07T13:38:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "근거는?",
+      "content": "마법계라도 방송/연구 싫어하면 선택 달라짐",
       "deleted": false
     }
   ],

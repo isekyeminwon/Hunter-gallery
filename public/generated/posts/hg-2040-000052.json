@@ -33,51 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000052-v8-001",
+      "id": "c-2040-000052-b2m-001",
       "parentId": null,
-      "timestamp": "2040-12-18T17:15:43+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
-      },
-      "content": "공략권은 누가 들어가서 공략할 권리냐는거",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000052-v8-002",
-      "parentId": null,
-      "timestamp": "2040-12-18T17:17:39+09:00",
+      "timestamp": "2040-12-18T17:16:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "211.235"
       },
-      "content": "권리 가진팀 아니면 그냥 들어가는 구조가 아님",
+      "content": "공략권은 누가 들어가서 공략할 권리냐는거고 마석값이랑 별개임",
       "deleted": false
     },
     {
-      "id": "c-2040-000052-v8-003",
+      "id": "c-2040-000052-b2m-002",
       "parentId": null,
-      "timestamp": "2040-12-18T17:21:38+09:00",
+      "timestamp": "2040-12-18T17:18:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "223.62"
       },
-      "content": "인건비 장비 보험 빼면 계산 달라짐",
+      "content": "인건비/장비/보험/운송 빼고 남는걸 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2040-000052-v8-004",
-      "parentId": "c-2040-000052-v8-001",
-      "timestamp": "2040-12-18T17:24:55+09:00",
+      "id": "c-2040-000052-b2m-003",
+      "parentId": null,
+      "timestamp": "2040-12-18T17:22:31+09:00",
       "author": {
-        "type": "fixed",
-        "name": "마석눈팅",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
       },
-      "content": "싸게샀다고 무조건 이득 아님",
+      "content": "공략권 가진 팀이라고 현장규정까지 마음대로는 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000052-b2m-004",
+      "parentId": null,
+      "timestamp": "2040-12-18T17:24:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "낙찰가 싸다고 무조건 꿀게이트는 아님",
       "deleted": false
     }
   ],

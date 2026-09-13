@@ -33,159 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000012-v8-001",
+      "id": "c-2033-000012-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-14T10:28:02+09:00",
+      "timestamp": "2033-09-14T10:32:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.102"
       },
-      "content": "뭔데",
+      "content": "이시율 영상은 사람 체급으로 안보이는데ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000012-v8-002",
+      "id": "c-2033-000012-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-14T10:31:58+09:00",
+      "timestamp": "2033-09-14T10:38:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "211.202"
       },
-      "content": "자라",
+      "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
       "deleted": false
     },
     {
-      "id": "c-2033-000012-v8-003",
+      "id": "c-2033-000012-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-14T10:34:49+09:00",
+      "timestamp": "2033-09-14T10:43:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "175.214"
       },
-      "content": "개웃기네",
+      "content": "S 위에 등급 새로 만든다는게 제일 미친부분임",
       "deleted": false
     },
     {
-      "id": "c-2033-000012-v8-004",
-      "parentId": "c-2033-000012-v8-002",
-      "timestamp": "2033-09-14T10:38:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000012-v8-005",
+      "id": "c-2033-000012-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-14T10:39:42+09:00",
+      "timestamp": "2033-09-14T10:54:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "211.202"
       },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000012-v8-006",
-      "parentId": null,
-      "timestamp": "2033-09-14T10:41:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000012-v8-007",
-      "parentId": null,
-      "timestamp": "2033-09-14T10:43:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000012-v8-008",
-      "parentId": null,
-      "timestamp": "2033-09-14T10:45:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000012-v8-009",
-      "parentId": null,
-      "timestamp": "2033-09-14T10:48:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000012-v8-010",
-      "parentId": null,
-      "timestamp": "2033-09-14T10:52:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "댓글보다가 원글 다시읽음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000012-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-14T10:55:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000012-v8-012",
-      "parentId": "c-2033-000012-v8-005",
-      "timestamp": "2033-09-14T10:59:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000012-v8-013",
-      "parentId": null,
-      "timestamp": "2033-09-14T11:02:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "이건 처음듣네",
+      "content": "한성 지원서버 터질만하다",
       "deleted": false
     }
   ],

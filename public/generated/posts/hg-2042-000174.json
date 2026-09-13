@@ -33,147 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000174-v8-001",
+      "id": "c-2042-000174-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-17T06:35:36+09:00",
+      "timestamp": "2042-09-17T06:34:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "223.33"
       },
-      "content": "이거 며칠뒤 또 싸운다",
+      "content": "스텔라 실적을 방송이미지만 보고 깎는건 좀",
       "deleted": false
     },
     {
-      "id": "c-2042-000174-v8-002",
+      "id": "c-2042-000174-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T06:37:00+09:00",
+      "timestamp": "2042-09-17T06:37:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "223.33"
       },
-      "content": "상성충 나오면 이제 밤샘",
+      "content": "전투평가랑 팬덤크기 섞어말하면 답없음",
       "deleted": false
     },
     {
-      "id": "c-2042-000174-v8-003",
+      "id": "c-2042-000174-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-17T06:38:56+09:00",
+      "timestamp": "2042-09-17T06:41:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "124.53"
       },
-      "content": "A도 존나 상위권인데 감각 망가짐",
+      "content": "영상조회수로 길드서열 재는건 웃김ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2042-000174-v8-004",
+      "id": "c-2042-000174-b2m-004",
       "parentId": null,
-      "timestamp": "2042-09-17T06:42:30+09:00",
+      "timestamp": "2042-09-17T06:43:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "223.33"
       },
-      "content": "표 하나 뜨면 바로 줄세움",
+      "content": "그 장면 편집 잘뽑히긴했음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2042-000174-v8-005",
-      "parentId": "c-2042-000174-v8-002",
-      "timestamp": "2042-09-17T06:46:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000174-v8-006",
-      "parentId": "c-2042-000174-v8-002",
-      "timestamp": "2042-09-17T06:48:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000174-v8-007",
-      "parentId": "c-2042-000174-v8-002",
-      "timestamp": "2042-09-17T06:51:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000174-v8-008",
-      "parentId": "c-2042-000174-v8-002",
-      "timestamp": "2042-09-17T06:53:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000174-v8-009",
-      "parentId": "c-2042-000174-v8-007",
-      "timestamp": "2042-09-17T06:57:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000174-v8-010",
-      "parentId": "c-2042-000174-v8-008",
-      "timestamp": "2042-09-17T06:59:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000174-v8-011",
+      "id": "c-2042-000174-b2m-005",
       "parentId": null,
-      "timestamp": "2042-09-17T07:00:36+09:00",
+      "timestamp": "2042-09-17T06:45:00+09:00",
       "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
       },
-      "content": "스텔라 지금 바로 몇위 박는건 좀 웃김",
+      "content": "{{con:heehee}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000174-v8-012",
+      "id": "c-2042-000174-b2m-006",
       "parentId": null,
-      "timestamp": "2042-09-17T07:02:25+09:00",
+      "timestamp": "2042-09-17T06:47:02+09:00",
       "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
       },
-      "content": "비공식인데 표 퀄만 너무좋음",
+      "content": "풀버전도 봐야 실제시간 감오지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000174-b2m-007",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:49:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "짤 벌써 돌더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000174-b2m-008",
+      "parentId": null,
+      "timestamp": "2042-09-17T06:53:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "별하나팬들 여기 다왔네ㅋㅋ",
       "deleted": false
     }
   ],

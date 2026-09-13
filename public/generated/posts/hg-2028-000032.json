@@ -33,87 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000032-v8-001",
+      "id": "c-2028-000032-b1-001",
       "parentId": null,
-      "timestamp": "2028-12-16T17:59:51+09:00",
+      "timestamp": "2028-12-16T18:01:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "39.7"
       },
-      "content": "신고해본사람 있음?",
+      "content": "개인간 직거래라고 다 불법은 아니고 허가/신고 기준 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2028-000032-v8-002",
+      "id": "c-2028-000032-b1-002",
       "parentId": null,
-      "timestamp": "2028-12-16T18:03:04+09:00",
+      "timestamp": "2028-12-16T18:07:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "39.7"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "시세보다 싸다고 덥석사면 같이 엮임",
       "deleted": false
     },
     {
-      "id": "c-2028-000032-v8-003",
-      "parentId": "c-2028-000032-v8-002",
-      "timestamp": "2028-12-16T18:05:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000032-v8-004",
+      "id": "c-2028-000032-b1-003",
       "parentId": null,
-      "timestamp": "2028-12-16T18:07:57+09:00",
+      "timestamp": "2028-12-16T18:12:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "39.7"
       },
-      "content": "이건 최신 공지 봐야됨",
+      "content": "거래글 캡처만 하고 직접 만나진마",
       "deleted": false
     },
     {
-      "id": "c-2028-000032-v8-005",
-      "parentId": "c-2028-000032-v8-003",
-      "timestamp": "2028-12-16T18:09:27+09:00",
+      "id": "c-2028-000032-b1-004",
+      "parentId": "c-2028-000032-b1-003",
+      "timestamp": "2028-12-16T18:22:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "121.140"
       },
-      "content": "규정 바뀐거 없는지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000032-v8-006",
-      "parentId": "c-2028-000032-v8-004",
-      "timestamp": "2028-12-16T18:12:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "최신 공지 한번 봐야겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2028-000032-v8-007",
-      "parentId": "c-2028-000032-v8-002",
-      "timestamp": "2028-12-16T18:15:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "실제 신고사례 있음?",
+      "content": "출처없는 마석 대량거래면 나도 신고할듯",
       "deleted": false
     }
   ],

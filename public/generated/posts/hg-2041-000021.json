@@ -33,423 +33,123 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000021-v8-001",
+      "id": "c-2041-000021-b2m-001",
       "parentId": null,
-      "timestamp": "2041-07-04T14:50:56+09:00",
+      "timestamp": "2041-07-04T14:51:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "211.234"
       },
-      "content": "한성 붙여주면 간다는놈 백퍼 나옴",
+      "content": "스텔라 실적을 방송이미지만 보고 깎는건 좀",
       "deleted": false
     },
     {
-      "id": "c-2041-000021-v8-002",
+      "id": "c-2041-000021-b2m-002",
       "parentId": null,
-      "timestamp": "2041-07-04T14:52:49+09:00",
+      "timestamp": "2041-07-04T14:53:24+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "헌터활동이랑 콘텐츠 붙는거 싫으면 안맞음",
+      "content": "전투평가랑 팬덤크기 섞어말하면 답없음",
       "deleted": false
     },
     {
-      "id": "c-2041-000021-v8-003",
-      "parentId": "c-2041-000021-v8-001",
-      "timestamp": "2041-07-04T14:55:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-004",
-      "parentId": "c-2041-000021-v8-003",
-      "timestamp": "2041-07-04T14:58:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-005",
-      "parentId": "c-2041-000021-v8-002",
-      "timestamp": "2041-07-04T15:01:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-006",
+      "id": "c-2041-000021-b2m-003",
       "parentId": null,
-      "timestamp": "2041-07-04T15:04:14+09:00",
+      "timestamp": "2041-07-04T14:56:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "1.239"
       },
-      "content": "셋다 붙으면 그때 고민한다ㅋㅋ",
+      "content": "영상조회수로 길드서열 재는건 웃김ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000021-v8-007",
+      "id": "c-2041-000021-b2m-004",
       "parentId": null,
-      "timestamp": "2041-07-04T15:07:36+09:00",
+      "timestamp": "2041-07-04T14:59:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "112.171"
       },
-      "content": "마법쪽이면 네뷸라 생각날수밖에",
+      "content": "{{con:kwah}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000021-v8-008",
+      "id": "c-2041-000021-b2m-005",
       "parentId": null,
-      "timestamp": "2041-07-04T15:08:57+09:00",
+      "timestamp": "2041-07-04T15:03:08+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "이건 인정",
+      "content": "짤 벌써 돌더라",
       "deleted": false
     },
     {
-      "id": "c-2041-000021-v8-009",
-      "parentId": "c-2041-000021-v8-007",
-      "timestamp": "2041-07-04T15:11:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-010",
+      "id": "c-2041-000021-b2m-006",
       "parentId": null,
-      "timestamp": "2041-07-04T15:14:09+09:00",
+      "timestamp": "2041-07-04T15:05:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "1.239"
       },
-      "content": "백호는 장비지원 이미지가 확실하긴함",
+      "content": "{{con:real}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000021-v8-011",
-      "parentId": "c-2041-000021-v8-009",
-      "timestamp": "2041-07-04T15:15:36+09:00",
+      "id": "c-2041-000021-b2m-007",
+      "parentId": "c-2041-000021-b2m-002",
+      "timestamp": "2041-07-04T15:09:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "112.171"
       },
-      "content": "마법계면 네뷸라가 끌릴만함",
+      "content": "별하나팬들 여기 다왔네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000021-v8-012",
+      "id": "c-2041-000021-b2m-008",
       "parentId": null,
-      "timestamp": "2041-07-04T15:17:24+09:00",
+      "timestamp": "2041-07-04T15:11:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "124.53"
       },
-      "content": "원글 내용 까먹고 다시봄",
+      "content": "그 장면 편집 잘뽑히긴했음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2041-000021-v8-013",
-      "parentId": "c-2041-000021-v8-006",
-      "timestamp": "2041-07-04T15:20:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-014",
-      "parentId": "c-2041-000021-v8-012",
-      "timestamp": "2041-07-04T15:22:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-015",
-      "parentId": "c-2041-000021-v8-013",
-      "timestamp": "2041-07-04T15:24:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-016",
-      "parentId": "c-2041-000021-v8-015",
-      "timestamp": "2041-07-04T15:26:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-017",
+      "id": "c-2041-000021-b2m-009",
       "parentId": null,
-      "timestamp": "2041-07-04T15:29:21+09:00",
+      "timestamp": "2041-07-04T15:13:49+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "취업이면 복지/교육도 봐야지",
+      "content": "풀버전도 봐야 실제시간 감오지",
       "deleted": false
     },
     {
-      "id": "c-2041-000021-v8-018",
+      "id": "c-2041-000021-b2m-010",
       "parentId": null,
-      "timestamp": "2041-07-04T15:30:43+09:00",
+      "timestamp": "2041-07-04T15:15:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "59.10"
       },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-019",
-      "parentId": "c-2041-000021-v8-015",
-      "timestamp": "2041-07-04T15:32:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-020",
-      "parentId": null,
-      "timestamp": "2041-07-04T15:34:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-021",
-      "parentId": "c-2041-000021-v8-015",
-      "timestamp": "2041-07-04T15:36:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-022",
-      "parentId": null,
-      "timestamp": "2041-07-04T15:39:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-023",
-      "parentId": null,
-      "timestamp": "2041-07-04T15:42:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "마법계면 네뷸라 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-024",
-      "parentId": "c-2041-000021-v8-019",
-      "timestamp": "2041-07-04T15:45:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-025",
-      "parentId": "c-2041-000021-v8-020",
-      "timestamp": "2041-07-04T15:48:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-026",
-      "parentId": "c-2041-000021-v8-025",
-      "timestamp": "2041-07-04T15:49:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-027",
-      "parentId": null,
-      "timestamp": "2041-07-04T15:52:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "장비/복지는 백호 얘기 제일 많이 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-028",
-      "parentId": null,
-      "timestamp": "2041-07-04T15:55:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-029",
-      "parentId": null,
-      "timestamp": "2041-07-04T15:56:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "스텔라 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-030",
-      "parentId": null,
-      "timestamp": "2041-07-04T16:00:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-031",
-      "parentId": "c-2041-000021-v8-027",
-      "timestamp": "2041-07-04T16:02:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-032",
-      "parentId": "c-2041-000021-v8-025",
-      "timestamp": "2041-07-04T16:06:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-033",
-      "parentId": null,
-      "timestamp": "2041-07-04T16:07:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "비슷하게 해본놈 더없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-034",
-      "parentId": "c-2041-000021-v8-030",
-      "timestamp": "2041-07-04T16:09:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000021-v8-035",
-      "parentId": null,
-      "timestamp": "2041-07-04T16:12:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "또 싸운다ㅋㅋ",
       "deleted": false
     }
   ],

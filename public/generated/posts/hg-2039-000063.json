@@ -33,315 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000063-v8-001",
+      "id": "c-2039-000063-b2m-001",
       "parentId": null,
-      "timestamp": "2039-05-23T17:42:37+09:00",
+      "timestamp": "2039-05-23T17:41:56+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
       },
-      "content": "협회차량 많이 들어갔네",
+      "content": "통제선 넓어진건 확인된거같은데 원인확정이랑은 별개임",
       "deleted": false
     },
     {
-      "id": "c-2039-000063-v8-002",
+      "id": "c-2039-000063-b2m-002",
       "parentId": null,
-      "timestamp": "2039-05-23T17:44:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "현장 구경간다고 차끌고 가는놈 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-003",
-      "parentId": "c-2039-000063-v8-002",
-      "timestamp": "2039-05-23T17:46:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "현장사진 찍으러 갈건 아니고",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-004",
-      "parentId": "c-2039-000063-v8-001",
-      "timestamp": "2039-05-23T17:48:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "근처면 그냥 피하는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-005",
-      "parentId": null,
-      "timestamp": "2039-05-23T17:51:24+09:00",
+      "timestamp": "2039-05-23T17:44:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.62"
       },
-      "content": "오전안에 풀리면 다행이고",
+      "content": "현장사진 찍으러 가까이 갈 필요는 없음",
       "deleted": false
     },
     {
-      "id": "c-2039-000063-v8-006",
-      "parentId": "c-2039-000063-v8-001",
-      "timestamp": "2039-05-23T17:55:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "차끌고 구경갈 생각은 접자",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-007",
+      "id": "c-2039-000063-b2m-003",
       "parentId": null,
-      "timestamp": "2039-05-23T17:57:40+09:00",
+      "timestamp": "2039-05-23T17:47:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "14.32"
       },
-      "content": "기사엔 통제중이라고만 나옴",
+      "content": "근처면 우회공지부터 보는게 맞음",
       "deleted": false
     },
     {
-      "id": "c-2039-000063-v8-008",
-      "parentId": "c-2039-000063-v8-004",
-      "timestamp": "2039-05-23T18:01:18+09:00",
+      "id": "c-2039-000063-b2m-004",
+      "parentId": "c-2039-000063-b2m-001",
+      "timestamp": "2039-05-23T17:50:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "14.32"
       },
-      "content": "안내방송부터 듣는게 낫지",
+      "content": "구조/수습동선 확보 때문에 통제 넓히는 경우도 있음",
       "deleted": false
     },
     {
-      "id": "c-2039-000063-v8-009",
+      "id": "c-2039-000063-b2m-005",
       "parentId": null,
-      "timestamp": "2039-05-23T18:03:59+09:00",
+      "timestamp": "2039-05-23T17:53:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-010",
-      "parentId": null,
-      "timestamp": "2039-05-23T18:07:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "121.140"
       },
       "content": "{{con:dororong}}",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-011",
-      "parentId": "c-2039-000063-v8-006",
-      "timestamp": "2039-05-23T18:11:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "통제 풀리는 시간 나왔음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-012",
-      "parentId": "c-2039-000063-v8-006",
-      "timestamp": "2039-05-23T18:14:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "근처면 그냥 피하는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-013",
-      "parentId": "c-2039-000063-v8-007",
-      "timestamp": "2039-05-23T18:18:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "근처면 그냥 피하는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-014",
-      "parentId": null,
-      "timestamp": "2039-05-23T18:19:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "원글 세줄인데 밑이 더김",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-015",
-      "parentId": "c-2039-000063-v8-008",
-      "timestamp": "2039-05-23T18:22:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "현장사진 찍으러 갈건 아니고",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-016",
-      "parentId": "c-2039-000063-v8-014",
-      "timestamp": "2039-05-23T18:25:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "근처면 그냥 피하는게 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-017",
-      "parentId": null,
-      "timestamp": "2039-05-23T18:28:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-018",
-      "parentId": null,
-      "timestamp": "2039-05-23T18:31:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-019",
-      "parentId": "c-2039-000063-v8-016",
-      "timestamp": "2039-05-23T18:33:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "안내방송부터 듣는게 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-020",
-      "parentId": "c-2039-000063-v8-016",
-      "timestamp": "2039-05-23T18:36:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "차끌고 구경갈 생각은 접자",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-021",
-      "parentId": null,
-      "timestamp": "2039-05-23T18:40:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-022",
-      "parentId": "c-2039-000063-v8-015",
-      "timestamp": "2039-05-23T18:42:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "차끌고 구경갈 생각은 접자",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-023",
-      "parentId": "c-2039-000063-v8-022",
-      "timestamp": "2039-05-23T18:46:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "통제 풀리는 시간 나왔음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-024",
-      "parentId": null,
-      "timestamp": "2039-05-23T18:49:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-025",
-      "parentId": null,
-      "timestamp": "2039-05-23T18:52:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000063-v8-026",
-      "parentId": null,
-      "timestamp": "2039-05-23T18:54:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "난 아닌듯",
       "deleted": false
     }
   ],

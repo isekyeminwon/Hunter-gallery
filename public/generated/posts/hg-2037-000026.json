@@ -33,75 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000026-v8-001",
+      "id": "c-2037-000026-b1-001",
       "parentId": null,
-      "timestamp": "2037-01-09T12:53:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "예비배터리도 실제로 켜봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000026-v8-002",
-      "parentId": null,
-      "timestamp": "2037-01-09T12:55:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "버클/스트랩부터 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000026-v8-003",
-      "parentId": null,
-      "timestamp": "2037-01-09T12:58:20+09:00",
+      "timestamp": "2037-01-09T12:55:39+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "렌탈은 인수할때 흠집 사진 찍어둬",
+      "content": "반납할때 기억싸움 하기싫으면 사진 필수",
       "deleted": false
     },
     {
-      "id": "c-2037-000026-v8-004",
+      "id": "c-2037-000026-b1-002",
       "parentId": null,
-      "timestamp": "2037-01-09T13:01:08+09:00",
+      "timestamp": "2037-01-09T13:03:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "1.239"
       },
-      "content": "반납때 싸우기싫으면 상태 기록해둬",
+      "content": "스트랩 풀리는지 인수할때 확인해",
       "deleted": false
     },
     {
-      "id": "c-2037-000026-v8-005",
-      "parentId": "c-2037-000026-v8-004",
-      "timestamp": "2037-01-09T13:04:57+09:00",
+      "id": "c-2037-000026-b1-003",
+      "parentId": null,
+      "timestamp": "2037-01-09T13:08:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "새거 처음 신고 현장가면 몸이 먼저 고생함",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000026-b1-004",
+      "parentId": null,
+      "timestamp": "2037-01-09T13:13:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "{{con:real}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000026-b1-005",
+      "parentId": null,
+      "timestamp": "2037-01-09T13:23:09+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "반납할때 사진있으면 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000026-v8-006",
-      "parentId": null,
-      "timestamp": "2037-01-09T13:07:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "버클이랑 고정끈 은근 자주나감",
+      "content": "예비라고 가방에만 넣지말고 한번 켜라",
       "deleted": false
     }
   ],

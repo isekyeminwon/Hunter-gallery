@@ -33,231 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2025-000013-v8-001",
+      "id": "c-2025-000013-b1-001",
       "parentId": null,
-      "timestamp": "2025-06-22T17:53:16+09:00",
+      "timestamp": "2025-06-22T17:56:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "106.245"
       },
-      "content": "김채연/강주아보다 위냐면 난 모르겠음",
+      "content": "기사마다 말 다르면 공통으로 겹치는 부분부터 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2025-000013-v8-002",
+      "id": "c-2025-000013-b1-002",
       "parentId": null,
-      "timestamp": "2025-06-22T17:55:54+09:00",
+      "timestamp": "2025-06-22T18:06:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "223.39"
       },
-      "content": "첫 S 짬을 너무 우습게 보는거 아님?",
+      "content": "인터뷰 말수 적은건 의외다",
       "deleted": false
     },
     {
-      "id": "c-2025-000013-v8-003",
+      "id": "c-2025-000013-b1-003",
       "parentId": null,
-      "timestamp": "2025-06-22T17:59:37+09:00",
+      "timestamp": "2025-06-22T18:16:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "223.39"
       },
-      "content": "최근영상 없다고 약해졌다는 근거도 없지",
+      "content": "A랑 비교하던 글들 다 조용해졌네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2025-000013-v8-004",
+      "id": "c-2025-000013-b1-004",
       "parentId": null,
-      "timestamp": "2025-06-22T18:03:00+09:00",
+      "timestamp": "2025-06-22T18:23:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "220.79"
       },
-      "content": "옛날 영상 들고오는 틀헌터 곧옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-005",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:06:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-006",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:09:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-007",
-      "parentId": "c-2025-000013-v8-003",
-      "timestamp": "2025-06-22T18:13:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "첫 S 짬을 무시하긴 어렵고",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-008",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:16:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-009",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:18:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-010",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:21:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-011",
-      "parentId": "c-2025-000013-v8-004",
-      "timestamp": "2025-06-22T18:23:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "결국 아무도 모름ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-012",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:26:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-013",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:28:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-014",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:30:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-015",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:33:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-016",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:35:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-017",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:37:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-018",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:40:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "원글보다 대댓글이 길어졌네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2025-000013-v8-019",
-      "parentId": null,
-      "timestamp": "2025-06-22T18:43:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "이건 인정",
+      "content": "첫 S라는 말부터 체감이 안됨",
       "deleted": false
     }
   ],

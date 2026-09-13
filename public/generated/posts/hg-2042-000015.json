@@ -33,63 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000015-v8-001",
+      "id": "c-2042-000015-b2m-001",
       "parentId": null,
-      "timestamp": "2042-02-15T18:19:20+09:00",
+      "timestamp": "2042-02-15T18:17:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "118.235"
       },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
+      "content": "진단서/사고기록/입장기록부터 챙겨",
       "deleted": false
     },
     {
-      "id": "c-2042-000015-v8-002",
+      "id": "c-2042-000015-b2m-002",
       "parentId": null,
-      "timestamp": "2042-02-15T18:21:31+09:00",
+      "timestamp": "2042-02-15T18:21:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "118.235"
       },
-      "content": "후송/치료 범위도 봐야됨",
+      "content": "보험사마다 요구서류 달라서 콜센터 한번 확인하는게 빠름",
       "deleted": false
     },
     {
-      "id": "c-2042-000015-v8-003",
-      "parentId": "c-2042-000015-v8-001",
-      "timestamp": "2042-02-15T18:25:01+09:00",
+      "id": "c-2042-000015-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-02-15T18:23:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "124.53"
       },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "content": "사진만 들고가면 끝나는건 아니더라",
       "deleted": false
     },
     {
-      "id": "c-2042-000015-v8-004",
+      "id": "c-2042-000015-b2m-004",
       "parentId": null,
-      "timestamp": "2042-02-15T18:26:43+09:00",
+      "timestamp": "2042-02-15T18:25:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "59.10"
       },
-      "content": "보험사 간판보다 약관부터 봐",
+      "content": "팀에서 작성한 현장보고 있으면 같이 요청해두는게 편함",
       "deleted": false
     },
     {
-      "id": "c-2042-000015-v8-005",
+      "id": "c-2042-000015-b2m-005",
       "parentId": null,
-      "timestamp": "2042-02-15T18:30:20+09:00",
+      "timestamp": "2042-02-15T18:26:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "118.235"
       },
-      "content": "누가 가입시키는지부터 확인",
+      "content": "이정도면 이해됨",
       "deleted": false
     }
   ],

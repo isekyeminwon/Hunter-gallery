@@ -33,39 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000054-v8-001",
+      "id": "c-2039-000054-b2m-001",
       "parentId": null,
-      "timestamp": "2039-08-03T23:43:48+09:00",
+      "timestamp": "2039-08-03T23:42:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "58.29"
       },
-      "content": "인터뷰 짧은데 댓글은 길다ㅋㅋ",
+      "content": "샤오룽 한국어 진짜 많이 늘었더라",
       "deleted": false
     },
     {
-      "id": "c-2039-000054-v8-002",
+      "id": "c-2039-000054-b2m-002",
       "parentId": null,
-      "timestamp": "2039-08-03T23:47:34+09:00",
+      "timestamp": "2039-08-03T23:43:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "210.178"
       },
-      "content": "구조영상은 아직도 재업 존나됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000054-v8-003",
-      "parentId": null,
-      "timestamp": "2039-08-03T23:49:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "한국 오래있다고 국적싸움 시작하지마라",
+      "content": "한국 체류랑 한국 소속은 다른 얘기지",
       "deleted": false
     }
   ],

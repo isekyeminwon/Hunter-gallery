@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2027-000021-v8-001",
+      "id": "c-2027-000021-b1-001",
       "parentId": null,
-      "timestamp": "2027-12-11T18:19:05+09:00",
+      "timestamp": "2027-12-11T18:25:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "211.246"
       },
-      "content": "정성추",
+      "content": "반납때 말나오기 싫으면 상태 사진 찍어둬",
       "deleted": false
     },
     {
-      "id": "c-2027-000021-v8-002",
+      "id": "c-2027-000021-b1-002",
       "parentId": null,
-      "timestamp": "2027-12-11T18:21:28+09:00",
+      "timestamp": "2027-12-11T18:31:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "1.239"
       },
-      "content": "체크리스트로 저장해둔다",
+      "content": "새장비라고 현장에서 바로 편한건 아니더라",
       "deleted": false
     },
     {
-      "id": "c-2027-000021-v8-003",
+      "id": "c-2027-000021-b1-003",
       "parentId": null,
-      "timestamp": "2027-12-11T18:25:08+09:00",
+      "timestamp": "2027-12-11T18:40:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "211.246"
       },
-      "content": "입장전에 맞춰두는게 낫지",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000021-v8-004",
-      "parentId": null,
-      "timestamp": "2027-12-11T18:28:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "우린 저부분만 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2027-000021-v8-005",
-      "parentId": null,
-      "timestamp": "2027-12-11T18:30:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "이런건 한번 당하면 안까먹음",
+      "content": "예비배터리도 실제로 켜봐야됨",
       "deleted": false
     }
   ],

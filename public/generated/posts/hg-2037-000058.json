@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000058-v8-001",
+      "id": "c-2037-000058-b1-001",
       "parentId": null,
-      "timestamp": "2037-05-25T09:38:40+09:00",
+      "timestamp": "2037-05-25T09:39:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "1.239"
       },
-      "content": "싸게 샀다고 무조건 이득은 아님",
+      "content": "지원전에 권리자/팀명 한번 대조하는게 좋음",
       "deleted": false
     },
     {
-      "id": "c-2037-000058-v8-002",
+      "id": "c-2037-000058-b1-002",
       "parentId": null,
-      "timestamp": "2037-05-25T09:41:21+09:00",
+      "timestamp": "2037-05-25T09:45:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "175.214"
       },
-      "content": "공략권이랑 마석값은 따로 봐야됨",
+      "content": "입구 가서 처음 확인하는건 너무 늦지",
       "deleted": false
     },
     {
-      "id": "c-2037-000058-v8-003",
+      "id": "c-2037-000058-b1-003",
       "parentId": null,
-      "timestamp": "2037-05-25T09:44:21+09:00",
+      "timestamp": "2037-05-25T09:54:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "118.221"
       },
-      "content": "공략권은 누가 들어가서 공략할 권리냐는거",
+      "content": "번호 안주고 그냥 믿으라는팀이면 난 안감",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000058-b1-004",
+      "parentId": null,
+      "timestamp": "2037-05-25T10:04:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.214"
+      },
+      "content": "구인글에 번호 적혀있으면 그걸로 확인 가능하게 해둔걸로 앎",
       "deleted": false
     }
   ],

@@ -33,267 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2024-000005-v8-001",
+      "id": "c-2024-000005-b1-001",
       "parentId": null,
-      "timestamp": "2024-03-18T22:04:17+09:00",
+      "timestamp": "2024-03-18T22:05:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "106.245"
       },
-      "content": "등급표 중간 비는건 아직도 어색함",
+      "content": "실전자료가 아직 너무 적음",
       "deleted": false
     },
     {
-      "id": "c-2024-000005-v8-002",
+      "id": "c-2024-000005-b1-002",
       "parentId": null,
-      "timestamp": "2024-03-18T22:06:14+09:00",
+      "timestamp": "2024-03-18T22:16:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "220.79"
       },
-      "content": "마나수치 낮다고 능력 종류까지 약한건 아니지 않나",
+      "content": "체급은 보여줘도 종류/숙련도는 별개라는 설명 봄",
       "deleted": false
     },
     {
-      "id": "c-2024-000005-v8-003",
-      "parentId": "c-2024-000005-v8-002",
-      "timestamp": "2024-03-18T22:09:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-004",
+      "id": "c-2024-000005-b1-003",
       "parentId": null,
-      "timestamp": "2024-03-18T22:11:47+09:00",
+      "timestamp": "2024-03-18T22:22:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "220.79"
       },
-      "content": "재검으로 갑자기 확 뛴다는 썰은 못믿겠음",
+      "content": "수치 낮다고 능력 활용까지 무조건 구린건 아닌듯",
       "deleted": false
     },
     {
-      "id": "c-2024-000005-v8-005",
-      "parentId": "c-2024-000005-v8-002",
-      "timestamp": "2024-03-18T22:14:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-006",
+      "id": "c-2024-000005-b1-004",
       "parentId": null,
-      "timestamp": "2024-03-18T22:16:24+09:00",
+      "timestamp": "2024-03-18T22:32:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "59.10"
       },
-      "content": "스무살 규칙은 이제 거의 굳어진 느낌",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-007",
-      "parentId": "c-2024-000005-v8-004",
-      "timestamp": "2024-03-18T22:17:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-008",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:21:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-009",
-      "parentId": "c-2024-000005-v8-007",
-      "timestamp": "2024-03-18T22:23:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-010",
-      "parentId": "c-2024-000005-v8-006",
-      "timestamp": "2024-03-18T22:25:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-011",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:27:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-012",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:29:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-013",
-      "parentId": "c-2024-000005-v8-010",
-      "timestamp": "2024-03-18T22:31:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-014",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:34:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-015",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:36:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-016",
-      "parentId": "c-2024-000005-v8-010",
-      "timestamp": "2024-03-18T22:39:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-017",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:43:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-018",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:46:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-019",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:49:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-020",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:53:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "댓글 읽다 본문 다시봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-021",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:56:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2024-000005-v8-022",
-      "parentId": null,
-      "timestamp": "2024-03-18T22:58:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "ㄹㅇ",
+      "content": "숫자 하나로 사람 다 판단하면 또 난리날듯",
       "deleted": false
     }
   ],

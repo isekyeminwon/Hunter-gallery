@@ -33,39 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000032-v8-001",
+      "id": "c-2029-000032-b1-001",
       "parentId": null,
-      "timestamp": "2029-05-11T13:51:52+09:00",
+      "timestamp": "2029-05-11T14:01:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "106.101"
       },
-      "content": "보험 있냐",
+      "content": "집결지 공개말고 지역만 적는게 낫다",
       "deleted": false
     },
     {
-      "id": "c-2029-000032-v8-002",
+      "id": "c-2029-000032-b1-002",
       "parentId": null,
-      "timestamp": "2029-05-11T13:54:21+09:00",
+      "timestamp": "2029-05-11T14:07:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "125.180"
       },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000032-v8-003",
-      "parentId": null,
-      "timestamp": "2029-05-11T13:57:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "계약주체 누구임",
+      "content": "예상시간이랑 짐무게 적어줘",
       "deleted": false
     }
   ],

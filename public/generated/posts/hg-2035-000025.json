@@ -33,171 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000025-v8-001",
+      "id": "c-2035-000025-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-12T14:25:13+09:00",
+      "timestamp": "2035-07-12T14:31:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "211.58"
       },
-      "content": "방송노출 싫은사람은 스텔라 안맞겠지",
+      "content": "결국 점수 매긴 사람 취향 들어감",
       "deleted": false
     },
     {
-      "id": "c-2035-000025-v8-002",
+      "id": "c-2035-000025-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-12T14:29:02+09:00",
+      "timestamp": "2035-07-12T14:39:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "106.102"
       },
-      "content": "연구/교육 보면 네뷸라가 매력있지",
+      "content": "기사마다 말 다르면 공통으로 겹치는 부분부터 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2035-000025-v8-003",
-      "parentId": "c-2035-000025-v8-001",
-      "timestamp": "2035-07-12T14:32:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000025-v8-004",
-      "parentId": "c-2035-000025-v8-002",
-      "timestamp": "2035-07-12T14:34:27+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000025-v8-005",
-      "parentId": "c-2035-000025-v8-002",
-      "timestamp": "2035-07-12T14:36:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000025-v8-006",
+      "id": "c-2035-000025-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-12T14:39:28+09:00",
+      "timestamp": "2035-07-12T14:44:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "211.58"
       },
-      "content": "결론은 합격시켜주는곳 감",
+      "content": "스텔라 오늘 서버 터지겠네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000025-v8-007",
+      "id": "c-2035-000025-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-12T14:42:26+09:00",
+      "timestamp": "2035-07-12T14:50:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "117.111"
       },
-      "content": "일단 셋다 붙고 고민하자ㅋㅋ",
+      "content": "S 하나 떴다고 길드서열 확정하는건 너무 빠름",
       "deleted": false
     },
     {
-      "id": "c-2035-000025-v8-008",
+      "id": "c-2035-000025-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-12T14:46:25+09:00",
+      "timestamp": "2035-07-12T15:00:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "106.102"
       },
-      "content": "또 시작이네",
+      "content": "발표 뜨자마자 줄세우는 속도 존나빠름ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000025-v8-009",
-      "parentId": "c-2035-000025-v8-007",
-      "timestamp": "2035-07-12T14:50:03+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000025-v8-010",
+      "id": "c-2035-000025-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-12T14:52:24+09:00",
+      "timestamp": "2035-07-12T15:07:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "211.58"
       },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000025-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-12T14:55:46+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000025-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-12T14:57:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000025-v8-013",
-      "parentId": null,
-      "timestamp": "2035-07-12T15:00:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000025-v8-014",
-      "parentId": null,
-      "timestamp": "2035-07-12T15:03:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "난 반대",
+      "content": "실전자료 더 쌓이고 싸워도 안늦음",
       "deleted": false
     }
   ],

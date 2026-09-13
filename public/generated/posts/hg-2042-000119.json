@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000119-v8-001",
+      "id": "c-2042-000119-b2m-001",
       "parentId": null,
-      "timestamp": "2042-07-12T16:41:54+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "정화계 없다고 무조건 못가는건 아님",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000119-v8-002",
-      "parentId": null,
-      "timestamp": "2042-07-12T16:44:34+09:00",
+      "timestamp": "2042-07-12T16:42:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "175.194"
       },
-      "content": "정화계 있으면 편한건 맞음",
+      "content": "오염정도/장비재질 따라 차이 큰데 일반세척보다 비싸게 먹힐수 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000119-v8-003",
+      "id": "c-2042-000119-b2m-002",
       "parentId": null,
-      "timestamp": "2042-07-12T16:46:57+09:00",
+      "timestamp": "2042-07-12T16:45:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "223.33"
       },
-      "content": "공략권 싸도 세척비에서 울수 있음",
+      "content": "언데드 한번 갔다왔다고 무조건 전부 전문세척은 아님",
       "deleted": false
     },
     {
-      "id": "c-2042-000119-v8-004",
+      "id": "c-2042-000119-b2m-003",
       "parentId": null,
-      "timestamp": "2042-07-12T16:48:46+09:00",
+      "timestamp": "2042-07-12T16:47:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "106.248"
       },
-      "content": "냄새 분진 싫어서 거르는팀 많음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000119-v8-005",
-      "parentId": null,
-      "timestamp": "2042-07-12T16:51:37+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "묘지형 두번 가고 손절한놈 봄",
+      "content": "보호구 폐기까지 가면 비용 체감 확커짐",
       "deleted": false
     }
   ],

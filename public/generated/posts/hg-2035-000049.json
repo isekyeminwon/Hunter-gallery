@@ -33,171 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000049-v8-001",
+      "id": "c-2035-000049-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-13T08:25:13+09:00",
+      "timestamp": "2035-07-13T08:26:15+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
       },
-      "content": "해본사람 있냐",
+      "content": "과거 공연장 사고랑 이번 측정은 따로 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2035-000049-v8-002",
+      "id": "c-2035-000049-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-13T08:29:03+09:00",
+      "timestamp": "2035-07-13T08:33:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "1.239"
       },
-      "content": "뉴비면 이거 모를수있음",
+      "content": "신상썰 물어보는거면 답없음",
       "deleted": false
     },
     {
-      "id": "c-2035-000049-v8-003",
+      "id": "c-2035-000049-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-13T08:32:48+09:00",
+      "timestamp": "2035-07-13T08:43:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "106.101"
       },
-      "content": "나도 답 기다림",
+      "content": "뭘 묻는지 본문을 좀 더 적어줘ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000049-v8-004",
-      "parentId": "c-2035-000049-v8-003",
-      "timestamp": "2035-07-13T08:35:20+09:00",
+      "id": "c-2035-000049-b1-004",
+      "parentId": null,
+      "timestamp": "2035-07-13T08:53:19+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
       },
-      "content": "나도 처음엔 헷갈렸음",
+      "content": "기사마다 말 다르면 공통으로 겹치는 부분부터 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2035-000049-v8-005",
+      "id": "c-2035-000049-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-13T08:39:12+09:00",
+      "timestamp": "2035-07-13T09:04:54+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
       },
-      "content": "찾아보면 몇년전 글만 뜸",
+      "content": "S 측정 관련이면 공식발표 범위까지만 나온상태임",
       "deleted": false
     },
     {
-      "id": "c-2035-000049-v8-006",
+      "id": "c-2035-000049-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-13T08:40:49+09:00",
+      "timestamp": "2035-07-13T09:13:31+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
       },
-      "content": "나도 처음엔 이거 몰랐음",
+      "content": "{{con:hi_star}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000049-v8-007",
+      "id": "c-2035-000049-b1-007",
       "parentId": null,
-      "timestamp": "2035-07-13T08:44:40+09:00",
+      "timestamp": "2035-07-13T09:19:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "106.245"
       },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000049-v8-008",
-      "parentId": null,
-      "timestamp": "2035-07-13T08:46:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "비슷하게 해본놈 더없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000049-v8-009",
-      "parentId": null,
-      "timestamp": "2035-07-13T08:47:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000049-v8-010",
-      "parentId": null,
-      "timestamp": "2035-07-13T08:49:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "대댓글만 따로 글파도 되겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000049-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-13T08:51:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "별하나 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000049-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-13T08:52:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000049-v8-013",
-      "parentId": null,
-      "timestamp": "2035-07-13T08:54:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000049-v8-014",
-      "parentId": null,
-      "timestamp": "2035-07-13T08:57:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "{{con:kwah}}",
       "deleted": false
     }
   ],

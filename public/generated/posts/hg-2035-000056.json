@@ -33,147 +33,111 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000056-v8-001",
+      "id": "c-2035-000056-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-16T02:17:19+09:00",
+      "timestamp": "2035-07-16T02:21:07+09:00",
       "author": {
         "type": "fixed",
         "name": "별빛단7기",
         "ip": null
       },
-      "content": "보스방 들어갈때 음악 끊는거 좋았음",
+      "content": "별하나 최강논쟁은 발표 몇시간만에 시작하냐",
       "deleted": false
     },
     {
-      "id": "c-2035-000056-v8-002",
+      "id": "c-2035-000056-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-16T02:21:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "엔딩컷 노린 티 나는데 잘나오긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000056-v8-003",
-      "parentId": null,
-      "timestamp": "2035-07-16T02:24:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "중간 이동구간 엄청 잘라냈더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000056-v8-004",
-      "parentId": null,
-      "timestamp": "2035-07-16T02:26:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "댓글보다 영상 타임스탬프 공유하는게 낫다ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000056-v8-005",
-      "parentId": "c-2035-000056-v8-003",
-      "timestamp": "2035-07-16T02:29:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "그장면 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000056-v8-006",
-      "parentId": null,
-      "timestamp": "2035-07-16T02:32:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "팬아닌데 이번건 볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000056-v8-007",
-      "parentId": null,
-      "timestamp": "2035-07-16T02:34:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "촬영팀 고생한 티 남",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000056-v8-008",
-      "parentId": null,
-      "timestamp": "2035-07-16T02:35:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "별하나 표정 짤 바로 돌겠네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000056-v8-009",
-      "parentId": null,
-      "timestamp": "2035-07-16T02:38:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이번 편집 진짜 잘뽑았네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000056-v8-010",
-      "parentId": null,
-      "timestamp": "2035-07-16T02:40:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "풀버전도 풀어줬으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000056-v8-011",
-      "parentId": "c-2035-000056-v8-007",
-      "timestamp": "2035-07-16T02:42:19+09:00",
+      "timestamp": "2035-07-16T02:28:55+09:00",
       "author": {
         "type": "fixed",
         "name": "별빛단7기",
         "ip": null
       },
-      "content": "이번 편집은 진짜 잘뽑힘",
+      "content": "{{con:Intelligence}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000056-v8-012",
+      "id": "c-2035-000056-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-16T02:45:35+09:00",
+      "timestamp": "2035-07-16T02:35:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "118.235"
       },
-      "content": "{{con:kwah}}{{con:kwah}}",
+      "content": "전체 인터뷰도 풀어줬으면 좋겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000056-b1-004",
+      "parentId": "c-2035-000056-b1-001",
+      "timestamp": "2035-07-16T02:43:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "풀버전도 보고싶음",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000056-b1-005",
+      "parentId": null,
+      "timestamp": "2035-07-16T02:52:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "재업 말고 최초영상 어디임",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000056-b1-006",
+      "parentId": null,
+      "timestamp": "2035-07-16T03:01:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "영상 원출처 아는사람",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000056-b1-007",
+      "parentId": null,
+      "timestamp": "2035-07-16T03:12:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "{{con:stop}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000056-b1-008",
+      "parentId": null,
+      "timestamp": "2035-07-16T03:21:08+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "짤로만 보니까 앞뒤가 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000056-b1-009",
+      "parentId": null,
+      "timestamp": "2035-07-16T03:27:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "자막 잘린 앞뒤 문맥도 보고싶음",
       "deleted": false
     }
   ],

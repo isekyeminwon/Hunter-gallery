@@ -33,159 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000070-v8-001",
+      "id": "c-2039-000070-b2m-001",
       "parentId": null,
-      "timestamp": "2039-02-13T13:48:49+09:00",
+      "timestamp": "2039-02-13T13:48:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "59.10"
       },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
+      "content": "짐꾼/지원인력까지 철수기준 공유해야됨",
       "deleted": false
     },
     {
-      "id": "c-2039-000070-v8-002",
+      "id": "c-2039-000070-b2m-002",
       "parentId": null,
-      "timestamp": "2039-02-13T13:51:38+09:00",
+      "timestamp": "2039-02-13T13:50:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "58.29"
       },
-      "content": "누가 가입시키는지부터 확인",
+      "content": "짧게 하더라도 비상시 집결지 하나는 정해",
       "deleted": false
     },
     {
-      "id": "c-2039-000070-v8-003",
-      "parentId": "c-2039-000070-v8-001",
-      "timestamp": "2039-02-13T13:53:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000070-v8-004",
-      "parentId": "c-2039-000070-v8-001",
-      "timestamp": "2039-02-13T13:56:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "보장범위가 제일 중요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000070-v8-005",
-      "parentId": "c-2039-000070-v8-002",
-      "timestamp": "2039-02-13T13:58:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "보험됨 한줄로 끝내면 불안함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000070-v8-006",
+      "id": "c-2039-000070-b2m-003",
       "parentId": null,
-      "timestamp": "2039-02-13T14:00:10+09:00",
+      "timestamp": "2039-02-13T13:53:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "112.171"
       },
-      "content": "개인보험만 믿고 팀조건 넘기진마",
+      "content": "게이트 구조보다 누가 무슨콜 할지가 더 중요할때 있음",
       "deleted": false
     },
     {
-      "id": "c-2039-000070-v8-007",
-      "parentId": null,
-      "timestamp": "2039-02-13T14:01:38+09:00",
+      "id": "c-2039-000070-b2m-004",
+      "parentId": "c-2039-000070-b2m-002",
+      "timestamp": "2039-02-13T13:55:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "112.171"
       },
-      "content": "현장등급 제한 먼저 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000070-v8-008",
-      "parentId": "c-2039-000070-v8-001",
-      "timestamp": "2039-02-13T14:03:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000070-v8-009",
-      "parentId": "c-2039-000070-v8-002",
-      "timestamp": "2039-02-13T14:05:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000070-v8-010",
-      "parentId": "c-2039-000070-v8-005",
-      "timestamp": "2039-02-13T14:09:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000070-v8-011",
-      "parentId": null,
-      "timestamp": "2039-02-13T14:12:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000070-v8-012",
-      "parentId": null,
-      "timestamp": "2039-02-13T14:15:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "후송/치료 범위도 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000070-v8-013",
-      "parentId": null,
-      "timestamp": "2039-02-13T14:18:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "보험됨 한줄만 믿지마",
+      "content": "역할/철수콜/통신채널/부상자대응 네개만 맞춰도 절반은 감",
       "deleted": false
     }
   ],

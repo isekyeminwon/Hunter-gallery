@@ -33,183 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000106-v8-001",
+      "id": "c-2041-000106-b2m-001",
       "parentId": null,
-      "timestamp": "2041-02-21T12:38:17+09:00",
+      "timestamp": "2041-02-21T12:38:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "211.234"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "신상추측 틀리면 엉뚱한 사람까지 피해봄",
       "deleted": false
     },
     {
-      "id": "c-2041-000106-v8-002",
+      "id": "c-2041-000106-b2m-002",
       "parentId": null,
-      "timestamp": "2041-02-21T12:41:02+09:00",
+      "timestamp": "2041-02-21T12:39:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "117.111"
       },
-      "content": "신고해본사람 있음?",
+      "content": "공개 기사정보랑 학교/가족/주소 캐는건 완전 다른 얘기임",
       "deleted": false
     },
     {
-      "id": "c-2041-000106-v8-003",
+      "id": "c-2041-000106-b2m-003",
       "parentId": null,
-      "timestamp": "2041-02-21T12:43:54+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "최신기준도 같음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-004",
-      "parentId": null,
-      "timestamp": "2041-02-21T12:47:28+09:00",
+      "timestamp": "2041-02-21T12:42:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.58"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "{{con:forwhat}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000106-v8-005",
+      "id": "c-2041-000106-b2m-004",
       "parentId": null,
-      "timestamp": "2041-02-21T12:50:31+09:00",
+      "timestamp": "2041-02-21T12:45:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "117.111"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
+      "content": "가짜영상 신고면 원본링크랑 캡처 같이 남겨두는게 편함",
       "deleted": false
     },
     {
-      "id": "c-2041-000106-v8-006",
+      "id": "c-2041-000106-b2m-005",
       "parentId": null,
-      "timestamp": "2041-02-21T12:51:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "규정이랑 관행은 또 다를수 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-007",
-      "parentId": null,
-      "timestamp": "2041-02-21T12:53:54+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-008",
-      "parentId": null,
-      "timestamp": "2041-02-21T12:55:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-009",
-      "parentId": null,
-      "timestamp": "2041-02-21T12:58:27+09:00",
+      "timestamp": "2041-02-21T12:47:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.58"
       },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-010",
-      "parentId": null,
-      "timestamp": "2041-02-21T13:01:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "이거 경험자 하나만 더 와봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-011",
-      "parentId": null,
-      "timestamp": "2041-02-21T13:04:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-012",
-      "parentId": "c-2041-000106-v8-005",
-      "timestamp": "2041-02-21T13:07:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "실제 신고사례 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-013",
-      "parentId": null,
-      "timestamp": "2041-02-21T13:08:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "이건 최신 공지 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-014",
-      "parentId": null,
-      "timestamp": "2041-02-21T13:11:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000106-v8-015",
-      "parentId": null,
-      "timestamp": "2041-02-21T13:12:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "그건 좀",
+      "content": "무단촬영은 얼굴뿐 아니라 현장위치 노출도 문제될수 있음",
       "deleted": false
     }
   ],

@@ -33,75 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000013-v8-001",
+      "id": "c-2042-000013-b2m-001",
       "parentId": null,
-      "timestamp": "2042-01-17T21:01:23+09:00",
+      "timestamp": "2042-01-17T20:59:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "61.79"
       },
-      "content": "어차피 제작자 최애가 위임ㅋㅋ",
+      "content": "광고보다 최근 실전영상이 더 궁금함",
       "deleted": false
     },
     {
-      "id": "c-2042-000013-v8-002",
+      "id": "c-2042-000013-b2m-002",
       "parentId": null,
-      "timestamp": "2042-01-17T21:05:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "사설랭킹에 그래프까지 넣었네",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000013-v8-003",
-      "parentId": "c-2042-000013-v8-001",
-      "timestamp": "2042-01-17T21:06:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000013-v8-004",
-      "parentId": "c-2042-000013-v8-002",
-      "timestamp": "2042-01-17T21:09:29+09:00",
+      "timestamp": "2042-01-17T21:03:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.250"
       },
-      "content": "상성 넣으면 또 표 갈아야됨",
+      "content": "강주아는 계약조건/장비변수까지 가면 또 갈드컵남",
       "deleted": false
     },
     {
-      "id": "c-2042-000013-v8-005",
-      "parentId": "c-2042-000013-v8-001",
-      "timestamp": "2042-01-17T21:11:46+09:00",
+      "id": "c-2042-000013-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-01-17T21:05:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "211.246"
       },
-      "content": "내최애가 1위임 반박안받음",
+      "content": "백호 장비빨 타령은 진짜 안끝나네",
       "deleted": false
     },
     {
-      "id": "c-2042-000013-v8-006",
-      "parentId": "c-2042-000013-v8-003",
-      "timestamp": "2042-01-17T21:15:31+09:00",
+      "id": "c-2042-000013-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-01-17T21:08:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "61.79"
       },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
+      "content": "김채연이랑 붙이는건 이제 그만할때 안됐냐ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000013-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-01-17T21:10:37+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "김채연이랑 또 붙이네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000013-b2m-006",
+      "parentId": null,
+      "timestamp": "2042-01-17T21:12:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "{{con:kwah}}",
       "deleted": false
     }
   ],

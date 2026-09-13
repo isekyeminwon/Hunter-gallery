@@ -33,207 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000061-v8-001",
+      "id": "c-2039-000061-b2m-001",
       "parentId": null,
-      "timestamp": "2039-12-24T08:55:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-002",
-      "parentId": null,
-      "timestamp": "2039-12-24T08:59:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "보험사 이름보다 보장범위가 먼저임",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-003",
-      "parentId": "c-2039-000061-v8-001",
-      "timestamp": "2039-12-24T09:00:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "보장범위가 제일 중요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-004",
-      "parentId": "c-2039-000061-v8-002",
-      "timestamp": "2039-12-24T09:02:18+09:00",
+      "timestamp": "2039-12-24T08:54:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.248"
       },
-      "content": "보험됨 한줄로 끝내면 불안함",
+      "content": "철수후 건조/점검까지가 끝임",
       "deleted": false
     },
     {
-      "id": "c-2039-000061-v8-005",
-      "parentId": "c-2039-000061-v8-001",
-      "timestamp": "2039-12-24T09:05:20+09:00",
+      "id": "c-2039-000061-b2m-002",
+      "parentId": null,
+      "timestamp": "2039-12-24T08:57:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "182.214"
       },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
+      "content": "장갑 여분은 비오는날 두배로 챙김",
       "deleted": false
     },
     {
-      "id": "c-2039-000061-v8-006",
-      "parentId": null,
-      "timestamp": "2039-12-24T09:08:49+09:00",
+      "id": "c-2039-000061-b2m-003",
+      "parentId": "c-2039-000061-b2m-001",
+      "timestamp": "2039-12-24T09:00:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "124.53"
       },
-      "content": "누가 가입시키는지부터 확인",
+      "content": "방수커버보다 케이블/접점쪽 물먹는게 더귀찮음",
       "deleted": false
     },
     {
-      "id": "c-2039-000061-v8-007",
+      "id": "c-2039-000061-b2m-004",
       "parentId": null,
-      "timestamp": "2039-12-24T09:11:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "현장등급 제한 먼저 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-008",
-      "parentId": null,
-      "timestamp": "2039-12-24T09:14:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-009",
-      "parentId": null,
-      "timestamp": "2039-12-24T09:16:37+09:00",
+      "timestamp": "2039-12-24T09:03:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.248"
       },
-      "content": "개인거 있어도 팀보험은 따로 봄",
+      "content": "젖은장비 바로 가방넣지말고 분리해",
       "deleted": false
     },
     {
-      "id": "c-2039-000061-v8-010",
+      "id": "c-2039-000061-b2m-005",
       "parentId": null,
-      "timestamp": "2039-12-24T09:19:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "후송/치료 범위도 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-011",
-      "parentId": "c-2039-000061-v8-007",
-      "timestamp": "2039-12-24T09:23:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-012",
-      "parentId": null,
-      "timestamp": "2039-12-24T09:26:19+09:00",
+      "timestamp": "2039-12-24T09:07:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.248"
       },
-      "content": "이름보다 현장등급 제한을 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-013",
-      "parentId": "c-2039-000061-v8-008",
-      "timestamp": "2039-12-24T09:28:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "보험됨 한줄로 끝내면 불안함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-014",
-      "parentId": null,
-      "timestamp": "2039-12-24T09:32:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-015",
-      "parentId": null,
-      "timestamp": "2039-12-24T09:33:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "보험됨 한줄만 믿지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-016",
-      "parentId": null,
-      "timestamp": "2039-12-24T09:35:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000061-v8-017",
-      "parentId": null,
-      "timestamp": "2039-12-24T09:39:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㄹㅇ",
+      "content": "정성추",
       "deleted": false
     }
   ],

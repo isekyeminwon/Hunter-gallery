@@ -33,75 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000022-v8-001",
+      "id": "c-2026-000022-b1-001",
       "parentId": null,
-      "timestamp": "2026-09-06T21:42:36+09:00",
+      "timestamp": "2026-09-06T21:45:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "211.58"
       },
-      "content": "원문 링크 있음?",
+      "content": "확인된 부분까지만 보는게 맞을듯",
       "deleted": false
     },
     {
-      "id": "c-2026-000022-v8-002",
+      "id": "c-2026-000022-b1-002",
       "parentId": null,
-      "timestamp": "2026-09-06T21:46:33+09:00",
+      "timestamp": "2026-09-06T21:54:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "118.33"
       },
-      "content": "현장사진으로 원인까지 맞추진 말자",
+      "content": "현장사진 몇장으로 원인까지 맞추진 말자",
       "deleted": false
     },
     {
-      "id": "c-2026-000022-v8-003",
-      "parentId": "c-2026-000022-v8-002",
-      "timestamp": "2026-09-06T21:48:45+09:00",
+      "id": "c-2026-000022-b1-003",
+      "parentId": "c-2026-000022-b1-002",
+      "timestamp": "2026-09-06T22:03:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "110.70"
       },
-      "content": "다친사람 별일없었으면",
+      "content": "그건 따로봐야지",
       "deleted": false
     },
     {
-      "id": "c-2026-000022-v8-004",
+      "id": "c-2026-000022-b1-004",
       "parentId": null,
-      "timestamp": "2026-09-06T21:51:37+09:00",
+      "timestamp": "2026-09-06T22:09:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "211.58"
       },
-      "content": "다친사람 괜찮다냐",
+      "content": "추가로 확인된거 있음?",
       "deleted": false
     },
     {
-      "id": "c-2026-000022-v8-005",
+      "id": "c-2026-000022-b1-005",
       "parentId": null,
-      "timestamp": "2026-09-06T21:53:21+09:00",
+      "timestamp": "2026-09-06T22:18:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "118.33"
       },
-      "content": "추가기사 뜬거 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000022-v8-006",
-      "parentId": null,
-      "timestamp": "2026-09-06T21:56:21+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "책임자 찾는건 존나 빠르네",
+      "content": "원문 링크 있는사람?",
       "deleted": false
     }
   ],

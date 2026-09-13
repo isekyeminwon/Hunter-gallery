@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000063-v8-001",
+      "id": "c-2040-000063-b2m-001",
       "parentId": null,
-      "timestamp": "2040-11-13T23:31:21+09:00",
+      "timestamp": "2040-11-13T23:30:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "124.53"
       },
-      "content": "등급이 출입 보험 파티조건에 실제로 쓰임",
+      "content": "부정등록은 등급 허세문제가 아니라 출입/보험/동원 기준을 틀리게 만드는게 문제",
       "deleted": false
     },
     {
-      "id": "c-2040-000063-v8-002",
+      "id": "c-2040-000063-b2m-002",
       "parentId": null,
-      "timestamp": "2040-11-13T23:34:52+09:00",
+      "timestamp": "2040-11-13T23:33:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "59.5"
       },
-      "content": "고의로 낮추면 주변이 틀린정보로 판단하게 됨",
+      "content": "고의로 낮춰놨다가 사고나면 대응측 위험판단부터 꼬임",
       "deleted": false
     }
   ],

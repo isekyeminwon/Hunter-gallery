@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000080-v8-001",
+      "id": "c-2040-000080-b2m-001",
       "parentId": null,
-      "timestamp": "2040-12-22T10:29:35+09:00",
+      "timestamp": "2040-12-22T10:28:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.58"
       },
-      "content": "신고해본사람 있음?",
+      "content": "공식프로필/기사에 공개된 정보와 주소·가족·연락처는 완전 다름",
       "deleted": false
     },
     {
-      "id": "c-2040-000080-v8-002",
+      "id": "c-2040-000080-b2m-002",
       "parentId": null,
-      "timestamp": "2040-12-22T10:32:39+09:00",
+      "timestamp": "2040-12-22T10:31:03+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "118.41"
       },
-      "content": "애매하면 신상은 올리지마",
+      "content": "학교/직장 과거사진도 공개출처인지 확인해야됨",
       "deleted": false
     },
     {
-      "id": "c-2040-000080-v8-003",
-      "parentId": "c-2040-000080-v8-002",
-      "timestamp": "2040-12-22T10:35:36+09:00",
+      "id": "c-2040-000080-b2m-003",
+      "parentId": null,
+      "timestamp": "2040-12-22T10:34:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "210.178"
       },
-      "content": "최신 공지 한번 봐야겠네",
+      "content": "실명 공개된 헌터라도 집주소/가족정보까지 퍼뜨리면 안됨",
       "deleted": false
     }
   ],

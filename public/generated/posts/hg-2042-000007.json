@@ -33,39 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000007-v8-001",
+      "id": "c-2042-000007-b2m-001",
       "parentId": null,
-      "timestamp": "2042-01-28T00:14:17+09:00",
+      "timestamp": "2042-01-28T00:14:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "118.44"
       },
-      "content": "민간쪽은 조건이 다 달라서 귀찮음",
+      "content": "마석 매입가는 등급만으로 딱 정해지는게 아니라 품질/시점도 봄",
       "deleted": false
     },
     {
-      "id": "c-2042-000007-v8-002",
+      "id": "c-2042-000007-b2m-002",
       "parentId": null,
-      "timestamp": "2042-01-28T00:17:20+09:00",
+      "timestamp": "2042-01-28T00:18:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "1.239"
       },
-      "content": "매입처 바꾸면 수수료부터 비교해봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000007-v8-003",
-      "parentId": null,
-      "timestamp": "2042-01-28T00:19:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "마석 등급만 보고 가격 딱 정해지는건 아니더라",
+      "content": "조금 높게 쳐줘도 수수료 떼면 별차이 없을수 있음",
       "deleted": false
     }
   ],

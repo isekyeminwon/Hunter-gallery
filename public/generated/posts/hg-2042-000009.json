@@ -33,51 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000009-v8-001",
+      "id": "c-2042-000009-b2m-001",
       "parentId": null,
-      "timestamp": "2042-01-10T00:22:27+09:00",
+      "timestamp": "2042-01-10T00:22:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "1.239"
       },
-      "content": "파티 섞이면 장비보다 말부터 맞춰야됨",
+      "content": "길드마다 용어 조금씩 달라서 처음엔 꼭 맞춰야됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000009-v8-002",
+      "id": "c-2042-000009-b2m-002",
       "parentId": null,
-      "timestamp": "2042-01-10T00:26:07+09:00",
+      "timestamp": "2042-01-10T00:26:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "223.38"
       },
-      "content": "짧은 공통콜로 다시 맞추는게 낫더라",
+      "content": "멈춰/철수/후퇴 같은 공통콜부터 통일해",
       "deleted": false
     },
     {
-      "id": "c-2042-000009-v8-003",
-      "parentId": "c-2042-000009-v8-001",
-      "timestamp": "2042-01-10T00:28:26+09:00",
+      "id": "c-2042-000009-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-01-10T00:28:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "223.38"
       },
-      "content": "용어 다르면 진짜 처음에 꼬임",
+      "content": "{{con:good}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000009-v8-004",
+      "id": "c-2042-000009-b2m-004",
       "parentId": null,
-      "timestamp": "2042-01-10T00:29:48+09:00",
+      "timestamp": "2042-01-10T00:32:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "223.38"
       },
-      "content": "길드마다 용어 조금씩 달라서 처음엔 꼬임",
+      "content": "현장에서 말 다시정하면 이미 늦는 경우 있음",
       "deleted": false
     }
   ],

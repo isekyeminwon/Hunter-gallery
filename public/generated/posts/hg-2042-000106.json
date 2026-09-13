@@ -33,39 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000106-v8-001",
+      "id": "c-2042-000106-b2m-001",
       "parentId": null,
-      "timestamp": "2042-07-30T13:47:07+09:00",
+      "timestamp": "2042-07-30T13:47:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "124.53"
       },
-      "content": "항만쪽은 차량/물자동선까지 섞여서 복잡함",
+      "content": "정액으로 붙는곳도 있고 기본일당 비율로 붙는곳도 있어서 숫자 하나 못박기 힘듦",
       "deleted": false
     },
     {
-      "id": "c-2042-000106-v8-002",
+      "id": "c-2042-000106-b2m-002",
       "parentId": null,
-      "timestamp": "2042-07-30T13:50:18+09:00",
+      "timestamp": "2042-07-30T13:50:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "124.53"
       },
-      "content": "사고원인 뜨기전에 길드탓부터 하던거 기억남",
+      "content": "항만은 차량동선 때문에 일반 현장보다 조건 빡세게 보는팀 있더라",
       "deleted": false
     },
     {
-      "id": "c-2042-000106-v8-003",
-      "parentId": null,
-      "timestamp": "2042-07-30T13:53:44+09:00",
+      "id": "c-2042-000106-b2m-003",
+      "parentId": "c-2042-000106-b2m-001",
+      "timestamp": "2042-07-30T13:53:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "124.53"
       },
-      "content": "지원팀 붙으면 평소 파티콜로 안되는 순간 생김",
+      "content": "위험수당만 보지말고 보험이랑 예상시간 같이 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000106-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-07-30T13:56:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "야간/장시간 대기까지 들어가면 체감 확 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000106-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-07-30T13:57:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "조건표 한번 더봐야겠네",
       "deleted": false
     }
   ],

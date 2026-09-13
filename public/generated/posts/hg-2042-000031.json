@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000031-pilot001",
+      "id": "c-2042-000031-b2m-001",
       "parentId": null,
-      "timestamp": "2042-03-22T19:41:15+09:00",
+      "timestamp": "2042-03-22T19:41:30+09:00",
       "author": {
         "type": "fixed",
         "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "봄. 저등급=사고없음이 아님",
+      "content": "보험됨 한줄만 보지말고 가입주체랑 보장범위 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000031-pilot002",
+      "id": "c-2042-000031-b2m-002",
       "parentId": null,
-      "timestamp": "2042-03-22T19:44:33+09:00",
+      "timestamp": "2042-03-22T19:44:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "175.223"
       },
-      "content": "F/C급도?",
+      "content": "현장등급 제한 걸린 보험 은근 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000031-pilot003",
-      "parentId": "c-2042-000031-pilot002",
-      "timestamp": "2042-03-22T19:45:52+09:00",
+      "id": "c-2042-000031-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-03-22T19:48:15+09:00",
       "author": {
         "type": "fixed",
         "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "현장 들어가면 확인하는게 낫지. 구인조건에 포함인지부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000031-pilot004",
-      "parentId": null,
-      "timestamp": "2042-03-22T19:50:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "강원건 이후로 다들 더 예민해진 느낌",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000031-pilot005",
-      "parentId": null,
-      "timestamp": "2042-03-22T19:53:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "예민한게 나음. 돈 몇푼보다 낫지",
+      "content": "후송/치료 범위가 실제로 제일 중요함",
       "deleted": false
     }
   ],

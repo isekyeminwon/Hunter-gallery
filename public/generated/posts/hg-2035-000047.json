@@ -33,219 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000047-v8-001",
+      "id": "c-2035-000047-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T10:07:02+09:00",
+      "timestamp": "2035-07-15T10:16:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "211.202"
       },
-      "content": "개웃기네",
+      "content": "스텔라 공지창 오늘 버틸수 있냐ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000047-v8-002",
+      "id": "c-2035-000047-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-15T10:09:40+09:00",
+      "timestamp": "2035-07-15T10:24:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "1.239"
       },
-      "content": "자라",
+      "content": "{{con:dororong}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000047-v8-003",
+      "id": "c-2035-000047-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-15T10:11:36+09:00",
+      "timestamp": "2035-07-15T10:32:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "223.38"
       },
-      "content": "나도그럼",
+      "content": "{{con:heehee}}",
       "deleted": false
     },
     {
-      "id": "c-2035-000047-v8-004",
-      "parentId": "c-2035-000047-v8-002",
-      "timestamp": "2035-07-15T10:13:50+09:00",
+      "id": "c-2035-000047-b1-004",
+      "parentId": "c-2035-000047-b1-003",
+      "timestamp": "2035-07-15T10:39:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "211.202"
       },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "나는 반대",
       "deleted": false
     },
     {
-      "id": "c-2035-000047-v8-005",
+      "id": "c-2035-000047-b1-005",
+      "parentId": "c-2035-000047-b1-002",
+      "timestamp": "2035-07-15T10:50:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "흠 그건 좀",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000047-b1-006",
+      "parentId": "c-2035-000047-b1-002",
+      "timestamp": "2035-07-15T10:55:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "그부분은 동의하는데 전부는 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2035-000047-b1-007",
       "parentId": null,
-      "timestamp": "2035-07-15T10:16:54+09:00",
+      "timestamp": "2035-07-15T11:06:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "1.239"
       },
-      "content": "뭔데",
+      "content": "새로고침 할때마다 같은 떡밥 올라오네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000047-v8-006",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:19:24+09:00",
+      "id": "c-2035-000047-b1-008",
+      "parentId": "c-2035-000047-b1-007",
+      "timestamp": "2035-07-15T11:16:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "211.202"
       },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-007",
-      "parentId": "c-2035-000047-v8-001",
-      "timestamp": "2035-07-15T10:21:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-008",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:24:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-009",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:26:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-010",
-      "parentId": "c-2035-000047-v8-004",
-      "timestamp": "2035-07-15T10:30:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:33:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:36:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-013",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:38:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-014",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:40:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-015",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:43:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "이 글 왜 아래가 더길어ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-016",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:46:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-017",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:49:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000047-v8-018",
-      "parentId": null,
-      "timestamp": "2035-07-15T10:51:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "ㄹㅇ",
+      "content": "ㅇㅇ 그럴수는 있음",
       "deleted": false
     }
   ],

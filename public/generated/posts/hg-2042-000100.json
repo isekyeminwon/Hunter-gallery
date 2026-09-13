@@ -33,111 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000100-v8-001",
+      "id": "c-2042-000100-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-07T07:16:35+09:00",
+      "timestamp": "2042-08-07T07:15:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "211.234"
       },
-      "content": "우리쪽은 방식이 살짝 다름",
+      "content": "일단 파티콜 멈추고 공통채널 하나로 모이는게 먼저",
       "deleted": false
     },
     {
-      "id": "c-2042-000100-v8-002",
+      "id": "c-2042-000100-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-07T07:19:34+09:00",
+      "timestamp": "2042-08-07T07:18:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "58.29"
       },
-      "content": "안에서 정하려면 늦음",
+      "content": "통신죽었을때 손신호/집결지까지 정해두는팀도 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000100-v8-003",
+      "id": "c-2042-000100-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-07T07:22:44+09:00",
+      "timestamp": "2042-08-07T07:22:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "211.201"
       },
-      "content": "초보는 이런글이 더 필요함",
+      "content": "채널 바꾸는중에 철수콜 놓치는게 제일 위험함",
       "deleted": false
     },
     {
-      "id": "c-2042-000100-v8-004",
+      "id": "c-2042-000100-b2m-004",
       "parentId": null,
-      "timestamp": "2042-08-07T07:24:24+09:00",
+      "timestamp": "2042-08-07T07:25:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "58.29"
       },
-      "content": "당해보면 왜 적었는지 앎",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000100-v8-005",
-      "parentId": null,
-      "timestamp": "2042-08-07T07:28:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "다음 현장전에 한번 더봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000100-v8-006",
-      "parentId": "c-2042-000100-v8-004",
-      "timestamp": "2042-08-07T07:31:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000100-v8-007",
-      "parentId": "c-2042-000100-v8-006",
-      "timestamp": "2042-08-07T07:33:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000100-v8-008",
-      "parentId": null,
-      "timestamp": "2042-08-07T07:36:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000100-v8-009",
-      "parentId": "c-2042-000100-v8-002",
-      "timestamp": "2042-08-07T07:38:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
+      "content": "누가 중계할지 정해두면 길드 섞여도 덜꼬임",
       "deleted": false
     }
   ],

@@ -33,75 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000064-v8-001",
+      "id": "c-2042-000064-b2m-001",
       "parentId": null,
-      "timestamp": "2042-05-26T10:21:40+09:00",
+      "timestamp": "2042-05-26T10:23:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "14.32"
       },
-      "content": "처음가는사람은 이런거 봐둬",
+      "content": "파티콜 복창/거리유지/철수반응 같은 기본을 제일 반복시킨다더라",
       "deleted": false
     },
     {
-      "id": "c-2042-000064-v8-002",
+      "id": "c-2042-000064-b2m-002",
       "parentId": null,
-      "timestamp": "2042-05-26T10:24:32+09:00",
+      "timestamp": "2042-05-26T10:25:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "110.70"
+      },
+      "content": "신입은 출력조절부터 잡는 경우 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000064-b2m-003",
+      "parentId": "c-2042-000064-b2m-001",
+      "timestamp": "2042-05-26T10:28:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "화려한 기술보다 팀속도 맞추는거부터 시킴",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000064-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-05-26T10:32:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "장비문제 생겼을때 보고하는 순서도 엄청 반복함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000064-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-05-26T10:34:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
       },
       "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000064-v8-003",
-      "parentId": null,
-      "timestamp": "2042-05-26T10:28:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000064-v8-004",
-      "parentId": null,
-      "timestamp": "2042-05-26T10:32:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "들어가기전에 얘기 끝내야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000064-v8-005",
-      "parentId": null,
-      "timestamp": "2042-05-26T10:35:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "우린 이거랑 좀 다르게 굴림",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000064-v8-006",
-      "parentId": null,
-      "timestamp": "2042-05-26T10:37:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "이런건 북마크해놔야됨",
       "deleted": false
     }
   ],

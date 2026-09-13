@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000020-v8-001",
+      "id": "c-2034-000020-b1-001",
       "parentId": null,
-      "timestamp": "2034-08-18T12:18:38+09:00",
+      "timestamp": "2034-08-18T12:21:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "106.245"
       },
-      "content": "걍 공채널부터 뒤져봐야지",
+      "content": "B급 에이스를 너무 무시하는 분위기도 별로임",
       "deleted": false
     },
     {
-      "id": "c-2034-000020-v8-002",
+      "id": "c-2034-000020-b1-002",
       "parentId": null,
-      "timestamp": "2034-08-18T12:21:23+09:00",
+      "timestamp": "2034-08-18T12:28:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "223.38"
       },
-      "content": "편집은 잘했네",
+      "content": "기사 한두개로 누가 더 센지 결론내는거 너무 빠름",
       "deleted": false
     },
     {
-      "id": "c-2034-000020-v8-003",
-      "parentId": "c-2034-000020-v8-002",
-      "timestamp": "2034-08-18T12:24:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "그장면 봤음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-004",
-      "parentId": "c-2034-000020-v8-001",
-      "timestamp": "2034-08-18T12:27:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "풀버전 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-005",
+      "id": "c-2034-000020-b1-003",
       "parentId": null,
-      "timestamp": "2034-08-18T12:29:29+09:00",
+      "timestamp": "2034-08-18T12:35:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "106.102"
       },
-      "content": "원본 어디임",
+      "content": "A급 신인들 이름 벌써 순위표에 다 들어가네",
       "deleted": false
     },
     {
-      "id": "c-2034-000020-v8-006",
-      "parentId": "c-2034-000020-v8-001",
-      "timestamp": "2034-08-18T12:32:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-007",
+      "id": "c-2034-000020-b1-004",
       "parentId": null,
-      "timestamp": "2034-08-18T12:34:29+09:00",
+      "timestamp": "2034-08-18T12:40:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "106.102"
       },
-      "content": "댓글이 영상보다 재밌음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-008",
-      "parentId": "c-2034-000020-v8-007",
-      "timestamp": "2034-08-18T12:38:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "풀버전 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-009",
-      "parentId": "c-2034-000020-v8-005",
-      "timestamp": "2034-08-18T12:42:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-010",
-      "parentId": null,
-      "timestamp": "2034-08-18T12:43:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "댓글구경이 본편이다",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-011",
-      "parentId": "c-2034-000020-v8-007",
-      "timestamp": "2034-08-18T12:45:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-012",
-      "parentId": null,
-      "timestamp": "2034-08-18T12:48:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-013",
-      "parentId": null,
-      "timestamp": "2034-08-18T12:52:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-014",
-      "parentId": null,
-      "timestamp": "2034-08-18T12:55:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-015",
-      "parentId": null,
-      "timestamp": "2034-08-18T12:59:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-016",
-      "parentId": "c-2034-000020-v8-010",
-      "timestamp": "2034-08-18T13:01:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-017",
-      "parentId": null,
-      "timestamp": "2034-08-18T13:03:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000020-v8-018",
-      "parentId": "c-2034-000020-v8-013",
-      "timestamp": "2034-08-18T13:06:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "풀버전 있냐",
+      "content": "어느 길드 가는지가 더 궁금함",
       "deleted": false
     }
   ],

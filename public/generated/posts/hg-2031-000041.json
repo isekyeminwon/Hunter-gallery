@@ -33,63 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000041-v8-001",
+      "id": "c-2031-000041-b1-001",
       "parentId": null,
-      "timestamp": "2031-02-23T11:18:41+09:00",
+      "timestamp": "2031-02-23T11:25:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "110.70"
       },
-      "content": "도로 막은거면 입구쪽 통제 꽤 크게 잡았나보네",
+      "content": "아침까지 막히면 출근길 개판나겠네",
       "deleted": false
     },
     {
-      "id": "c-2031-000041-v8-002",
+      "id": "c-2031-000041-b1-002",
       "parentId": null,
-      "timestamp": "2031-02-23T11:20:58+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "협회차량 여러대 들어갔다는거 말곤 나온거 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000041-v8-003",
-      "parentId": null,
-      "timestamp": "2031-02-23T11:22:35+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "사고원인 기사 아직 안뜬거같은데",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000041-v8-004",
-      "parentId": null,
-      "timestamp": "2031-02-23T11:24:56+09:00",
+      "timestamp": "2031-02-23T11:31:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "110.70"
       },
-      "content": "오전까지 우회면 출근길 개막히겠네",
+      "content": "우회노선 공지 떴음?",
       "deleted": false
     },
     {
-      "id": "c-2031-000041-v8-005",
+      "id": "c-2031-000041-b1-003",
       "parentId": null,
-      "timestamp": "2031-02-23T11:26:26+09:00",
+      "timestamp": "2031-02-23T11:37:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "59.10"
       },
-      "content": "근처사는 사람은 우회공지부터 봐라",
+      "content": "버스도 노선 돌린다던데",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000041-b1-004",
+      "parentId": null,
+      "timestamp": "2031-02-23T11:47:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "게이트 자체 문제인지 장비차량 때문인지는 아직 안나온거지",
       "deleted": false
     }
   ],

@@ -33,159 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000009-v8-001",
+      "id": "c-2030-000009-b1-001",
       "parentId": null,
-      "timestamp": "2030-04-21T23:44:33+09:00",
+      "timestamp": "2030-04-21T23:48:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "125.180"
       },
-      "content": "계약주체 누구임",
+      "content": "브랜드들이 이슈 잡는속도 존나빠름",
       "deleted": false
     },
     {
-      "id": "c-2030-000009-v8-002",
+      "id": "c-2030-000009-b1-002",
       "parentId": null,
-      "timestamp": "2030-04-21T23:47:26+09:00",
+      "timestamp": "2030-04-21T23:52:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "223.33"
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "실제 납품계약인지 그냥 광고타는건지 구분해야됨",
       "deleted": false
     },
     {
-      "id": "c-2030-000009-v8-003",
-      "parentId": "c-2030-000009-v8-002",
-      "timestamp": "2030-04-21T23:51:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000009-v8-004",
+      "id": "c-2030-000009-b1-003",
       "parentId": null,
-      "timestamp": "2030-04-21T23:53:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000009-v8-005",
-      "parentId": null,
-      "timestamp": "2030-04-21T23:55:39+09:00",
+      "timestamp": "2030-04-22T00:01:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.58"
       },
-      "content": "예상시간 몇시간인데",
+      "content": "S급이 쓴다고 같은장비 사는건 의미없지",
       "deleted": false
     },
     {
-      "id": "c-2030-000009-v8-006",
+      "id": "c-2030-000009-b1-004",
       "parentId": null,
-      "timestamp": "2030-04-21T23:58:22+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000009-v8-007",
-      "parentId": null,
-      "timestamp": "2030-04-22T00:00:28+09:00",
+      "timestamp": "2030-04-22T00:10:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "223.33"
       },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000009-v8-008",
-      "parentId": "c-2030-000009-v8-006",
-      "timestamp": "2030-04-22T00:04:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "예상시간 몇시간인데",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000009-v8-009",
-      "parentId": null,
-      "timestamp": "2030-04-22T00:06:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000009-v8-010",
-      "parentId": "c-2030-000009-v8-006",
-      "timestamp": "2030-04-22T00:09:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "보험 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000009-v8-011",
-      "parentId": "c-2030-000009-v8-004",
-      "timestamp": "2030-04-22T00:11:29+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "시세보다 너무 좋으면 이유부터 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000009-v8-012",
-      "parentId": null,
-      "timestamp": "2030-04-22T00:13:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000009-v8-013",
-      "parentId": null,
-      "timestamp": "2030-04-22T00:16:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "이건 처음듣네",
+      "content": "S 하나 뜨면 전용장비 광고부터 붙는게 국룰이네ㅋㅋ",
       "deleted": false
     }
   ],

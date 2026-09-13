@@ -33,171 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000008-v8-001",
+      "id": "c-2032-000008-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-08T18:34:57+09:00",
+      "timestamp": "2032-05-08T18:39:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "118.44"
       },
-      "content": "후속캠 같이 보면 느낌 더옴",
+      "content": "전체 인터뷰도 풀어줬으면 좋겠다",
       "deleted": false
     },
     {
-      "id": "c-2032-000008-v8-002",
+      "id": "c-2032-000008-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-08T18:38:53+09:00",
+      "timestamp": "2032-05-08T18:45:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "1.239"
       },
-      "content": "이채린 단독은 요즘 좀 뜸한편",
+      "content": "김채연 광역기 범위가 영상밖까지 가는게 제일 무섭다",
       "deleted": false
     },
     {
-      "id": "c-2032-000008-v8-003",
+      "id": "c-2032-000008-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-08T18:42:10+09:00",
+      "timestamp": "2032-05-08T18:56:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "자막 잘린 앞뒤 문맥도 보고싶음",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000008-b1-004",
+      "parentId": null,
+      "timestamp": "2032-05-08T19:07:31+09:00",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "네뷸라 공식채널 은근 자료 많음",
+      "content": "짧은 클립 하나로 성격까지 판단하는건 오바",
       "deleted": false
     },
     {
-      "id": "c-2032-000008-v8-004",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:44:02+09:00",
+      "id": "c-2032-000008-b1-005",
+      "parentId": "c-2032-000008-b1-004",
+      "timestamp": "2032-05-08T19:14:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "1.239"
       },
-      "content": "마법계 설명영상은 생각보다 볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-005",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:45:55+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "김채연 영상은 범위 잡히는 장면이 제일 미침",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-006",
-      "parentId": "c-2032-000008-v8-005",
-      "timestamp": "2032-05-08T18:47:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "단독영상은 요즘 뜸하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-007",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:48:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "김채연 영상은 광역장면에서 조회수 터짐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:50:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "짤만 돌면 원본 찾기 빡셈",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-009",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:52:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-010",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:55:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-011",
-      "parentId": "c-2032-000008-v8-004",
-      "timestamp": "2032-05-08T18:57:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "김채연 영상이면 후속캠도 같이 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-012",
-      "parentId": null,
-      "timestamp": "2032-05-08T18:58:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-013",
-      "parentId": null,
-      "timestamp": "2032-05-08T19:00:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "김채연 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000008-v8-014",
-      "parentId": null,
-      "timestamp": "2032-05-08T19:03:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "강주아랑 역할 자체가 다르지",
       "deleted": false
     }
   ],

@@ -33,87 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000046-pilot001",
+      "id": "c-2042-000046-b2m-001",
       "parentId": null,
-      "timestamp": "2042-03-15T12:27:45+09:00",
+      "timestamp": "2042-03-15T12:29:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "새신발 신고가지마 발부터 죽음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000046-b2m-002",
+      "parentId": null,
+      "timestamp": "2042-03-15T12:31:47+09:00",
       "author": {
         "type": "fixed",
-        "name": "짐꾼3년차",
+        "name": "계약서읽자",
         "ip": null
       },
-      "content": "새신발 신고가지마. 발 먼저 죽음",
+      "content": "바닥 안미끄럽고 발목 잡히는거. 팀 규격 있으면 그거 우선",
       "deleted": false
     },
     {
-      "id": "c-2042-000046-pilot002",
+      "id": "c-2042-000046-b2m-003",
       "parentId": null,
-      "timestamp": "2042-03-15T12:30:21+09:00",
+      "timestamp": "2042-03-15T12:34:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "220.79"
       },
-      "content": "등산화?",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000046-pilot003",
-      "parentId": "c-2042-000046-pilot002",
-      "timestamp": "2042-03-15T12:32:20+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "발목 잡히고 바닥 안미끄러운거. 팀에서 규격 있으면 그거 우선",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000046-pilot004",
-      "parentId": null,
-      "timestamp": "2042-03-15T12:33:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "방수 꼭임?",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000046-pilot005",
-      "parentId": "c-2042-000046-pilot004",
-      "timestamp": "2042-03-15T12:34:51+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "유형 따라. 근데 젖는 현장 한번가면 방수 찾게됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000046-pilot006",
-      "parentId": null,
-      "timestamp": "2042-03-15T12:36:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "양말 여분이 신발보다 중요할때 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000046-pilot007",
-      "parentId": null,
-      "timestamp": "2042-03-15T12:37:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이건 ㄹㅇ",
+      "content": "방수는 현장따라 다른데 양말 여분은 챙겨",
       "deleted": false
     }
   ],

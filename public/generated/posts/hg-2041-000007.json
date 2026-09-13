@@ -33,123 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000007-v8-001",
+      "id": "c-2041-000007-b2m-001",
       "parentId": null,
-      "timestamp": "2041-01-18T15:33:08+09:00",
+      "timestamp": "2041-01-18T15:32:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "58.29"
       },
-      "content": "스텔라는 대중노출 감수해야할듯",
+      "content": "취업선호랑 전투서열은 따로 봐야됨",
       "deleted": false
     },
     {
-      "id": "c-2041-000007-v8-002",
+      "id": "c-2041-000007-b2m-002",
       "parentId": null,
-      "timestamp": "2041-01-18T15:34:49+09:00",
+      "timestamp": "2041-01-18T15:36:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "58.29"
       },
-      "content": "마법계는 네뷸라 교육이 솔깃하긴함",
+      "content": "마법계면 네뷸라, 장비/복지는 백호 얘기 많이 나옴",
       "deleted": false
     },
     {
-      "id": "c-2041-000007-v8-003",
+      "id": "c-2041-000007-b2m-003",
       "parentId": null,
-      "timestamp": "2041-01-18T15:36:48+09:00",
+      "timestamp": "2041-01-18T15:40:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "59.10"
       },
-      "content": "입사선호랑 길드전력은 따로봐야됨",
+      "content": "한성은 상위전력 간판이 너무 셈",
       "deleted": false
     },
     {
-      "id": "c-2041-000007-v8-004",
-      "parentId": "c-2041-000007-v8-002",
-      "timestamp": "2041-01-18T15:39:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000007-v8-005",
+      "id": "c-2041-000007-b2m-004",
       "parentId": null,
-      "timestamp": "2041-01-18T15:40:53+09:00",
+      "timestamp": "2041-01-18T15:43:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "58.29"
       },
-      "content": "선택권 있는척 하지마ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000007-v8-006",
-      "parentId": null,
-      "timestamp": "2041-01-18T15:43:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "복지글 검색하면 백호 얘기 많이 뜸",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000007-v8-007",
-      "parentId": "c-2041-000007-v8-002",
-      "timestamp": "2041-01-18T15:46:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000007-v8-008",
-      "parentId": "c-2041-000007-v8-005",
-      "timestamp": "2041-01-18T15:48:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000007-v8-009",
-      "parentId": null,
-      "timestamp": "2041-01-18T15:51:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "선택권부터 달라는 댓글 예상함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000007-v8-010",
-      "parentId": null,
-      "timestamp": "2041-01-18T15:54:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㄹㅇ",
+      "content": "스텔라는 방송노출 싫어하면 호불호 갈릴듯",
       "deleted": false
     }
   ],

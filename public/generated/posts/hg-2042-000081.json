@@ -33,87 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000081-v8-001",
+      "id": "c-2042-000081-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-30T16:12:29+09:00",
+      "timestamp": "2042-08-30T16:11:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "118.235"
       },
-      "content": "고의로 낮추면 주변이 틀린정보로 판단하게 됨",
+      "content": "브리핑 짧은 클립 하나 보고 빡쳤다고 단정하는건ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2042-000081-v8-002",
+      "id": "c-2042-000081-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-30T16:14:45+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "등급이 출입 보험 파티조건에 실제로 쓰임",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000081-v8-003",
-      "parentId": null,
-      "timestamp": "2042-08-30T16:18:01+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "측정오류랑 고의숨김은 구분해야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000081-v8-004",
-      "parentId": null,
-      "timestamp": "2042-08-30T16:20:20+09:00",
+      "timestamp": "2042-08-30T16:12:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "106.102"
       },
-      "content": "강제소집 회피 이미지까지 붙어서 더 욕먹음",
+      "content": "요즘 협회 이슈 몰려서 표정 안좋아보이는건 이해됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000081-v8-005",
+      "id": "c-2042-000081-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-30T16:21:59+09:00",
+      "timestamp": "2042-08-30T16:15:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "118.235"
       },
-      "content": "범죄 터지면 대응측 위험도부터 꼬임",
+      "content": "{{con:forwhat}}",
       "deleted": false
     },
     {
-      "id": "c-2042-000081-v8-006",
-      "parentId": null,
-      "timestamp": "2042-08-30T16:23:52+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000081-v8-007",
-      "parentId": null,
-      "timestamp": "2042-08-30T16:26:57+09:00",
+      "id": "c-2042-000081-b2m-004",
+      "parentId": "c-2042-000081-b2m-001",
+      "timestamp": "2042-08-30T16:17:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "106.102"
       },
-      "content": "근거는?",
+      "content": "원본 인터뷰는 생각보다 평범하던데 짤만 세게 잘렸더라",
       "deleted": false
     }
   ],

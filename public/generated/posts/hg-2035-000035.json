@@ -33,183 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000035-v8-001",
+      "id": "c-2035-000035-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-14T04:17:44+09:00",
+      "timestamp": "2035-07-14T04:22:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "106.245"
       },
-      "content": "능력상성 넣는순간 표 다시만들어야지",
+      "content": "일 터진지 얼마나 됐다고 밈부터 생기냐ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2035-000035-v8-002",
+      "id": "c-2035-000035-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-14T04:20:27+09:00",
+      "timestamp": "2035-07-14T04:28:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "106.250"
       },
-      "content": "또 누구 위아래 싸움이냐",
+      "content": "원본내용보다 짤이 먼저 퍼지는중",
       "deleted": false
     },
     {
-      "id": "c-2035-000035-v8-003",
-      "parentId": null,
-      "timestamp": "2035-07-14T04:24:06+09:00",
+      "id": "c-2035-000035-b1-003",
+      "parentId": "c-2035-000035-b1-001",
+      "timestamp": "2035-07-14T04:37:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "117.111"
       },
-      "content": "사설랭킹에 그래프까지 넣었네",
+      "content": "팬덤끼리 싸우는건 진짜 빠르다",
       "deleted": false
     },
     {
-      "id": "c-2035-000035-v8-004",
+      "id": "c-2035-000035-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-14T04:26:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "어차피 제작자 최애가 위임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000035-v8-005",
-      "parentId": "c-2035-000035-v8-002",
-      "timestamp": "2035-07-14T04:29:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000035-v8-006",
-      "parentId": null,
-      "timestamp": "2035-07-14T04:31:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "이거 며칠뒤 또 싸운다",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000035-v8-007",
-      "parentId": null,
-      "timestamp": "2035-07-14T04:33:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "S SS 보다보니 A를 우습게봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000035-v8-008",
-      "parentId": null,
-      "timestamp": "2035-07-14T04:37:14+09:00",
+      "timestamp": "2035-07-14T04:44:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.101"
       },
-      "content": "난 아닌듯",
+      "content": "과거 사고영상 다시 퍼오는건 진짜 그만했으면",
       "deleted": false
     },
     {
-      "id": "c-2035-000035-v8-009",
-      "parentId": null,
-      "timestamp": "2035-07-14T04:40:39+09:00",
+      "id": "c-2035-000035-b1-005",
+      "parentId": "c-2035-000035-b1-001",
+      "timestamp": "2035-07-14T04:48:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000035-v8-010",
-      "parentId": null,
-      "timestamp": "2035-07-14T04:43:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000035-v8-011",
-      "parentId": "c-2035-000035-v8-007",
-      "timestamp": "2035-07-14T04:47:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "106.245"
       },
       "content": "최근 실적도 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2035-000035-v8-012",
-      "parentId": "c-2035-000035-v8-005",
-      "timestamp": "2035-07-14T04:51:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000035-v8-013",
+      "id": "c-2035-000035-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-14T04:53:38+09:00",
+      "timestamp": "2035-07-14T04:55:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "117.111"
       },
-      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000035-v8-014",
-      "parentId": null,
-      "timestamp": "2035-07-14T04:56:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "또 줄세우기 시작했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000035-v8-015",
-      "parentId": null,
-      "timestamp": "2035-07-14T05:00:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "{{con:dororong}}",
+      "content": "별하나가 S라니 공연장 사고때 생각나서 기분 묘함",
       "deleted": false
     }
   ],

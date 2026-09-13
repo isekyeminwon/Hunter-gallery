@@ -33,231 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000015-v8-001",
+      "id": "c-2033-000015-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-16T16:57:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-002",
-      "parentId": null,
-      "timestamp": "2033-09-16T16:58:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-003",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:01:33+09:00",
+      "timestamp": "2033-09-16T17:02:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "121.163"
       },
-      "content": "ㅋㅋ",
+      "content": "영상만 보면 왜 SS 새로 만들었는지 알겠음",
       "deleted": false
     },
     {
-      "id": "c-2033-000015-v8-004",
+      "id": "c-2033-000015-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-16T17:04:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "자라",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-005",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:05:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "개웃기네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-006",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:08:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-007",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:10:57+09:00",
+      "timestamp": "2033-09-16T17:13:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "121.163"
       },
-      "content": "본문보다 댓글이 더길어졌네",
+      "content": "SS 하나 떴다고 기존 S들 전부 재평가 들어감ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000015-v8-008",
+      "id": "c-2033-000015-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-16T17:14:01+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-009",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:16:06+09:00",
+      "timestamp": "2033-09-16T17:21:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "106.102"
       },
-      "content": "자라",
+      "content": "SS 신설 자체가 이시율 체급 설명 끝내는거같음",
       "deleted": false
     },
     {
-      "id": "c-2033-000015-v8-010",
+      "id": "c-2033-000015-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-16T17:18:07+09:00",
+      "timestamp": "2033-09-16T17:26:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.102"
       },
-      "content": "이시율 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-011",
-      "parentId": "c-2033-000015-v8-004",
-      "timestamp": "2033-09-16T17:20:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-012",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:22:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이시율 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-013",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:26:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-014",
-      "parentId": "c-2033-000015-v8-007",
-      "timestamp": "2033-09-16T17:28:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-015",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:29:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-016",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:33:29+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-017",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:37:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-018",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:39:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000015-v8-019",
-      "parentId": null,
-      "timestamp": "2033-09-16T17:42:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "난 반대",
+      "content": "검신 이름 진짜 설명 끝나는 수준ㅋㅋ",
       "deleted": false
     }
   ],

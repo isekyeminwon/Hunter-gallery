@@ -33,483 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000020-v8-001",
+      "id": "c-2037-000020-b1-001",
       "parentId": null,
-      "timestamp": "2037-03-11T00:26:05+09:00",
+      "timestamp": "2037-03-11T00:32:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "223.62"
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "초입 좀 편하다고 장비부터 푸는거 진짜 비추",
       "deleted": false
     },
     {
-      "id": "c-2037-000020-v8-002",
+      "id": "c-2037-000020-b1-002",
       "parentId": null,
-      "timestamp": "2037-03-11T00:29:58+09:00",
+      "timestamp": "2037-03-11T00:38:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "39.125"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "content": "조회수 잘나온다고 위험장면 따라하는놈은 없었으면",
       "deleted": false
     },
     {
-      "id": "c-2037-000020-v8-003",
+      "id": "c-2037-000020-b1-003",
+      "parentId": "c-2037-000020-b1-001",
+      "timestamp": "2037-03-11T00:49:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "카메라 밖에서 뭐하는지도 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000020-b1-004",
       "parentId": null,
-      "timestamp": "2037-03-11T00:32:39+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-004",
-      "parentId": "c-2037-000020-v8-003",
-      "timestamp": "2037-03-11T00:35:23+09:00",
+      "timestamp": "2037-03-11T00:59:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "223.62"
       },
-      "content": "당일정산이 편하긴함",
+      "content": "현장 위치 실시간으로 노출되는건 진짜 조심해야됨",
       "deleted": false
     },
     {
-      "id": "c-2037-000020-v8-005",
-      "parentId": "c-2037-000020-v8-002",
-      "timestamp": "2037-03-11T00:37:28+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "매입가 확정뒤 보내는팀도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-006",
-      "parentId": "c-2037-000020-v8-002",
-      "timestamp": "2037-03-11T00:40:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "일주일 넘으면 한번 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-007",
-      "parentId": "c-2037-000020-v8-003",
-      "timestamp": "2037-03-11T00:43:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "정산일 적혀있으면 덜싸움",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-008",
-      "parentId": "c-2037-000020-v8-006",
-      "timestamp": "2037-03-11T00:46:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "예상금액으로 먼저 싸우지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-009",
+      "id": "c-2037-000020-b1-005",
       "parentId": null,
-      "timestamp": "2037-03-11T00:49:27+09:00",
+      "timestamp": "2037-03-11T01:03:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "121.163"
       },
-      "content": "{{con:dororong}}",
+      "content": "원본콜 있는 영상이 공부할땐 훨씬 낫더라",
       "deleted": false
     },
     {
-      "id": "c-2037-000020-v8-010",
-      "parentId": "c-2037-000020-v8-004",
-      "timestamp": "2037-03-11T00:51:21+09:00",
+      "id": "c-2037-000020-b1-006",
+      "parentId": "c-2037-000020-b1-003",
+      "timestamp": "2037-03-11T01:12:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "211.201"
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "영상대로 속도내면 사고남",
       "deleted": false
     },
     {
-      "id": "c-2037-000020-v8-011",
+      "id": "c-2037-000020-b1-007",
       "parentId": null,
-      "timestamp": "2037-03-11T00:54:45+09:00",
+      "timestamp": "2037-03-11T01:19:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "121.163"
       },
-      "content": "당일도 있고 며칠뒤도 있음",
+      "content": "선두 멈추면 이유부터 확인하고 따라 멈추는게 맞음",
       "deleted": false
     },
     {
-      "id": "c-2037-000020-v8-012",
+      "id": "c-2037-000020-b1-008",
       "parentId": null,
-      "timestamp": "2037-03-11T00:57:35+09:00",
+      "timestamp": "2037-03-11T01:23:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "39.125"
       },
-      "content": "대댓글이 본문 잡아먹었네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-013",
-      "parentId": null,
-      "timestamp": "2037-03-11T00:59:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-014",
-      "parentId": "c-2037-000020-v8-011",
-      "timestamp": "2037-03-11T01:01:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "매입가 확정뒤 보내는팀도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-015",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:05:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-016",
-      "parentId": "c-2037-000020-v8-009",
-      "timestamp": "2037-03-11T01:07:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "정산일 적혀있으면 덜싸움",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-017",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:10:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-018",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:13:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-019",
-      "parentId": "c-2037-000020-v8-014",
-      "timestamp": "2037-03-11T01:16:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "예상금액으로 먼저 싸우지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-020",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:18:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-021",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:20:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-022",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:23:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-023",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:26:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-024",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:30:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-025",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:34:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-026",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:37:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-027",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:39:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-028",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:42:46+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "계약서읽자",
-        "ip": null
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-029",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:44:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-030",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:47:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-031",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:51:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-032",
-      "parentId": "c-2037-000020-v8-030",
-      "timestamp": "2037-03-11T01:55:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "매입가 확정뒤 보내는팀도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-033",
-      "parentId": null,
-      "timestamp": "2037-03-11T01:58:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-034",
-      "parentId": null,
-      "timestamp": "2037-03-11T02:00:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-035",
-      "parentId": null,
-      "timestamp": "2037-03-11T02:03:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-036",
-      "parentId": null,
-      "timestamp": "2037-03-11T02:04:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "아 또 시작했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-037",
-      "parentId": null,
-      "timestamp": "2037-03-11T02:06:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-038",
-      "parentId": null,
-      "timestamp": "2037-03-11T02:08:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-039",
-      "parentId": null,
-      "timestamp": "2037-03-11T02:11:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000020-v8-040",
-      "parentId": null,
-      "timestamp": "2037-03-11T02:14:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "편집본만 보고 공략시간 판단하면 큰일남",
       "deleted": false
     }
   ],

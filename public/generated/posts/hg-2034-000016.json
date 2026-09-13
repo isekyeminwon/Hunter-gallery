@@ -33,147 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000016-v8-001",
+      "id": "c-2034-000016-b1-001",
       "parentId": null,
-      "timestamp": "2034-03-18T21:13:32+09:00",
+      "timestamp": "2034-03-18T21:21:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "211.58"
       },
-      "content": "기존 규격 장비로 감당 안되는 얘기 나온적 있음",
+      "content": "이시율 하나로 한성 간판이 너무 세짐",
       "deleted": false
     },
     {
-      "id": "c-2034-000016-v8-002",
+      "id": "c-2034-000016-b1-002",
       "parentId": null,
-      "timestamp": "2034-03-18T21:15:46+09:00",
+      "timestamp": "2034-03-18T21:30:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "118.41"
       },
-      "content": "이시율 보고도 몇배냐 묻는건 무리",
+      "content": "복지표랑 전투력표를 따로 봐야지",
       "deleted": false
     },
     {
-      "id": "c-2034-000016-v8-003",
-      "parentId": null,
-      "timestamp": "2034-03-18T21:18:52+09:00",
+      "id": "c-2034-000016-b1-003",
+      "parentId": "c-2034-000016-b1-002",
+      "timestamp": "2034-03-18T21:35:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "175.194"
       },
-      "content": "S 몇명분 이런 계산은 의미없지 않나",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000016-v8-004",
-      "parentId": null,
-      "timestamp": "2034-03-18T21:21:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "SS가 기존 S로 설명 안되는놈 나와서 만든거잖아",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000016-v8-005",
-      "parentId": null,
-      "timestamp": "2034-03-18T21:24:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000016-v8-006",
-      "parentId": null,
-      "timestamp": "2034-03-18T21:26:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000016-v8-007",
-      "parentId": null,
-      "timestamp": "2034-03-18T21:29:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000016-v8-008",
-      "parentId": null,
-      "timestamp": "2034-03-18T21:33:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000016-v8-009",
-      "parentId": null,
-      "timestamp": "2034-03-18T21:35:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000016-v8-010",
-      "parentId": null,
-      "timestamp": "2034-03-18T21:37:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000016-v8-011",
-      "parentId": "c-2034-000016-v8-009",
-      "timestamp": "2034-03-18T21:41:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000016-v8-012",
-      "parentId": null,
-      "timestamp": "2034-03-18T21:43:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "한성 최근거 더 봐야 알듯",
+      "content": "짤 말고 공식영상부터 봐야겠다",
       "deleted": false
     }
   ],

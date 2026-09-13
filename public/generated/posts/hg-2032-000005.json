@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000005-v8-001",
+      "id": "c-2032-000005-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-08T14:27:23+09:00",
+      "timestamp": "2032-05-08T14:31:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "59.10"
       },
-      "content": "렌탈비보다 백업이 귀찮을때 있음",
+      "content": "훈련장 표시 기준으로 추정하는 글은 있는데 공식수치는 못봄",
       "deleted": false
     },
     {
-      "id": "c-2032-000005-v8-002",
+      "id": "c-2032-000005-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-08T14:30:50+09:00",
+      "timestamp": "2032-05-08T14:42:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "59.10"
       },
-      "content": "가격보다 배터리/저조도/저장 먼저 봐",
+      "content": "공개영상은 카메라 밖까지 얼어서 정확한 끝이 안보임",
       "deleted": false
     },
     {
-      "id": "c-2032-000005-v8-003",
+      "id": "c-2032-000005-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-08T14:34:47+09:00",
+      "timestamp": "2032-05-08T14:46:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.250"
       },
-      "content": "마운트 되는지 꼭 봐",
+      "content": "영상 한개로 최대범위라고 단정하긴 어렵지",
       "deleted": false
     },
     {
-      "id": "c-2032-000005-v8-004",
-      "parentId": "c-2032-000005-v8-002",
-      "timestamp": "2032-05-08T14:36:52+09:00",
+      "id": "c-2032-000005-b1-004",
+      "parentId": null,
+      "timestamp": "2032-05-08T14:51:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.58"
       },
-      "content": "이건 물어볼만함",
+      "content": "후속캠 각도 보면 생각보다 더 넓어보이더라",
       "deleted": false
     },
     {
-      "id": "c-2032-000005-v8-005",
-      "parentId": null,
-      "timestamp": "2032-05-08T14:40:44+09:00",
+      "id": "c-2032-000005-b1-005",
+      "parentId": "c-2032-000005-b1-002",
+      "timestamp": "2032-05-08T14:56:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "125.180"
       },
-      "content": "원본파일 존나 큼",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000005-v8-006",
-      "parentId": null,
-      "timestamp": "2032-05-08T14:42:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "일반카메라랑 마석식은 다르게 생각해야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000005-v8-007",
-      "parentId": "c-2032-000005-v8-006",
-      "timestamp": "2032-05-08T14:46:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000005-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-08T14:49:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "촬영담당 없으면 손에 들고찍는건 비추",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000005-v8-009",
-      "parentId": null,
-      "timestamp": "2032-05-08T14:51:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000005-v8-010",
-      "parentId": "c-2032-000005-v8-005",
-      "timestamp": "2032-05-08T14:55:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000005-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-08T14:58:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000005-v8-012",
-      "parentId": null,
-      "timestamp": "2032-05-08T15:00:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "이건 처음듣네",
+      "content": "그건 실제 계약서/공지 봐야됨",
       "deleted": false
     }
   ],

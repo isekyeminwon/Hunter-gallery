@@ -33,147 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000015-v8-001",
+      "id": "c-2040-000015-b2m-001",
       "parentId": null,
-      "timestamp": "2040-03-08T13:06:27+09:00",
+      "timestamp": "2040-03-08T13:04:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "211.36"
       },
-      "content": "이런표는 만든사람 팬심이 반임",
+      "content": "한국 인터뷰 뜰때마다 중국사고 영상 다시 도네",
       "deleted": false
     },
     {
-      "id": "c-2040-000015-v8-002",
+      "id": "c-2040-000015-b2m-002",
       "parentId": null,
-      "timestamp": "2040-03-08T13:10:01+09:00",
+      "timestamp": "2040-03-08T13:08:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "106.101"
       },
-      "content": "A도 존나 상위권인데 감각 망가짐",
+      "content": "구조영상이 워낙 강해서 다른 지원팀 얘기가 묻힌 느낌",
       "deleted": false
     },
     {
-      "id": "c-2040-000015-v8-003",
-      "parentId": "c-2040-000015-v8-002",
-      "timestamp": "2040-03-08T13:13:23+09:00",
+      "id": "c-2040-000015-b2m-003",
+      "parentId": null,
+      "timestamp": "2040-03-08T13:09:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "211.201"
       },
-      "content": "상성 넣으면 또 표 갈아야됨",
+      "content": "한국 체류랑 한국 소속은 다른 얘기지",
       "deleted": false
     },
     {
-      "id": "c-2040-000015-v8-004",
+      "id": "c-2040-000015-b2m-004",
       "parentId": null,
-      "timestamp": "2040-03-08T13:17:22+09:00",
+      "timestamp": "2040-03-08T13:13:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "211.201"
       },
-      "content": "또 순위매기네ㅋㅋ",
+      "content": "샤오룽 한국어 진짜 많이 늘었더라",
       "deleted": false
     },
     {
-      "id": "c-2040-000015-v8-005",
+      "id": "c-2040-000015-b2m-005",
       "parentId": null,
-      "timestamp": "2040-03-08T13:19:31+09:00",
+      "timestamp": "2040-03-08T13:16:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "106.101"
       },
-      "content": "샤오룽 최근 실적부터 가져와봐",
+      "content": "한국 체류랑 소속은 별개지",
       "deleted": false
     },
     {
-      "id": "c-2040-000015-v8-006",
-      "parentId": null,
-      "timestamp": "2040-03-08T13:22:12+09:00",
+      "id": "c-2040-000015-b2m-006",
+      "parentId": "c-2040-000015-b2m-002",
+      "timestamp": "2040-03-08T13:18:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "211.201"
       },
-      "content": "상성 변수 빼고 몇위가 뭔의미냐",
+      "content": "풀버전 있으면 판단 쉬울듯",
       "deleted": false
     },
     {
-      "id": "c-2040-000015-v8-007",
+      "id": "c-2040-000015-b2m-007",
       "parentId": null,
+      "timestamp": "2040-03-08T13:20:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "샤오룽 한명으로 국가서열 재는건 오바",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000015-b2m-008",
+      "parentId": "c-2040-000015-b2m-006",
       "timestamp": "2040-03-08T13:23:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "118.33"
       },
-      "content": "샤오룽 지금 바로 몇위 박는건 좀 웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000015-v8-008",
-      "parentId": null,
-      "timestamp": "2040-03-08T13:25:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "샤오룽 팬들 오면 이글 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000015-v8-009",
-      "parentId": null,
-      "timestamp": "2040-03-08T13:27:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "내용은 갈드컵인데 양식은 논문임",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000015-v8-010",
-      "parentId": null,
-      "timestamp": "2040-03-08T13:29:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "{{con:dororong}}",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000015-v8-011",
-      "parentId": null,
-      "timestamp": "2040-03-08T13:32:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "오늘 끝나도 내일 또함",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000015-v8-012",
-      "parentId": "c-2040-000015-v8-006",
-      "timestamp": "2040-03-08T13:34:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "내최애가 1위임 반박안받음",
+      "content": "구조영상 재업 진짜 많음",
       "deleted": false
     }
   ],

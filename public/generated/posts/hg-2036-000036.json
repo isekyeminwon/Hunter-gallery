@@ -33,51 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000036-v8-001",
+      "id": "c-2036-000036-b1-001",
       "parentId": null,
-      "timestamp": "2036-06-11T21:45:13+09:00",
+      "timestamp": "2036-06-11T21:50:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "61.79"
       },
-      "content": "중간 이동구간 엄청 잘라냈더라",
+      "content": "링크 있는놈 줘봐",
       "deleted": false
     },
     {
-      "id": "c-2036-000036-v8-002",
+      "id": "c-2036-000036-b1-002",
       "parentId": null,
-      "timestamp": "2036-06-11T21:48:02+09:00",
+      "timestamp": "2036-06-11T22:01:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "61.79"
       },
-      "content": "이번 편집 진짜 잘뽑았네",
+      "content": "몇분몇초 그장면 다시보는중",
       "deleted": false
     },
     {
-      "id": "c-2036-000036-v8-003",
-      "parentId": "c-2036-000036-v8-001",
-      "timestamp": "2036-06-11T21:51:27+09:00",
+      "id": "c-2036-000036-b1-003",
+      "parentId": null,
+      "timestamp": "2036-06-11T22:09:56+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
       },
-      "content": "중간 이동구간 얼마나 잘랐을지 궁금함",
+      "content": "짤만 돌지말고 원본좀",
       "deleted": false
     },
     {
-      "id": "c-2036-000036-v8-004",
+      "id": "c-2036-000036-b1-004",
       "parentId": null,
-      "timestamp": "2036-06-11T21:54:23+09:00",
+      "timestamp": "2036-06-11T22:20:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "112.171"
       },
-      "content": "풀버전도 풀어줬으면",
+      "content": "댓글속도가 영상보다 빠르네ㅋㅋ",
       "deleted": false
     }
   ],

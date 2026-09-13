@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000095-v8-001",
+      "id": "c-2041-000095-b2m-001",
       "parentId": null,
-      "timestamp": "2041-01-05T23:23:00+09:00",
+      "timestamp": "2041-01-05T23:21:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "110.70"
       },
-      "content": "보험 있냐",
+      "content": "게이트등급/예상시간/역할/보험 네개부터 봐",
       "deleted": false
     },
     {
-      "id": "c-2041-000095-v8-002",
+      "id": "c-2041-000095-b2m-002",
       "parentId": null,
-      "timestamp": "2041-01-05T23:26:43+09:00",
+      "timestamp": "2041-01-05T23:23:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "223.38"
       },
-      "content": "계약주체 누구임",
+      "content": "일당만 있고 철수지급조건 없으면 물어봐",
       "deleted": false
     }
   ],

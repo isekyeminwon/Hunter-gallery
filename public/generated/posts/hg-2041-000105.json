@@ -33,111 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000105-v8-001",
+      "id": "c-2041-000105-b2m-001",
       "parentId": null,
-      "timestamp": "2041-09-15T19:51:50+09:00",
+      "timestamp": "2041-09-15T19:52:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "211.58"
       },
-      "content": "팀마다 이부분은 좀 갈리더라",
+      "content": "공용가방은 누가 들고 누가 꺼내는지부터 정해",
       "deleted": false
     },
     {
-      "id": "c-2041-000105-v8-002",
+      "id": "c-2041-000105-b2m-002",
       "parentId": null,
-      "timestamp": "2041-09-15T19:55:40+09:00",
+      "timestamp": "2041-09-15T19:55:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "106.101"
       },
-      "content": "이거 저장해둠",
+      "content": "철수할때 남은수량 한번 세는 습관 들이면 정산편함",
       "deleted": false
     },
     {
-      "id": "c-2041-000105-v8-003",
+      "id": "c-2041-000105-b2m-003",
       "parentId": null,
-      "timestamp": "2041-09-15T19:58:20+09:00",
+      "timestamp": "2041-09-15T19:58:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.248"
       },
-      "content": "이건 경험값 한번 내면 기억남",
+      "content": "{{con:real}}",
       "deleted": false
     },
     {
-      "id": "c-2041-000105-v8-004",
-      "parentId": "c-2041-000105-v8-001",
-      "timestamp": "2041-09-15T20:01:16+09:00",
+      "id": "c-2041-000105-b2m-004",
+      "parentId": null,
+      "timestamp": "2041-09-15T20:01:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "211.58"
       },
-      "content": "이건 해보면 체감함",
+      "content": "개인비상분까지 공용으로 다묶는건 비추",
       "deleted": false
     },
     {
-      "id": "c-2041-000105-v8-005",
-      "parentId": null,
-      "timestamp": "2041-09-15T20:04:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "처음가는사람은 이런거 봐둬",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000105-v8-006",
-      "parentId": null,
-      "timestamp": "2041-09-15T20:06:53+09:00",
+      "id": "c-2041-000105-b2m-005",
+      "parentId": "c-2041-000105-b2m-001",
+      "timestamp": "2041-09-15T20:03:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.248"
       },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000105-v8-007",
-      "parentId": null,
-      "timestamp": "2041-09-15T20:08:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "출발전에 정해두는게 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000105-v8-008",
-      "parentId": "c-2041-000105-v8-005",
-      "timestamp": "2041-09-15T20:11:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000105-v8-009",
-      "parentId": "c-2041-000105-v8-008",
-      "timestamp": "2041-09-15T20:14:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "뉴비면 체크해둘만함",
+      "content": "사용량 기록 안하면 후반에 부족해짐",
       "deleted": false
     }
   ],

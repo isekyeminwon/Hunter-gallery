@@ -33,147 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000013-v8-001",
+      "id": "c-2037-000013-b1-001",
       "parentId": null,
-      "timestamp": "2037-03-10T18:46:07+09:00",
+      "timestamp": "2037-03-10T18:54:10+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
       },
-      "content": "원본파일 존나 큼",
+      "content": "일 터진지 얼마나 됐다고 밈부터 생기냐ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2037-000013-v8-002",
+      "id": "c-2037-000013-b1-002",
       "parentId": null,
-      "timestamp": "2037-03-10T18:49:22+09:00",
+      "timestamp": "2037-03-10T18:58:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "106.248"
       },
-      "content": "마운트 되는지 꼭 봐",
+      "content": "팬덤끼리 싸우는건 진짜 빠르다",
       "deleted": false
     },
     {
-      "id": "c-2037-000013-v8-003",
+      "id": "c-2037-000013-b1-003",
       "parentId": null,
-      "timestamp": "2037-03-10T18:53:03+09:00",
+      "timestamp": "2037-03-10T19:05:01+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
       },
-      "content": "가격보다 배터리/저조도/저장 먼저 봐",
+      "content": "{{con:idk}}",
       "deleted": false
     },
     {
-      "id": "c-2037-000013-v8-004",
+      "id": "c-2037-000013-b1-004",
       "parentId": null,
-      "timestamp": "2037-03-10T18:56:46+09:00",
+      "timestamp": "2037-03-10T19:16:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "211.201"
       },
-      "content": "일반카메라랑 마석식은 다르게 생각해야됨",
+      "content": "원본내용보다 짤이 먼저 퍼지는중",
       "deleted": false
     },
     {
-      "id": "c-2037-000013-v8-005",
+      "id": "c-2037-000013-b1-005",
       "parentId": null,
-      "timestamp": "2037-03-10T18:58:38+09:00",
+      "timestamp": "2037-03-10T19:26:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "61.79"
       },
-      "content": "촬영담당 없으면 손에 들고찍는건 비추",
+      "content": "촬영팀 따로 붙으면 전투팀 동선도 신경쓸게 늘어남",
       "deleted": false
     },
     {
-      "id": "c-2037-000013-v8-006",
-      "parentId": "c-2037-000013-v8-003",
-      "timestamp": "2037-03-10T19:00:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000013-v8-007",
-      "parentId": "c-2037-000013-v8-001",
-      "timestamp": "2037-03-10T19:03:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000013-v8-008",
+      "id": "c-2037-000013-b1-006",
       "parentId": null,
-      "timestamp": "2037-03-10T19:05:37+09:00",
+      "timestamp": "2037-03-10T19:31:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "106.248"
       },
-      "content": "이건 인정",
+      "content": "모양 예쁘다고 하나 챙기면 안되는건 당연하지ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2037-000013-v8-009",
+      "id": "c-2037-000013-b1-007",
+      "parentId": "c-2037-000013-b1-005",
+      "timestamp": "2037-03-10T19:41:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2037-000013-b1-008",
       "parentId": null,
-      "timestamp": "2037-03-10T19:09:26+09:00",
+      "timestamp": "2037-03-10T19:47:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "106.248"
       },
-      "content": "렌탈비보다 백업이 귀찮을때 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000013-v8-010",
-      "parentId": "c-2037-000013-v8-008",
-      "timestamp": "2037-03-10T19:13:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000013-v8-011",
-      "parentId": null,
-      "timestamp": "2037-03-10T19:14:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000013-v8-012",
-      "parentId": null,
-      "timestamp": "2037-03-10T19:18:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "그럴수도 있지",
+      "content": "수수료까지 빼고 봐야 실제 남는돈 나옴",
       "deleted": false
     }
   ],

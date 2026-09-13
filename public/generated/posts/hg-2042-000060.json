@@ -33,15 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000060-v8-001",
+      "id": "c-2042-000060-b2m-001",
       "parentId": null,
-      "timestamp": "2042-05-30T20:26:43+09:00",
+      "timestamp": "2042-05-30T20:27:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "1.239"
       },
-      "content": "나도 답 기다림",
+      "content": "A급이나 장기계약이면 검토 맡기는 사람 꽤 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000060-b2m-002",
+      "parentId": null,
+      "timestamp": "2042-05-30T20:28:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "전속/초상권/장비손해 조항은 특히 봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000060-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-05-30T20:32:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "계약금만 보고 사인하면 나중에 방송/이적조항에서 꼬일수 있음",
       "deleted": false
     }
   ],

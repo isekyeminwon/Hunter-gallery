@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000022-v8-001",
+      "id": "c-2040-000022-b2m-001",
       "parentId": null,
-      "timestamp": "2040-09-18T09:04:33+09:00",
+      "timestamp": "2040-09-18T09:03:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "39.125"
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "수리중 대차해주는지부터 봐. 장기계약은 그게 체감 큼",
       "deleted": false
     },
     {
-      "id": "c-2040-000022-v8-002",
+      "id": "c-2040-000022-b2m-002",
       "parentId": null,
-      "timestamp": "2040-09-18T09:07:49+09:00",
+      "timestamp": "2040-09-18T09:05:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "121.163"
       },
-      "content": "보험 있냐",
+      "content": "중도해지 위약금도 봐라 싸다고 묶었다가 못나옴",
       "deleted": false
     }
   ],

@@ -33,255 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000021-v8-001",
+      "id": "c-2040-000021-b2m-001",
       "parentId": null,
-      "timestamp": "2040-07-11T17:53:03+09:00",
+      "timestamp": "2040-07-11T17:54:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "118.33"
       },
-      "content": "개인거 있어도 팀보험은 따로 봄",
+      "content": "렌탈이면 인수상태랑 반납상태 같이 남겨",
       "deleted": false
     },
     {
-      "id": "c-2040-000021-v8-002",
+      "id": "c-2040-000021-b2m-002",
       "parentId": null,
-      "timestamp": "2040-07-11T17:55:49+09:00",
+      "timestamp": "2040-07-11T17:57:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.202"
+        "ip": "211.201"
       },
-      "content": "누가 가입시키는지부터 확인",
+      "content": "배터리 성능저하는 숫자로 적어두면 체감 잘됨",
       "deleted": false
     },
     {
-      "id": "c-2040-000021-v8-003",
+      "id": "c-2040-000021-b2m-003",
       "parentId": null,
-      "timestamp": "2040-07-11T17:57:41+09:00",
+      "timestamp": "2040-07-11T17:58:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "118.33"
       },
-      "content": "현장등급 제한 먼저 봐",
+      "content": "같은 부품 반복고장 찾는게 제일 도움됨",
       "deleted": false
     },
     {
-      "id": "c-2040-000021-v8-004",
+      "id": "c-2040-000021-b2m-004",
       "parentId": null,
-      "timestamp": "2040-07-11T17:59:57+09:00",
+      "timestamp": "2040-07-11T18:00:45+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "브랜드보다 보장내용 확인해",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-005",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:02:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "보험사 이름보다 보장범위가 먼저임",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-006",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:05:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "일당 좀 덜줘도 보험 확실한팀이 낫더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-007",
-      "parentId": "c-2040-000021-v8-001",
-      "timestamp": "2040-07-11T18:08:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "저등급만 되는거 은근 있더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-008",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:11:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "B급 갈거면 저등급까지만 되는거 걸러",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-009",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:13:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "개인보험 있어도 팀쪽 조건 따로 확인함",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-010",
-      "parentId": "c-2040-000021-v8-008",
-      "timestamp": "2040-07-11T18:15:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "팀보험이랑 개인거는 따로 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-011",
-      "parentId": "c-2040-000021-v8-009",
-      "timestamp": "2040-07-11T18:18:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "보장범위가 제일 중요함",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-012",
-      "parentId": "c-2040-000021-v8-009",
-      "timestamp": "2040-07-11T18:21:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "보험됨 한줄로 끝내면 불안함",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-013",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:23:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-014",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:26:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-015",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:28:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "보험됨 한줄만 믿지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-016",
-      "parentId": "c-2040-000021-v8-011",
-      "timestamp": "2040-07-11T18:31:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "후송/치료 범위도 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-017",
-      "parentId": "c-2040-000021-v8-010",
-      "timestamp": "2040-07-11T18:34:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "후송/치료 범위도 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-018",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:36:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-019",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:39:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-020",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:42:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000021-v8-021",
-      "parentId": null,
-      "timestamp": "2040-07-11T18:45:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "나도 비슷했음",
+      "content": "고장난 날짜/증상/수리내역만 적어도 교체시기 보임",
       "deleted": false
     }
   ],

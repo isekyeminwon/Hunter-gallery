@@ -33,267 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000018-v8-001",
+      "id": "c-2032-000018-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-12T19:04:55+09:00",
+      "timestamp": "2032-05-12T19:12:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "118.44"
       },
-      "content": "나도 이거 궁금했음",
+      "content": "팬계정부터 기자까지 다 써서 거의 굳은듯",
       "deleted": false
     },
     {
-      "id": "c-2032-000018-v8-002",
+      "id": "c-2032-000018-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-12T19:06:57+09:00",
+      "timestamp": "2032-05-12T19:23:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "106.250"
       },
-      "content": "해본사람 있냐",
+      "content": "공식 능력명이라기보다 별명에 가까운거 아님?",
       "deleted": false
     },
     {
-      "id": "c-2032-000018-v8-003",
+      "id": "c-2032-000018-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-12T19:10:29+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "요즘 기준 글이 잘안보이더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-004",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:12:54+09:00",
+      "timestamp": "2032-05-12T19:34:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "106.250"
       },
-      "content": "이건 첫번엔 잘모름",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-005",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:15:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "나도 처음엔 이거 몰랐음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-006",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:18:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-007",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:21:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "비슷하게 해본놈 더없냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-008",
-      "parentId": "c-2032-000018-v8-003",
-      "timestamp": "2032-05-12T19:23:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-009",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:26:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "김채연 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-010",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:28:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:30:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-012",
-      "parentId": "c-2032-000018-v8-009",
-      "timestamp": "2032-05-12T19:33:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-013",
-      "parentId": "c-2032-000018-v8-009",
-      "timestamp": "2032-05-12T19:35:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-014",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:36:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-015",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:39:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "이건 나도 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-016",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:42:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-017",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:45:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-018",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:46:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-019",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:49:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-020",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:52:38+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-021",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:55:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000018-v8-022",
-      "parentId": null,
-      "timestamp": "2032-05-12T19:57:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "근거는?",
+      "content": "김채연 본인이 좋아하는지는 모르겠지만ㅋㅋ",
       "deleted": false
     }
   ],

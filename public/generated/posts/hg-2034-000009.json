@@ -33,231 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000009-v8-001",
+      "id": "c-2034-000009-b1-001",
       "parentId": null,
-      "timestamp": "2034-03-13T03:11:43+09:00",
+      "timestamp": "2034-03-13T03:15:18+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.101"
+        "ip": "211.202"
       },
-      "content": "백호는 장비지원 이미지가 확실하긴함",
+      "content": "장비지원 체감은 백호 후기 제일 많이 보이긴함",
       "deleted": false
     },
     {
-      "id": "c-2034-000009-v8-002",
+      "id": "c-2034-000009-b1-002",
       "parentId": null,
-      "timestamp": "2034-03-13T03:13:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "한성 지원서 통과부터 하라는 소리 나온다",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-003",
-      "parentId": null,
-      "timestamp": "2034-03-13T03:17:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "한성 복지후기는 상대적으로 덜보이긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-004",
-      "parentId": "c-2034-000009-v8-003",
-      "timestamp": "2034-03-13T03:20:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-005",
-      "parentId": "c-2034-000009-v8-002",
-      "timestamp": "2034-03-13T03:23:53+09:00",
+      "timestamp": "2034-03-13T03:23:37+09:00",
       "author": {
         "type": "fixed",
-        "name": "백호복지팀",
+        "name": "마탑첩자",
         "ip": null
       },
-      "content": "마법계면 네뷸라가 끌릴만함",
+      "content": "근데 실수령/보험/휴가표 없으면 복지표도 반쪽임",
       "deleted": false
     },
     {
-      "id": "c-2034-000009-v8-006",
+      "id": "c-2034-000009-b1-003",
       "parentId": null,
-      "timestamp": "2034-03-13T03:27:26+09:00",
+      "timestamp": "2034-03-13T03:30:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "211.202"
       },
-      "content": "취업이면 복지/교육도 봐야지",
+      "content": "한성은 복지보다 이름값이랑 상위공략 기회가 더 큰 메리트같음",
       "deleted": false
     },
     {
-      "id": "c-2034-000009-v8-007",
+      "id": "c-2034-000009-b1-004",
       "parentId": null,
-      "timestamp": "2034-03-13T03:29:37+09:00",
+      "timestamp": "2034-03-13T03:39:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "복지만 놓고 보면 난 백호쪽",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000009-b1-005",
+      "parentId": null,
+      "timestamp": "2034-03-13T03:47:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "59.10"
       },
-      "content": "복지만 보면 백호 쪽 손드는 사람 많지",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-008",
-      "parentId": null,
-      "timestamp": "2034-03-13T03:33:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "마법계는 네뷸라 교육이 솔깃하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-009",
-      "parentId": null,
-      "timestamp": "2034-03-13T03:35:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "네뷸라는 교육을 복지로 치냐에서 갈릴듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-010",
-      "parentId": "c-2034-000009-v8-007",
-      "timestamp": "2034-03-13T03:39:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-011",
-      "parentId": "c-2034-000009-v8-010",
-      "timestamp": "2034-03-13T03:43:19+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-012",
-      "parentId": null,
-      "timestamp": "2034-03-13T03:47:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "헌터활동이랑 콘텐츠 붙는거 싫으면 안맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-013",
-      "parentId": null,
-      "timestamp": "2034-03-13T03:48:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "말하다 왜 싸움이 됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-014",
-      "parentId": "c-2034-000009-v8-011",
-      "timestamp": "2034-03-13T03:50:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.10"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-015",
-      "parentId": null,
-      "timestamp": "2034-03-13T03:54:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-016",
-      "parentId": "c-2034-000009-v8-011",
-      "timestamp": "2034-03-13T03:55:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-017",
-      "parentId": null,
-      "timestamp": "2034-03-13T03:57:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-018",
-      "parentId": "c-2034-000009-v8-011",
-      "timestamp": "2034-03-13T03:58:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000009-v8-019",
-      "parentId": null,
-      "timestamp": "2034-03-13T04:02:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "ㅇㅇ",
+      "content": "마법계면 네뷸라 교육쪽 때문에 흔들릴듯",
       "deleted": false
     }
   ],

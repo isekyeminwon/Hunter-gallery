@@ -33,123 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000045-v8-001",
+      "id": "c-2032-000045-b1-001",
       "parentId": null,
-      "timestamp": "2032-10-07T11:45:28+09:00",
+      "timestamp": "2032-10-07T11:50:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "106.245"
       },
-      "content": "마법계 지인이 네뷸라 선호하긴하더라",
+      "content": "보유 S만 세면 한성이 너무 유리해서 다른 요소가 다 사라짐",
       "deleted": false
     },
     {
-      "id": "c-2032-000045-v8-002",
+      "id": "c-2032-000045-b1-002",
       "parentId": null,
-      "timestamp": "2032-10-07T11:47:43+09:00",
+      "timestamp": "2032-10-07T12:02:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "223.62"
       },
-      "content": "일단 셋다 붙고 고민하자ㅋㅋ",
+      "content": "길드순위라는 말 자체가 뭘 기준으로 하냐부터 싸움",
       "deleted": false
     },
     {
-      "id": "c-2032-000045-v8-003",
+      "id": "c-2032-000045-b1-003",
+      "parentId": "c-2032-000045-b1-002",
+      "timestamp": "2032-10-07T12:07:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.245"
+      },
+      "content": "전투력 순위랑 취업하기 좋은 길드는 따로 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000045-b1-004",
       "parentId": null,
-      "timestamp": "2032-10-07T11:51:11+09:00",
+      "timestamp": "2032-10-07T12:12:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "223.52"
       },
-      "content": "백호는 장비지원 이미지가 확실하긴함",
+      "content": "공략실적 장비 교육 복지까지 넣으면 순위표 끝도없음ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2032-000045-v8-004",
-      "parentId": "c-2032-000045-v8-001",
-      "timestamp": "2032-10-07T11:53:26+09:00",
+      "id": "c-2032-000045-b1-005",
+      "parentId": "c-2032-000045-b1-004",
+      "timestamp": "2032-10-07T12:16:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "223.62"
       },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000045-v8-005",
-      "parentId": null,
-      "timestamp": "2032-10-07T11:56:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "방송노출 싫은사람은 스텔라 안맞겠지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000045-v8-006",
-      "parentId": null,
-      "timestamp": "2032-10-07T11:57:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "선택권 있는척 하지마ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000045-v8-007",
-      "parentId": null,
-      "timestamp": "2032-10-07T12:00:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000045-v8-008",
-      "parentId": null,
-      "timestamp": "2032-10-07T12:02:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000045-v8-009",
-      "parentId": "c-2032-000045-v8-007",
-      "timestamp": "2032-10-07T12:05:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000045-v8-010",
-      "parentId": null,
-      "timestamp": "2032-10-07T12:06:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "나만 이렇게 하는건가",
+      "content": "전투력만 볼거면 그냥 보유 상위헌터 명단이랑 뭐가 다름",
       "deleted": false
     }
   ],

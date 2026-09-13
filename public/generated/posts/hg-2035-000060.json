@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2035-000060-v8-001",
+      "id": "c-2035-000060-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-16T00:32:35+09:00",
+      "timestamp": "2035-07-16T00:38:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "14.32"
       },
-      "content": "댓글이 영상보다 재밌음",
+      "content": "방송 싫어하는 헌터는 여기 호불호 크겠다",
       "deleted": false
     },
     {
-      "id": "c-2035-000060-v8-002",
+      "id": "c-2035-000060-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-16T00:36:23+09:00",
+      "timestamp": "2035-07-16T00:47:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "1.239"
       },
-      "content": "편집은 잘했네",
+      "content": "별하나 들어오고 스텔라 검색량 미쳤네",
       "deleted": false
     },
     {
-      "id": "c-2035-000060-v8-003",
+      "id": "c-2035-000060-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-16T00:39:31+09:00",
+      "timestamp": "2035-07-16T00:57:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "1.239"
       },
-      "content": "걍 공채널부터 뒤져봐야지",
+      "content": "영상 프레임만 보고 실전공략 따라하면 안되는건 맞음",
       "deleted": false
     },
     {
-      "id": "c-2035-000060-v8-004",
+      "id": "c-2035-000060-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-16T00:41:08+09:00",
+      "timestamp": "2035-07-16T01:04:47+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
       },
-      "content": "댓글구경이 본편이다",
+      "content": "스텔라는 전투영상도 콘텐츠처럼 뽑는게 확실히 다름",
       "deleted": false
     },
     {
-      "id": "c-2035-000060-v8-005",
-      "parentId": null,
-      "timestamp": "2035-07-16T00:42:39+09:00",
+      "id": "c-2035-000060-b1-005",
+      "parentId": "c-2035-000060-b1-003",
+      "timestamp": "2035-07-16T01:14:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "14.32"
       },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000060-v8-006",
-      "parentId": null,
-      "timestamp": "2035-07-16T00:46:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000060-v8-007",
-      "parentId": null,
-      "timestamp": "2035-07-16T00:50:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000060-v8-008",
-      "parentId": null,
-      "timestamp": "2035-07-16T00:52:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000060-v8-009",
-      "parentId": null,
-      "timestamp": "2035-07-16T00:56:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000060-v8-010",
-      "parentId": "c-2035-000060-v8-004",
-      "timestamp": "2035-07-16T00:58:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "편집 잘했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000060-v8-011",
-      "parentId": null,
-      "timestamp": "2035-07-16T01:02:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "본문보다 댓글이 더길어졌네",
-      "deleted": false
-    },
-    {
-      "id": "c-2035-000060-v8-012",
-      "parentId": null,
-      "timestamp": "2035-07-16T01:04:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "이건 처음듣네",
+      "content": "원본 링크 있냐",
       "deleted": false
     }
   ],

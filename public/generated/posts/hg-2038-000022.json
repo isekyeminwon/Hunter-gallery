@@ -33,543 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000022-v8-001",
+      "id": "c-2038-000022-b2m-001",
       "parentId": null,
-      "timestamp": "2038-08-03T15:25:30+09:00",
+      "timestamp": "2038-08-03T15:25:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "182.214"
       },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
+      "content": "편집본은 참고자료지 공략매뉴얼이 아님",
       "deleted": false
     },
     {
-      "id": "c-2038-000022-v8-002",
+      "id": "c-2038-000022-b2m-002",
       "parentId": null,
-      "timestamp": "2038-08-03T15:28:06+09:00",
+      "timestamp": "2038-08-03T15:28:08+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
+      "content": "같은 지형이어도 파티구성 다르면 동선 복붙하면 안됨",
       "deleted": false
     },
     {
-      "id": "c-2038-000022-v8-003",
-      "parentId": "c-2038-000022-v8-001",
-      "timestamp": "2038-08-03T15:29:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "당일정산이 편하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-004",
-      "parentId": "c-2038-000022-v8-001",
-      "timestamp": "2038-08-03T15:31:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "매입가 확정뒤 보내는팀도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-005",
+      "id": "c-2038-000022-b2m-003",
       "parentId": null,
-      "timestamp": "2038-08-03T15:35:45+09:00",
+      "timestamp": "2038-08-03T15:30:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.221"
+        "ip": "182.214"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "content": "결과 알고 보는 영상이라 현장 판단이 훨씬 쉬워보임",
       "deleted": false
     },
     {
-      "id": "c-2038-000022-v8-006",
+      "id": "c-2038-000022-b2m-004",
       "parentId": null,
-      "timestamp": "2038-08-03T15:37:26+09:00",
+      "timestamp": "2038-08-03T15:33:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "59.5"
       },
-      "content": "당일도 있고 며칠뒤도 있음",
+      "content": "영상 한프레임엔 앞뒤 정찰/대기/콜이 다 빠져있음",
       "deleted": false
     },
     {
-      "id": "c-2038-000022-v8-007",
+      "id": "c-2038-000022-b2m-005",
       "parentId": null,
-      "timestamp": "2038-08-03T15:39:46+09:00",
+      "timestamp": "2038-08-03T15:36:15+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "정성추",
       "deleted": false
     },
     {
-      "id": "c-2038-000022-v8-008",
-      "parentId": "c-2038-000022-v8-002",
-      "timestamp": "2038-08-03T15:43:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "정산일 적혀있으면 덜싸움",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-009",
+      "id": "c-2038-000022-b2m-006",
       "parentId": null,
-      "timestamp": "2038-08-03T15:45:09+09:00",
+      "timestamp": "2038-08-03T15:38:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "1.239"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-010",
-      "parentId": "c-2038-000022-v8-003",
-      "timestamp": "2038-08-03T15:47:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "일주일 넘으면 한번 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-011",
-      "parentId": null,
-      "timestamp": "2038-08-03T15:50:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-012",
-      "parentId": null,
-      "timestamp": "2038-08-03T15:53:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-013",
-      "parentId": null,
-      "timestamp": "2038-08-03T15:54:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-014",
-      "parentId": null,
-      "timestamp": "2038-08-03T15:56:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-015",
-      "parentId": null,
-      "timestamp": "2038-08-03T15:58:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-016",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:01:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㅅㅂ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-017",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:04:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-018",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:07:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-019",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:10:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-020",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:13:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-021",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:16:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-022",
-      "parentId": "c-2038-000022-v8-015",
-      "timestamp": "2038-08-03T16:20:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "정산일 적혀있으면 덜싸움",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-023",
-      "parentId": "c-2038-000022-v8-019",
-      "timestamp": "2038-08-03T16:23:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "당일정산이 편하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-024",
-      "parentId": "c-2038-000022-v8-018",
-      "timestamp": "2038-08-03T16:26:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "정산일 적혀있으면 덜싸움",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-025",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:30:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-026",
-      "parentId": "c-2038-000022-v8-022",
-      "timestamp": "2038-08-03T16:33:29+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "당일정산이 편하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-027",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:34:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-028",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:38:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.221"
-      },
-      "content": "원글 내용 까먹고 다시봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-029",
-      "parentId": "c-2038-000022-v8-022",
-      "timestamp": "2038-08-03T16:42:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "당일정산이 편하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-030",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:45:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-031",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:49:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-032",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:52:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-033",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:54:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-034",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:55:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-035",
-      "parentId": null,
-      "timestamp": "2038-08-03T16:57:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-036",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:00:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-037",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:02:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "아 또 시작했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-038",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:06:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-039",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:08:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-040",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:12:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-041",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:14:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-042",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:17:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-043",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:20:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-044",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:21:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000022-v8-045",
-      "parentId": null,
-      "timestamp": "2038-08-03T17:24:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "이건 저장함",
       "deleted": false
     }
   ],

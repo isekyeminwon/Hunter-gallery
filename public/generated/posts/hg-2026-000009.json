@@ -33,159 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000009-v8-001",
+      "id": "c-2026-000009-b1-001",
       "parentId": null,
-      "timestamp": "2026-04-08T02:46:35+09:00",
+      "timestamp": "2026-04-08T02:48:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "211.201"
       },
-      "content": "처음이면 물어볼만함",
+      "content": "등록할때 기존 기록 연계되는 경우도 있는데 누락되면 사본 요구하더라",
       "deleted": false
     },
     {
-      "id": "c-2026-000009-v8-002",
+      "id": "c-2026-000009-b1-002",
       "parentId": null,
-      "timestamp": "2026-04-08T02:49:56+09:00",
+      "timestamp": "2026-04-08T02:58:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "211.201"
       },
-      "content": "해본사람 있냐",
+      "content": "옛날 측정소 기록번호 있으면 챙겨가",
       "deleted": false
     },
     {
-      "id": "c-2026-000009-v8-003",
-      "parentId": null,
-      "timestamp": "2026-04-08T02:52:59+09:00",
+      "id": "c-2026-000009-b1-003",
+      "parentId": "c-2026-000009-b1-002",
+      "timestamp": "2026-04-08T03:02:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "39.125"
       },
-      "content": "나도 첫번에 여기서 헷갈림",
+      "content": "재측정 대상이면 예전 종이 한장으로 끝나진 않는듯",
       "deleted": false
     },
     {
-      "id": "c-2026-000009-v8-004",
-      "parentId": null,
-      "timestamp": "2026-04-08T02:56:36+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "검색하면 옛날글만 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000009-v8-005",
-      "parentId": "c-2026-000009-v8-002",
-      "timestamp": "2026-04-08T02:59:39+09:00",
+      "id": "c-2026-000009-b1-004",
+      "parentId": "c-2026-000009-b1-002",
+      "timestamp": "2026-04-08T03:09:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "211.201"
       },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000009-v8-006",
-      "parentId": null,
-      "timestamp": "2026-04-08T03:03:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이건 나도 궁금함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000009-v8-007",
-      "parentId": "c-2026-000009-v8-002",
-      "timestamp": "2026-04-08T03:05:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000009-v8-008",
-      "parentId": null,
-      "timestamp": "2026-04-08T03:06:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000009-v8-009",
-      "parentId": "c-2026-000009-v8-005",
-      "timestamp": "2026-04-08T03:08:35+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000009-v8-010",
-      "parentId": null,
-      "timestamp": "2026-04-08T03:12:18+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "해본사람 더있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000009-v8-011",
-      "parentId": null,
-      "timestamp": "2026-04-08T03:15:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000009-v8-012",
-      "parentId": null,
-      "timestamp": "2026-04-08T03:18:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000009-v8-013",
-      "parentId": null,
-      "timestamp": "2026-04-08T03:20:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "창구마다 들고오라는 서류가 조금씩 다르다는 후기 있음",
       "deleted": false
     }
   ],

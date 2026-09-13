@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000047-v8-001",
+      "id": "c-2042-000047-b2m-001",
       "parentId": null,
-      "timestamp": "2042-03-07T05:40:11+09:00",
+      "timestamp": "2042-03-07T05:39:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "1.239"
       },
-      "content": "강주아 광고 또 찍었네ㅋㅋ",
+      "content": "백호 광고팀 또 일하네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2042-000047-v8-002",
+      "id": "c-2042-000047-b2m-002",
       "parentId": null,
-      "timestamp": "2042-03-07T05:41:42+09:00",
+      "timestamp": "2042-03-07T05:41:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "1.239"
       },
-      "content": "강주아 광고 진짜 자주나오네",
+      "content": "광고보다 메이킹 영상이 더 재밌을거같음",
       "deleted": false
     }
   ],

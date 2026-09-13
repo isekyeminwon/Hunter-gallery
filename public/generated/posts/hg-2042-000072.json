@@ -33,123 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000072-v8-001",
+      "id": "c-2042-000072-b2m-001",
       "parentId": null,
-      "timestamp": "2042-06-28T07:41:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "촬영담당 없으면 손에 들고찍는건 비추",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000072-v8-002",
-      "parentId": null,
-      "timestamp": "2042-06-28T07:44:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "일반카메라랑 마석식은 다르게 생각해야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000072-v8-003",
-      "parentId": null,
-      "timestamp": "2042-06-28T07:46:46+09:00",
+      "timestamp": "2042-06-28T07:39:23+09:00",
       "author": {
         "type": "fixed",
-        "name": "영상분석충",
+        "name": "마석눈팅",
         "ip": null
       },
-      "content": "렌탈비보다 백업이 귀찮을때 있음",
+      "content": "마석 매입가는 등급만으로 딱 정해지는게 아니라 품질/시점도 봄",
       "deleted": false
     },
     {
-      "id": "c-2042-000072-v8-004",
+      "id": "c-2042-000072-b2m-002",
       "parentId": null,
-      "timestamp": "2042-06-28T07:50:16+09:00",
+      "timestamp": "2042-06-28T07:40:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "121.163"
       },
-      "content": "마운트 되는지 꼭 봐",
+      "content": "공략권 가격이 높다고 마석수익 무조건 높은건 아님",
       "deleted": false
     },
     {
-      "id": "c-2042-000072-v8-005",
-      "parentId": "c-2042-000072-v8-001",
-      "timestamp": "2042-06-28T07:53:51+09:00",
+      "id": "c-2042-000072-b2m-003",
+      "parentId": null,
+      "timestamp": "2042-06-28T07:44:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.250"
       },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000072-v8-006",
-      "parentId": null,
-      "timestamp": "2042-06-28T07:57:35+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "원본파일 존나 큼",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000072-v8-007",
-      "parentId": "c-2042-000072-v8-005",
-      "timestamp": "2042-06-28T08:00:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000072-v8-008",
-      "parentId": "c-2042-000072-v8-005",
-      "timestamp": "2042-06-28T08:04:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000072-v8-009",
-      "parentId": null,
-      "timestamp": "2042-06-28T08:06:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "가격보다 배터리/저조도/저장 먼저 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000072-v8-010",
-      "parentId": null,
-      "timestamp": "2042-06-28T08:08:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㅇㅇ",
+      "content": "회수량 확정 전 예상수익으로 싸우는게 제일 의미없음",
       "deleted": false
     }
   ],

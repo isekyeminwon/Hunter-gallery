@@ -33,27 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000043-v8-001",
+      "id": "c-2039-000043-b2m-001",
       "parentId": null,
-      "timestamp": "2039-04-07T20:11:44+09:00",
+      "timestamp": "2039-04-07T20:11:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "1.239"
       },
-      "content": "원본 어디임",
+      "content": "상위길드라고 모든 파티 분위기가 같은건 아님",
       "deleted": false
     },
     {
-      "id": "c-2039-000043-v8-002",
+      "id": "c-2039-000043-b2m-002",
       "parentId": null,
-      "timestamp": "2039-04-07T20:14:13+09:00",
+      "timestamp": "2039-04-07T20:13:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "스텔라는 방송노출 싫어하면 호불호 갈릴듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000043-b2m-003",
+      "parentId": null,
+      "timestamp": "2039-04-07T20:16:29+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.250"
       },
-      "content": "걍 공채널부터 뒤져봐야지",
+      "content": "취업선호랑 전투서열은 따로 봐야됨",
       "deleted": false
     }
   ],

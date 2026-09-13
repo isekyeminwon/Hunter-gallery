@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000077-v8-001",
+      "id": "c-2042-000077-b2m-001",
       "parentId": null,
-      "timestamp": "2042-05-25T22:19:50+09:00",
+      "timestamp": "2042-05-25T22:21:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "211.201"
       },
-      "content": "댓글에 네뷸라팬 벌써옴",
+      "content": "백호 광고팀 또 일하네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2042-000077-v8-002",
+      "id": "c-2042-000077-b2m-002",
       "parentId": null,
-      "timestamp": "2042-05-25T22:21:56+09:00",
+      "timestamp": "2042-05-25T22:22:48+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
       },
-      "content": "팬 아닌데 이건 잘뽑힘",
+      "content": "장비샷은 잘뽑았더라",
       "deleted": false
     },
     {
-      "id": "c-2042-000077-v8-003",
-      "parentId": "c-2042-000077-v8-002",
-      "timestamp": "2042-05-25T22:24:22+09:00",
+      "id": "c-2042-000077-b2m-003",
+      "parentId": "c-2042-000077-b2m-002",
+      "timestamp": "2042-05-25T22:26:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "118.221"
       },
-      "content": "강주아 광고는 자주보긴함",
+      "content": "팬계정 벌써 짤 다뽑았네",
       "deleted": false
     }
   ],

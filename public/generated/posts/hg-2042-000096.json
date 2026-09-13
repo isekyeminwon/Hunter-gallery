@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000096-v8-001",
+      "id": "c-2042-000096-b2m-001",
       "parentId": null,
-      "timestamp": "2042-07-02T18:25:28+09:00",
+      "timestamp": "2042-07-02T18:23:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "124.53"
       },
-      "content": "예상금액으로 먼저 싸우지마",
+      "content": "당일도 있고 매입끝나고 2~3일 뒤도 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000096-v8-002",
+      "id": "c-2042-000096-b2m-002",
       "parentId": null,
-      "timestamp": "2042-07-02T18:29:23+09:00",
+      "timestamp": "2042-07-02T18:27:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "106.101"
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "일주일 넘고 연락도 없으면 한번 물어봐야지",
       "deleted": false
     },
     {
-      "id": "c-2042-000096-v8-003",
-      "parentId": "c-2042-000096-v8-001",
-      "timestamp": "2042-07-02T18:33:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "정산일 적혀있으면 덜싸움",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000096-v8-004",
-      "parentId": "c-2042-000096-v8-001",
-      "timestamp": "2042-07-02T18:36:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "매입가 확정뒤 보내는팀도 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000096-v8-005",
+      "id": "c-2042-000096-b2m-003",
       "parentId": null,
-      "timestamp": "2042-07-02T18:39:12+09:00",
+      "timestamp": "2042-07-02T18:30:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "106.101"
       },
-      "content": "당일도 있고 며칠뒤도 있음",
+      "content": "매입가 확정이 늦는팀은 정산도 같이 밀림",
       "deleted": false
     }
   ],

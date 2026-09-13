@@ -33,63 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000113-v8-001",
+      "id": "c-2042-000113-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-23T12:31:04+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "조건부터 봐야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000113-v8-002",
-      "parentId": null,
-      "timestamp": "2042-08-23T12:33:54+09:00",
+      "timestamp": "2042-08-23T12:33:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "118.235"
       },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "content": "언론에 나오는 계약금은 추정치 섞인 경우 많아서 그대로 믿진마",
       "deleted": false
     },
     {
-      "id": "c-2042-000113-v8-003",
-      "parentId": "c-2042-000113-v8-001",
-      "timestamp": "2042-08-23T12:36:06+09:00",
+      "id": "c-2042-000113-b2m-002",
+      "parentId": null,
+      "timestamp": "2042-08-23T12:34:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "112.171"
       },
-      "content": "보험 있냐",
+      "content": "기본계약금이랑 성과/광고 포함액 섞어서 쓰는 기사도 있음",
       "deleted": false
     },
     {
-      "id": "c-2042-000113-v8-004",
+      "id": "c-2042-000113-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-23T12:38:08+09:00",
+      "timestamp": "2042-08-23T12:37:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "118.33"
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "공식 공시 아닌 이상 범위정도로만 보는게 낫다",
       "deleted": false
     },
     {
-      "id": "c-2042-000113-v8-005",
+      "id": "c-2042-000113-b2m-004",
       "parentId": null,
-      "timestamp": "2042-08-23T12:41:20+09:00",
+      "timestamp": "2042-08-23T12:40:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "118.33"
       },
-      "content": "예상시간 몇시간인데",
+      "content": "복지/장비지원까지 돈으로 환산해서 부풀리는 글도 있음",
       "deleted": false
     }
   ],

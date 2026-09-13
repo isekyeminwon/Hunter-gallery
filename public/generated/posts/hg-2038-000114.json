@@ -33,183 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000114-v8-001",
+      "id": "c-2038-000114-b2m-001",
       "parentId": null,
-      "timestamp": "2038-09-20T16:27:15+09:00",
+      "timestamp": "2038-09-20T16:26:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "175.223"
       },
-      "content": "이거 초보때 은근 헷갈림",
+      "content": "샤오룽 한국어 진짜 많이 늘었더라",
       "deleted": false
     },
     {
-      "id": "c-2038-000114-v8-002",
+      "id": "c-2038-000114-b2m-002",
       "parentId": null,
-      "timestamp": "2038-09-20T16:29:57+09:00",
+      "timestamp": "2038-09-20T16:28:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "61.79"
       },
-      "content": "이거 답 아는사람?",
+      "content": "한국 인터뷰 뜰때마다 중국사고 영상 다시 도네",
       "deleted": false
     },
     {
-      "id": "c-2038-000114-v8-003",
-      "parentId": "c-2038-000114-v8-002",
-      "timestamp": "2038-09-20T16:33:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-004",
+      "id": "c-2038-000114-b2m-003",
       "parentId": null,
-      "timestamp": "2038-09-20T16:37:36+09:00",
+      "timestamp": "2038-09-20T16:31:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "61.79"
       },
-      "content": "처음이면 물어볼만함",
+      "content": "한국 체류랑 한국 소속은 다른 얘기지",
       "deleted": false
     },
     {
-      "id": "c-2038-000114-v8-005",
+      "id": "c-2038-000114-b2m-004",
+      "parentId": "c-2038-000114-b2m-001",
+      "timestamp": "2038-09-20T16:34:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "한국 체류랑 소속은 별개지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000114-b2m-005",
       "parentId": null,
-      "timestamp": "2038-09-20T16:40:36+09:00",
+      "timestamp": "2038-09-20T16:37:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "61.79"
       },
-      "content": "검색해도 예전얘기만 나와",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-006",
-      "parentId": "c-2038-000114-v8-002",
-      "timestamp": "2038-09-20T16:42:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-007",
-      "parentId": null,
-      "timestamp": "2038-09-20T16:45:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-008",
-      "parentId": null,
-      "timestamp": "2038-09-20T16:49:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "처음하면 헷갈릴만하지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-009",
-      "parentId": "c-2038-000114-v8-005",
-      "timestamp": "2038-09-20T16:52:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-010",
-      "parentId": null,
-      "timestamp": "2038-09-20T16:54:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-011",
-      "parentId": null,
-      "timestamp": "2038-09-20T16:57:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-012",
-      "parentId": "c-2038-000114-v8-007",
-      "timestamp": "2038-09-20T16:59:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-013",
-      "parentId": null,
-      "timestamp": "2038-09-20T17:02:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-014",
-      "parentId": null,
-      "timestamp": "2038-09-20T17:05:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "나도 첫번에 여기서 헷갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000114-v8-015",
-      "parentId": "c-2038-000114-v8-009",
-      "timestamp": "2038-09-20T17:08:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "최근기준 아는사람?",
+      "content": "구조영상이 워낙 강해서 다른 지원팀 얘기가 묻힌 느낌",
       "deleted": false
     }
   ],

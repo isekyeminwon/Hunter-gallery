@@ -33,231 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000004-v8-001",
+      "id": "c-2034-000004-b1-001",
       "parentId": null,
-      "timestamp": "2034-03-10T15:40:39+09:00",
+      "timestamp": "2034-03-10T15:42:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "175.223"
       },
-      "content": "이시율 최근 실적부터 가져와봐",
+      "content": "상성빼고 최강 고르는게 가능하냐",
       "deleted": false
     },
     {
-      "id": "c-2034-000004-v8-002",
+      "id": "c-2034-000004-b1-002",
       "parentId": null,
-      "timestamp": "2034-03-10T15:43:08+09:00",
+      "timestamp": "2034-03-10T15:52:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "106.245"
       },
-      "content": "팬이 만들면 답 정해져있지",
+      "content": "이시율 빼면 다시 강무혁 강주아 김채연 싸움임ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2034-000004-v8-003",
+      "id": "c-2034-000004-b1-003",
+      "parentId": "c-2034-000004-b1-001",
+      "timestamp": "2034-03-10T16:01:40+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "현역영상 많은쪽이 유리하게 평가받는 느낌",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000004-b1-004",
       "parentId": null,
-      "timestamp": "2034-03-10T15:45:40+09:00",
+      "timestamp": "2034-03-10T16:07:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "175.223"
       },
-      "content": "이시율 팬들 오면 이글 끝남ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-004",
-      "parentId": null,
-      "timestamp": "2034-03-10T15:49:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "A를 무슨 동네고수처럼 말하네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-005",
-      "parentId": null,
-      "timestamp": "2034-03-10T15:53:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "이 떡밥은 안죽네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-006",
-      "parentId": null,
-      "timestamp": "2034-03-10T15:55:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-007",
-      "parentId": null,
-      "timestamp": "2034-03-10T15:59:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "원글 세줄인데 밑이 더김",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-008",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:02:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이시율 지금 바로 몇위 박는건 좀 웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-009",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:03:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "상성 변수 빼고 몇위가 뭔의미냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-010",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:07:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "랭킹충들 출근했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-011",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:09:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "표 디자인만 보면 국가자료임",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-012",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:12:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-013",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:13:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이 떡밥 다음주에 또 올라옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-014",
-      "parentId": "c-2034-000004-v8-010",
-      "timestamp": "2034-03-10T16:15:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-015",
-      "parentId": null,
-      "timestamp": "2034-03-10T16:17:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-016",
-      "parentId": "c-2034-000004-v8-013",
-      "timestamp": "2034-03-10T16:20:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-017",
-      "parentId": "c-2034-000004-v8-016",
-      "timestamp": "2034-03-10T16:22:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-018",
-      "parentId": "c-2034-000004-v8-011",
-      "timestamp": "2034-03-10T16:24:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000004-v8-019",
-      "parentId": "c-2034-000004-v8-015",
-      "timestamp": "2034-03-10T16:28:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "내최애가 1위임 반박안받음",
+      "content": "게이트유형 따라 답 바뀔듯",
       "deleted": false
     }
   ],

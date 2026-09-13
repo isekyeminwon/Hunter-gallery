@@ -33,423 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000036-v8-001",
+      "id": "c-2033-000036-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-22T23:50:03+09:00",
+      "timestamp": "2033-09-22T23:56:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "106.102"
       },
-      "content": "첫 S 짬을 너무 우습게 보는거 아님?",
+      "content": "사람 움직임 맞냐 저거ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000036-v8-002",
+      "id": "c-2033-000036-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-22T23:53:41+09:00",
+      "timestamp": "2033-09-23T00:01:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "211.58"
       },
-      "content": "협회장 된뒤 실전영상 적어진건 맞음",
+      "content": "능력명 검신은 너무 정직해서 웃김",
       "deleted": false
     },
     {
-      "id": "c-2033-000036-v8-003",
-      "parentId": null,
-      "timestamp": "2033-09-22T23:55:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "옛날 영상 들고오는 틀헌터 곧옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-004",
-      "parentId": "c-2033-000036-v8-001",
-      "timestamp": "2033-09-22T23:58:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "옛날영상만으로 지금 순위 박긴 애매함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-005",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:00:22+09:00",
+      "id": "c-2033-000036-b1-003",
+      "parentId": "c-2033-000036-b1-001",
+      "timestamp": "2033-09-23T00:06:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.125"
       },
-      "content": "최근영상 없다고 약해졌다는 근거도 없지",
+      "content": "SS 신설 자체가 답인듯",
       "deleted": false
     },
     {
-      "id": "c-2033-000036-v8-006",
-      "parentId": "c-2033-000036-v8-004",
-      "timestamp": "2033-09-23T00:03:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "최근 실전영상 적은건 맞지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-007",
+      "id": "c-2033-000036-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-23T00:06:10+09:00",
+      "timestamp": "2033-09-23T00:11:11+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
       },
-      "content": "김채연/강주아보다 위냐면 난 모르겠음",
+      "content": "이시율 뜨자마자 국내 S 전부 소환되네ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2033-000036-v8-008",
-      "parentId": "c-2033-000036-v8-007",
-      "timestamp": "2033-09-23T00:09:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "김채연 강주아랑 붙이면 또 밤샘임",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-009",
-      "parentId": "c-2033-000036-v8-008",
-      "timestamp": "2033-09-23T00:12:22+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "결국 아무도 모름ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-010",
+      "id": "c-2033-000036-b1-005",
       "parentId": null,
-      "timestamp": "2033-09-23T00:14:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "원글 내용 까먹고 다시봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:16:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-012",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:20:27+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-013",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:23:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "개웃김",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-014",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:26:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-015",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:29:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-016",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:33:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-017",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:34:49+09:00",
+      "timestamp": "2033-09-23T00:19:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.125"
       },
-      "content": "나만 이렇게 하는건가",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-018",
-      "parentId": "c-2033-000036-v8-015",
-      "timestamp": "2033-09-23T00:36:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "첫 S 짬을 무시하긴 어렵고",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-019",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:40:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-020",
-      "parentId": "c-2033-000036-v8-017",
-      "timestamp": "2033-09-23T00:42:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "결국 아무도 모름ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-021",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:44:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-022",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:46:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-023",
-      "parentId": "c-2033-000036-v8-017",
-      "timestamp": "2033-09-23T00:50:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "최근 실전영상 적은건 맞지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-024",
-      "parentId": "c-2033-000036-v8-023",
-      "timestamp": "2033-09-23T00:52:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "첫 S 짬을 무시하긴 어렵고",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-025",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:54:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-026",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:57:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-027",
-      "parentId": null,
-      "timestamp": "2033-09-23T00:59:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-028",
-      "parentId": null,
-      "timestamp": "2033-09-23T01:02:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-029",
-      "parentId": null,
-      "timestamp": "2033-09-23T01:04:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-030",
-      "parentId": null,
-      "timestamp": "2033-09-23T01:06:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-031",
-      "parentId": "c-2033-000036-v8-027",
-      "timestamp": "2033-09-23T01:10:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "최근 실전영상 적은건 맞지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-032",
-      "parentId": null,
-      "timestamp": "2033-09-23T01:12:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이시율 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-033",
-      "parentId": "c-2033-000036-v8-027",
-      "timestamp": "2033-09-23T01:14:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "최근 실전영상 적은건 맞지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-034",
-      "parentId": "c-2033-000036-v8-032",
-      "timestamp": "2033-09-23T01:16:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "최근 실전영상 적은건 맞지",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000036-v8-035",
-      "parentId": null,
-      "timestamp": "2033-09-23T01:18:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.125"
-      },
-      "content": "나도 비슷했음",
+      "content": "이시율 효과로 한성 지원창 난리네",
       "deleted": false
     }
   ],

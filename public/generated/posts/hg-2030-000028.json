@@ -33,159 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000028-v8-001",
+      "id": "c-2030-000028-b1-001",
       "parentId": null,
-      "timestamp": "2030-11-07T05:06:52+09:00",
+      "timestamp": "2030-11-07T05:09:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "61.79"
       },
-      "content": "ㅋㅋ",
+      "content": "공연장 안에서 게이트면 기존 통제랑 얘기가 완전 다르지",
       "deleted": false
     },
     {
-      "id": "c-2030-000028-v8-002",
+      "id": "c-2030-000028-b1-002",
       "parentId": null,
-      "timestamp": "2030-11-07T05:08:49+09:00",
+      "timestamp": "2030-11-07T05:15:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "118.33"
       },
-      "content": "자라",
+      "content": "방송 끊긴 직후부터 확인안된 캡처가 너무 많이 돎",
       "deleted": false
     },
     {
-      "id": "c-2030-000028-v8-003",
-      "parentId": "c-2030-000028-v8-002",
-      "timestamp": "2030-11-07T05:10:26+09:00",
+      "id": "c-2030-000028-b1-003",
+      "parentId": "c-2030-000028-b1-002",
+      "timestamp": "2030-11-07T05:24:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.44"
+        "ip": "121.163"
       },
-      "content": "ㅋㅋㅋㅋ",
+      "content": "별하나 생존 확인된건 진짜 다행",
       "deleted": false
     },
     {
-      "id": "c-2030-000028-v8-004",
+      "id": "c-2030-000028-b1-004",
       "parentId": null,
-      "timestamp": "2030-11-07T05:12:40+09:00",
+      "timestamp": "2030-11-07T05:31:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "118.33"
       },
-      "content": "개웃기네",
+      "content": "공연 보던 사람들은 진짜 멘탈 나가겠다",
       "deleted": false
     },
     {
-      "id": "c-2030-000028-v8-005",
+      "id": "c-2030-000028-b1-005",
       "parentId": null,
-      "timestamp": "2030-11-07T05:14:52+09:00",
+      "timestamp": "2030-11-07T05:35:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "61.79"
       },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000028-v8-006",
-      "parentId": null,
-      "timestamp": "2030-11-07T05:18:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000028-v8-007",
-      "parentId": "c-2030-000028-v8-002",
-      "timestamp": "2030-11-07T05:22:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000028-v8-008",
-      "parentId": null,
-      "timestamp": "2030-11-07T05:25:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000028-v8-009",
-      "parentId": null,
-      "timestamp": "2030-11-07T05:29:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000028-v8-010",
-      "parentId": null,
-      "timestamp": "2030-11-07T05:32:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000028-v8-011",
-      "parentId": null,
-      "timestamp": "2030-11-07T05:35:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000028-v8-012",
-      "parentId": null,
-      "timestamp": "2030-11-07T05:36:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "나만 이렇게 하는건가",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000028-v8-013",
-      "parentId": null,
-      "timestamp": "2030-11-07T05:39:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㅋㅋ",
+      "content": "별하나 생존 확인된건 그나마 다행이다",
       "deleted": false
     }
   ],

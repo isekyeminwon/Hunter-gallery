@@ -33,147 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2026-000020-v8-001",
+      "id": "c-2026-000020-b1-001",
       "parentId": null,
-      "timestamp": "2026-04-09T02:56:00+09:00",
+      "timestamp": "2026-04-09T03:00:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "211.234"
       },
-      "content": "처음이면 물어볼만함",
+      "content": "측정됐다고 자동으로 현장면허 나오는건 아니지",
       "deleted": false
     },
     {
-      "id": "c-2026-000020-v8-002",
+      "id": "c-2026-000020-b1-002",
       "parentId": null,
-      "timestamp": "2026-04-09T02:58:00+09:00",
+      "timestamp": "2026-04-09T03:11:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "211.201"
       },
-      "content": "검색하면 옛날글만 나옴",
+      "content": "현장 안할거면 등록만 하고 면허 안따는 사람도 있고",
       "deleted": false
     },
     {
-      "id": "c-2026-000020-v8-003",
-      "parentId": "c-2026-000020-v8-001",
-      "timestamp": "2026-04-09T03:00:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000020-v8-004",
+      "id": "c-2026-000020-b1-003",
       "parentId": null,
-      "timestamp": "2026-04-09T03:04:21+09:00",
+      "timestamp": "2026-04-09T03:18:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "121.140"
       },
-      "content": "이건 나도 궁금함",
+      "content": "안전교육/기본검사에서 보류되는 사람 있다는 얘기 봄",
       "deleted": false
     },
     {
-      "id": "c-2026-000020-v8-005",
+      "id": "c-2026-000020-b1-004",
       "parentId": null,
-      "timestamp": "2026-04-09T03:07:34+09:00",
+      "timestamp": "2026-04-09T03:28:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "211.201"
       },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000020-v8-006",
-      "parentId": "c-2026-000020-v8-001",
-      "timestamp": "2026-04-09T03:09:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000020-v8-007",
-      "parentId": null,
-      "timestamp": "2026-04-09T03:13:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "첫번엔 나도 잘못알았음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000020-v8-008",
-      "parentId": null,
-      "timestamp": "2026-04-09T03:16:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000020-v8-009",
-      "parentId": null,
-      "timestamp": "2026-04-09T03:19:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000020-v8-010",
-      "parentId": null,
-      "timestamp": "2026-04-09T03:21:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "다른팀은 어케함",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000020-v8-011",
-      "parentId": null,
-      "timestamp": "2026-04-09T03:24:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000020-v8-012",
-      "parentId": "c-2026-000020-v8-010",
-      "timestamp": "2026-04-09T03:28:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
+      "content": "등급 낮아서 떨어진다기보다 자격요건 문제쪽인듯",
       "deleted": false
     }
   ],

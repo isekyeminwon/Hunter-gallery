@@ -33,243 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2032-000006-v8-001",
+      "id": "c-2032-000006-b1-001",
       "parentId": null,
-      "timestamp": "2032-05-08T12:24:30+09:00",
+      "timestamp": "2032-05-08T12:31:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "110.70"
+        "ip": "211.234"
       },
-      "content": "광역은 김채연 단일은 강주아로 끝내면 안됨?",
+      "content": "마법계 S 나오니까 네뷸라 얘기 바로 나오네",
       "deleted": false
     },
     {
-      "id": "c-2032-000006-v8-002",
+      "id": "c-2032-000006-b1-002",
       "parentId": null,
-      "timestamp": "2032-05-08T12:26:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "김채연 광역원툴 취급은 너무감",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-003",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:28:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "강주아 계약조건 변수 무시하면 또 틀림",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-004",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:31:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "그말을 어제도 했음ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-005",
-      "parentId": "c-2032-000006-v8-001",
-      "timestamp": "2032-05-08T12:32:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "광역/단일로만 나누면 또 틀림",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-006",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:34:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "둘이 실제로 붙을일 없는데 갤에서 백번 붙음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-007",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:37:46+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-008",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:41:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-009",
-      "parentId": "c-2032-000006-v8-002",
-      "timestamp": "2032-05-08T12:44:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "김채연팬 백호팬 출근했네",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-010",
-      "parentId": "c-2032-000006-v8-008",
-      "timestamp": "2032-05-08T12:47:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "이거 어제도 싸운거같은데ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-011",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:49:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-012",
-      "parentId": "c-2032-000006-v8-006",
-      "timestamp": "2032-05-08T12:52:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "계약조건 변수 빼면 안되지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-013",
-      "parentId": "c-2032-000006-v8-006",
-      "timestamp": "2032-05-08T12:54:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "둘이 실제로 붙을일 없잖아",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-014",
-      "parentId": null,
-      "timestamp": "2032-05-08T12:58:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-015",
-      "parentId": "c-2032-000006-v8-009",
-      "timestamp": "2032-05-08T13:01:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "광역/단일로만 나누면 또 틀림",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-016",
-      "parentId": "c-2032-000006-v8-014",
-      "timestamp": "2032-05-08T13:04:08+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "이거 어제도 싸운거같은데ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-017",
-      "parentId": null,
-      "timestamp": "2032-05-08T13:07:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-018",
-      "parentId": null,
-      "timestamp": "2032-05-08T13:10:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2032-000006-v8-019",
-      "parentId": null,
-      "timestamp": "2032-05-08T13:12:57+09:00",
+      "timestamp": "2032-05-08T12:42:28+09:00",
       "author": {
         "type": "fixed",
         "name": "백호복지팀",
         "ip": null
       },
-      "content": "ㄹㅇ",
+      "content": "실전자료 더 쌓이고 싸워도 안늦음",
       "deleted": false
     },
     {
-      "id": "c-2032-000006-v8-020",
+      "id": "c-2032-000006-b1-003",
       "parentId": null,
-      "timestamp": "2032-05-08T13:15:24+09:00",
+      "timestamp": "2032-05-08T12:50:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "124.53"
       },
-      "content": "ㄹㅇ",
+      "content": "이걸 숫자 하나로 정리하려는게 제일 웃김",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000006-b1-004",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:54:47+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "백호복지팀",
+        "ip": null
+      },
+      "content": "김채연 광역기 범위가 영상밖까지 가는게 제일 무섭다",
+      "deleted": false
+    },
+    {
+      "id": "c-2032-000006-b1-005",
+      "parentId": null,
+      "timestamp": "2032-05-08T12:59:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "발표 뜨자마자 줄세우는 속도 존나빠름ㅋㅋ",
       "deleted": false
     }
   ],

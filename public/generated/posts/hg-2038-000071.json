@@ -33,159 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000071-v8-001",
+      "id": "c-2038-000071-b2m-001",
       "parentId": null,
-      "timestamp": "2038-08-29T13:15:43+09:00",
+      "timestamp": "2038-08-29T13:14:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "106.250"
       },
-      "content": "짤 몇개로 사고경위 다아는척은 하지마",
+      "content": "날짜 잘린 재업본 때문에 타임라인 계속 꼬임",
       "deleted": false
     },
     {
-      "id": "c-2038-000071-v8-002",
+      "id": "c-2038-000071-b2m-002",
       "parentId": null,
-      "timestamp": "2038-08-29T13:19:13+09:00",
+      "timestamp": "2038-08-29T13:16:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "106.250"
       },
-      "content": "통제선 있으면 걍 피해가",
+      "content": "피해숫자도 기사마다 다른데 출처없는건 더 못믿지",
       "deleted": false
     },
     {
-      "id": "c-2038-000071-v8-003",
-      "parentId": "c-2038-000071-v8-002",
-      "timestamp": "2038-08-29T13:21:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "다친사람 별일없었으면",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000071-v8-004",
-      "parentId": "c-2038-000071-v8-002",
-      "timestamp": "2038-08-29T13:22:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "현장근처면 안내부터 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000071-v8-005",
+      "id": "c-2038-000071-b2m-003",
       "parentId": null,
-      "timestamp": "2038-08-29T13:25:16+09:00",
+      "timestamp": "2038-08-29T13:18:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.235"
       },
-      "content": "새로 뜬 내용 있냐",
+      "content": "{{con:wait}}",
       "deleted": false
     },
     {
-      "id": "c-2038-000071-v8-006",
+      "id": "c-2038-000071-b2m-004",
       "parentId": null,
-      "timestamp": "2038-08-29T13:29:04+09:00",
+      "timestamp": "2038-08-29T13:21:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "1.239"
+        "ip": "211.235"
       },
-      "content": "사고원인보다 길드이름 찾는게 먼저냐",
+      "content": "현장영상 한조각으로 원인분석 끝내는건 무리",
       "deleted": false
     },
     {
-      "id": "c-2038-000071-v8-007",
+      "id": "c-2038-000071-b2m-005",
       "parentId": null,
-      "timestamp": "2038-08-29T13:32:12+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "사람부터 괜찮은지 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000071-v8-008",
-      "parentId": null,
-      "timestamp": "2038-08-29T13:33:54+09:00",
+      "timestamp": "2038-08-29T13:24:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.246"
       },
-      "content": "원문 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000071-v8-009",
-      "parentId": "c-2038-000071-v8-006",
-      "timestamp": "2038-08-29T13:36:14+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "영상분석충",
-        "ip": null
-      },
-      "content": "추가기사 뜬거 있음?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000071-v8-010",
-      "parentId": "c-2038-000071-v8-008",
-      "timestamp": "2038-08-29T13:39:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "1.239"
-      },
-      "content": "원인 나온건 아직 없지?",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000071-v8-011",
-      "parentId": null,
-      "timestamp": "2038-08-29T13:42:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000071-v8-012",
-      "parentId": null,
-      "timestamp": "2038-08-29T13:45:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "다친사람 괜찮다냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000071-v8-013",
-      "parentId": "c-2038-000071-v8-012",
-      "timestamp": "2038-08-29T13:49:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "원인 나온건 아직 없지?",
+      "content": "공식확인/추정 부분을 따로 정리해야 덜헷갈릴듯",
       "deleted": false
     }
   ],

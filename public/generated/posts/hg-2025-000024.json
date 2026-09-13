@@ -33,15 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2025-000024-v8-001",
+      "id": "c-2025-000024-b1-001",
       "parentId": null,
-      "timestamp": "2025-03-02T22:55:05+09:00",
+      "timestamp": "2025-03-02T23:01:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "211.202"
       },
-      "content": "나도 첫번에 여기서 헷갈림",
+      "content": "능력 생겼다고 바로 현장부터 갈생각은 하지마",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000024-b1-002",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:07:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "측정/등록 안내부터 읽고 장비는 그다음",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000024-b1-003",
+      "parentId": "c-2025-000024-b1-001",
+      "timestamp": "2025-03-02T23:16:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "등급이랑 능력종류부터 정확히 확인해",
+      "deleted": false
+    },
+    {
+      "id": "c-2025-000024-b1-004",
+      "parentId": null,
+      "timestamp": "2025-03-02T23:24:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "안전교육 자료 먼저 보는게 제일 덜 헷갈림",
       "deleted": false
     }
   ],

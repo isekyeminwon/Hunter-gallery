@@ -33,27 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000033-v8-001",
+      "id": "c-2029-000033-b1-001",
       "parentId": null,
-      "timestamp": "2029-10-17T06:47:03+09:00",
+      "timestamp": "2029-10-17T06:56:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "211.36"
       },
-      "content": "당일정산이면 좀 끌리긴함ㅋㅋ",
+      "content": "예상시간이랑 짐무게 적어줘",
       "deleted": false
     },
     {
-      "id": "c-2029-000033-v8-002",
+      "id": "c-2029-000033-b1-002",
       "parentId": null,
-      "timestamp": "2029-10-17T06:50:38+09:00",
+      "timestamp": "2029-10-17T07:02:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "223.39"
       },
-      "content": "예상시간 몇시간인데",
+      "content": "집결지 공개말고 지역만 적는게 낫다",
+      "deleted": false
+    },
+    {
+      "id": "c-2029-000033-b1-003",
+      "parentId": null,
+      "timestamp": "2029-10-17T07:07:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "보험있음?",
       "deleted": false
     }
   ],

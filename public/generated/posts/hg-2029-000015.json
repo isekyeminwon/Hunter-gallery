@@ -33,27 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000015-v8-001",
+      "id": "c-2029-000015-b1-001",
       "parentId": null,
-      "timestamp": "2029-04-13T21:30:42+09:00",
+      "timestamp": "2029-04-13T21:40:11+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "175.223"
       },
-      "content": "찾아보면 몇년전 글만 뜸",
+      "content": "C는 경력 몇회 있냐를 보는 공고가 많더라",
       "deleted": false
     },
     {
-      "id": "c-2029-000015-v8-002",
+      "id": "c-2029-000015-b1-002",
       "parentId": null,
-      "timestamp": "2029-04-13T21:34:14+09:00",
+      "timestamp": "2029-04-13T21:44:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "118.221"
       },
-      "content": "해본사람 있냐",
+      "content": "전투직인지 지원직인지부터 정해야 추천이 달라짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2029-000015-b1-003",
+      "parentId": null,
+      "timestamp": "2029-04-13T21:53:20+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "보험/교육/장비지원 있는지 꼭 비교해",
+      "deleted": false
+    },
+    {
+      "id": "c-2029-000015-b1-004",
+      "parentId": null,
+      "timestamp": "2029-04-13T22:02:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "C면 대형길드만 보지말고 중형길드 공고도 같이봐",
       "deleted": false
     }
   ],

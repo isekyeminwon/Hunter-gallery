@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000025-v8-001",
+      "id": "c-2033-000025-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-18T03:53:35+09:00",
+      "timestamp": "2033-09-18T04:00:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "1.239"
       },
-      "content": "이시율 보고도 몇배냐 묻는건 무리",
+      "content": "한명뿐인데 일반 케이스랑 똑같이 처리하진 않겠지",
       "deleted": false
     },
     {
-      "id": "c-2033-000025-v8-002",
+      "id": "c-2033-000025-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-18T03:57:20+09:00",
+      "timestamp": "2033-09-18T04:09:37+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
       },
-      "content": "SS가 기존 S로 설명 안되는놈 나와서 만든거잖아",
+      "content": "S랑 같은 조항 적용해도 운용은 다를수밖에 없음",
       "deleted": false
     },
     {
-      "id": "c-2033-000025-v8-003",
+      "id": "c-2033-000025-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-18T04:01:11+09:00",
+      "timestamp": "2033-09-18T04:13:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "14.32"
+        "ip": "1.239"
       },
-      "content": "기존 규격 장비로 감당 안되는 얘기 나온적 있음",
+      "content": "실제로 SS를 어디에 배치할지는 별도 판단일듯",
       "deleted": false
     },
     {
-      "id": "c-2033-000025-v8-004",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:03:59+09:00",
+      "id": "c-2033-000025-b1-004",
+      "parentId": "c-2033-000025-b1-003",
+      "timestamp": "2033-09-18T04:25:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "110.70"
       },
-      "content": "S 몇명분 이런 계산은 의미없지 않나",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-005",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:06:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-006",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:10:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-007",
-      "parentId": "c-2033-000025-v8-001",
-      "timestamp": "2033-09-18T04:13:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-008",
-      "parentId": "c-2033-000025-v8-007",
-      "timestamp": "2033-09-18T04:14:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-009",
-      "parentId": "c-2033-000025-v8-006",
-      "timestamp": "2033-09-18T04:17:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-010",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:19:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:20:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-012",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:22:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-013",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:26:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-014",
-      "parentId": "c-2033-000025-v8-007",
-      "timestamp": "2033-09-18T04:28:13+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-015",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:31:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "61.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-016",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:35:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-017",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:37:02+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000025-v8-018",
-      "parentId": null,
-      "timestamp": "2033-09-18T04:38:45+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "이거 경험자 하나만 더 와봐",
+      "content": "법적으로 등급 높다고 동원제도 밖으로 빠지는건 아니지",
       "deleted": false
     }
   ],

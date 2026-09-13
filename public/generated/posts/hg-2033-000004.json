@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2033-000004-v8-001",
+      "id": "c-2033-000004-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-14T14:48:20+09:00",
+      "timestamp": "2033-09-14T14:54:47+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "175.214"
       },
-      "content": "원본파일 존나 큼",
+      "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
       "deleted": false
     },
     {
-      "id": "c-2033-000004-v8-002",
+      "id": "c-2033-000004-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-14T14:49:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "일반카메라랑 마석식은 다르게 생각해야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000004-v8-003",
-      "parentId": null,
-      "timestamp": "2033-09-14T14:53:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "가격보다 배터리/저조도/저장 먼저 봐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000004-v8-004",
-      "parentId": null,
-      "timestamp": "2033-09-14T14:55:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "렌탈비보다 백업이 귀찮을때 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000004-v8-005",
-      "parentId": "c-2033-000004-v8-001",
-      "timestamp": "2033-09-14T14:58:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "원본 어디임",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000004-v8-006",
-      "parentId": "c-2033-000004-v8-001",
-      "timestamp": "2033-09-14T15:00:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "풀버전 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000004-v8-007",
-      "parentId": "c-2033-000004-v8-002",
-      "timestamp": "2033-09-14T15:03:03+09:00",
+      "timestamp": "2033-09-14T15:05:59+09:00",
       "author": {
         "type": "fixed",
         "name": "틀헌터",
         "ip": null
       },
-      "content": "편집 잘했네",
+      "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
       "deleted": false
     },
     {
-      "id": "c-2033-000004-v8-008",
+      "id": "c-2033-000004-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-14T15:05:02+09:00",
+      "timestamp": "2033-09-14T15:14:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "59.5"
       },
-      "content": "마운트 되는지 꼭 봐",
+      "content": "한성 지원서버 터질만하다",
       "deleted": false
     },
     {
-      "id": "c-2033-000004-v8-009",
-      "parentId": null,
-      "timestamp": "2033-09-14T15:08:44+09:00",
+      "id": "c-2033-000004-b1-004",
+      "parentId": "c-2033-000004-b1-002",
+      "timestamp": "2033-09-14T15:25:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "61.79"
       },
-      "content": "촬영담당 없으면 손에 들고찍는건 비추",
+      "content": "SS 신설 자체가 답인듯",
       "deleted": false
     },
     {
-      "id": "c-2033-000004-v8-010",
+      "id": "c-2033-000004-b1-005",
       "parentId": null,
-      "timestamp": "2033-09-14T15:11:31+09:00",
+      "timestamp": "2033-09-14T15:34:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "175.214"
       },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000004-v8-011",
-      "parentId": null,
-      "timestamp": "2033-09-14T15:14:06+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2033-000004-v8-012",
-      "parentId": null,
-      "timestamp": "2033-09-14T15:16:23+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
+      "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
       "deleted": false
     }
   ],

@@ -33,87 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000087-v8-001",
+      "id": "c-2042-000087-b2m-001",
       "parentId": null,
-      "timestamp": "2042-08-05T09:07:40+09:00",
+      "timestamp": "2042-08-05T09:06:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "106.250"
       },
-      "content": "지원체계 얘기는 백호쪽 후기가 많더라",
+      "content": "공식랭킹도 아닌데 TOP10 표만 뜨면 하루종일 싸움ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2042-000087-v8-002",
+      "id": "c-2042-000087-b2m-002",
       "parentId": null,
-      "timestamp": "2042-08-05T09:11:18+09:00",
+      "timestamp": "2042-08-05T09:07:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "106.102"
       },
-      "content": "한성 지원서 통과부터 하라는 소리 나온다",
+      "content": "최근실적 기준인지 최고점 기준인지부터 통일해라",
       "deleted": false
     },
     {
-      "id": "c-2042-000087-v8-003",
+      "id": "c-2042-000087-b2m-003",
       "parentId": null,
-      "timestamp": "2042-08-05T09:13:25+09:00",
+      "timestamp": "2042-08-05T09:09:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "106.250"
       },
-      "content": "세다고 무조건 좋은직장은 아니잖아",
+      "content": "A급을 너무 쉽게 말하는것도 문제임",
       "deleted": false
     },
     {
-      "id": "c-2042-000087-v8-004",
-      "parentId": null,
-      "timestamp": "2042-08-05T09:15:52+09:00",
+      "id": "c-2042-000087-b2m-004",
+      "parentId": "c-2042-000087-b2m-001",
+      "timestamp": "2042-08-05T09:12:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "106.102"
       },
-      "content": "일단 오퍼부터 주세요",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000087-v8-005",
-      "parentId": "c-2042-000087-v8-004",
-      "timestamp": "2042-08-05T09:18:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "셋다 붙고 고민하고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000087-v8-006",
-      "parentId": null,
-      "timestamp": "2042-08-05T09:22:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "마법쪽이면 네뷸라 생각날수밖에",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000087-v8-007",
-      "parentId": "c-2042-000087-v8-003",
-      "timestamp": "2042-08-05T09:24:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
+      "content": "상성까지 넣으면 순위표 자체가 의미없어짐",
       "deleted": false
     }
   ],

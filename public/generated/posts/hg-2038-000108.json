@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000108-v8-001",
+      "id": "c-2038-000108-b2m-001",
       "parentId": null,
-      "timestamp": "2038-05-13T23:53:04+09:00",
+      "timestamp": "2038-05-13T23:53:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "211.58"
       },
-      "content": "검색결과가 죄다 옛날거임",
+      "content": "장비급 따라 큰데 보증금만 보지말고 파손기준도 같이 봐",
       "deleted": false
     },
     {
-      "id": "c-2038-000108-v8-002",
+      "id": "c-2038-000108-b2m-002",
       "parentId": null,
-      "timestamp": "2038-05-13T23:55:56+09:00",
+      "timestamp": "2038-05-13T23:56:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "118.41"
       },
-      "content": "뉴비면 이거 모를수있음",
+      "content": "카드가승인인지 실제이체인지도 확인",
       "deleted": false
     },
     {
-      "id": "c-2038-000108-v8-003",
-      "parentId": null,
-      "timestamp": "2038-05-13T23:58:42+09:00",
+      "id": "c-2038-000108-b2m-003",
+      "parentId": "c-2038-000108-b2m-002",
+      "timestamp": "2038-05-13T23:57:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "211.235"
       },
-      "content": "이거 초보때 은근 헷갈림",
+      "content": "너무 비싸보이면 같은급 장비 다른점 두군데만 비교해봐",
       "deleted": false
     }
   ],

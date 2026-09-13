@@ -33,159 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000012-v8-001",
+      "id": "c-2030-000012-b1-001",
       "parentId": null,
-      "timestamp": "2030-04-26T14:25:42+09:00",
+      "timestamp": "2030-04-26T14:30:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "118.47"
       },
-      "content": "나도 처음엔 이거 몰랐음",
+      "content": "정확한건 협회 공지 더 나와야 알겠다",
       "deleted": false
     },
     {
-      "id": "c-2030-000012-v8-002",
+      "id": "c-2030-000012-b1-002",
       "parentId": null,
-      "timestamp": "2030-04-26T14:28:48+09:00",
+      "timestamp": "2030-04-26T14:41:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "211.201"
       },
-      "content": "최신 후기 찾기가 더힘듦",
+      "content": "측정결과 공개범위부터 일반헌터랑 다르게 다루는 느낌",
       "deleted": false
     },
     {
-      "id": "c-2030-000012-v8-003",
-      "parentId": "c-2030-000012-v8-001",
-      "timestamp": "2030-04-26T14:30:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-004",
+      "id": "c-2030-000012-b1-003",
       "parentId": null,
-      "timestamp": "2030-04-26T14:33:41+09:00",
+      "timestamp": "2030-04-26T14:48:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.62"
+        "ip": "121.140"
       },
-      "content": "해본사람 있냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-005",
-      "parentId": null,
-      "timestamp": "2030-04-26T14:36:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "이건 나도 모르겠네",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-006",
-      "parentId": null,
-      "timestamp": "2030-04-26T14:38:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "이건 첫번엔 잘모름",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-007",
-      "parentId": null,
-      "timestamp": "2030-04-26T14:40:23+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "협회노예",
-        "ip": null
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-008",
-      "parentId": null,
-      "timestamp": "2030-04-26T14:42:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-009",
-      "parentId": null,
-      "timestamp": "2030-04-26T14:44:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "처음이면 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-010",
-      "parentId": null,
-      "timestamp": "2030-04-26T14:47:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-011",
-      "parentId": null,
-      "timestamp": "2030-04-26T14:49:47+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-012",
-      "parentId": null,
-      "timestamp": "2030-04-26T14:51:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000012-v8-013",
-      "parentId": "c-2030-000012-v8-009",
-      "timestamp": "2030-04-26T14:53:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "최근기준 아는사람?",
+      "content": "기본 등록틀은 같아도 S급이면 보안/현장절차가 추가되겠지",
       "deleted": false
     }
   ],

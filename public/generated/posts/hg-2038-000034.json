@@ -33,303 +33,87 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000034-v8-001",
+      "id": "c-2038-000034-b2m-001",
       "parentId": null,
-      "timestamp": "2038-08-18T15:47:04+09:00",
+      "timestamp": "2038-08-18T15:47:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "58.29"
       },
-      "content": "팬이 만들면 답 정해져있지",
+      "content": "한국 인터뷰 뜰때마다 중국사고 영상 다시 도네",
       "deleted": false
     },
     {
-      "id": "c-2038-000034-v8-002",
+      "id": "c-2038-000034-b2m-002",
       "parentId": null,
-      "timestamp": "2038-08-18T15:48:29+09:00",
+      "timestamp": "2038-08-18T15:51:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "39.125"
       },
-      "content": "상성까지 넣으면 순위표 끝도없음",
+      "content": "샤오룽 한국어 진짜 많이 늘었더라",
       "deleted": false
     },
     {
-      "id": "c-2038-000034-v8-003",
-      "parentId": null,
-      "timestamp": "2038-08-18T15:50:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "A도 존나 상위권인데 감각 망가짐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-004",
-      "parentId": "c-2038-000034-v8-002",
-      "timestamp": "2038-08-18T15:52:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-005",
-      "parentId": null,
-      "timestamp": "2038-08-18T15:55:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "또 누구 위아래 싸움이냐",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-006",
-      "parentId": null,
-      "timestamp": "2038-08-18T15:57:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "한달뒤에도 똑같은글 있음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-007",
-      "parentId": "c-2038-000034-v8-004",
-      "timestamp": "2038-08-18T16:00:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-008",
-      "parentId": "c-2038-000034-v8-006",
-      "timestamp": "2038-08-18T16:01:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-009",
-      "parentId": "c-2038-000034-v8-006",
-      "timestamp": "2038-08-18T16:04:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-010",
-      "parentId": null,
-      "timestamp": "2038-08-18T16:06:05+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "사설랭킹에 그래프까지 넣었네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-011",
-      "parentId": null,
-      "timestamp": "2038-08-18T16:09:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-012",
-      "parentId": null,
-      "timestamp": "2038-08-18T16:13:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-013",
-      "parentId": null,
-      "timestamp": "2038-08-18T16:15:42+09:00",
+      "id": "c-2038-000034-b2m-003",
+      "parentId": "c-2038-000034-b2m-002",
+      "timestamp": "2038-08-18T15:54:37+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.221"
       },
-      "content": "둘다 진정좀",
+      "content": "구조영상 재업 진짜 많음",
       "deleted": false
     },
     {
-      "id": "c-2038-000034-v8-014",
+      "id": "c-2038-000034-b2m-004",
+      "parentId": "c-2038-000034-b2m-003",
+      "timestamp": "2038-08-18T15:57:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "재업인지 날짜부터 확인해봐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000034-b2m-005",
       "parentId": null,
-      "timestamp": "2038-08-18T16:17:55+09:00",
+      "timestamp": "2038-08-18T15:59:07+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "58.29"
       },
-      "content": "난 반대",
+      "content": "구조영상이 워낙 강해서 다른 지원팀 얘기가 묻힌 느낌",
       "deleted": false
     },
     {
-      "id": "c-2038-000034-v8-015",
-      "parentId": "c-2038-000034-v8-008",
-      "timestamp": "2038-08-18T16:20:38+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-016",
-      "parentId": "c-2038-000034-v8-015",
-      "timestamp": "2038-08-18T16:24:30+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-017",
-      "parentId": "c-2038-000034-v8-012",
-      "timestamp": "2038-08-18T16:27:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-018",
-      "parentId": "c-2038-000034-v8-013",
-      "timestamp": "2038-08-18T16:30:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-019",
+      "id": "c-2038-000034-b2m-006",
       "parentId": null,
-      "timestamp": "2038-08-18T16:32:17+09:00",
+      "timestamp": "2038-08-18T16:00:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "117.111"
       },
-      "content": "나도 비슷했음",
+      "content": "한국 체류랑 한국 소속은 다른 얘기지",
       "deleted": false
     },
     {
-      "id": "c-2038-000034-v8-020",
-      "parentId": "c-2038-000034-v8-015",
-      "timestamp": "2038-08-18T16:35:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-021",
-      "parentId": "c-2038-000034-v8-019",
-      "timestamp": "2038-08-18T16:39:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-022",
+      "id": "c-2038-000034-b2m-007",
       "parentId": null,
-      "timestamp": "2038-08-18T16:43:02+09:00",
+      "timestamp": "2038-08-18T16:03:27+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "118.221"
       },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-023",
-      "parentId": null,
-      "timestamp": "2038-08-18T16:44:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "다른팀은 어케함",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-024",
-      "parentId": null,
-      "timestamp": "2038-08-18T16:48:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000034-v8-025",
-      "parentId": null,
-      "timestamp": "2038-08-18T16:50:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "원글 세줄인데 밑이 더김",
+      "content": "한국 체류랑 소속은 별개지",
       "deleted": false
     }
   ],

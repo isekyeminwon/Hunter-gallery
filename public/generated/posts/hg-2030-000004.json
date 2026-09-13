@@ -33,195 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2030-000004-v8-001",
+      "id": "c-2030-000004-b1-001",
       "parentId": null,
-      "timestamp": "2030-04-19T13:53:49+09:00",
+      "timestamp": "2030-04-19T14:01:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "175.194"
       },
-      "content": "이거 초보때 은근 헷갈림",
+      "content": "세부 조건은 공개분이 적어서 커뮤썰이 너무 많음",
       "deleted": false
     },
     {
-      "id": "c-2030-000004-v8-002",
+      "id": "c-2030-000004-b1-002",
       "parentId": null,
-      "timestamp": "2030-04-19T13:57:01+09:00",
+      "timestamp": "2030-04-19T14:11:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "118.47"
       },
-      "content": "요즘 기준 글이 잘안보이더라",
+      "content": "계약 상대가 뭐다 이런건 공식자료 못봄",
       "deleted": false
     },
     {
-      "id": "c-2030-000004-v8-003",
-      "parentId": "c-2030-000004-v8-001",
-      "timestamp": "2030-04-19T14:00:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-004",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:03:20+09:00",
+      "id": "c-2030-000004-b1-003",
+      "parentId": "c-2030-000004-b1-001",
+      "timestamp": "2030-04-19T14:15:43+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.62"
       },
-      "content": "이런건 물어봐도 됨",
+      "content": "영상만 보고 제약까지 맞추는건 무리",
       "deleted": false
     },
     {
-      "id": "c-2030-000004-v8-005",
-      "parentId": "c-2030-000004-v8-004",
-      "timestamp": "2030-04-19T14:05:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "나도 처음엔 헷갈렸음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-006",
+      "id": "c-2030-000004-b1-004",
       "parentId": null,
-      "timestamp": "2030-04-19T14:07:34+09:00",
+      "timestamp": "2030-04-19T14:24:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.246"
+        "ip": "118.47"
       },
-      "content": "해본사람 있냐",
+      "content": "말 그대로 조건 걸고 효과를 얻는 계열로 공개된거 아님?",
       "deleted": false
     },
     {
-      "id": "c-2030-000004-v8-007",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:10:35+09:00",
+      "id": "c-2030-000004-b1-005",
+      "parentId": "c-2030-000004-b1-001",
+      "timestamp": "2030-04-19T14:32:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "118.47"
       },
-      "content": "나도 이거 궁금했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-008",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:12:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-009",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:14:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.246"
-      },
-      "content": "강주아 최근거 더 봐야 알듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-010",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:17:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "처음이면 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-011",
-      "parentId": "c-2030-000004-v8-007",
-      "timestamp": "2030-04-19T14:20:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "최근기준 아는사람?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-012",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:23:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-013",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:24:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-014",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:27:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "그럴수도 있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-015",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:31:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2030-000004-v8-016",
-      "parentId": null,
-      "timestamp": "2030-04-19T14:33:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.235"
-      },
-      "content": "근거는?",
+      "content": "그거 빠지면 판단하기 애매함",
       "deleted": false
     }
   ],

@@ -33,63 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000156-v8-001",
+      "id": "c-2042-000156-b2m-001",
       "parentId": null,
-      "timestamp": "2042-09-01T15:22:48+09:00",
+      "timestamp": "2042-09-01T15:23:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "61.79"
+        "ip": "118.221"
       },
-      "content": "계약할때 정산일 적혀있는게 제일 편함",
+      "content": "항목만 공유면 파티명/게이트/회수량/매입가/수수료/분배기준 정도 있으면 됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000156-v8-002",
+      "id": "c-2042-000156-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-01T15:24:52+09:00",
+      "timestamp": "2042-09-01T15:25:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "1.239"
       },
-      "content": "일주일 넘고 말도 없으면 물어봐야지",
+      "content": "정산일이랑 입금완료 체크칸도 하나 두는게 편함",
       "deleted": false
     },
     {
-      "id": "c-2042-000156-v8-003",
-      "parentId": "c-2042-000156-v8-001",
-      "timestamp": "2042-09-01T15:27:32+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "예상금액으로 먼저 싸우지마",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000156-v8-004",
-      "parentId": null,
-      "timestamp": "2042-09-01T15:30:29+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "짐꾼3년차",
-        "ip": null
-      },
-      "content": "당일정산 맛보면 늦는팀 답답함ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000156-v8-005",
-      "parentId": null,
-      "timestamp": "2042-09-01T15:33:34+09:00",
+      "id": "c-2042-000156-b2m-003",
+      "parentId": "c-2042-000156-b2m-001",
+      "timestamp": "2042-09-01T15:28:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.7"
+        "ip": "118.221"
       },
-      "content": "매입 끝나고 보내는팀이면 2~3일은 봄",
+      "content": "예상가랑 실제 매입가 칸은 따로 두는게 덜헷갈림",
       "deleted": false
     }
   ],

@@ -31,44 +31,7 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [
-    {
-      "id": "c-2026-000021-v8-001",
-      "parentId": null,
-      "timestamp": "2026-07-02T08:15:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.33"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000021-v8-002",
-      "parentId": null,
-      "timestamp": "2026-07-02T08:16:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2026-000021-v8-003",
-      "parentId": null,
-      "timestamp": "2026-07-02T08:19:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "자라",
-      "deleted": false
-    }
-  ],
+  "comments": [],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

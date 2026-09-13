@@ -33,75 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2042-000079-pilot001",
+      "id": "c-2042-000079-b2m-001",
       "parentId": null,
-      "timestamp": "2042-05-16T12:18:48+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
-      },
-      "content": "장비/보험/지원인력까지 합치면 상위권 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000079-pilot002",
-      "parentId": null,
-      "timestamp": "2042-05-16T12:19:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "39.7"
-      },
-      "content": "압승은 모르겠고 백호가 복지 얘기 제일 많이 나오는건 맞지",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000079-pilot003",
-      "parentId": null,
-      "timestamp": "2042-05-16T12:21:01+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "마탑첩자",
-        "ip": null
-      },
-      "content": "네뷸라는 교육쪽을 복지로 치냐 마냐에서 갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2042-000079-pilot004",
-      "parentId": null,
-      "timestamp": "2042-05-16T12:21:32+09:00",
+      "timestamp": "2042-05-16T12:20:41+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.235"
       },
-      "content": "한성은 복지후기 왜이리 적음",
+      "content": "방송콘텐츠 부담스러운 사람은 스텔라 호불호 있겠지",
       "deleted": false
     },
     {
-      "id": "c-2042-000079-pilot005",
+      "id": "c-2042-000079-b2m-002",
       "parentId": null,
-      "timestamp": "2042-05-16T12:23:27+09:00",
+      "timestamp": "2042-05-16T12:22:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "58.29"
       },
-      "content": "한성 들어간 사람이 헌갤에 후기쓰겠냐ㅋㅋ",
+      "content": "간판만 보고 파티분위기까지 같다고 보면 안됨",
       "deleted": false
     },
     {
-      "id": "c-2042-000079-pilot006",
+      "id": "c-2042-000079-b2m-003",
       "parentId": null,
-      "timestamp": "2042-05-16T12:25:11+09:00",
+      "timestamp": "2042-05-16T12:24:50+09:00",
       "author": {
-        "type": "fixed",
-        "name": "백호복지팀",
-        "ip": null
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
       },
-      "content": "닉 때문에 신뢰도 -20 먹는거 억울함",
+      "content": "취업글 보면 마법계는 네뷸라, 지원조건은 백호 얘기가 자주나옴",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000079-b2m-004",
+      "parentId": null,
+      "timestamp": "2042-05-16T12:26:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "취업이면 복지/교육도 봐야지 누가세냐만 볼건 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000079-b2m-005",
+      "parentId": null,
+      "timestamp": "2042-05-16T12:29:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "한성은 상징적인 상위헌터들이 있어서 이미지빨이 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000079-b2m-006",
+      "parentId": null,
+      "timestamp": "2042-05-16T12:32:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "전투서열하고 직장선호는 별개임",
       "deleted": false
     }
   ],

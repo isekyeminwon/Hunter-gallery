@@ -33,39 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000012-v8-001",
+      "id": "c-2040-000012-b2m-001",
       "parentId": null,
-      "timestamp": "2040-12-12T08:11:30+09:00",
+      "timestamp": "2040-12-12T08:11:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "58.29"
       },
-      "content": "해본사람 있냐",
+      "content": "C급이라고 무조건 회사보다 많이버는건 아님",
       "deleted": false
     },
     {
-      "id": "c-2040-000012-v8-002",
+      "id": "c-2040-000012-b2m-002",
       "parentId": null,
       "timestamp": "2040-12-12T08:13:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "58.29"
       },
-      "content": "이거 초보때 은근 헷갈림",
+      "content": "공략횟수/부상리스크/비수기까지 넣고 연수입 계산해봐",
       "deleted": false
     },
     {
-      "id": "c-2040-000012-v8-003",
-      "parentId": null,
-      "timestamp": "2040-12-12T08:17:20+09:00",
+      "id": "c-2040-000012-b2m-003",
+      "parentId": "c-2040-000012-b2m-001",
+      "timestamp": "2040-12-12T08:15:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "210.178"
+        "ip": "39.125"
       },
-      "content": "요즘 기준 글이 잘안보이더라",
+      "content": "보험/세금/장비비 빼면 생각보다 차이 줄어듦",
       "deleted": false
     }
   ],

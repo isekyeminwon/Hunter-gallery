@@ -33,195 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000016-v8-001",
+      "id": "c-2038-000016-b2m-001",
       "parentId": null,
-      "timestamp": "2038-08-03T14:17:49+09:00",
+      "timestamp": "2038-08-03T14:18:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000016-b2m-002",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:22:24+09:00",
       "author": {
         "type": "fixed",
-        "name": "현장밥차",
+        "name": "영상분석충",
         "ip": null
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-002",
-      "parentId": null,
-      "timestamp": "2038-08-03T14:19:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-003",
-      "parentId": null,
-      "timestamp": "2038-08-03T14:21:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
       },
       "content": "나도그럼",
       "deleted": false
     },
     {
-      "id": "c-2038-000016-v8-004",
+      "id": "c-2038-000016-b2m-003",
       "parentId": null,
-      "timestamp": "2038-08-03T14:23:28+09:00",
+      "timestamp": "2038-08-03T14:25:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.58"
+        "ip": "211.234"
       },
       "content": "개웃기네",
       "deleted": false
     },
     {
-      "id": "c-2038-000016-v8-005",
+      "id": "c-2038-000016-b2m-004",
       "parentId": null,
-      "timestamp": "2038-08-03T14:27:17+09:00",
+      "timestamp": "2038-08-03T14:28:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "223.62"
       },
       "content": "자라",
       "deleted": false
     },
     {
-      "id": "c-2038-000016-v8-006",
+      "id": "c-2038-000016-b2m-005",
       "parentId": null,
-      "timestamp": "2038-08-03T14:28:58+09:00",
+      "timestamp": "2038-08-03T14:32:03+09:00",
       "author": {
         "type": "fixed",
-        "name": "현장밥차",
+        "name": "영상분석충",
         "ip": null
       },
-      "content": "{{con:dororong}}",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-007",
-      "parentId": null,
-      "timestamp": "2038-08-03T14:30:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-008",
-      "parentId": "c-2038-000016-v8-001",
-      "timestamp": "2038-08-03T14:34:16+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-009",
-      "parentId": "c-2038-000016-v8-006",
-      "timestamp": "2038-08-03T14:35:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-010",
-      "parentId": null,
-      "timestamp": "2038-08-03T14:37:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-011",
-      "parentId": null,
-      "timestamp": "2038-08-03T14:40:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "둘다 진정좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-012",
-      "parentId": "c-2038-000016-v8-006",
-      "timestamp": "2038-08-03T14:43:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-013",
-      "parentId": null,
-      "timestamp": "2038-08-03T14:46:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-014",
-      "parentId": "c-2038-000016-v8-010",
-      "timestamp": "2038-08-03T14:49:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.58"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-015",
-      "parentId": null,
-      "timestamp": "2038-08-03T14:53:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2038-000016-v8-016",
-      "parentId": null,
-      "timestamp": "2038-08-03T14:57:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "나도 비슷했음",
+      "content": "ㄹㅇ",
       "deleted": false
     }
   ],

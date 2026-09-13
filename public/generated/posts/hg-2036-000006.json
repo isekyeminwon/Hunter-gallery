@@ -33,183 +33,75 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2036-000006-v8-001",
+      "id": "c-2036-000006-b1-001",
       "parentId": null,
-      "timestamp": "2036-04-18T11:14:08+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-002",
-      "parentId": null,
-      "timestamp": "2036-04-18T11:16:51+09:00",
+      "timestamp": "2036-04-18T11:20:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "121.163"
       },
-      "content": "개웃기네",
+      "content": "실명/능력명은 아직 출처불명 썰이 너무 많음",
       "deleted": false
     },
     {
-      "id": "c-2036-000006-v8-003",
+      "id": "c-2036-000006-b1-002",
       "parentId": null,
-      "timestamp": "2036-04-18T11:19:21+09:00",
+      "timestamp": "2036-04-18T11:27:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "118.41"
       },
-      "content": "자라",
+      "content": "미국 두번째 SS 확인된거 자체가 제일 큰 뉴스지",
       "deleted": false
     },
     {
-      "id": "c-2036-000006-v8-004",
-      "parentId": "c-2036-000006-v8-003",
-      "timestamp": "2036-04-18T11:21:55+09:00",
+      "id": "c-2036-000006-b1-003",
+      "parentId": null,
+      "timestamp": "2036-04-18T11:35:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "223.33"
       },
-      "content": "ㄹㅇ",
+      "content": "영상 진짜인지부터 확인하고 순위놀이해라ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2036-000006-v8-005",
-      "parentId": null,
-      "timestamp": "2036-04-18T11:23:46+09:00",
+      "id": "c-2036-000006-b1-004",
+      "parentId": "c-2036-000006-b1-003",
+      "timestamp": "2036-04-18T11:41:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.140"
+        "ip": "223.33"
       },
-      "content": "나도그럼",
+      "content": "국가전력표는 벌써 만드는거 개웃김",
       "deleted": false
     },
     {
-      "id": "c-2036-000006-v8-006",
+      "id": "c-2036-000006-b1-005",
       "parentId": null,
-      "timestamp": "2036-04-18T11:26:03+09:00",
+      "timestamp": "2036-04-18T11:48:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "추천글 절반이 이 얘기네",
+      "deleted": false
+    },
+    {
+      "id": "c-2036-000006-b1-006",
+      "parentId": null,
+      "timestamp": "2036-04-18T11:54:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "125.180"
       },
-      "content": "ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-007",
-      "parentId": null,
-      "timestamp": "2036-04-18T11:28:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "뭔데",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-008",
-      "parentId": null,
-      "timestamp": "2036-04-18T11:31:16+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-009",
-      "parentId": "c-2036-000006-v8-003",
-      "timestamp": "2036-04-18T11:33:55+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "ㄹㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-010",
-      "parentId": null,
-      "timestamp": "2036-04-18T11:35:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "125.180"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-011",
-      "parentId": null,
-      "timestamp": "2036-04-18T11:37:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "58.29"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-012",
-      "parentId": null,
-      "timestamp": "2036-04-18T11:40:33+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-013",
-      "parentId": null,
-      "timestamp": "2036-04-18T11:43:53+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-014",
-      "parentId": "c-2036-000006-v8-010",
-      "timestamp": "2036-04-18T11:47:10+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "현장밥차",
-        "ip": null
-      },
-      "content": "나도그럼",
-      "deleted": false
-    },
-    {
-      "id": "c-2036-000006-v8-015",
-      "parentId": null,
-      "timestamp": "2036-04-18T11:49:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.140"
-      },
-      "content": "근거는?",
+      "content": "{{con:idk}}",
       "deleted": false
     }
   ],

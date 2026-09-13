@@ -33,147 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000103-v8-001",
+      "id": "c-2041-000103-b2m-001",
       "parentId": null,
-      "timestamp": "2041-04-16T18:07:38+09:00",
+      "timestamp": "2041-04-16T18:07:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "223.38"
       },
-      "content": "훈련점수로 실전서열 짜는건 웃김",
+      "content": "지원인력 따로 뽑는 경우 있음. 장비운반/기록/통제보조 쪽",
       "deleted": false
     },
     {
-      "id": "c-2041-000103-v8-002",
+      "id": "c-2041-000103-b2m-002",
       "parentId": null,
-      "timestamp": "2041-04-16T18:09:17+09:00",
+      "timestamp": "2041-04-16T18:09:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.102"
+        "ip": "39.125"
       },
-      "content": "훈련인데 철수만 몇번씩 시키더라",
+      "content": "실전공략 알바랑 보험/역할이 다를수 있음",
       "deleted": false
     },
     {
-      "id": "c-2041-000103-v8-003",
+      "id": "c-2041-000103-b2m-003",
       "parentId": null,
-      "timestamp": "2041-04-16T18:12:25+09:00",
+      "timestamp": "2041-04-16T18:11:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "211.201"
       },
-      "content": "강한애 모았다고 팀이 바로 되는건 아님",
+      "content": "훈련장 출입시간 길어서 시급보다 일당으로 보는글 많음",
       "deleted": false
     },
     {
-      "id": "c-2041-000103-v8-004",
-      "parentId": "c-2041-000103-v8-002",
-      "timestamp": "2041-04-16T18:14:36+09:00",
+      "id": "c-2041-000103-b2m-004",
+      "parentId": "c-2041-000103-b2m-003",
+      "timestamp": "2041-04-16T18:15:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "125.180"
+        "ip": "223.38"
       },
-      "content": "낯선사람끼리 콜 맞추는게 핵심이겠네",
+      "content": "공고에 촬영보조랑 현장보조 섞여있으면 역할 물어봐",
       "deleted": false
     },
     {
-      "id": "c-2041-000103-v8-005",
+      "id": "c-2041-000103-b2m-005",
       "parentId": null,
-      "timestamp": "2041-04-16T18:17:14+09:00",
+      "timestamp": "2041-04-16T18:19:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "223.38"
       },
-      "content": "부상자 가정 훈련이 제일 정신없다더라",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000103-v8-006",
-      "parentId": null,
-      "timestamp": "2041-04-16T18:21:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "파티콜 맞추는게 생각보다 오래걸림",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000103-v8-007",
-      "parentId": null,
-      "timestamp": "2041-04-16T18:23:07+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "난 아닌듯",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000103-v8-008",
-      "parentId": null,
-      "timestamp": "2041-04-16T18:25:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "대댓글만 따로 글파도 되겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000103-v8-009",
-      "parentId": null,
-      "timestamp": "2041-04-16T18:28:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000103-v8-010",
-      "parentId": "c-2041-000103-v8-006",
-      "timestamp": "2041-04-16T18:32:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "182.214"
-      },
-      "content": "훈련점수로 서열짜는건 좀ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000103-v8-011",
-      "parentId": null,
-      "timestamp": "2041-04-16T18:34:35+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2041-000103-v8-012",
-      "parentId": null,
-      "timestamp": "2041-04-16T18:36:56+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "ㄹㅇ",
+      "content": "조건표 한번 더봐야겠네",
       "deleted": false
     }
   ],

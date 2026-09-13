@@ -33,51 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000059-v8-001",
+      "id": "c-2037-000059-b2m-001",
       "parentId": null,
-      "timestamp": "2037-06-07T18:45:45+09:00",
+      "timestamp": "2037-06-07T18:47:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.223"
+        "ip": "211.234"
       },
-      "content": "정성추",
+      "content": "짐꾼 동선 전투팀이랑 겹치면 바로 사고남",
       "deleted": false
     },
     {
-      "id": "c-2037-000059-v8-002",
+      "id": "c-2037-000059-b2m-002",
       "parentId": null,
-      "timestamp": "2037-06-07T18:49:45+09:00",
+      "timestamp": "2037-06-07T18:50:36+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
       },
-      "content": "팀마다 이부분은 좀 갈리더라",
+      "content": "첫날이면 짐무게랑 이동거리 미리 물어보는게 낫다",
       "deleted": false
     },
     {
-      "id": "c-2037-000059-v8-003",
-      "parentId": "c-2037-000059-v8-001",
-      "timestamp": "2037-06-07T18:53:19+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "124.53"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000059-v8-004",
+      "id": "c-2037-000059-b2m-003",
       "parentId": null,
-      "timestamp": "2037-06-07T18:55:19+09:00",
+      "timestamp": "2037-06-07T18:53:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "211.234"
       },
-      "content": "이거 저장해둠",
+      "content": "좋은팀 잡으면 반복으로 가는 이유가 있음",
       "deleted": false
     }
   ],

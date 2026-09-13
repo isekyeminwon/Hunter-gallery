@@ -33,39 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2028-000035-v8-001",
+      "id": "c-2028-000035-b1-001",
       "parentId": null,
-      "timestamp": "2028-06-04T08:04:13+09:00",
+      "timestamp": "2028-06-04T08:09:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "짧아서 성격까지 판단하긴 어렵지",
+      "deleted": false
+    },
+    {
+      "id": "c-2028-000035-b1-002",
+      "parentId": null,
+      "timestamp": "2028-06-04T08:16:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.7"
       },
-      "content": "원본 어디임",
+      "content": "팬계정 짤보다 공식영상부터 보고싶음",
       "deleted": false
     },
     {
-      "id": "c-2028-000035-v8-002",
+      "id": "c-2028-000035-b1-003",
       "parentId": null,
-      "timestamp": "2028-06-04T08:06:20+09:00",
+      "timestamp": "2028-06-04T08:24:10+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "121.163"
       },
-      "content": "원본 어디임",
+      "content": "생각보다 말 담백하네",
       "deleted": false
     },
     {
-      "id": "c-2028-000035-v8-003",
-      "parentId": null,
-      "timestamp": "2028-06-04T08:09:07+09:00",
+      "id": "c-2028-000035-b1-004",
+      "parentId": "c-2028-000035-b1-003",
+      "timestamp": "2028-06-04T08:34:50+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.235"
+        "ip": "39.7"
       },
-      "content": "댓글이 영상보다 재밌음",
+      "content": "짤 말고 공식영상부터 봐야겠다",
       "deleted": false
     }
   ],

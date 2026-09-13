@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2038-000013-v8-001",
+      "id": "c-2038-000013-b2m-001",
       "parentId": null,
-      "timestamp": "2038-02-22T12:39:32+09:00",
+      "timestamp": "2038-02-22T12:38:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "58.29"
       },
-      "content": "명의 빌려주는건 괜히 엮이지마",
+      "content": "공식프로필/기사에 공개된 정보와 주소·가족·연락처는 완전 다름",
       "deleted": false
     },
     {
-      "id": "c-2038-000013-v8-002",
+      "id": "c-2038-000013-b2m-002",
       "parentId": null,
-      "timestamp": "2038-02-22T12:41:50+09:00",
+      "timestamp": "2038-02-22T12:40:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "175.223"
       },
-      "content": "그 조항 아직 그대로임?",
+      "content": "실명 공개된 헌터라도 집주소/가족정보까지 퍼뜨리면 안됨",
       "deleted": false
     }
   ],

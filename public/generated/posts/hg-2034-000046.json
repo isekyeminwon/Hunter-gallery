@@ -33,27 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000046-v8-001",
+      "id": "c-2034-000046-b1-001",
       "parentId": null,
-      "timestamp": "2034-03-01T23:09:14+09:00",
+      "timestamp": "2034-03-01T23:12:36+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.201"
+        "ip": "175.194"
       },
-      "content": "조건부터 봐야됨",
+      "content": "집결지 공개말고 지역만 적는게 낫다",
       "deleted": false
     },
     {
-      "id": "c-2034-000046-v8-002",
+      "id": "c-2034-000046-b1-002",
       "parentId": null,
-      "timestamp": "2034-03-01T23:12:29+09:00",
+      "timestamp": "2034-03-01T23:19:58+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.248"
+        "ip": "211.246"
       },
-      "content": "시세보다 너무 좋으면 이유부터 궁금함",
+      "content": "예상시간이랑 짐무게 적어줘",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000046-b1-003",
+      "parentId": null,
+      "timestamp": "2034-03-01T23:28:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "철수시 일당조건도 써줘",
       "deleted": false
     }
   ],

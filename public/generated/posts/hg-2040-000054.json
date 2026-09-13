@@ -33,99 +33,99 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2040-000054-v8-001",
+      "id": "c-2040-000054-b2m-001",
       "parentId": null,
-      "timestamp": "2040-02-07T23:03:07+09:00",
+      "timestamp": "2040-02-07T23:01:45+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "39.7"
+      },
+      "content": "전성기 자료 들고 현재순위 박는건 좀 애매함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000054-b2m-002",
+      "parentId": null,
+      "timestamp": "2040-02-07T23:04:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
       },
       "content": "협회장 된뒤 실전영상 적어진건 맞음",
       "deleted": false
     },
     {
-      "id": "c-2040-000054-v8-002",
+      "id": "c-2040-000054-b2m-003",
       "parentId": null,
-      "timestamp": "2040-02-07T23:05:16+09:00",
+      "timestamp": "2040-02-07T23:06:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "최근 영상 없다고 약해졌다고 단정하는것도 이상함",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000054-b2m-004",
+      "parentId": "c-2040-000054-b2m-001",
+      "timestamp": "2040-02-07T23:09:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "최근실적 기준인지 최고점 기준인지부터 맞춰",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000054-b2m-005",
+      "parentId": "c-2040-000054-b2m-001",
+      "timestamp": "2040-02-07T23:11:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "상성 넣으면 또 표 다시짜야됨ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000054-b2m-006",
+      "parentId": null,
+      "timestamp": "2040-02-07T23:13:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "{{con:kwah}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000054-b2m-007",
+      "parentId": null,
+      "timestamp": "2040-02-07T23:15:34+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "첫 S 짬을 무시하긴 어렵지",
+      "deleted": false
+    },
+    {
+      "id": "c-2040-000054-b2m-008",
+      "parentId": null,
+      "timestamp": "2040-02-07T23:18:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.235"
       },
-      "content": "김채연/강주아보다 위냐면 난 모르겠음",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000054-v8-003",
-      "parentId": null,
-      "timestamp": "2040-02-07T23:07:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "첫 S 짬을 너무 우습게 보는거 아님?",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000054-v8-004",
-      "parentId": null,
-      "timestamp": "2040-02-07T23:10:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "최근영상 없다고 약해졌다는 근거도 없지",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000054-v8-005",
-      "parentId": null,
-      "timestamp": "2040-02-07T23:11:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "110.70"
-      },
-      "content": "옛날 영상 들고오는 틀헌터 곧옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000054-v8-006",
-      "parentId": null,
-      "timestamp": "2040-02-07T23:14:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000054-v8-007",
-      "parentId": null,
-      "timestamp": "2040-02-07T23:18:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "강무혁 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2040-000054-v8-008",
-      "parentId": null,
-      "timestamp": "2040-02-07T23:20:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "그럴수도 있지",
+      "content": "{{con:heehee}}",
       "deleted": false
     }
   ],

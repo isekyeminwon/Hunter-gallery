@@ -33,219 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2034-000001-v8-001",
+      "id": "c-2034-000001-b1-001",
       "parentId": null,
-      "timestamp": "2034-03-10T13:33:56+09:00",
+      "timestamp": "2034-03-10T13:40:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.245"
       },
-      "content": "방송노출 싫은사람은 스텔라 안맞겠지",
+      "content": "길드 전체실적까지 보면 또 따져봐야지",
       "deleted": false
     },
     {
-      "id": "c-2034-000001-v8-002",
+      "id": "c-2034-000001-b1-002",
       "parentId": null,
-      "timestamp": "2034-03-10T13:37:44+09:00",
+      "timestamp": "2034-03-10T13:45:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "이시율 때문에 전투력 1위 이미지는 확실히 굳은듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000001-b1-003",
+      "parentId": "c-2034-000001-b1-002",
+      "timestamp": "2034-03-10T13:51:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.245"
+      },
+      "content": "공략권/인력층도 한성이 강해진건 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2034-000001-b1-004",
+      "parentId": "c-2034-000001-b1-001",
+      "timestamp": "2034-03-10T14:01:35+09:00",
       "author": {
         "type": "fixed",
         "name": "틀헌터",
         "ip": null
       },
-      "content": "연구/교육 보면 네뷸라가 매력있지",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-003",
-      "parentId": null,
-      "timestamp": "2034-03-10T13:40:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.201"
-      },
-      "content": "백호는 장비지원 이미지가 확실하긴함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-004",
-      "parentId": null,
-      "timestamp": "2034-03-10T13:44:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "길드 전투순위로 직장 고르는건 좀ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-005",
-      "parentId": "c-2034-000001-v8-001",
-      "timestamp": "2034-03-10T13:47:04+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "백호 복지후기 많은건 맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-006",
-      "parentId": null,
-      "timestamp": "2034-03-10T13:48:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "한성 붙여주면 간다는놈 백퍼 나옴",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-007",
-      "parentId": "c-2034-000001-v8-005",
-      "timestamp": "2034-03-10T13:51:42+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "마법계면 네뷸라가 끌릴만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-008",
-      "parentId": null,
-      "timestamp": "2034-03-10T13:55:41+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "셋다 붙으면 그때 고민한다ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-009",
-      "parentId": null,
-      "timestamp": "2034-03-10T13:57:01+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "또 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-010",
-      "parentId": "c-2034-000001-v8-008",
-      "timestamp": "2034-03-10T13:58:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "한성 붙여주면 고민 안한다는말도 이해됨ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-011",
-      "parentId": null,
-      "timestamp": "2034-03-10T14:01:19+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "틀헌터",
-        "ip": null
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-012",
-      "parentId": null,
-      "timestamp": "2034-03-10T14:04:49+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "스텔라는 방송 싫으면 호불호 씨게 갈림",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-013",
-      "parentId": "c-2034-000001-v8-010",
-      "timestamp": "2034-03-10T14:07:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "취업이면 복지/교육도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-014",
-      "parentId": null,
-      "timestamp": "2034-03-10T14:09:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "본문보다 댓글이 더길어졌네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-015",
-      "parentId": null,
-      "timestamp": "2034-03-10T14:11:37+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "이시율 얘기는 맨날 갈리네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-016",
-      "parentId": null,
-      "timestamp": "2034-03-10T14:14:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.41"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-017",
-      "parentId": null,
-      "timestamp": "2034-03-10T14:17:36+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.234"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2034-000001-v8-018",
-      "parentId": "c-2034-000001-v8-012",
-      "timestamp": "2034-03-10T14:19:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.248"
-      },
-      "content": "셋다 붙고 고민하고싶다",
+      "content": "SS 하나만으로 다른부문까지 1위라 하긴 애매함",
       "deleted": false
     }
   ],

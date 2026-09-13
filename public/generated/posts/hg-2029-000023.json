@@ -33,123 +33,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000023-v8-001",
+      "id": "c-2029-000023-b1-001",
       "parentId": null,
-      "timestamp": "2029-08-09T16:11:59+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "한번 데이면 다음부턴 자동으로 봄",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000023-v8-002",
-      "parentId": null,
-      "timestamp": "2029-08-09T16:14:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "정성추",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000023-v8-003",
-      "parentId": null,
-      "timestamp": "2029-08-09T16:17:09+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "출발전에 정해두는게 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000023-v8-004",
-      "parentId": "c-2029-000023-v8-003",
-      "timestamp": "2029-08-09T16:20:12+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000023-v8-005",
-      "parentId": null,
-      "timestamp": "2029-08-09T16:23:44+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "112.171"
-      },
-      "content": "우린 저부분만 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000023-v8-006",
-      "parentId": null,
-      "timestamp": "2029-08-09T16:26:43+09:00",
+      "timestamp": "2029-08-09T16:17:40+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "14.32"
       },
-      "content": "본문보다 댓글이 더길어졌네",
+      "content": "손 더러운 상태에서 먹기 편한걸로",
       "deleted": false
     },
     {
-      "id": "c-2029-000023-v8-007",
-      "parentId": "c-2029-000023-v8-003",
-      "timestamp": "2029-08-09T16:29:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "220.79"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000023-v8-008",
+      "id": "c-2029-000023-b1-002",
       "parentId": null,
-      "timestamp": "2029-08-09T16:30:49+09:00",
+      "timestamp": "2029-08-09T16:25:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "220.79"
+        "ip": "118.221"
       },
-      "content": "뉴비면 이런거부터 읽는게 낫지",
+      "content": "단거만 먹으면 나중에 입안 텁텁해서 죽음",
       "deleted": false
     },
     {
-      "id": "c-2029-000023-v8-009",
-      "parentId": "c-2029-000023-v8-008",
-      "timestamp": "2029-08-09T16:32:43+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.52"
-      },
-      "content": "이건 해보면 체감함",
-      "deleted": false
-    },
-    {
-      "id": "c-2029-000023-v8-010",
+      "id": "c-2029-000023-b1-003",
       "parentId": null,
-      "timestamp": "2029-08-09T16:36:36+09:00",
+      "timestamp": "2029-08-09T16:30:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "112.171"
+        "ip": "124.53"
       },
-      "content": "나중에 보려고 스크랩함",
+      "content": "포장 뜯기 쉬운게 진짜 중요함",
+      "deleted": false
+    },
+    {
+      "id": "c-2029-000023-b1-004",
+      "parentId": null,
+      "timestamp": "2029-08-09T16:34:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "짠거 하나랑 물 같이 챙기는게 낫더라",
       "deleted": false
     }
   ],

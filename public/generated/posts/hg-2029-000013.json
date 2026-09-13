@@ -33,27 +33,39 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2029-000013-v8-001",
+      "id": "c-2029-000013-b1-001",
       "parentId": null,
-      "timestamp": "2029-06-01T21:06:59+09:00",
+      "timestamp": "2029-06-01T21:15:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "175.194"
+        "ip": "223.39"
       },
-      "content": "이런건 물어봐도 됨",
+      "content": "렌탈 몇번 해보고 자주 쓰는것부터 사는게 덜낭비임",
       "deleted": false
     },
     {
-      "id": "c-2029-000013-v8-002",
+      "id": "c-2029-000013-b1-002",
       "parentId": null,
-      "timestamp": "2029-06-01T21:09:24+09:00",
+      "timestamp": "2029-06-01T21:22:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "110.70"
       },
-      "content": "검색해도 예전얘기만 나와",
+      "content": "능력계열/역할 말해야 예산 얘기가 됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2029-000013-b1-003",
+      "parentId": null,
+      "timestamp": "2029-06-01T21:29:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "보호구랑 신발은 너무 아끼지 않는게 낫더라",
       "deleted": false
     }
   ],

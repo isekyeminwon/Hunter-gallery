@@ -33,159 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2037-000054-v8-001",
+      "id": "c-2037-000054-b2m-001",
       "parentId": null,
-      "timestamp": "2037-08-21T15:52:36+09:00",
+      "timestamp": "2037-08-21T15:51:35+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "110.70"
       },
-      "content": "다음 현장전에 한번 더봄",
+      "content": "현장위치/대피범위/통신채널/철수기준부터 확인",
       "deleted": false
     },
     {
-      "id": "c-2037-000054-v8-002",
+      "id": "c-2037-000054-b2m-002",
       "parentId": null,
-      "timestamp": "2037-08-21T15:55:26+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "내가 가는팀은 반대로함",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000054-v8-003",
-      "parentId": null,
-      "timestamp": "2037-08-21T15:58:03+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.202"
-      },
-      "content": "출발전에 정해두는게 편함",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000054-v8-004",
-      "parentId": null,
-      "timestamp": "2037-08-21T16:01:54+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "한번 고생하면 절대 안빼먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000054-v8-005",
-      "parentId": null,
-      "timestamp": "2037-08-21T16:05:37+09:00",
+      "timestamp": "2037-08-21T15:54:04+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "121.163"
       },
-      "content": "이런게 실제로 도움됨",
+      "content": "장비 챙기기 전에 내가 어느팀 지시 받는지부터 확인",
       "deleted": false
     },
     {
-      "id": "c-2037-000054-v8-006",
-      "parentId": "c-2037-000054-v8-003",
-      "timestamp": "2037-08-21T16:07:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "117.111"
-      },
-      "content": "한번 고생하면 안까먹음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000054-v8-007",
+      "id": "c-2037-000054-b2m-003",
       "parentId": null,
-      "timestamp": "2037-08-21T16:11:10+09:00",
+      "timestamp": "2037-08-21T15:56:23+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "117.111"
+        "ip": "110.70"
       },
-      "content": "정성추",
+      "content": "지원인력은 멋있는 전투보다 집결지랑 이동동선이 먼저임",
       "deleted": false
     },
     {
-      "id": "c-2037-000054-v8-008",
-      "parentId": "c-2037-000054-v8-007",
-      "timestamp": "2037-08-21T16:14:06+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.62"
-      },
-      "content": "우리팀은 이부분 조금 다르게함",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000054-v8-009",
+      "id": "c-2037-000054-b2m-004",
       "parentId": null,
-      "timestamp": "2037-08-21T16:16:35+09:00",
+      "timestamp": "2037-08-21T15:59:24+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "121.163"
       },
-      "content": "정성추",
+      "content": "{{con:wait}}",
       "deleted": false
     },
     {
-      "id": "c-2037-000054-v8-010",
-      "parentId": "c-2037-000054-v8-009",
-      "timestamp": "2037-08-21T16:17:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "뉴비면 체크해둘만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000054-v8-011",
+      "id": "c-2037-000054-b2m-005",
       "parentId": null,
-      "timestamp": "2037-08-21T16:21:33+09:00",
+      "timestamp": "2037-08-21T16:02:54+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "182.214"
+        "ip": "223.38"
       },
-      "content": "난 반대",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000054-v8-012",
-      "parentId": null,
-      "timestamp": "2037-08-21T16:23:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2037-000054-v8-013",
-      "parentId": null,
-      "timestamp": "2037-08-21T16:27:11+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "121.163"
-      },
-      "content": "니들 왜 갑자기 싸우냐",
+      "content": "출처 다른 지시 섞이면 현장책임자 공지 하나로 맞춰",
       "deleted": false
     }
   ],

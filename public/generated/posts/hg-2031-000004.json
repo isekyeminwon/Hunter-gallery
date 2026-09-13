@@ -33,267 +33,63 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2031-000004-v8-001",
+      "id": "c-2031-000004-b1-001",
       "parentId": null,
-      "timestamp": "2031-06-12T17:24:50+09:00",
+      "timestamp": "2031-06-12T17:25:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "118.41"
       },
-      "content": "다음주에 제목만 바뀌어서 올라온다",
+      "content": "중국 기사 번역이 제각각이라 원문 보는사람 필요함",
       "deleted": false
     },
     {
-      "id": "c-2031-000004-v8-002",
+      "id": "c-2031-000004-b1-002",
       "parentId": null,
-      "timestamp": "2031-06-12T17:27:59+09:00",
+      "timestamp": "2031-06-12T17:30:01+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.33"
+        "ip": "175.194"
       },
-      "content": "또 줄세우기 시작했네",
+      "content": "파티원들도 같이 잘하는데 S만 보는건 좀 아깝네",
       "deleted": false
     },
     {
-      "id": "c-2031-000004-v8-003",
+      "id": "c-2031-000004-b1-003",
       "parentId": null,
-      "timestamp": "2031-06-12T17:29:46+09:00",
+      "timestamp": "2031-06-12T17:36:49+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "106.250"
+        "ip": "39.7"
       },
-      "content": "A도 존나 상위권인데 감각 망가짐",
+      "content": "해외 S 기준이 우리랑 완전히 같은지도 궁금함",
       "deleted": false
     },
     {
-      "id": "c-2031-000004-v8-004",
+      "id": "c-2031-000004-b1-004",
+      "parentId": "c-2031-000004-b1-003",
+      "timestamp": "2031-06-12T17:44:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "번역 제대로 된 원문 있으면 줘",
+      "deleted": false
+    },
+    {
+      "id": "c-2031-000004-b1-005",
       "parentId": null,
-      "timestamp": "2031-06-12T17:31:24+09:00",
+      "timestamp": "2031-06-12T17:55:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.36"
+        "ip": "175.194"
       },
-      "content": "비공식표인데 협회문서처럼 만들었네ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-005",
-      "parentId": "c-2031-000004-v8-001",
-      "timestamp": "2031-06-12T17:35:20+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-006",
-      "parentId": null,
-      "timestamp": "2031-06-12T17:38:23+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "댓글끼리 논문쓰네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-007",
-      "parentId": "c-2031-000004-v8-003",
-      "timestamp": "2031-06-12T17:41:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "또 줄세우기 시작이네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-008",
-      "parentId": null,
-      "timestamp": "2031-06-12T17:43:50+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.223"
-      },
-      "content": "내최애 1위 넣으면 끝",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-009",
-      "parentId": null,
-      "timestamp": "2031-06-12T17:45:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "댓글보다가 원글 다시읽음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-010",
-      "parentId": "c-2031-000004-v8-007",
-      "timestamp": "2031-06-12T17:48:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "비공식표에 왜이리 진심임ㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-011",
-      "parentId": "c-2031-000004-v8-007",
-      "timestamp": "2031-06-12T17:51:31+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "상성 넣으면 또 표 갈아야됨",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-012",
-      "parentId": null,
-      "timestamp": "2031-06-12T17:54:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.36"
-      },
-      "content": "헐",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-013",
-      "parentId": null,
-      "timestamp": "2031-06-12T17:56:32+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "상성 얘기 시작하면 2차전임",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-014",
-      "parentId": "c-2031-000004-v8-011",
-      "timestamp": "2031-06-12T18:00:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-015",
-      "parentId": "c-2031-000004-v8-011",
-      "timestamp": "2031-06-12T18:03:25+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "최근 실적도 봐야지",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-016",
-      "parentId": null,
-      "timestamp": "2031-06-12T18:05:40+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "ㅋㅋㅋㅋ",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-017",
-      "parentId": null,
-      "timestamp": "2031-06-12T18:07:10+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.33"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-018",
-      "parentId": null,
-      "timestamp": "2031-06-12T18:08:51+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "공식랭킹도 아닌데 디자인은 존나 진지함",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-019",
-      "parentId": null,
-      "timestamp": "2031-06-12T18:12:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "그건 좀",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-020",
-      "parentId": "c-2031-000004-v8-014",
-      "timestamp": "2031-06-12T18:15:14+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.102"
-      },
-      "content": "내최애가 1위임 반박안받음",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-021",
-      "parentId": null,
-      "timestamp": "2031-06-12T18:17:48+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.250"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2031-000004-v8-022",
-      "parentId": "c-2031-000004-v8-017",
-      "timestamp": "2031-06-12T18:20:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "14.32"
-      },
-      "content": "최근 실적도 봐야지",
+      "content": "국적 가지고 전투력 싸움하는건 벌써 지겹다ㅋㅋ",
       "deleted": false
     }
   ],

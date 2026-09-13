@@ -33,51 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2039-000049-v8-001",
+      "id": "c-2039-000049-b2m-001",
       "parentId": null,
-      "timestamp": "2039-06-14T14:48:13+09:00",
+      "timestamp": "2039-06-14T14:49:30+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "106.102"
       },
-      "content": "보스방 들어갈때 음악 끊는거 좋았음",
+      "content": "별하나 장면은 짤로 먼저 도는게 국룰ㅋㅋ",
       "deleted": false
     },
     {
-      "id": "c-2039-000049-v8-002",
+      "id": "c-2039-000049-b2m-002",
       "parentId": null,
-      "timestamp": "2039-06-14T14:50:20+09:00",
+      "timestamp": "2039-06-14T14:52:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.10"
+        "ip": "118.41"
       },
-      "content": "{{con:kwah}}{{con:kwah}}",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000049-v8-003",
-      "parentId": null,
-      "timestamp": "2039-06-14T14:53:37+09:00",
-      "author": {
-        "type": "fixed",
-        "name": "별빛단7기",
-        "ip": null
-      },
-      "content": "팬아닌데 이번건 볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2039-000049-v8-004",
-      "parentId": null,
-      "timestamp": "2039-06-14T14:55:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "118.44"
-      },
-      "content": "촬영팀 고생한 티 남",
+      "content": "보스방 진입 직전 음악 끊는 연출 자주 쓰네",
       "deleted": false
     }
   ],

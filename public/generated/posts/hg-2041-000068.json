@@ -33,27 +33,27 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2041-000068-v8-001",
+      "id": "c-2041-000068-b2m-001",
       "parentId": null,
-      "timestamp": "2041-06-20T09:40:19+09:00",
+      "timestamp": "2041-06-20T09:41:14+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "175.223"
       },
-      "content": "나도그럼",
+      "content": "개웃기네",
       "deleted": false
     },
     {
-      "id": "c-2041-000068-v8-002",
+      "id": "c-2041-000068-b2m-002",
       "parentId": null,
-      "timestamp": "2041-06-20T09:43:43+09:00",
+      "timestamp": "2041-06-20T09:43:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.33"
+        "ip": "220.79"
       },
-      "content": "ㅋㅋ",
+      "content": "ㄹㅇ",
       "deleted": false
     }
   ],

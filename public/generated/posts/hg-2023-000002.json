@@ -34,207 +34,51 @@
   "deletedStatus": null,
   "comments": [
     {
-      "id": "c-2023-000002-v8-001",
+      "id": "c-2023-000002-b1-001",
       "parentId": null,
-      "timestamp": "2023-05-12T14:26:53+09:00",
+      "timestamp": "2023-05-12T14:32:38+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.38"
+        "ip": "211.58"
       },
-      "content": "비슷한 나이에서 계속 나오면 뭔가 있긴 있나봄",
+      "content": "며칠 더 지나면 사례 더 나오겠지",
       "deleted": false
     },
     {
-      "id": "c-2023-000002-v8-002",
+      "id": "c-2023-000002-b1-002",
       "parentId": null,
-      "timestamp": "2023-05-12T14:28:19+09:00",
+      "timestamp": "2023-05-12T14:43:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "59.5"
+        "ip": "106.250"
       },
-      "content": "벽 부쉈다는 기사 처음엔 구라인줄",
+      "content": "동생 걱정될만하지 기사마다 나이를 계속 강조하더라",
       "deleted": false
     },
     {
-      "id": "c-2023-000002-v8-003",
+      "id": "c-2023-000002-b1-003",
       "parentId": null,
-      "timestamp": "2023-05-12T14:30:25+09:00",
+      "timestamp": "2023-05-12T14:51:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "58.29"
+        "ip": "118.44"
       },
-      "content": "병원마다 설명이 다 다르던데",
+      "content": "아직 표본 몇명인데 법칙처럼 말하는건 좀 빠름",
       "deleted": false
     },
     {
-      "id": "c-2023-000002-v8-004",
+      "id": "c-2023-000002-b1-004",
       "parentId": null,
-      "timestamp": "2023-05-12T14:32:34+09:00",
+      "timestamp": "2023-05-12T14:58:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.235"
+        "ip": "211.246"
       },
-      "content": "스무살 사례만 계속 나오는게 진짜 신기함",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-005",
-      "parentId": null,
-      "timestamp": "2023-05-12T14:34:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "본인이 제일 당황했겠다",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-006",
-      "parentId": null,
-      "timestamp": "2023-05-12T14:37:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "ㅇㅇ",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-007",
-      "parentId": null,
-      "timestamp": "2023-05-12T14:40:58+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "나도 비슷했음",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-008",
-      "parentId": null,
-      "timestamp": "2023-05-12T14:43:28+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-009",
-      "parentId": null,
-      "timestamp": "2023-05-12T14:45:21+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "근거는?",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-010",
-      "parentId": "c-2023-000002-v8-008",
-      "timestamp": "2023-05-12T14:48:15+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "해본사람 말 더 들어보고싶다",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-011",
-      "parentId": null,
-      "timestamp": "2023-05-12T14:49:57+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "59.5"
-      },
-      "content": "이건 처음듣네",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-012",
-      "parentId": null,
-      "timestamp": "2023-05-12T14:52:00+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-013",
-      "parentId": null,
-      "timestamp": "2023-05-12T14:55:34+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-014",
-      "parentId": "c-2023-000002-v8-009",
-      "timestamp": "2023-05-12T14:59:17+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "이건 물어볼만함",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-015",
-      "parentId": null,
-      "timestamp": "2023-05-12T15:02:24+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "175.194"
-      },
-      "content": "그건맞음",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-016",
-      "parentId": null,
-      "timestamp": "2023-05-12T15:04:39+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "211.235"
-      },
-      "content": "이건 인정",
-      "deleted": false
-    },
-    {
-      "id": "c-2023-000002-v8-017",
-      "parentId": null,
-      "timestamp": "2023-05-12T15:06:52+09:00",
-      "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "223.38"
-      },
-      "content": "둘다 진정좀",
+      "content": "지금 나온 사례가 스무살 근처인건 맞는데 전부라고 확정된건 아닌듯",
       "deleted": false
     }
   ],
