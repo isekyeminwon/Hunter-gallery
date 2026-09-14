@@ -18,15 +18,7 @@
     "ip": "61.79"
   },
   "content": "스텔라 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
-  "attachments": [
-    {
-      "id": "att-hg-2041-000045-01",
-      "type": "image",
-      "src": "/assets/posts/2041/stella-joint-clear-frame.webp",
-      "alt": "스텔라 합동 공략 클리어 영상 프레임",
-      "status": "available"
-    }
-  ],
+  "attachments": [],
   "stats": {
     "views": 17194,
     "recommend": 2759
@@ -122,6 +114,222 @@
         "ip": "118.33"
       },
       "content": "풀버전도 봐야 실제시간 감오지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-001",
+      "parentId": null,
+      "timestamp": "2041-07-05T10:45:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "별하나 나오는 장면은 팬계정이 공식보다 빨리 짤뜸",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-002",
+      "parentId": null,
+      "timestamp": "2041-07-05T10:51:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "원본콜 풀어주면 교육자료로 진짜 좋을듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-003",
+      "parentId": "c-2041-000045-core-002",
+      "timestamp": "2041-07-05T10:56:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "원본콜 들으면 현장 판단과정까지 보여서 교육용으론 좋지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-004",
+      "parentId": null,
+      "timestamp": "2041-07-05T10:59:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "촬영팀 붙으면 파티 동선도 신경쓸게 늘겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-005",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:03:17+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "영상팀한테 화력순위 매기는 갤은 또 뭐냐ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-006",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:06:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.178"
+      },
+      "content": "보스방 직전 음악 끊는건 또 써도 잘먹히네",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-007",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:09:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "원본콜 있으면 교육용으론 좋겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-008",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:13:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "편집본만 보면 공략이 엄청 매끈해보이긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-009",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:19:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "카메라가 많아지니까 후열 움직임 보는건 좋더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-010",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:22:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "편집 잘했다고 실제 난이도까지 낮아보이면 안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-011",
+      "parentId": "c-2041-000045-core-010",
+      "timestamp": "2041-07-05T11:26:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.120"
+      },
+      "content": "편집이 매끈한거지 실제 현장이 매끈한건 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-012",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:32:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "이동/대기시간 얼마나 잘렸는지가 제일 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-013",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:36:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.178"
+      },
+      "content": "공략영상이 홍보물+교육자료 중간쯤 가는 느낌",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-014",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:38:18+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "{{con:kwah}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-015",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:42:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "이럴때 쓰라고 있는 콘 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-016",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:44:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.39"
+      },
+      "content": "원본 2시간을 15분으로 줄였으면 편집자 죽었겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-017",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:48:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2041-000045-core-018",
+      "parentId": null,
+      "timestamp": "2041-07-05T11:53:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "{{con:dororong}}",
       "deleted": false
     }
   ],

@@ -103,6 +103,234 @@
       },
       "content": "신상/위치 노출은 진짜 선넘지마",
       "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-001",
+      "parentId": null,
+      "timestamp": "2030-11-06T05:44:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "당분간 방송 쉬어도 아무도 뭐라하면 안되지",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-002",
+      "parentId": null,
+      "timestamp": "2030-11-06T05:51:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "공연장 영상 다시 올리는 계정들 제발 좀 내려라",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-003",
+      "parentId": null,
+      "timestamp": "2030-11-06T05:53:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "복귀날짜 안박은게 오히려 잘한듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-004",
+      "parentId": null,
+      "timestamp": "2030-11-06T05:58:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.178"
+      },
+      "content": "댓글에서 내부부상 추측하는건 좀 닥치자",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-005",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:04:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "소속사 공지 문장 되게 조심해서 썼네",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-006",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:10:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "팬 아니어도 무사했으면 좋겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-007",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:14:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "치료가 먼저지 일정이 먼저가 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-008",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:19:28+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "잘못된 사망설 돌던 계정들 사과는 했냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-009",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:23:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "공지 뜨고 나니까 오히려 걱정이 더 현실감남",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-010",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:25:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "활동중단 세글자 보니까 갑자기 실감난다",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-011",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:28:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "사고영상 재업은 진짜 그만해야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-012",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:31:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "활동중단이면 생각보다 회복 오래 걸리나보다",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-013",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:34:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.39"
+      },
+      "content": "사고 직후에 활동재개 묻는 기자는 진짜 뭐냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-014",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:36:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "나중에 이 공지 다시 보면 진짜 시대기록일듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-015",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:39:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "사고영상으로 조회수 빨아먹는 계정들 진짜 역겹네",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-016",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:42:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "별하나 이름 검색하면 사고영상부터 뜨는거 너무 잔인함",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-017",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:44:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "치료와 안정 우선이라고 박은거면 팬들도 좀 기다려야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-018",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:48:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "복귀 얘기는 본인이 괜찮아지고 나서 해도 안늦음",
+      "deleted": false
+    },
+    {
+      "id": "c-2030-000027-core-019",
+      "parentId": null,
+      "timestamp": "2030-11-06T06:49:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "이럴때 팬이면 조회수 올려주는게 응원이 아님",
+      "deleted": false
     }
   ],
   "canon": {

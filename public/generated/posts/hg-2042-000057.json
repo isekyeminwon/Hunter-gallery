@@ -79,6 +79,198 @@
       },
       "content": "{{con:hi_star}}",
       "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-001",
+      "parentId": null,
+      "timestamp": "2042-06-20T07:33:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "화면 밖까지 퍼지는거 보면 범위감각 진짜 이상해짐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-002",
+      "parentId": null,
+      "timestamp": "2042-06-20T07:35:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.178"
+      },
+      "content": "댓글은 왜 또 강주아랑 싸우냐ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-003",
+      "parentId": null,
+      "timestamp": "2042-06-20T07:40:12+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "둘 비교는 다른글에서 해라ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-004",
+      "parentId": null,
+      "timestamp": "2042-06-20T07:46:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "네뷸라가 영상자료 잘남기는건 좋긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-005",
+      "parentId": null,
+      "timestamp": "2042-06-20T07:52:14+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "광역기 한방만 떼놓고 봐도 A급 체급이 체감됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-006",
+      "parentId": null,
+      "timestamp": "2042-06-20T07:54:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "솔직히 전투복 핏은 반칙임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-007",
+      "parentId": "c-2042-000057-core-006",
+      "timestamp": "2042-06-20T08:00:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "그래도 전투복 핏은 인정",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-008",
+      "parentId": null,
+      "timestamp": "2042-06-20T08:02:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "61.79"
+      },
+      "content": "강주아팬이 왜 여기서 영업중임ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-009",
+      "parentId": null,
+      "timestamp": "2042-06-20T08:07:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "김채연을 광역원툴로 보는건 영상 몇개만 본티남",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-010",
+      "parentId": null,
+      "timestamp": "2042-06-20T08:10:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "전투영상 보라니까 얼굴캡처만 올리는놈 누구냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-011",
+      "parentId": "c-2042-000057-core-010",
+      "timestamp": "2042-06-20T08:11:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "잡았다 이새끼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-012",
+      "parentId": null,
+      "timestamp": "2042-06-20T08:14:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "{{con:heehee}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-013",
+      "parentId": null,
+      "timestamp": "2042-06-20T08:20:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "영상 오래됐는데 알고리즘에 계속 뜨는 이유가 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-014",
+      "parentId": "c-2042-000057-b2m-003",
+      "timestamp": "2042-06-20T08:23:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "재업이어도 영상 자체는 레전드지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-015",
+      "parentId": null,
+      "timestamp": "2042-06-20T08:29:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000057-core-016",
+      "parentId": null,
+      "timestamp": "2042-06-20T08:31:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
     }
   ],
   "canon": {

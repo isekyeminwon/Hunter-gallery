@@ -211,6 +211,414 @@
       },
       "content": "공식 브리핑 날짜부터 맞춰야됨",
       "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-001",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:17:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "이 사건 보니까 국가가 S/SS 숫자에 왜 예민한지 알겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-002",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:19:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "재업계정이 촬영날짜 잘라먹는게 제일 악질",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-003",
+      "parentId": "c-2038-000012-core-002",
+      "timestamp": "2038-08-03T14:24:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "최초업로드 시점부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-004",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:28:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "사망자 확정썰은 가족들 생각해서라도 퍼나르지마라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-005",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:30:07+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "이계화 범위 예측짤은 왜 다들 색칠부터 하고보냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-006",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:33:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "샤오룽 구조영상 하나가 강렬하다고 사고 전체를 설명하진 못하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-007",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:40:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "원출처 찾기전엔 보류하는게 맞지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-008",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:41:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "확인된거랑 확인안된거 나눠쓴게 제일 도움됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-009",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:45:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "경계지도는 출처없는게 너무 많이 돌아",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-010",
+      "parentId": null,
+      "timestamp": "2038-08-03T14:50:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "피해숫자 캡처는 원출처 없으면 거르는게 맞음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-011",
+      "parentId": "c-2038-000012-core-010",
+      "timestamp": "2038-08-03T14:57:09+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "이건 진짜 가족들 생각해서 선지켜야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-012",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:02:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "사고 규모 때문에 각국 S 정책까지 바뀔거같음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-013",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:04:35+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "샤오룽 한국 들어온뒤 인터뷰마다 이 사건 질문받는거 좀 안쓰럽더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-014",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:08:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "고등급 전력이면 찍어누를수 있다는 감각이 여기서 깨진듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-015",
+      "parentId": "c-2038-000012-core-014",
+      "timestamp": "2038-08-03T15:10:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "SS가 있어도 실패할수 있다는게 제일 큰 충격이었음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-016",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:14:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "같은 영상에 도시 이름 세개 붙어다니는거 봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-017",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:17:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "공식 브리핑도 시점마다 내용 바뀌니까 날짜 먼저봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-018",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:21:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "공략실패 원인을 한줄로 정리하는 글은 일단 거름",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-019",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:22:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이 사건은 출처정리글이 제일 귀했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-020",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:28:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "대피중인 사람 신상 맞추는건 진짜 하지마라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-021",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:32:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "SS게이트 실패라는 사실만으로도 이미 충분히 큰 사건임",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-022",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:35:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "14.32"
+      },
+      "content": "SS가 있다고 SS게이트가 자동으로 해결되는건 아니네",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-023",
+      "parentId": "c-2038-000012-core-022",
+      "timestamp": "2038-08-03T15:40:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "등급만으로 현장안전을 보장 못한다는게 드러난 사건같음",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-024",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:45:25+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "국경 넘어서 지원 얘기 나오는거 보면 규모 체감됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-025",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:52:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "영상분석충들 이번엔 진짜 날짜부터 봐라",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-026",
+      "parentId": null,
+      "timestamp": "2038-08-03T15:55:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "복구기사 하나 떴다고 끝난 사건 취급하면 안됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-027",
+      "parentId": null,
+      "timestamp": "2038-08-03T16:00:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "복구 일부랑 사건 종결은 다른말이지",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-028",
+      "parentId": null,
+      "timestamp": "2038-08-03T16:05:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "뉴스 계속 켜놓고 있게 되는 사건은 오랜만이다",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-029",
+      "parentId": null,
+      "timestamp": "2038-08-03T16:08:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "출처정리 해주는 글이 제일 귀함",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-030",
+      "parentId": null,
+      "timestamp": "2038-08-03T16:15:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "몇시간뒤 어디까지 간다는 예측짤 만든놈 책임질거냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-031",
+      "parentId": null,
+      "timestamp": "2038-08-03T16:20:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "짧은 클립 하나로 보스능력 확정하는건 미친짓",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-032",
+      "parentId": null,
+      "timestamp": "2038-08-03T16:23:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-033",
+      "parentId": null,
+      "timestamp": "2038-08-03T16:25:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.5"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2038-000012-core-034",
+      "parentId": null,
+      "timestamp": "2038-08-03T16:27:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
     }
   ],
   "canon": {

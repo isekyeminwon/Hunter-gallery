@@ -115,6 +115,210 @@
       },
       "content": "{{con:sad}}",
       "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-001",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:20:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.39"
+      },
+      "content": "관광사진인척 옛날 재난사진 올리는 계정들 있더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-002",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:21:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "이 사건 때문에 각국 S/SS 숫자 보는 시선이 달라진거같음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-003",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:27:03+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "이 사건이 아직 기사나는게 규모를 보여줌",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-004",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:28:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "완전히 끝났다는 표현은 아직 못쓰는거같음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-005",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:33:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "색칠지도는 4년째 버전이 바뀌네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-006",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:38:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "2038 영상이 최근영상처럼 다시 도는게 제일 헷갈림",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-007",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:41:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "복구구역과 전체상황은 구분해야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-008",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:44:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "복구팀 인터뷰 보면 장기전이라는 말 계속나오더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-009",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:48:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "4년 지나도 후속기사 뜨는 사건이면 규모 말다했지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-010",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:54:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "이계화라는 단어가 일상기사에 박힌게 아직도 이상함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-011",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:56:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "2038 영상 재업인지 날짜부터 봐야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-012",
+      "parentId": null,
+      "timestamp": "2042-01-29T20:59:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "복구된 구역이 있다는거랑 전체가 돌아온건 다른말임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-013",
+      "parentId": null,
+      "timestamp": "2042-01-29T21:04:56+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "옛날 기사 캡처할거면 날짜 좀 같이 올려라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-014",
+      "parentId": null,
+      "timestamp": "2042-01-29T21:09:59+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "아직 복구기사 계속 나오는거 보면 끝난 재난은 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-015",
+      "parentId": null,
+      "timestamp": "2042-01-29T21:12:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "일부 복구됐다는 기사만 보고 전체회복으로 읽으면 안될듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-016",
+      "parentId": null,
+      "timestamp": "2042-01-29T21:19:19+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "ㅋㅋㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000018-core-017",
+      "parentId": null,
+      "timestamp": "2042-01-29T21:25:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "{{con:real}}",
+      "deleted": false
     }
   ],
   "canon": {

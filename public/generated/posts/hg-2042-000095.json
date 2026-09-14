@@ -103,6 +103,222 @@
       },
       "content": "{{con:hi_star}}",
       "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-001",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:29:44+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.120"
+      },
+      "content": "원본콜 같이 들으면 분위기 완전 다를거같다",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-002",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:34:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "{{con:heehee}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-003",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:37:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "콘으로 할말 다했네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-004",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:43:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "원본 몇시간짜리를 저렇게 줄였을지 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-005",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:45:57+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "영상분석충",
+        "ip": null
+      },
+      "content": "카메라 여러대라 후열 움직임 보는맛 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-006",
+      "parentId": null,
+      "timestamp": "2042-07-09T23:51:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "영상팀 이번엔 야근값 받아라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-007",
+      "parentId": "c-2042-000095-core-006",
+      "timestamp": "2042-07-09T23:58:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.125"
+      },
+      "content": "저 편집량이면 진짜 야근했을듯ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-008",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:01:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "이번 편집은 ㄹㅇ 잘뽑힘",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-009",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:04:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "별하나 짤은 영상 뜨고 5분만에 돌아다니는거같음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-010",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:07:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.67"
+      },
+      "content": "봤음 두번봄 ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-011",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:10:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "112.171"
+      },
+      "content": "댓글보다 영상도 좀 봐라ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-012",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:17:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "아니 근데 오늘 의상 핏 미쳤음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-013",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:23:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "보스방 들어가기 직전에 소리 싹빼는 연출 좋더라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-014",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:27:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.248"
+      },
+      "content": "영상분석충들 타임라인 벌써 다쪼갰네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-015",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:33:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.178"
+      },
+      "content": "몇분 잘린건지 보면 체감 확올듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-016",
+      "parentId": "c-2042-000095-b2m-004",
+      "timestamp": "2042-07-10T00:36:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "그 장면은 짤돌만했음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-017",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:40:06+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.221"
+      },
+      "content": "ㄹㅇ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000095-core-018",
+      "parentId": null,
+      "timestamp": "2042-07-10T00:42:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "{{con:real}}",
+      "deleted": false
     }
   ],
   "canon": {

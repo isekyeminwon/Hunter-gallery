@@ -115,6 +115,174 @@
       },
       "content": "측정오류나 갱신지연까지 부정등록으로 몰면 안됨",
       "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-001",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:12:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.33"
+      },
+      "content": "업계가 극혐하는건 강한척 약한척 문제가 아니라 정보신뢰를 깨는거라서",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-002",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:15:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "같은팀이면 내가 옆사람 실제등급을 믿을수 있어야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-003",
+      "parentId": "c-2042-000040-core-002",
+      "timestamp": "2042-04-11T06:16:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "1.239"
+      },
+      "content": "결국 업계 신뢰를 깨는게 제일 큼",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-004",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:22:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "{{con:arrest}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-005",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:28:17+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "저등급 게이트 악용하면 주변사람이 위험도 잘못판단함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-006",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:29:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "고용주 입장에선 계약조건 허위인거랑 비슷하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-007",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:33:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "보험까지 연결되면 개인문제로 못끝남",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-008",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:38:10+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "무면허는 아예 밖인데 부정등록은 시스템 안에서 속이는 느낌이라 더 싫어하는듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-009",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:39:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "강제소집 회피 이미지가 붙은것도 크고",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-010",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:43:37+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.246"
+      },
+      "content": "결국 신뢰문제라는 말이 제일 맞는듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-011",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:46:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "같은팀이면 옆사람 등급을 믿을수 있어야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-012",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:47:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "사고나면 보험사가 제일 먼저 등록정보 볼거아냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-013",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:52:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "182.214"
+      },
+      "content": "무면허보다 시스템 안에서 속이는 느낌이 강함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000040-core-014",
+      "parentId": null,
+      "timestamp": "2042-04-11T06:59:26+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.36"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
     }
   ],
   "canon": {

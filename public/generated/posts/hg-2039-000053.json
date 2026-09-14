@@ -151,6 +151,222 @@
       },
       "content": "{{con:sad}}",
       "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-001",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:00:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.33"
+      },
+      "content": "짐꾼이 어디있었는지 기록 남기는것도 중요하겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-002",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:04:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "공동대응 들어가면 제일 먼저 콜부터 통일한다는 말 이해됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-003",
+      "parentId": "c-2039-000053-core-002",
+      "timestamp": "2039-05-20T16:07:04+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "콜 통일이 왜 중요한지 알겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-004",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:12:54+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "210.178"
+      },
+      "content": "합동콜 단어 하나 다르면 순간적으로 멈칫할수있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-005",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:15:49+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "협회팀이랑 민간팀 장비규격 다르면 연결부터 문제되겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-006",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:21:38+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이번 일 이후 대형현장 체크리스트 바꾸는팀 많아질듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-007",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:26:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.194"
+      },
+      "content": "장비보다 퇴로가 먼저인 순간이 있겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-008",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:33:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "지원인력 먼저 빼라는 말이 괜히 나오는게 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-009",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:37:17+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "공동대응은 사람 많이보내는게 끝이 아니구나",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-010",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:42:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "사고영상 리액션보다 이런 후속정리가 훨씬 도움됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-011",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:45:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "항만은 화면밖 동선이 너무 많음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-012",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:52:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "철수로 막히면 뒤에서 아무리 잘싸워도 답없음",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-013",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:56:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "사고 나고나면 화력보다 통신이 먼저라는 말 체감됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-014",
+      "parentId": null,
+      "timestamp": "2039-05-20T16:59:05+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "짐꾼3년차",
+        "ip": null
+      },
+      "content": "항만은 사람만 있는게 아니라 차량/하역장비까지 같이 움직이니까 더 복잡하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-015",
+      "parentId": "c-2039-000053-core-014",
+      "timestamp": "2039-05-20T17:02:57+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "ㄹㅇ 화면 안보이는 차량동선이 더 무섭네",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-016",
+      "parentId": null,
+      "timestamp": "2039-05-20T17:05:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "117.111"
+      },
+      "content": "지원인력 위치가 뒤죽박죽이면 구조동선도 꼬일듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-017",
+      "parentId": null,
+      "timestamp": "2039-05-20T17:08:51+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2039-000053-core-018",
+      "parentId": null,
+      "timestamp": "2039-05-20T17:12:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "{{con:real}}",
+      "deleted": false
     }
   ],
   "canon": {

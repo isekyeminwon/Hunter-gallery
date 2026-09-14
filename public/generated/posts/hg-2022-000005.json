@@ -19,15 +19,7 @@
     "ip": "223.62"
   },
   "content": "기사에 나온 거 봤는데\n나무 색도 이상하고 도로도 갈라져있음\n\n그냥 사고나서 망가진 수준은 아닌거 같은데",
-  "attachments": [
-    {
-      "id": "att-hg-2022-000005-01",
-      "type": "image",
-      "src": "/assets/posts/2022/gate-otherworlding-street.webp",
-      "alt": "2022년 방치 게이트 주변 이계화 제보 사진",
-      "status": "available"
-    }
-  ],
+  "attachments": [],
   "stats": {
     "views": 73902,
     "recommend": 286
@@ -111,6 +103,198 @@
         "ip": "223.33"
       },
       "content": "ㅇㅇ 그럴수는 있음",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-001",
+      "parentId": null,
+      "timestamp": "2022-11-19T20:45:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "이런 사진이 제일 오래 남아서 나중에 교과서 실릴듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-002",
+      "parentId": null,
+      "timestamp": "2022-11-19T20:52:13+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "사진만 보면 주변 전체가 죽은색으로 보이긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-003",
+      "parentId": null,
+      "timestamp": "2022-11-19T20:57:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "원인확정은 못해도 이상한건 맞지",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-004",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:00:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "나무가 말라죽은건지 색만 변한건지 기사엔 안나옴?",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-005",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:03:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "58.29"
+      },
+      "content": "도로복구부터 할수 있는 상태인지도 모르겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-006",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:05:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "사진 몇장으로 원인 확정은 못해도 정상은 아닌건 알겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-007",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:12:30+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "정상적인 사고현장 사진은 아니긴함",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-008",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:18:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "220.79"
+      },
+      "content": "기사 제목보다 사진이 더 세다",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-009",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:24:52+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "사진 원본 해상도 높은거 보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-010",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:31:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.58"
+      },
+      "content": "이거부터 사람들 장기방치하면 안된다고 난리난거 기억남",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-011",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:32:45+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "후속사진 더 보고싶다",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-012",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:34:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "색 변한 나무만 계속 보게됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-013",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:41:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "그냥 사고현장이라고 보기엔 주변 변화가 너무 이상함",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-014",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:44:21+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "저때 이계화라는 말도 없던 시절이라 설명 자체가 안됐겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-015",
+      "parentId": null,
+      "timestamp": "2022-11-19T21:47:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "도로만 깨진게 아니라 나무색까지 저러는게 더 이상함",
+      "deleted": false
+    },
+    {
+      "id": "c-2022-000005-core-900",
+      "parentId": null,
+      "timestamp": "2041-11-19T20:04:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이때 사진이 나중에 이계화 초기자료로 계속 인용되는거 생각하면 묘하다",
       "deleted": false
     }
   ],

@@ -79,6 +79,246 @@
       },
       "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
       "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-001",
+      "parentId": null,
+      "timestamp": "2033-09-14T08:50:34+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "훈련체계 자체를 SS 기준으로 바꾸면 다른 헌터들 못따라가는거 아님?",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-002",
+      "parentId": null,
+      "timestamp": "2033-09-14T08:53:39+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "보험사들이 한성 계약 다시 볼거같음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-003",
+      "parentId": null,
+      "timestamp": "2033-09-14T08:59:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "지원조직 커지는게 더 현실적인 변화일듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-004",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:04:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "SS 보유길드라는 말 자체가 너무 셈",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-005",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:08:09+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "한성은 이시율 하나로 브랜드가 아예 바뀌겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-006",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:09:43+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "한성은 이제 길드가 아니라 국가프로젝트 느낌남",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-007",
+      "parentId": "c-2033-000006-core-006",
+      "timestamp": "2033-09-14T09:14:55+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.178"
+      },
+      "content": "SS 한명 있다고 다른팀이 자동강화되는건 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-008",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:18:05+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이시율이 모든 공략을 다 갈수는 없으니까 오히려 중간층 더 필요할듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-009",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:20:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "110.70"
+      },
+      "content": "브랜드가 세지는거랑 내부근무가 편해지는건 또 별개겠지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-010",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:26:31+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.235"
+      },
+      "content": "이제 한성 들어갔다고 하면 이시율 봤냐부터 물어볼듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-011",
+      "parentId": "c-2033-000006-core-010",
+      "timestamp": "2033-09-14T09:32:29+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "한성 브랜드효과는 미쳤을듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-012",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:35:48+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.250"
+      },
+      "content": "SS 한명 있다고 다른 파티가 공짜로 세지는건 아니지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-013",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:39:23+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "이시율 주변 지원인력만 해도 전문직 엄청 늘겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-014",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:40:43+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "지원자 몰리는건 당연하지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-015",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:43:49+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "125.180"
+      },
+      "content": "SS 보유길드라는 간판 하나만으로 지원자 몰리겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-016",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:48:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "이시율 중심이면 장비개발팀도 커질듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-017",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:49:53+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.234"
+      },
+      "content": "SS 중심으로 조직 키운다는게 말은 쉬운데 나머지 팀도 다 재편해야될듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-018",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:55:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "124.53"
+      },
+      "content": "공략권 입찰에서 한성 이름값 더 미쳐버리겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-019",
+      "parentId": null,
+      "timestamp": "2033-09-14T09:57:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "한성 기존 A급들이 묻힌다는 말은 좀 웃김 걔들도 A인데",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000006-core-020",
+      "parentId": null,
+      "timestamp": "2033-09-14T10:00:33+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.120"
+      },
+      "content": "해외 스카우트도 엄청 올거같은데",
+      "deleted": false
     }
   ],
   "canon": {
