@@ -18,7 +18,15 @@
     "ip": "223.62"
   },
   "content": "생각보다 병원검사 비슷함\n대기 길고 안내하는 사람들도 아직 익숙하지 않은 느낌",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2024-000001-01",
+      "type": "image",
+      "src": "/assets/posts/2024/early-mana-measurement-center.webp",
+      "alt": "초기 마나 측정센터 내부 스마트폰 사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 16580,
     "recommend": 254

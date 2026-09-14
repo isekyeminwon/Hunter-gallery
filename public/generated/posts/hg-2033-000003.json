@@ -18,7 +18,15 @@
     "ip": "125.180"
   },
   "content": "이제 진짜 S 위에 SS 생겼네\n몇년 전 농담글 성지되겠는데",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2033-000003-01",
+      "type": "image",
+      "src": "/assets/posts/2033/first-ss-announcement-press.webp",
+      "alt": "세계 최초 SS급 확정 발표 기자회견 보도사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 97504,
     "recommend": 1467

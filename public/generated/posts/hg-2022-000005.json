@@ -19,7 +19,15 @@
     "ip": "223.62"
   },
   "content": "기사에 나온 거 봤는데\n나무 색도 이상하고 도로도 갈라져있음\n\n그냥 사고나서 망가진 수준은 아닌거 같은데",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2022-000005-01",
+      "type": "image",
+      "src": "/assets/posts/2022/gate-otherworlding-street.webp",
+      "alt": "2022년 방치 게이트 주변 이계화 제보 사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 73902,
     "recommend": 286

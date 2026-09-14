@@ -18,7 +18,15 @@
     "ip": null
   },
   "content": "스텔라 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2035-000056-01",
+      "type": "image",
+      "src": "/assets/posts/2035/byulhana-s-class-stella-still.webp",
+      "alt": "별하나 S급 확인 이후 스텔라 공식 영상 스틸",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 16500,
     "recommend": 72

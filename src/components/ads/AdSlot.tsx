@@ -5,7 +5,9 @@ export function AdSlot({ slot }: { slot: Slot }) {
   const ad = useAd(slot);
   if (!ad) return null;
   return (
-    <aside className={`ad ad-${slot}`} aria-label="광고">
+    <aside
+    className={`ad ad-${slot}${ad.image ? " has-image" : ""}`}
+    aria-label="광고">
       <div className="ad-kicker">AD</div>
       {ad.image && (
         <img

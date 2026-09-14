@@ -18,7 +18,15 @@
     "ip": "220.79"
   },
   "content": "동해항 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2039-000003-01",
+      "type": "image",
+      "src": "/assets/posts/2039/donghae-port-gate-incident.webp",
+      "alt": "동해항 A급 게이트 사고 대응 현장 보도사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 133904,
     "recommend": 1118

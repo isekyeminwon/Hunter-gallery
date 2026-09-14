@@ -18,7 +18,15 @@
     "ip": "211.36"
   },
   "content": "인기 구역 가격 예상보다 훨씬 올라감\n마석값까지 같이 들썩이는 중",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2028-000001-01",
+      "type": "image",
+      "src": "/assets/posts/2028/gate-raid-rights-auction.webp",
+      "alt": "게이트 공략권 공개입찰 현장 사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 113157,
     "recommend": 189

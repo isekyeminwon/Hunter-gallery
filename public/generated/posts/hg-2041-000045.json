@@ -18,7 +18,15 @@
     "ip": "61.79"
   },
   "content": "스텔라 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2041-000045-01",
+      "type": "image",
+      "src": "/assets/posts/2041/stella-joint-clear-frame.webp",
+      "alt": "스텔라 합동 공략 클리어 영상 프레임",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 17194,
     "recommend": 2759

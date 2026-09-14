@@ -18,7 +18,15 @@
     "ip": "39.7"
   },
   "content": "합동훈련 관련해서 방금 본거 가져옴.\n오늘 이 얘기만 몇번째인지 모르겠다ㅋㅋ",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2041-000085-01",
+      "type": "image",
+      "src": "/assets/posts/2041/joint-training-operation.webp",
+      "alt": "협회와 대형길드 신세대 합동훈련 현장 사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 74541,
     "recommend": 2952

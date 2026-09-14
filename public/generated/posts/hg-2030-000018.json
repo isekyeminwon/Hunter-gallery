@@ -18,7 +18,15 @@
     "ip": "58.29"
   },
   "content": "근처 지나던 지인이 사람들 다 빼는 중이라함\n확인된건 아직 없음",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2030-000018-01",
+      "type": "image",
+      "src": "/assets/posts/2030/byulhana-concert-incident-news.webp",
+      "alt": "별하나 공연장 사고 당시 외부 통제 현장 보도사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 111319,
     "recommend": 601

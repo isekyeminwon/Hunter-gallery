@@ -18,7 +18,15 @@
     "ip": "118.235"
   },
   "content": "이름 진짜 헌터협회로 확정됐네\n등록이랑 현장관리 여기서 맡는다 함",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2026-000002-01",
+      "type": "image",
+      "src": "/assets/posts/2026/hunter-association-launch.webp",
+      "alt": "대한민국 헌터협회 출범 당일 보도사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 175723,
     "recommend": 666

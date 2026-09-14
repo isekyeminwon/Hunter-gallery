@@ -18,7 +18,15 @@
     "ip": null
   },
   "content": "이거 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2038-000090-01",
+      "type": "image",
+      "src": "/assets/posts/2038/xiaolong-rescue-frame.webp",
+      "alt": "중국 SS급 게이트 재난 당시 샤오룽 구조영상 프레임",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 95232,
     "recommend": 528

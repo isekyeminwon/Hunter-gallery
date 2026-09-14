@@ -620,7 +620,15 @@
         "ip": "223.62"
       },
       "content": "기사에 나온 거 봤는데\n나무 색도 이상하고 도로도 갈라져있음\n\n그냥 사고나서 망가진 수준은 아닌거 같은데",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2022-000005-01",
+          "type": "image",
+          "src": "/assets/posts/2022/gate-otherworlding-street.webp",
+          "alt": "2022년 방치 게이트 주변 이계화 제보 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 73902,
         "recommend": 286
@@ -955,7 +963,15 @@
         "ip": "106.101"
       },
       "content": "영상만 보면 진짜 맨손으로 벽 일부 깨버리던데\n본인도 놀란 표정임. 요즘 이상한 사건 왜 이렇게 많냐",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2023-000003-01",
+          "type": "image",
+          "src": "/assets/posts/2023/awakening-wall-break-news.webp",
+          "alt": "스무 살 각성 사고로 파손된 대학 시설 현장 보도사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 63776,
         "recommend": 397
@@ -1178,7 +1194,15 @@
         "ip": "223.62"
       },
       "content": "생각보다 병원검사 비슷함\n대기 길고 안내하는 사람들도 아직 익숙하지 않은 느낌",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2024-000001-01",
+          "type": "image",
+          "src": "/assets/posts/2024/early-mana-measurement-center.webp",
+          "alt": "초기 마나 측정센터 내부 스마트폰 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 16580,
         "recommend": 254
@@ -3150,7 +3174,15 @@
         "ip": "175.223"
       },
       "content": "짧은 영상인데 화면 밖까지 충격이 퍼짐\n이게 사람이 맞냐",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2025-000009-01",
+          "type": "image",
+          "src": "/assets/posts/2025/kang-muhyeok-s-field-frame.webp",
+          "alt": "강무혁 초기 S급 현장 영상 프레임",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 270397,
         "recommend": 827
@@ -4210,7 +4242,15 @@
         "ip": "118.235"
       },
       "content": "이름 진짜 헌터협회로 확정됐네\n등록이랑 현장관리 여기서 맡는다 함",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2026-000002-01",
+          "type": "image",
+          "src": "/assets/posts/2026/hunter-association-launch.webp",
+          "alt": "대한민국 헌터협회 출범 당일 보도사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 175723,
         "recommend": 666
@@ -6174,7 +6214,15 @@
         "ip": null
       },
       "content": "이제 생일 지나면 안내 오고 검사 받는 식으로 굳는듯",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2027-000002-01",
+          "type": "image",
+          "src": "/assets/posts/2027/mandatory-measurement-line.webp",
+          "alt": "만 20세 의무 마나 측정 등록 대기줄 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 313749,
         "recommend": 1335
@@ -7692,7 +7740,15 @@
         "ip": "211.36"
       },
       "content": "인기 구역 가격 예상보다 훨씬 올라감\n마석값까지 같이 들썩이는 중",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2028-000001-01",
+          "type": "image",
+          "src": "/assets/posts/2028/gate-raid-rights-auction.webp",
+          "alt": "게이트 공략권 공개입찰 현장 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 113157,
         "recommend": 189
@@ -14351,7 +14407,15 @@
         "ip": "211.36"
       },
       "content": "협회 채널에 풀영상 올라옴\n사람들 프레임 단위로 뜯는중",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2030-000011-01",
+          "type": "image",
+          "src": "/assets/posts/2030/kang-jua-training-frame.webp",
+          "alt": "강주아 첫 공식 공개훈련 영상 프레임",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 77085,
         "recommend": 673
@@ -15726,7 +15790,15 @@
         "ip": "58.29"
       },
       "content": "근처 지나던 지인이 사람들 다 빼는 중이라함\n확인된건 아직 없음",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2030-000018-01",
+          "type": "image",
+          "src": "/assets/posts/2030/byulhana-concert-incident-news.webp",
+          "alt": "별하나 공연장 사고 당시 외부 통제 현장 보도사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 111319,
         "recommend": 601
@@ -18914,7 +18986,15 @@
         "ip": "121.140"
       },
       "content": "화질 구리긴 한데 움직임 장난아님",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2031-000003-01",
+          "type": "image",
+          "src": "/assets/posts/2031/xiaolong-combat-frame.webp",
+          "alt": "샤오룽 중국 전투영상 재업 프레임",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 57758,
         "recommend": 187
@@ -22004,7 +22084,15 @@
         "ip": "117.111"
       },
       "content": "훈련장 바닥이 순식간에 얼어붙음\n이래서 서리여왕 소리 나오는건가",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2032-000003-01",
+          "type": "image",
+          "src": "/assets/posts/2032/kim-chaeyeon-ice-field.webp",
+          "alt": "김채연 얼음계 능력 공개영상 프레임",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 90752,
         "recommend": 650
@@ -27284,7 +27372,15 @@
         "ip": "125.180"
       },
       "content": "이제 진짜 S 위에 SS 생겼네\n몇년 전 농담글 성지되겠는데",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2033-000003-01",
+          "type": "image",
+          "src": "/assets/posts/2033/first-ss-announcement-press.webp",
+          "alt": "세계 최초 SS급 확정 발표 기자회견 보도사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 97504,
         "recommend": 1467
@@ -27770,7 +27866,15 @@
         "ip": null
       },
       "content": "검 하나 들고 움직이는데 카메라가 못따라감",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2033-000004-01",
+          "type": "image",
+          "src": "/assets/posts/2033/lee-siyul-sword-frame.webp",
+          "alt": "이시율 검신 전투영상 프레임",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 78632,
         "recommend": 567
@@ -43073,7 +43177,15 @@
         "ip": null
       },
       "content": "스텔라 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2035-000056-01",
+          "type": "image",
+          "src": "/assets/posts/2035/byulhana-s-class-stella-still.webp",
+          "alt": "별하나 S급 확인 이후 스텔라 공식 영상 스틸",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 16500,
         "recommend": 72
@@ -44819,7 +44931,15 @@
         "ip": "220.79"
       },
       "content": "미국 두 번째 SS 확인 관련 지금까지 공개된 것만 정리함.\n출처 애매한 신상썰은 뺐음.\n\n확인된 쪽\n- 미국에서 SS급 존재가 공식적으로 확인됨.\n- 세계 기준으로는 이시율 이후 두 번째 SS 확인 사례.\n- 발표 직후 각국 언론에서 국가전력/게이트 대응 얘기가 같이 나오는 중.\n\n아직 확인 안된 쪽\n- 실명이라는 캡처 여러개\n- 능력명\n- 정확한 전투방식\n- 어느 길드와 계약했다는 썰\n- 이시율과 누가 더 세다는 숫자표\n\n특히 능력 영상이라고 도는 거 두개는 출처가 서로 다름.\n그냥 '미국에도 SS가 확인됐다'까지만 사실로 보는게 맞아보임.\n\n추가 오피셜 있으면 링크 달아주셈.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2036-000010-01",
+          "type": "image",
+          "src": "/assets/posts/2036/us-second-ss-press.webp",
+          "alt": "미국 두 번째 SS급 확인 발표 보도사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 161444,
         "recommend": 1078
@@ -50631,7 +50751,15 @@
         "ip": "223.38"
       },
       "content": "마석카메라 세 종류 빌려서 써본 후기.\n브랜드 적으면 광고라고 할까봐 안씀.\n\n공통점부터 말하면 일반 전자기기처럼 생각하면 안됨.\n게이트 안에서 평소 폰 쓰듯 찍겠다는 생각 버리는게 좋음.\n\nA타입\n- 제일 가벼움\n- 화질 무난\n- 배터리 교체 편함\n- 흔들림 심한 편\n\nB타입\n- 무거운데 안정적\n- 고정촬영할 때 좋음\n- 전투하면서 들고다니긴 귀찮음\n\nC타입\n- 비쌈\n- 어두운 환경에서 확실히 나음\n- 파일 하나 날아가면 정신 나감\n\n촬영 담당 따로 두는거 추천.\n전투원이 카메라까지 신경쓰면 프레임은 건지는데 사람이 위험해짐.\n\n편집본만 보고 현장동선 따라하면 안되는 이유도 이거임.\n영상에는 대기시간, 체크, 철수판단 같은게 거의 잘림.\n\n질문 있으면 아는 범위에서 답함.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2037-000049-01",
+          "type": "image",
+          "src": "/assets/posts/2037/manastone-camera-rig.webp",
+          "alt": "마석식 게이트 현장 카메라 장비 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 193248,
         "recommend": 1513
@@ -56334,7 +56462,15 @@
         "ip": "118.235"
       },
       "content": "중국 SS게이트 관련 오늘 확인된 내용/확인 안된 내용 나눠서 적음.\n\n확인된 내용\n- SS급 게이트 공략 실패.\n- 주변 지역에서 대규모 이계화 진행.\n- 대피와 구조가 계속되는 중.\n- 해외에서도 대응 상황을 긴급하게 보고 있음.\n\n확인 안된 내용\n- 정확한 이계화 경계라고 도는 지도들\n- 특정 헌터 사망 확정썰\n- 내부 보스의 종/능력\n- 몇시간 후 어디까지 간다는 예측 이미지\n- 출처 없는 기관 문서 캡처\n\n지금 제일 위험한게 짧은 영상 하나에 날짜/장소 붙여서 퍼뜨리는거임.\n같은 영상인데 게시글마다 촬영 위치가 다르게 적혀있음.\n\n정보 보는 사람은 기사 시간 / 영상 최초 업로드 시간 / 공식 발표 시간을 따로 기록하는게 낫다.\n\n그리고 구조중인 사람 신상 맞추기 하지마라.\n커뮤 놀이로 할 일이 아님.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2038-000001-01",
+          "type": "image",
+          "src": "/assets/posts/2038/china-ss-evacuation.webp",
+          "alt": "중국 SS급 게이트 재난 민간인 대피 보도사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 451979,
         "recommend": 1587
@@ -69270,7 +69406,15 @@
         "ip": null
       },
       "content": "이거 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2038-000090-01",
+          "type": "image",
+          "src": "/assets/posts/2038/xiaolong-rescue-frame.webp",
+          "alt": "중국 SS급 게이트 재난 당시 샤오룽 구조영상 프레임",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 95232,
         "recommend": 528
@@ -71287,7 +71431,15 @@
         "ip": "220.79"
       },
       "content": "동해항 관련해서 방금 본거 가져옴.\n출처없는 캡처도 같이 돌아서 뭐가 뭔지 모르겠음.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2039-000003-01",
+          "type": "image",
+          "src": "/assets/posts/2039/donghae-port-gate-incident.webp",
+          "alt": "동해항 A급 게이트 사고 대응 현장 보도사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 133904,
         "recommend": 1118
@@ -81757,7 +81909,15 @@
         "ip": "106.102"
       },
       "content": "이서 관련해서 방금 본거 가져옴.\n아는 사람 있으면 팩트만 추가해줘.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2040-000032-01",
+          "type": "image",
+          "src": "/assets/posts/2040/lee-seo-a-rank-press.webp",
+          "alt": "이서 A급 판정 직후 취재 현장 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 16728,
         "recommend": 112
@@ -89936,7 +90096,15 @@
         "ip": "39.7"
       },
       "content": "합동훈련 관련해서 방금 본거 가져옴.\n오늘 이 얘기만 몇번째인지 모르겠다ㅋㅋ",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2041-000085-01",
+          "type": "image",
+          "src": "/assets/posts/2041/joint-training-operation.webp",
+          "alt": "협회와 대형길드 신세대 합동훈련 현장 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 74541,
         "recommend": 2952
@@ -92626,7 +92794,15 @@
         "ip": "61.79"
       },
       "content": "스텔라 관련해서 방금 본거 가져옴.\n공식 뜬 부분이랑 커뮤썰이 섞여있는듯.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2041-000045-01",
+          "type": "image",
+          "src": "/assets/posts/2041/stella-joint-clear-frame.webp",
+          "alt": "스텔라 합동 공략 클리어 영상 프레임",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 17194,
         "recommend": 2759
@@ -95141,7 +95317,15 @@
         "ip": "59.10"
       },
       "content": "",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2041-000091-01",
+          "type": "image",
+          "src": "/assets/posts/2041/gangwon-low-rank-gate-site.webp",
+          "alt": "강원 저등급 게이트 실종 관련 현장사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 45664,
         "recommend": 164
@@ -97298,7 +97482,15 @@
         "ip": "211.58"
       },
       "content": "계약 전에 물어볼거 정리중.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2042-000007-01",
+          "type": "image",
+          "src": "/assets/posts/2042/manastone-trade-counter.webp",
+          "alt": "마석 매입소 카운터와 측정 장비 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 30435,
         "recommend": 250
@@ -98675,7 +98867,15 @@
         "ip": null
       },
       "content": "그냥 그렇다고ㅋㅋ",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2042-000026-01",
+          "type": "image",
+          "src": "/assets/posts/2042/measurement-desk-snapshot.webp",
+          "alt": "2042년 헌터협회 측정·등록 창구 대기실 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 36595,
         "recommend": 263
@@ -101124,7 +101324,15 @@
         "ip": "58.29"
       },
       "content": "아무 의미 없음\n퇴근하고싶다",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2042-000056-01",
+          "type": "image",
+          "src": "/assets/posts/2042/guild-breakroom.webp",
+          "alt": "현장팀 휴게실에서 찍은 늦은 시간대 스마트폰 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 37651,
         "recommend": 344
@@ -106931,7 +107139,15 @@
         "ip": "220.79"
       },
       "content": "일당 200 제안 왔는데 B급은 처음임.\n보험은 들어간다 하고 예상 8~10시간, 장비는 파티쪽 제공.\n\n경험자들 보통 뭐부터 확인함?\n돈보다 먼저 볼거 있으면 알려줘.",
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-hg-2042-000123-01",
+          "type": "image",
+          "src": "/assets/posts/2042/porter-gear-flatlay.webp",
+          "alt": "B급 게이트 투입 전 짐꾼 장비를 펼쳐놓은 사진",
+          "status": "available"
+        }
+      ],
       "stats": {
         "views": 89741,
         "recommend": 1126

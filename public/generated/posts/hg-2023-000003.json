@@ -19,7 +19,15 @@
     "ip": "106.101"
   },
   "content": "영상만 보면 진짜 맨손으로 벽 일부 깨버리던데\n본인도 놀란 표정임. 요즘 이상한 사건 왜 이렇게 많냐",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2023-000003-01",
+      "type": "image",
+      "src": "/assets/posts/2023/awakening-wall-break-news.webp",
+      "alt": "스무 살 각성 사고로 파손된 대학 시설 현장 보도사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 63776,
     "recommend": 397

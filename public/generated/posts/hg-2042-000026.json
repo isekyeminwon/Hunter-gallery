@@ -18,7 +18,15 @@
     "ip": null
   },
   "content": "그냥 그렇다고ㅋㅋ",
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "att-hg-2042-000026-01",
+      "type": "image",
+      "src": "/assets/posts/2042/measurement-desk-snapshot.webp",
+      "alt": "2042년 헌터협회 측정·등록 창구 대기실 사진",
+      "status": "available"
+    }
+  ],
   "stats": {
     "views": 36595,
     "recommend": 263
