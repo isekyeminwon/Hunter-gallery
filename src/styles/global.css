@@ -353,7 +353,7 @@ button:disabled {
 /* 상단 메인 광고 */
 .ad-header-banner.has-image {
   width: 100%;
-  aspect-ratio: 1536 / 240;
+  aspect-ratio: 2172 / 375;
   overflow: hidden;
   border-radius: var(--radius-md);
 }
