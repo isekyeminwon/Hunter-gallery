@@ -41,67 +41,187 @@
         "name": "ㅇㅇ",
         "ip": "118.41"
       },
-      "content": "별하나 짤 벌써 팬계정 다돌았네ㅋㅋ",
+      "content": "별빛단7기 닉달고 팬아닌데 ㅇㅈㄹㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2042-000192-b2m-002",
-      "parentId": null,
-      "timestamp": "2042-09-17T08:58:49+09:00",
+      "parentId": "c-2042-000192-b2m-001",
+      "timestamp": "2042-09-17T08:58:48+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "106.101"
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
       },
-      "content": "원본콜 버전도 풀어주면 공부용으로 괜찮을듯",
+      "content": "오늘부터 탈퇴함",
       "deleted": false
     },
     {
       "id": "c-2042-000192-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-17T08:58:59+09:00",
+      "timestamp": "2042-09-17T08:58:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "121.163"
+        "ip": "106.101"
       },
-      "content": "별하나 장면은 짤로 먼저 도는게 국룰ㅋㅋ",
+      "content": "5분대 편집 진짜 미쳤더라",
       "deleted": false
     },
     {
       "id": "c-2042-000192-b2m-004",
       "parentId": null,
-      "timestamp": "2042-09-17T08:59:11+09:00",
+      "timestamp": "2042-09-17T08:58:56+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "121.163"
       },
-      "content": "5분대 편집 진짜 잘했더라",
+      "content": "원본콜 버전도 풀어줘라 공부용으로 보게",
       "deleted": false
     },
     {
       "id": "c-2042-000192-b2m-005",
       "parentId": null,
+      "timestamp": "2042-09-17T08:59:00+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "별하나 얼굴 잡는 카메라맨 상줘야됨",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-b2m-006",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:59:04+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "개이쁘네 진짜",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-front-007",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:59:08+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.47"
+      },
+      "content": "5분 12초 뭐냐 카메라맨 사심있지",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-front-008",
+      "parentId": "c-2042-000192-front-007",
+      "timestamp": "2042-09-17T08:59:12+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "{{con:heehee}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-front-009",
+      "parentId": "c-2042-000192-front-008",
       "timestamp": "2042-09-17T08:59:16+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.101"
       },
-      "content": "편집본에서 이동/대기시간 엄청 잘리는 편임",
+      "content": "잡았다 이새끼",
       "deleted": false
     },
     {
-      "id": "c-2042-000192-b2m-006",
+      "id": "c-2042-000192-front-010",
       "parentId": null,
-      "timestamp": "2042-09-17T08:59:26+09:00",
+      "timestamp": "2042-09-17T08:59:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "59.10"
+      },
+      "content": "썸네일 누가 골랐냐 클릭 안할수가없네ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-front-011",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:59:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "{{con:good}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-front-012",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:59:28+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "현장밥차",
+        "ip": null
+      },
+      "content": "편집본만 보고 공략 따라하진 마라 대기랑 콜 많이 잘림",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-front-013",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:59:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "팬계정 짤 퍼지는 속도 개웃김 영상보다 먼저봄",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-front-014",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:59:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "스텔라 영상팀 월급 올려라",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-front-015",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:59:40+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
       },
       "content": "{{con:real}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000192-front-016",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:59:44+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "별빛단7기",
+        "ip": null
+      },
+      "content": "팬아님 아무튼 아님",
       "deleted": false
     }
   ],

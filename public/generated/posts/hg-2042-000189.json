@@ -41,19 +41,55 @@
         "name": "ㅇㅇ",
         "ip": "61.79"
       },
-      "content": "기준상 C급 이상이 대상될수 있다는 얘기 맞음",
+      "content": "바로 아래 똑같은 글 있잖아 ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2042-000189-b2m-002",
       "parentId": null,
-      "timestamp": "2042-09-17T08:54:47+09:00",
+      "timestamp": "2042-09-17T08:53:12+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.194"
       },
-      "content": "평소 게이트마다 C부터 부르는건 아니고 국가재난급 전제임",
+      "content": "검색기능 압수",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000189-front-003",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:54:47+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.52"
+      },
+      "content": "C부터 대상될수 있는건 맞는데 국가재난급 전제임",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000189-front-004",
+      "parentId": "c-2042-000189-front-003",
+      "timestamp": "2042-09-17T08:56:01+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "매번 C부터 끌려가는줄 알았네",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000189-front-005",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:57:22+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "{{con:Intelligence}}",
       "deleted": false
     }
   ],

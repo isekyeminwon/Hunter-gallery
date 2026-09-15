@@ -11,13 +11,13 @@
     "phase": "BREAKING",
     "related": true
   },
-  "title": "방송길드 관련 추가 브리핑 나옴",
+  "title": "스텔라 콘텐츠 관련 추가 브리핑 나옴",
   "author": {
     "type": "anonymous",
     "name": "ㅇㅇ",
     "ip": "223.33"
   },
-  "content": "스텔라가 다른 대형길드랑 뭐가 다르냐 묻는 글 많아서 체감만 적음.\n\n한성 = 실적/최상위 전력 이미지\n네뷸라 = 마법계 엘리트, 연구/교육 이미지\n백호 = 조직/장비/복지, 기업형 이미지\n\n스텔라는 좀 다름.\n방송, 광고, 영상, 팬덤을 길드 운영이랑 처음부터 같이 엮는 느낌이 강함.\n별하나가 중심에 있는 건 맞는데 소속 헌터들 촬영이나 브랜드 관리도 적극적인 편이고.\n\n그래서 업계 사람들은 공략실적으로 싸우고\n일반인들은 체감 인지도가 훨씬 높게 느껴지는 듯.\n\n장점은 홍보, 스폰, 대중성.\n단점은 뭘 해도 팬덤싸움으로 번짐ㅋㅋ\n\n공략글에서 별하나 얘기로 댓글 백개 달리는거 보면 이해됨.",
+  "content": "아까 공지 뒤에 질문 많이 들어왔는지 추가 안내 올라옴.\n\n- 진행중 공략 실시간 송출 안함\n- 위치/동선 정보는 시간차 두고 공개\n- 촬영팀은 현장 지휘체계 따름\n- 소속 헌터 출연은 선택\n\n팬들이 현장 찾아오는 문제 제일 신경쓰는듯.",
   "attachments": [],
   "stats": {
     "views": 132578,
@@ -35,97 +35,97 @@
     {
       "id": "c-2035-000072-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-16T00:26:54+09:00",
+      "timestamp": "2035-07-16T00:19:53+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.36"
       },
-      "content": "스텔라는 전투영상도 콘텐츠처럼 뽑는게 확실히 다름",
+      "content": "실시간 송출 안한다는건 잘한듯",
       "deleted": false
     },
     {
       "id": "c-2035-000072-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-16T00:34:40+09:00",
+      "timestamp": "2035-07-16T00:24:06+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.36"
       },
-      "content": "별하나 들어오고 스텔라 검색량 미쳤네",
+      "content": "현장 위치 몇시간 뒤에 푸는 방식이면 그나마 안전하겠네",
       "deleted": false
     },
     {
       "id": "c-2035-000072-b1-003",
-      "parentId": "c-2035-000072-b1-002",
-      "timestamp": "2035-07-16T00:40:37+09:00",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:28:19+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "58.29"
       },
-      "content": "{{con:dororong}}",
+      "content": "{{con:real}}",
       "deleted": false
     },
     {
       "id": "c-2035-000072-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-16T00:51:24+09:00",
+      "timestamp": "2035-07-16T00:32:32+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.235"
       },
-      "content": "{{con:real}}",
+      "content": "촬영팀도 공략팀 지휘 따라간다는 문구 굳이 넣은거보면 질문 존나 받았나봄ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2035-000072-b1-005",
-      "parentId": "c-2035-000072-b1-001",
-      "timestamp": "2035-07-16T01:01:01+09:00",
+      "parentId": null,
+      "timestamp": "2035-07-16T00:35:55+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.221"
       },
-      "content": "흠 그건 좀",
+      "content": "출연 싫으면 빠질수 있다는거 다시 박았네",
       "deleted": false
     },
     {
       "id": "c-2035-000072-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-16T01:09:55+09:00",
+      "timestamp": "2035-07-16T00:40:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.235"
       },
-      "content": "광고 붙는 속도 보면 미디어팀이 진짜 빠름",
+      "content": "팬들이 현장 찾아가는건 진짜 막아야됨",
       "deleted": false
     },
     {
       "id": "c-2035-000072-b1-007",
       "parentId": null,
-      "timestamp": "2035-07-16T01:15:33+09:00",
+      "timestamp": "2035-07-16T00:44:21+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.36"
       },
-      "content": "방송 싫어하는 헌터는 여기 호불호 크겠다",
+      "content": "{{con:stop}}",
       "deleted": false
     },
     {
       "id": "c-2035-000072-b1-008",
       "parentId": null,
-      "timestamp": "2035-07-16T01:27:08+09:00",
+      "timestamp": "2035-07-16T00:48:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.221"
       },
-      "content": "지금 확인된거랑 커뮤썰 섞여서 도는게 제일 문제임",
+      "content": "처음부터 이정도 선은 그어두는게 맞지",
       "deleted": false
     }
   ],

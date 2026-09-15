@@ -35,85 +35,85 @@
     {
       "id": "c-2033-000018-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-17T14:25:33+09:00",
+      "timestamp": "2033-09-17T14:19:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.197"
       },
-      "content": "이시율을 S 두명 세명으로 계산하는게 더 이상함",
+      "content": "오전부터 시작하네",
       "deleted": false
     },
     {
       "id": "c-2033-000018-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-17T14:33:42+09:00",
+      "timestamp": "2033-09-17T14:23:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.223"
       },
-      "content": "이시율 뜨고 한성 지원자 몰리는건 당연하지",
+      "content": "통제범위 왜 저렇게 넓게 잡음?",
       "deleted": false
     },
     {
       "id": "c-2033-000018-b1-003",
-      "parentId": "c-2033-000018-b1-002",
-      "timestamp": "2033-09-17T14:42:51+09:00",
+      "parentId": null,
+      "timestamp": "2033-09-17T14:27:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "S 몇명분 계산은 진짜 의미없어보임",
+      "content": "근처 도로 우회공지까지 떴더라",
       "deleted": false
     },
     {
       "id": "c-2033-000018-b1-004",
-      "parentId": "c-2033-000018-b1-002",
-      "timestamp": "2033-09-17T14:48:26+09:00",
+      "parentId": null,
+      "timestamp": "2033-09-17T14:31:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "58.29"
       },
-      "content": "한성 지원서버 터질만함",
+      "content": "이거 생중계도 함?",
       "deleted": false
     },
     {
       "id": "c-2033-000018-b1-005",
-      "parentId": "c-2033-000018-b1-003",
-      "timestamp": "2033-09-17T14:56:30+09:00",
+      "parentId": "c-2033-000018-b1-004",
+      "timestamp": "2033-09-17T14:35:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "이시율 영상은 다른각도도 보고싶다",
+      "content": "공식은 일부만 공개한다는 말 있던데",
       "deleted": false
     },
     {
       "id": "c-2033-000018-b1-006",
       "parentId": null,
-      "timestamp": "2033-09-17T15:07:27+09:00",
+      "timestamp": "2033-09-17T14:39:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.197"
       },
-      "content": "이제 강무혁 강주아 김채연 다 끌려오겠네",
+      "content": "현장 구경가겠다는놈들은 제발 집에 있어라",
       "deleted": false
     },
     {
       "id": "c-2033-000018-b1-007",
       "parentId": null,
-      "timestamp": "2033-09-17T15:12:29+09:00",
+      "timestamp": "2033-09-17T14:43:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "58.29"
       },
-      "content": "이시율 영상 보고 S 위 등급 만든거 납득함",
+      "content": "이런건 통제 빡세게 하는게 굿",
       "deleted": false
     }
   ],

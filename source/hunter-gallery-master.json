@@ -3289,7 +3289,7 @@
             "name": "ㅇㅇ",
             "ip": "106.250"
           },
-          "content": "오늘 한성 백호 네뷸라 팬덤 다 눈치보는중일듯",
+          "content": "오늘 길드들 다 눈치보는중일듯",
           "deleted": false
         },
         {
@@ -11900,7 +11900,7 @@
         "phase": "NONE",
         "related": false
       },
-      "title": "한성 들어가면 이름값 하나는 확실하네",
+      "title": "대형길드 들어가면 이름값 하나는 확실하네",
       "author": {
         "type": "fixed",
         "name": "공략대막내",
@@ -11984,7 +11984,7 @@
       ],
       "canon": {
         "keywords": [
-          "한성"
+          "대형길드"
         ],
         "forbiddenKnowledge": []
       }
@@ -16033,7 +16033,7 @@
             "name": "ㅇㅇ",
             "ip": "58.29"
           },
-          "content": "보유 S만 세면 한성이 너무 유리해서 다른 요소가 다 사라짐",
+          "content": "보유 S만 세면 백호가 너무 유리해서 다른 요소가 다 사라짐",
           "deleted": false
         },
         {
@@ -23016,7 +23016,7 @@
             "name": "ㅇㅇ",
             "ip": "211.246"
           },
-          "content": "보유 S만 세면 한성이 너무 유리해서 다른 요소가 다 사라짐",
+          "content": "보유 S만 세면 백호가 너무 유리해서 다른 요소가 다 사라짐",
           "deleted": false
         },
         {
@@ -26308,7 +26308,7 @@
             "name": "백호복지팀",
             "ip": null
           },
-          "content": "백호 장비지원이나 한성 공략경력 노리는 사람도 있고",
+          "content": "백호 장비지원이나 다른 대형길드 공략경력 노리는 사람도 있고",
           "deleted": false
         },
         {
@@ -26629,7 +26629,7 @@
             "name": "ㅇㅇ",
             "ip": "106.245"
           },
-          "content": "보유 S만 세면 한성이 너무 유리해서 다른 요소가 다 사라짐",
+          "content": "보유 S만 세면 백호가 너무 유리해서 다른 요소가 다 사라짐",
           "deleted": false
         },
         {
@@ -27374,7 +27374,7 @@
         "phase": "NONE",
         "related": false
       },
-      "title": "한성 네뷸라 백호 어디가 제일 빡셈",
+      "title": "네뷸라 백호 어디가 제일 빡셈",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
@@ -27447,7 +27447,6 @@
       "canon": {
         "keywords": [
           "네뷸라",
-          "한성",
           "백호"
         ],
         "forbiddenKnowledge": []
@@ -27535,7 +27534,7 @@
             "name": "ㅇㅇ",
             "ip": "175.214"
           },
-          "content": "보유 S만 세면 한성이 너무 유리해서 다른 요소가 다 사라짐",
+          "content": "보유 S만 세면 백호 네뷸라 둘만 남아서 다른 요소가 다 사라짐",
           "deleted": false
         },
         {
@@ -28119,23 +28118,23 @@
     {
       "id": "hg-2033-000006",
       "displayNo": 1293987,
-      "timestamp": "2033-09-14T08:10:00+09:00",
+      "timestamp": "2033-09-14T12:55:00+09:00",
       "year": 2033,
       "era": "SS_ERA",
-      "internalCategory": "사건·속보",
-      "displayCategory": "사건",
+      "internalCategory": "갈드컵·랭킹",
+      "displayCategory": "길드",
       "event": {
         "tag": "LEE_SIYUL_SS",
         "phase": "CONFIRMED",
         "related": true
       },
-      "title": "이시율 한성 간다네",
+      "title": "이시율 길드 만드는거 아님?",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.38"
       },
-      "content": "한성이 이시율 중심으로 조직 키운다는 기사 뜸",
+      "content": "ㅈㄱㄴ",
       "attachments": [],
       "stats": {
         "views": 578634,
@@ -28153,296 +28152,297 @@
         {
           "id": "c-2033-000006-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T08:18:49+09:00",
+          "timestamp": "2033-09-14T12:57:17+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "124.53"
           },
-          "content": "이시율 영상은 사람 체급으로 안보이는데ㅋㅋ",
+          "content": "이제 SS면 만들만함",
           "deleted": false
         },
         {
           "id": "c-2033-000006-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T08:29:55+09:00",
+          "timestamp": "2033-09-14T12:59:34+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.101"
           },
-          "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
+          "content": "백호에서 영입한다는 썰 있던데?",
           "deleted": false
         },
         {
           "id": "c-2033-000006-b1-003",
-          "parentId": null,
-          "timestamp": "2033-09-14T08:41:01+09:00",
+          "parentId": "c-2033-000006-b1-002",
+          "timestamp": "2033-09-14T13:00:51+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "S 위에 등급 새로 만든다는게 제일 미친부분임",
+          "content": "썰만 존나돎 공식은 없음",
           "deleted": false
         },
         {
           "id": "c-2033-000006-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-14T08:48:43+09:00",
+          "timestamp": "2033-09-14T13:02:08+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "124.53"
           },
-          "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
+          "content": "지가 만들면 백호 바로 바르는거 아님?",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-001",
-          "parentId": null,
-          "timestamp": "2033-09-14T08:50:34+09:00",
+          "parentId": "c-2033-000006-b1-004",
+          "timestamp": "2033-09-14T13:03:25+09:00",
           "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "223.62"
+            "type": "fixed",
+            "name": "틀헌터",
+            "ip": null
           },
-          "content": "훈련체계 자체를 SS 기준으로 바꾸면 다른 헌터들 못따라가는거 아님?",
+          "content": "이시율 한명으로 길드 전체를 넘는건 또 다른얘기지",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-002",
-          "parentId": null,
-          "timestamp": "2033-09-14T08:53:39+09:00",
+          "parentId": "c-2033-000006-core-001",
+          "timestamp": "2033-09-14T13:04:42+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.235"
           },
-          "content": "보험사들이 한성 계약 다시 볼거같음ㅋㅋ",
+          "content": "근데 간판 하나는 개사기잖아ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-003",
           "parentId": null,
-          "timestamp": "2033-09-14T08:59:28+09:00",
+          "timestamp": "2033-09-14T13:06:59+09:00",
           "author": {
-            "type": "fixed",
-            "name": "틀헌터",
-            "ip": null
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
           },
-          "content": "지원조직 커지는게 더 현실적인 변화일듯",
+          "content": "국가권력급 헌터가 취업하는 그림보다 대표하는 그림이 더 어울리긴함",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-004",
           "parentId": null,
-          "timestamp": "2033-09-14T09:04:43+09:00",
+          "timestamp": "2033-09-14T13:08:16+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "175.223"
+            "ip": "211.234"
           },
-          "content": "SS 보유길드라는 말 자체가 너무 셈",
+          "content": "네뷸라도 연락은 넣어봤을듯",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-005",
-          "parentId": null,
-          "timestamp": "2033-09-14T09:08:09+09:00",
-          "author": {
-            "type": "fixed",
-            "name": "틀헌터",
-            "ip": null
-          },
-          "content": "한성은 이시율 하나로 브랜드가 아예 바뀌겠다",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000006-core-006",
-          "parentId": null,
-          "timestamp": "2033-09-14T09:09:43+09:00",
+          "parentId": "c-2033-000006-core-004",
+          "timestamp": "2033-09-14T13:09:33+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.41"
           },
-          "content": "한성은 이제 길드가 아니라 국가프로젝트 느낌남",
+          "content": "마법계도 아닌데 굳이?",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000006-core-006",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:11:50+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "175.223"
+          },
+          "content": "지금 길드판 이미 커져있어서 어디가 데려가도 난리나긴 할듯",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-007",
-          "parentId": "c-2033-000006-core-006",
-          "timestamp": "2033-09-14T09:14:55+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:13:07+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "211.178"
+            "ip": "59.10"
           },
-          "content": "SS 한명 있다고 다른팀이 자동강화되는건 아니지",
+          "content": "본인이 길드 만들면 사람 존나 몰리겠다",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-008",
-          "parentId": null,
-          "timestamp": "2033-09-14T09:18:05+09:00",
+          "parentId": "c-2033-000006-core-007",
+          "timestamp": "2033-09-14T13:14:24+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "211.201"
+            "ip": "39.7"
           },
-          "content": "이시율이 모든 공략을 다 갈수는 없으니까 오히려 중간층 더 필요할듯",
+          "content": "지원서버부터 터질듯ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-009",
           "parentId": null,
-          "timestamp": "2033-09-14T09:20:03+09:00",
+          "timestamp": "2033-09-14T13:16:41+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "110.70"
+            "ip": "211.202"
           },
-          "content": "브랜드가 세지는거랑 내부근무가 편해지는건 또 별개겠지",
+          "content": "SS 밑에서 일했다 한줄이면 이력서 개쎄네",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-010",
           "parentId": null,
-          "timestamp": "2033-09-14T09:26:31+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "118.235"
-          },
-          "content": "이제 한성 들어갔다고 하면 이시율 봤냐부터 물어볼듯",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000006-core-011",
-          "parentId": "c-2033-000006-core-010",
-          "timestamp": "2033-09-14T09:32:29+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "211.234"
-          },
-          "content": "한성 브랜드효과는 미쳤을듯",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000006-core-012",
-          "parentId": null,
-          "timestamp": "2033-09-14T09:35:48+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "106.250"
-          },
-          "content": "SS 한명 있다고 다른 파티가 공짜로 세지는건 아니지",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000006-core-013",
-          "parentId": null,
-          "timestamp": "2033-09-14T09:39:23+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "121.163"
-          },
-          "content": "이시율 주변 지원인력만 해도 전문직 엄청 늘겠네",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000006-core-014",
-          "parentId": null,
-          "timestamp": "2033-09-14T09:40:43+09:00",
+          "timestamp": "2033-09-14T13:18:58+09:00",
           "author": {
             "type": "fixed",
             "name": "틀헌터",
             "ip": null
           },
-          "content": "지원자 몰리는건 당연하지",
+          "content": "근데 운영은 또 별개라 실무 맡을 사람 존나 필요할듯",
           "deleted": false
         },
         {
-          "id": "c-2033-000006-core-015",
+          "id": "c-2033-000006-core-011",
           "parentId": null,
-          "timestamp": "2033-09-14T09:43:49+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "125.180"
-          },
-          "content": "SS 보유길드라는 간판 하나만으로 지원자 몰리겠네",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000006-core-016",
-          "parentId": null,
-          "timestamp": "2033-09-14T09:48:12+09:00",
+          "timestamp": "2033-09-14T13:19:15+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.38"
           },
-          "content": "이시율 중심이면 장비개발팀도 커질듯",
+          "content": "스폰서는 만들기도 전에 줄설거같음",
           "deleted": false
         },
         {
-          "id": "c-2033-000006-core-017",
+          "id": "c-2033-000006-core-012",
           "parentId": null,
-          "timestamp": "2033-09-14T09:49:53+09:00",
+          "timestamp": "2033-09-14T13:21:32+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.163"
+          },
+          "content": "공략권 배정부터 기사 백개 뜨겠다",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000006-core-013",
+          "parentId": "c-2033-000006-core-012",
+          "timestamp": "2033-09-14T13:22:49+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.234"
           },
-          "content": "SS 중심으로 조직 키운다는게 말은 쉬운데 나머지 팀도 다 재편해야될듯",
+          "content": "창설한다는 가정부터 너무 멀리갔다ㅋㅋ",
           "deleted": false
         },
         {
-          "id": "c-2033-000006-core-018",
+          "id": "c-2033-000006-core-014",
           "parentId": null,
-          "timestamp": "2033-09-14T09:55:41+09:00",
+          "timestamp": "2033-09-14T13:23:06+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "124.53"
+            "ip": "118.47"
           },
-          "content": "공략권 입찰에서 한성 이름값 더 미쳐버리겠다",
+          "content": "이런 글 나오는거 자체가 체급 보여주는듯",
           "deleted": false
         },
         {
-          "id": "c-2033-000006-core-019",
+          "id": "c-2033-000006-core-015",
           "parentId": null,
-          "timestamp": "2033-09-14T09:57:27+09:00",
+          "timestamp": "2033-09-14T13:24:23+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.102"
           },
-          "content": "한성 기존 A급들이 묻힌다는 말은 좀 웃김 걔들도 A인데",
+          "content": "백호가 현금박치기하면 고민은 하지않을까",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000006-core-016",
+          "parentId": "c-2033-000006-core-015",
+          "timestamp": "2033-09-14T13:25:40+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "본인이 돈이 부족하겠냐ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000006-core-017",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:26:57+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "회사 차리는거 귀찮아서 기존길드 갈수도 있지",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000006-core-018",
+          "parentId": "c-2033-000006-core-017",
+          "timestamp": "2033-09-14T13:27:14+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.201"
+          },
+          "content": "이시율 성격이면 오히려 남밑에 안갈거같음",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000006-core-019",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:29:31+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "182.214"
+          },
+          "content": "오늘 기사 하나 더 뜨면 이 글 성지냐 병신글이냐 갈리겠네",
           "deleted": false
         },
         {
           "id": "c-2033-000006-core-020",
           "parentId": null,
-          "timestamp": "2033-09-14T10:00:33+09:00",
+          "timestamp": "2033-09-14T13:30:48+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "39.120"
+            "ip": "58.29"
           },
-          "content": "해외 스카우트도 엄청 올거같은데",
+          "content": "ㅈㄱㄴ인데 댓글 왜 이렇게 길어짐ㅋㅋ",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
           "이시율",
-          "한성"
+          "SS",
+          "길드"
         ],
         "forbiddenKnowledge": []
       }
@@ -28450,11 +28450,11 @@
     {
       "id": "hg-2033-000007",
       "displayNo": 1295891,
-      "timestamp": "2033-09-14T09:45:00+09:00",
+      "timestamp": "2033-09-14T14:48:00+09:00",
       "year": 2033,
       "era": "SS_ERA",
       "internalCategory": "뻘글·잡담",
-      "displayCategory": "일반",
+      "displayCategory": "길드",
       "event": {
         "tag": "LEE_SIYUL_SS",
         "phase": "CONFIRMED",
@@ -28466,7 +28466,7 @@
         "name": "ㅇㅇ",
         "ip": "58.29"
       },
-      "content": "SS 하나 들어가니까 브랜드가 하루아침에 바뀌네",
+      "content": "창설 발표 뜨자마자 지원페이지 먹통됨ㅋㅋ",
       "attachments": [],
       "stats": {
         "views": 17213,
@@ -28484,68 +28484,105 @@
         {
           "id": "c-2033-000007-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T09:52:58+09:00",
+          "timestamp": "2033-09-14T14:50:17+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "61.79"
           },
-          "content": "이시율 영상은 사람 체급으로 안보이는데ㅋㅋ",
+          "content": "지원페이지 열리자마자 502뜸ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000007-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T09:59:44+09:00",
+          "timestamp": "2033-09-14T14:53:34+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.234"
           },
-          "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
+          "content": "창설 발표 몇시간됐다고 벌써 이러냐",
           "deleted": false
         },
         {
           "id": "c-2033-000007-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-14T10:05:41+09:00",
+          "timestamp": "2033-09-14T14:56:51+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "211.234"
+            "ip": "118.41"
           },
-          "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
+          "content": "헌터만 뽑는줄 알았는데 분석 장비 지원직도 열렸더라",
           "deleted": false
         },
         {
           "id": "c-2033-000007-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-14T10:11:37+09:00",
+          "timestamp": "2033-09-14T14:59:08+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "58.29"
           },
-          "content": "한성 지원서버 터질만하다",
+          "content": "A급 아니어도 실무직은 지원 가능하네",
           "deleted": false
         },
         {
           "id": "c-2033-000007-b1-005",
-          "parentId": "c-2033-000007-b1-004",
-          "timestamp": "2033-09-14T10:21:37+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-14T15:01:25+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "211.234"
+            "ip": "223.62"
           },
-          "content": "이시율 영상은 다른각도도 보고싶다",
+          "content": "서버가 SS를 못버티네",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000007-manual-006",
+          "parentId": "c-2033-000007-b1-005",
+          "timestamp": "2033-09-14T15:02:42+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.101"
+          },
+          "content": "이시율은 버텨도 nginx는 못버팀ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000007-manual-007",
+          "parentId": null,
+          "timestamp": "2033-09-14T15:05:59+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "백호 채용팀 오늘 야근하겠네",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000007-manual-008",
+          "parentId": null,
+          "timestamp": "2033-09-14T15:08:16+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.202"
+          },
+          "content": "지원자 절반은 이시율 한번 보려고 넣는거 아니냐ㅋㅋ",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
-          "SS",
-          "한성"
+          "한성",
+          "지원",
+          "이시율"
         ],
         "forbiddenKnowledge": []
       }
@@ -28553,7 +28590,7 @@
     {
       "id": "hg-2033-000012",
       "displayNo": 1311852,
-      "timestamp": "2033-09-14T10:25:00+09:00",
+      "timestamp": "2033-09-14T12:20:00+09:00",
       "year": 2033,
       "era": "SS_ERA",
       "internalCategory": "뻘글·잡담",
@@ -28587,61 +28624,137 @@
         {
           "id": "c-2033-000012-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T10:32:37+09:00",
+          "timestamp": "2033-09-14T12:23:17+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.102"
           },
-          "content": "이시율 영상은 사람 체급으로 안보이는데ㅋㅋ",
+          "content": "지금 한국만 SS 보유국인거네",
           "deleted": false
         },
         {
           "id": "c-2033-000012-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T10:38:57+09:00",
+          "timestamp": "2033-09-14T12:26:34+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.202"
           },
-          "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
+          "content": "국내보다 해외에서 더 난리날거같음",
           "deleted": false
         },
         {
           "id": "c-2033-000012-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-14T10:43:24+09:00",
+          "timestamp": "2033-09-14T12:29:51+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.214"
           },
-          "content": "S 위에 등급 새로 만든다는게 제일 미친부분임",
+          "content": "백호에서 데려가려고 현금차 보내는거 아님?ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000012-b1-004",
-          "parentId": null,
-          "timestamp": "2033-09-14T10:54:21+09:00",
+          "parentId": "c-2033-000012-b1-003",
+          "timestamp": "2033-09-14T12:31:08+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "211.202"
+            "ip": "211.234"
           },
-          "content": "한성 지원서버 터질만하다",
+          "content": "저 급이면 취업보다 지가 하나 만드는쪽도 가능하지",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000012-manual-005",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:34:25+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.41"
+          },
+          "content": "어디 들어가냐가 외교기사까지 될 체급인데",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000012-manual-006",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:37:42+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "국가에서 신변보호부터 붙이는거 아니냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000012-manual-007",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:40:59+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "59.10"
+          },
+          "content": "길드들 영입전 붙으면 금액 상상도 안감",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000012-manual-008",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:43:16+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "난 왠지 남 밑에 안가고 자기판 만들거같음",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000012-manual-009",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:46:33+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.140"
+          },
+          "content": "세계최초라 비교대상 자체가 없는게 제일 무섭다",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000012-manual-010",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:49:50+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.235"
+          },
+          "content": "오늘부터 이시율 목격썰 계약썰 백개씩 나오겠네",
           "deleted": false
         }
       ],
       "canon": {
-        "keywords": [],
+        "keywords": [
+          "이시율",
+          "SS",
+          "세계 최초"
+        ],
         "forbiddenKnowledge": []
       }
     },
     {
       "id": "hg-2033-000005",
       "displayNo": 1288900,
-      "timestamp": "2033-09-14T10:32:00+09:00",
+      "timestamp": "2033-09-14T12:08:00+09:00",
       "year": 2033,
       "era": "SS_ERA",
       "internalCategory": "질문·뉴비",
@@ -28675,49 +28788,49 @@
         {
           "id": "c-2033-000005-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T10:41:36+09:00",
+          "timestamp": "2033-09-14T12:12:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "220.79"
           },
-          "content": "상성까지 생각하면 숫자놀이 더 의미없음",
+          "content": "아직 몇배 이런건 아무도 모름",
           "deleted": false
         },
         {
           "id": "c-2033-000005-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T10:51:39+09:00",
+          "timestamp": "2033-09-14T12:16:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.246"
           },
-          "content": "SS 신설한 이유 자체가 기존 S 상한으로 설명 안돼서잖아",
+          "content": "협회가 기존 S로 분류 못해서 새 등급 판거까지만 오피셜",
           "deleted": false
         },
         {
           "id": "c-2033-000005-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-14T10:56:13+09:00",
+          "timestamp": "2033-09-14T12:20:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "220.79"
           },
-          "content": "S 몇명분으로 환산하는 급은 아닌거같음",
+          "content": "영상만 보면 2배 3배로 재는 느낌은 아닌데",
           "deleted": false
         },
         {
           "id": "c-2033-000005-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-14T11:03:56+09:00",
+          "timestamp": "2033-09-14T12:24:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "117.111"
           },
-          "content": "이시율 영상만 봐도 단순 2배 3배 느낌은 아님",
+          "content": "걍 S 몇명분 계산 멈춰ㅋㅋ",
           "deleted": false
         }
       ],
@@ -28765,416 +28878,417 @@
         {
           "id": "c-2033-000003-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T12:03:01+09:00",
+          "timestamp": "2033-09-14T12:03:17+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.47"
           },
-          "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
+          "content": "SS급이 뭐임ㅋㅋㅋㅋㅋㅋㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000003-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T12:13:14+09:00",
+          "timestamp": "2033-09-14T12:06:34+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "220.79"
           },
-          "content": "이시율 영상은 사람 체급으로 안보이는데ㅋㅋ",
+          "content": "명칭 존나 짜치는데",
           "deleted": false
         },
         {
           "id": "c-2033-000003-b1-003",
-          "parentId": "c-2033-000003-b1-001",
-          "timestamp": "2033-09-14T12:20:11+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "118.47"
-          },
-          "content": "이시율 영상은 다른각도도 보고싶다",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-b1-004",
-          "parentId": "c-2033-000003-b1-001",
-          "timestamp": "2033-09-14T12:28:40+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "210.178"
-          },
-          "content": "한성 지원서버 터질만함",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-b1-005",
-          "parentId": "c-2033-000003-b1-004",
-          "timestamp": "2033-09-14T12:38:36+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "121.140"
-          },
-          "content": "SS 신설 자체가 답인듯",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-b1-006",
           "parentId": null,
-          "timestamp": "2033-09-14T12:43:51+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "210.178"
-          },
-          "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-b1-007",
-          "parentId": null,
-          "timestamp": "2033-09-14T12:48:31+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "220.79"
-          },
-          "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-001",
-          "parentId": null,
-          "timestamp": "2033-09-14T12:54:40+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "211.58"
-          },
-          "content": "S급들 이름 줄세우던 글들 하루아침에 옛날글 됨",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-002",
-          "parentId": null,
-          "timestamp": "2033-09-14T12:57:58+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "211.201"
-          },
-          "content": "등급표 끝에 글자 하나 붙었는데 세계관이 바뀜",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-003",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:04:48+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "110.70"
-          },
-          "content": "세계최초라 체감이 더 컸음",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-004",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:09:45+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "14.32"
-          },
-          "content": "해외기사에서 world first 붙는 순간 체감 확오더라",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-005",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:11:05+09:00",
-          "author": {
-            "type": "fixed",
-            "name": "틀헌터",
-            "ip": null
-          },
-          "content": "세계최초 타이틀은 광고가 아니라 외교기사에 더 많이 나오겠네",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-006",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:17:00+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "223.39"
-          },
-          "content": "S 위에 등급을 새로 만든다는게 제일 미친부분임",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-007",
-          "parentId": "c-2033-000003-core-006",
-          "timestamp": "2033-09-14T13:22:00+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "210.178"
-          },
-          "content": "등급 하나 새로 만든 이유가 그거겠지",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-008",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:24:41+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "106.102"
-          },
-          "content": "이시율 본인은 조용한데 주변이 더 난리남",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-009",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:31:24+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "211.178"
-          },
-          "content": "공략팀이 이시율 기준으로 짜이는 순간부터 길드 운영도 달라질듯",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-010",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:34:19+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "175.194"
-          },
-          "content": "SS 장비규격은 기존 S용 그대로 쓰나?",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-011",
-          "parentId": "c-2033-000003-core-010",
-          "timestamp": "2033-09-14T13:40:32+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "61.79"
-          },
-          "content": "SS 전용 장비규격도 새로 잡아야되는거 아님?",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-012",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:45:04+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "59.10"
-          },
-          "content": "한성 서버 터졌다는 말이 괜히 나온게 아님",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-013",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:46:17+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "182.214"
-          },
-          "content": "국내에서 세계최초가 나오는걸 누가 예상했냐",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-014",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:51:33+09:00",
-          "author": {
-            "type": "fixed",
-            "name": "틀헌터",
-            "ip": null
-          },
-          "content": "이걸 보고도 측정오류라고 우기는 계정 있더라",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-015",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:54:34+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "175.223"
-          },
-          "content": "국내최초도 아니고 세계최초라 해외기사까지 난리날만함",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-016",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:59:13+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "59.10"
-          },
-          "content": "해외 S들이랑 비교영상 만드는 속도 존나빠름",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-017",
-          "parentId": null,
-          "timestamp": "2033-09-14T14:01:29+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "223.52"
-          },
-          "content": "S 여러명 합치면 되냐는 질문부터 의미없어보임",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-018",
-          "parentId": null,
-          "timestamp": "2033-09-14T14:02:49+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "182.214"
-          },
-          "content": "검신 능력명 너무 대놓고 강해보여서 웃김",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-019",
-          "parentId": null,
-          "timestamp": "2033-09-14T14:09:11+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "121.140"
-          },
-          "content": "S 몇명 합치면 되냐는 식으로 비교할 급은 아닌듯",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-020",
-          "parentId": null,
-          "timestamp": "2033-09-14T14:15:22+09:00",
-          "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "223.52"
-          },
-          "content": "국내 헌터들 기준점이 강무혁에서 이시율로 넘어간 순간같음",
-          "deleted": false
-        },
-        {
-          "id": "c-2033-000003-core-021",
-          "parentId": null,
-          "timestamp": "2033-09-14T14:16:41+09:00",
+          "timestamp": "2033-09-14T12:08:51+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.7"
           },
-          "content": "이시율 때문에 분류체계 자체가 바뀐거잖아",
+          "content": "와 근데 존나 멋있다",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-b1-004",
+          "parentId": "c-2033-000003-b1-003",
+          "timestamp": "2033-09-14T12:09:08+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.234"
+          },
+          "content": "ㄴㄴ 맛있다",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-b1-005",
+          "parentId": "c-2033-000003-b1-004",
+          "timestamp": "2033-09-14T12:10:25+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.41"
+          },
+          "content": "지랄ㅋㅋㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-b1-006",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:12:42+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "S 다음이 SS라니 진짜 게임됐네",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-b1-007",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:14:59+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.101"
+          },
+          "content": "SS급이면 대체 얼마나 센거?",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-001",
+          "parentId": "c-2033-000003-b1-007",
+          "timestamp": "2033-09-14T12:16:16+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.202"
+          },
+          "content": "협회 설명 봐도 수치로 몇배 이런건 아직 없던데",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-002",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:18:33+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "175.223"
+          },
+          "content": "이시율 보유국 ㄷㄷ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-003",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:20:50+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "59.10"
+          },
+          "content": "한국 갑자기 SSR 뽑음",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-004",
+          "parentId": "c-2033-000003-core-003",
+          "timestamp": "2033-09-14T12:21:07+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "SS라니까 또 R 붙이네ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-005",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:23:24+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.44"
+          },
+          "content": "검신 이름까지 너무 대놓고 세보여서 웃김",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-006",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:26:41+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.235"
+          },
+          "content": "측정 다시했다는 기사 보고도 처음엔 오보인줄",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-007",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:29:58+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "틀헌터",
+            "ip": null
+          },
+          "content": "강무혁 처음 S 떴을때도 난리였는데 이건 체급이 다르네",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-008",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:31:15+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.38"
+          },
+          "content": "해외기사 올라오는 속도 개빠름",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-009",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:34:32+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.163"
+          },
+          "content": "세계 최초면 비교할 사람도 없잖아",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-010",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:36:49+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "210.178"
+          },
+          "content": "솔직히 간지는 인정",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-011",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:39:06+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.41"
+          },
+          "content": "근데 S랑 SS 차이를 누가 한줄로 설명해줘",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-012",
+          "parentId": "c-2033-000003-core-011",
+          "timestamp": "2033-09-14T12:41:23+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.234"
+          },
+          "content": "기존 S 상한으로 설명 안돼서 등급 새로 만든거면 그게 설명 끝 아님?",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-013",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:44:40+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.101"
+          },
+          "content": "내일 영상제목 S 10명 vs 이시율 백개 올라온다",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-014",
+          "parentId": "c-2033-000003-core-013",
+          "timestamp": "2033-09-14T12:45:57+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "내일이 아니라 오늘밤임ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-015",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:48:14+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.202"
+          },
+          "content": "이시율 본인 인터뷰는 왜 또 두마디하고 끝이냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-016",
+          "parentId": "c-2033-000003-core-015",
+          "timestamp": "2033-09-14T12:50:31+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "주변만 난리고 본인은 늘 똑같음ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-017",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:53:48+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "175.223"
+          },
+          "content": "국가전력이라는 말 오늘 처음 체감됨",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-018",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:56:05+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "59.10"
+          },
+          "content": "이제 랭킹표 맨위 혼자 따로놓는거냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-019",
+          "parentId": null,
+          "timestamp": "2033-09-14T12:59:22+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.140"
+          },
+          "content": "김채연 강주아 팬덤 싸우던거 하루만에 옛날얘기됨",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-020",
+          "parentId": "c-2033-000003-core-019",
+          "timestamp": "2033-09-14T13:00:39+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.234"
+          },
+          "content": "걔네는 이 와중에도 둘이 싸울걸ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000003-core-021",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:03:56+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.47"
+          },
+          "content": "S+로 안하고 SS 박은 이유가 있겠지",
           "deleted": false
         },
         {
           "id": "c-2033-000003-core-022",
           "parentId": null,
-          "timestamp": "2033-09-14T14:22:09+09:00",
+          "timestamp": "2033-09-14T13:06:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "223.33"
+            "ip": "106.102"
           },
-          "content": "첫날 댓글들 다들 뭔말해야될지 얼탄게 보임",
+          "content": "아니 진짜 RPG도 아니고 SS가 나오네ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000003-core-023",
           "parentId": null,
-          "timestamp": "2033-09-14T14:24:37+09:00",
+          "timestamp": "2033-09-14T13:09:30+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "106.248"
+            "ip": "223.38"
           },
-          "content": "이제 국제랭킹 표 맨 위 한칸 따로 만들겠네",
+          "content": "몇년전 S 위에 SS 만들자던 병신글 성지됨?",
           "deleted": false
         },
         {
           "id": "c-2033-000003-core-024",
-          "parentId": null,
-          "timestamp": "2033-09-14T14:29:44+09:00",
+          "parentId": "c-2033-000003-core-023",
+          "timestamp": "2033-09-14T13:11:47+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "118.221"
+            "ip": "39.7"
           },
-          "content": "이시율 공략 하나가 국제 뉴스 되는 시대 시작이네",
+          "content": "그 글쓴놈 지금 자기가 예언자라는데ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000003-core-025",
           "parentId": null,
-          "timestamp": "2033-09-14T14:34:58+09:00",
+          "timestamp": "2033-09-14T13:14:04+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "39.125"
+            "ip": "211.201"
           },
-          "content": "영상 보면 강하다는 느낌보다 규격이 다르다는 느낌임",
+          "content": "오늘 갤 서버 살아있는게 신기하다",
           "deleted": false
         },
         {
           "id": "c-2033-000003-core-026",
           "parentId": null,
-          "timestamp": "2033-09-14T14:36:22+09:00",
+          "timestamp": "2033-09-14T13:17:21+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "110.70"
+            "ip": "182.214"
           },
-          "content": "S 위는 그냥 S+면 안됐냐는 댓글 아직도 웃김",
+          "content": "영상 다시보니까 강하다보다 그냥 규격이 다르다는 느낌임",
           "deleted": false
         },
         {
           "id": "c-2033-000003-core-027",
           "parentId": null,
-          "timestamp": "2033-09-14T14:39:12+09:00",
+          "timestamp": "2033-09-14T13:20:38+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "125.180"
+            "ip": "58.29"
           },
-          "content": "기존 체계로 설명이 안돼서 SS라니 게임도 아니고ㅋㅋ",
+          "content": "이건 개념 보내야지",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
           "이시율",
-          "SS"
+          "SS",
+          "세계 최초"
         ],
         "forbiddenKnowledge": []
       }
@@ -29258,7 +29372,7 @@
             "name": "ㅇㅇ",
             "ip": "211.197"
           },
-          "content": "한성 지원서버 터질만하다",
+          "content": "SSS도 나오는거냐 이제ㅋㅋ",
           "deleted": false
         }
       ],
@@ -29270,23 +29384,23 @@
     {
       "id": "hg-2033-000002",
       "displayNo": 1279120,
-      "timestamp": "2033-09-14T12:49:00+09:00",
+      "timestamp": "2033-09-14T13:52:00+09:00",
       "year": 2033,
       "era": "SS_ERA",
-      "internalCategory": "사건·속보",
-      "displayCategory": "사건",
+      "internalCategory": "뻘글·잡담",
+      "displayCategory": "길드",
       "event": {
         "tag": "LEE_SIYUL_SS",
         "phase": "BREAKING",
         "related": true
       },
-      "title": "SS급 신설 실화냐",
+      "title": "이시율 길드 만든거 실화냐",
       "author": {
         "type": "fixed",
         "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "이시율 때문에 등급 하나 새로 만든다고 공식 발표함",
+      "content": "기사 이제 봤는데 어디 들어간게 아니라\n지가 직접 만든거였네ㅋㅋ\n\n이름 한성이라함",
       "attachments": [],
       "stats": {
         "views": 98904,
@@ -29304,320 +29418,321 @@
         {
           "id": "c-2033-000002-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T12:54:03+09:00",
+          "timestamp": "2033-09-14T13:56:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "이시율 영상은 사람 체급으로 안보이는데ㅋㅋ",
+          "content": "아니 들어간게 아니라 지가 만든거였네ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000002-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T13:00:35+09:00",
+          "timestamp": "2033-09-14T14:00:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
+          "content": "백호 영입설 네뷸라 영입설 다 뭐였노",
           "deleted": false
         },
         {
           "id": "c-2033-000002-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-14T13:10:08+09:00",
+          "timestamp": "2033-09-14T14:04:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
+          "content": "길드장 이시율부터 시작하는 신생길드 ㅅㅂ",
           "deleted": false
         },
         {
           "id": "c-2033-000002-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-14T13:15:21+09:00",
+          "timestamp": "2033-09-14T14:08:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.39"
           },
-          "content": "S 위에 등급 새로 만든다는게 제일 미친부분임",
+          "content": "한성 이름은 생각보다 멀쩡해서 더 웃김",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-001",
           "parentId": null,
-          "timestamp": "2033-09-14T13:21:38+09:00",
+          "timestamp": "2033-09-14T14:12:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "14.32"
           },
-          "content": "이제 국제랭킹 표 맨 위 한칸 따로 만들겠네",
+          "content": "SS가 취업하는게 아니라 회사차림ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-002",
           "parentId": null,
-          "timestamp": "2033-09-14T13:27:46+09:00",
+          "timestamp": "2033-09-14T14:16:15+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.201"
           },
-          "content": "기존 체계로 설명이 안돼서 SS라니 게임도 아니고ㅋㅋ",
+          "content": "지원자 존나 몰리겠는데",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-003",
-          "parentId": "c-2033-000002-core-002",
-          "timestamp": "2033-09-14T13:33:52+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-14T14:20:28+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "121.163"
           },
-          "content": "S+로 안하고 SS까지 만든 이유가 있겠지",
+          "content": "아까 길드 만들거같다던 놈 성지갔네",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-004",
           "parentId": null,
-          "timestamp": "2033-09-14T13:38:06+09:00",
+          "timestamp": "2033-09-14T14:24:41+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.234"
           },
-          "content": "등급표 끝에 글자 하나 붙었는데 세계관이 바뀜",
+          "content": "창설하자마자 국내 1위냐는 글 올라오는 속도 미쳤음",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-005",
           "parentId": null,
-          "timestamp": "2033-09-14T13:39:39+09:00",
+          "timestamp": "2033-09-14T14:28:04+09:00",
           "author": {
             "type": "fixed",
             "name": "틀헌터",
             "ip": null
           },
-          "content": "이시율 본인은 조용한데 주변이 더 난리남",
+          "content": "조직은 오늘 생겼는데 전력은 오늘부터 최상위권ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-006",
           "parentId": null,
-          "timestamp": "2033-09-14T13:41:07+09:00",
+          "timestamp": "2033-09-14T14:32:17+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "112.171"
           },
-          "content": "한성 서버 터졌다는 말이 괜히 나온게 아님",
+          "content": "운영은 사람 뽑아야지 이시율 혼자 서류까지 할건 아니잖아",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-007",
           "parentId": null,
-          "timestamp": "2033-09-14T13:42:45+09:00",
+          "timestamp": "2033-09-14T14:36:30+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.250"
           },
-          "content": "world first 딱 붙으니까 체감이 다르긴함",
+          "content": "실무팀 누가 붙는지가 진짜 중요할듯",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-008",
           "parentId": null,
-          "timestamp": "2033-09-14T13:48:21+09:00",
+          "timestamp": "2033-09-14T14:40:43+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.202"
           },
-          "content": "S가 희귀하다고 난리였는데 SS는 한명뿐이네",
+          "content": "장비업체들 전화 돌리는 소리 여기까지 들림",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-009",
           "parentId": null,
-          "timestamp": "2033-09-14T13:53:39+09:00",
+          "timestamp": "2033-09-14T14:44:06+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.235"
           },
-          "content": "이걸 보고도 측정오류라고 우기는 계정 있더라",
+          "content": "백호가 제일 배아프겠네 영입썰만 하루종일 돌았는데",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-010",
           "parentId": null,
-          "timestamp": "2033-09-14T13:55:36+09:00",
+          "timestamp": "2033-09-14T14:48:19+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "영상 보면 강하다는 느낌보다 규격이 다르다는 느낌임",
+          "content": "네뷸라는 애초에 마법계라 결이 좀 달랐지",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-011",
           "parentId": null,
-          "timestamp": "2033-09-14T14:01:52+09:00",
+          "timestamp": "2033-09-14T14:52:32+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "125.180"
           },
-          "content": "국내최초도 아니고 세계최초라 난리날만했지",
+          "content": "한성 첫 공략 언제냐 벌써 궁금함",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-012",
           "parentId": null,
-          "timestamp": "2033-09-14T14:05:44+09:00",
+          "timestamp": "2033-09-14T14:56:45+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.250"
           },
-          "content": "S급들 이름 줄세우던 글들 하루아침에 옛날글 됨",
+          "content": "로고도 아직 제대로 안나왔는데 팬계정부터 생김ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-013",
           "parentId": null,
-          "timestamp": "2033-09-14T14:07:53+09:00",
+          "timestamp": "2033-09-14T15:00:08+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "121.163"
           },
-          "content": "한성 영입이면 국내 길드판 사실상 지각변동이지",
+          "content": "길드 이름보다 길드장이 너무 셈",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-014",
           "parentId": null,
-          "timestamp": "2033-09-14T14:09:16+09:00",
+          "timestamp": "2033-09-14T15:04:21+09:00",
           "author": {
             "type": "fixed",
             "name": "틀헌터",
             "ip": null
           },
-          "content": "S 위에 공식등급이 실제로 생긴게 아직도 어색함",
+          "content": "SS 밑에서 경력 한줄만 생겨도 이직때 개쎌듯",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-015",
           "parentId": null,
-          "timestamp": "2033-09-14T14:11:22+09:00",
+          "timestamp": "2033-09-14T15:08:34+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.250"
           },
-          "content": "해외기사까지 붙으니까 규모감 확오더라",
+          "content": "이시율이 사람 보는눈까지 좋으면 진짜 답없다",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-016",
           "parentId": null,
-          "timestamp": "2033-09-14T14:17:32+09:00",
+          "timestamp": "2033-09-14T15:12:47+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.194"
           },
-          "content": "국가가 개인 한명을 전략자산처럼 보는 이유가 이해됨",
+          "content": "근데 신생이라 복지나 시스템은 아직 모르는거잖아",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-017",
-          "parentId": null,
-          "timestamp": "2033-09-14T14:22:03+09:00",
+          "parentId": "c-2033-000002-core-016",
+          "timestamp": "2033-09-14T15:16:10+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.58"
           },
-          "content": "세계최초 타이틀은 광고가 아니라 외교기사에 더 많이 나오겠네",
+          "content": "맞음 지금은 이시율빨이 99퍼지",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-018",
-          "parentId": null,
-          "timestamp": "2033-09-14T14:26:29+09:00",
+          "parentId": "c-2033-000002-core-017",
+          "timestamp": "2033-09-14T15:20:23+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.44"
           },
-          "content": "첫날 댓글들 다들 이게 무슨 등급인지부터 묻네",
+          "content": "그 99퍼가 세계최초 SS인데요",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-019",
-          "parentId": "c-2033-000002-core-018",
-          "timestamp": "2033-09-14T14:32:10+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-14T15:24:36+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.120"
           },
-          "content": "첫날부터 S 몇명분이냐 계산하는거부터 웃김",
+          "content": "백호 네뷸라 오늘부터 비교글 지옥열림",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-020",
           "parentId": null,
-          "timestamp": "2033-09-14T14:36:34+09:00",
+          "timestamp": "2033-09-14T15:28:49+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "210.178"
           },
-          "content": "공략팀이 이시율 기준으로 짜이는 순간부터 길드 운영도 달라질듯",
+          "content": "한성이라는 이름 오늘 처음 들었는데 벌써 익숙해짐",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-021",
           "parentId": null,
-          "timestamp": "2033-09-14T14:41:40+09:00",
+          "timestamp": "2033-09-14T15:32:12+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "110.70"
           },
-          "content": "SS 장비규격은 기존 S용 그대로 쓰나?",
+          "content": "진짜 하루만에 판이 바뀌네",
           "deleted": false
         },
         {
           "id": "c-2033-000002-core-022",
           "parentId": null,
-          "timestamp": "2033-09-14T14:47:32+09:00",
+          "timestamp": "2033-09-14T15:36:25+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "14.32"
           },
-          "content": "해외 S들이랑 비교영상 만드는 속도 존나빠름",
+          "content": "이 글도 몇년뒤 성지 취급받으려나ㅋㅋ",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
           "이시율",
-          "SS"
+          "한성",
+          "길드 창설"
         ],
         "forbiddenKnowledge": []
       }
@@ -29659,49 +29774,49 @@
         {
           "id": "c-2033-000013-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T13:10:13+09:00",
+          "timestamp": "2033-09-14T13:08:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
+          "content": "새로고침 5분째였음 ㅅㅂ",
           "deleted": false
         },
         {
           "id": "c-2033-000013-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T13:19:47+09:00",
+          "timestamp": "2033-09-14T13:12:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "61.79"
           },
-          "content": "이시율 영상은 사람 체급으로 안보이는데ㅋㅋ",
+          "content": "나만 502 뜬줄알았네",
           "deleted": false
         },
         {
           "id": "c-2033-000013-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-14T13:27:19+09:00",
+          "timestamp": "2033-09-14T13:16:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
+          "content": "안열려서 다른 커뮤 갔다왔더니 거기도 이시율 얘기뿐임ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000013-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-14T13:38:45+09:00",
+          "timestamp": "2033-09-14T13:20:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "58.29"
           },
-          "content": "한성 지원서버 터질만하다",
+          "content": "운영자 오늘 울겠다",
           "deleted": false
         }
       ],
@@ -29718,20 +29833,20 @@
       "timestamp": "2033-09-14T13:33:00+09:00",
       "year": 2033,
       "era": "SS_ERA",
-      "internalCategory": "질문·뉴비",
-      "displayCategory": "질문",
+      "internalCategory": "사건·속보",
+      "displayCategory": "길드",
       "event": {
         "tag": "LEE_SIYUL_SS",
         "phase": "CONFIRMED",
         "related": true
       },
-      "title": "SS 하나면 S 몇명분임?",
+      "title": "이시율 한성 길드 창설 공식 떴다",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "14.32"
       },
-      "content": "수치로 환산하는게 가능한지도 모르겠음",
+      "content": "공식 기사 떴음\n이시율이 직접 길드 만든다고 함\n이름은 한성",
       "attachments": [],
       "stats": {
         "views": 205282,
@@ -29749,55 +29864,201 @@
         {
           "id": "c-2033-000009-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T13:41:22+09:00",
+          "timestamp": "2033-09-14T13:35:17+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.47"
           },
-          "content": "SS 신설한 이유 자체가 기존 S 상한으로 설명 안돼서잖아",
+          "content": "진짜 지가 만들었네ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000009-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T13:46:22+09:00",
+          "timestamp": "2033-09-14T13:37:34+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "118.47"
+            "ip": "211.234"
           },
-          "content": "이시율 영상만 봐도 단순 2배 3배 느낌은 아님",
+          "content": "아까 길드 만들거라던 글 성지됐네",
           "deleted": false
         },
         {
           "id": "c-2033-000009-b1-003",
-          "parentId": null,
-          "timestamp": "2033-09-14T13:52:15+09:00",
+          "parentId": "c-2033-000009-b1-002",
+          "timestamp": "2033-09-14T13:38:51+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "118.41"
+            "ip": "39.7"
           },
-          "content": "S 몇명분으로 환산하는 급은 아닌거같음",
+          "content": "글쓴새끼 개같이 개념감ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000009-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-14T13:59:51+09:00",
+          "timestamp": "2033-09-14T13:40:08+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.101"
           },
-          "content": "상성까지 생각하면 숫자놀이 더 의미없음",
+          "content": "한성 이름은 생각보다 정직하네",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-005",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:42:25+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.38"
+          },
+          "content": "백호 네뷸라 영입설 기사들 하루만에 폐지됨ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-006",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:45:42+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.140"
+          },
+          "content": "길드장이 이시율이면 지원자 감당되냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-007",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:48:59+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.202"
+          },
+          "content": "창설부터 SS 보유길드 ㅅㅂ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-008",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:51:16+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "175.223"
+          },
+          "content": "이게 스타트업이냐 국가프로젝트냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-009",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:54:33+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "틀헌터",
+            "ip": null
+          },
+          "content": "이시율 혼자 센거랑 조직이 센건 별개라 첫 반년은 운영 봐야지",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-010",
+          "parentId": "c-2033-000009-manual-009",
+          "timestamp": "2033-09-14T13:56:50+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "59.10"
+          },
+          "content": "그 별개를 존나 작게 만드는게 SS 한명 아니냐ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-011",
+          "parentId": null,
+          "timestamp": "2033-09-14T13:59:07+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.41"
+          },
+          "content": "A급들 어디서 데려오나가 더 궁금함",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-012",
+          "parentId": "c-2033-000009-manual-011",
+          "timestamp": "2033-09-14T14:01:24+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.235"
+          },
+          "content": "이시율 보고 오는애들만 해도 줄설듯",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-013",
+          "parentId": null,
+          "timestamp": "2033-09-14T14:04:41+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "장비업체 스폰서 전화 불나겠다",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-014",
+          "parentId": null,
+          "timestamp": "2033-09-14T14:08:58+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.102"
+          },
+          "content": "한성 첫 공략 언제냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-015",
+          "parentId": null,
+          "timestamp": "2033-09-14T14:12:15+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.163"
+          },
+          "content": "로고는 아직 안뜬거 맞지?",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000009-manual-016",
+          "parentId": null,
+          "timestamp": "2033-09-14T14:17:32+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.201"
+          },
+          "content": "이제 진짜 길드판 갈아엎어지겠네",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
-          "SS"
+          "이시율",
+          "한성",
+          "길드 창설"
         ],
         "forbiddenKnowledge": []
       }
@@ -29839,61 +30100,61 @@
         {
           "id": "c-2033-000004-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T14:54:47+09:00",
+          "timestamp": "2033-09-14T14:50:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.214"
           },
-          "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
+          "content": "존나 세다",
           "deleted": false
         },
         {
           "id": "c-2033-000004-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T15:05:59+09:00",
+          "timestamp": "2033-09-14T14:54:13+09:00",
           "author": {
             "type": "fixed",
             "name": "틀헌터",
             "ip": null
           },
-          "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
+          "content": "근데 개이쁜데?",
           "deleted": false
         },
         {
           "id": "c-2033-000004-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-14T15:14:17+09:00",
+          "timestamp": "2033-09-14T14:58:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "59.5"
           },
-          "content": "한성 지원서버 터질만하다",
+          "content": "내 여친임 ㅇㅇ",
           "deleted": false
         },
         {
           "id": "c-2033-000004-b1-004",
-          "parentId": "c-2033-000004-b1-002",
-          "timestamp": "2033-09-14T15:25:19+09:00",
+          "parentId": "c-2033-000004-b1-003",
+          "timestamp": "2033-09-14T15:02:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "61.79"
           },
-          "content": "SS 신설 자체가 답인듯",
+          "content": "약먹을 시간이다",
           "deleted": false
         },
         {
           "id": "c-2033-000004-b1-005",
           "parentId": null,
-          "timestamp": "2033-09-14T15:34:44+09:00",
+          "timestamp": "2033-09-14T15:06:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.214"
           },
-          "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
+          "content": "카메라가 못따라가는게 제일 어이없음ㅋㅋ",
           "deleted": false
         }
       ],
@@ -29907,7 +30168,7 @@
     {
       "id": "hg-2033-000001",
       "displayNo": 1274805,
-      "timestamp": "2033-09-14T15:33:00+09:00",
+      "timestamp": "2033-09-14T11:18:00+09:00",
       "year": 2033,
       "era": "SS_ERA",
       "internalCategory": "사건·속보",
@@ -29923,7 +30184,7 @@
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "협회 브리핑 예고 떴음\n기존 S 기준으로 분류 안된다는 말 나옴",
+      "content": "협회 긴급 브리핑 예고 떴음\n기존 S 계측 상한을 넘겼다는 말 나오는중",
       "attachments": [],
       "stats": {
         "views": 34042,
@@ -29941,61 +30202,61 @@
         {
           "id": "c-2033-000001-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T15:42:55+09:00",
+          "timestamp": "2033-09-14T11:22:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "110.70"
           },
-          "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
+          "content": "S 상한 넘었다는게 뭔말임 계측기 최대치 찍었다는거?",
           "deleted": false
         },
         {
           "id": "c-2033-000001-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T15:48:07+09:00",
+          "timestamp": "2033-09-14T11:26:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.44"
           },
-          "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
+          "content": "측정오류 아니냐 처음엔 그생각부터 듦",
           "deleted": false
         },
         {
           "id": "c-2033-000001-b1-003",
-          "parentId": "c-2033-000001-b1-001",
-          "timestamp": "2033-09-14T15:52:50+09:00",
+          "parentId": "c-2033-000001-b1-002",
+          "timestamp": "2033-09-14T11:30:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "110.70"
           },
-          "content": "이시율 영상은 다른각도도 보고싶다",
+          "content": "협회가 브리핑까지 잡은거보면 오류는 아닌가본데",
           "deleted": false
         },
         {
           "id": "c-2033-000001-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-14T15:56:46+09:00",
+          "timestamp": "2033-09-14T11:34:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.44"
           },
-          "content": "S 위에 등급 새로 만든다는게 제일 미친부분임",
+          "content": "이러다 등급 하나 더 파는거 아니냐ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000001-b1-005",
           "parentId": null,
-          "timestamp": "2033-09-14T16:03:08+09:00",
+          "timestamp": "2033-09-14T11:38:02+09:00",
           "author": {
             "type": "fixed",
             "name": "협회노예",
             "ip": null
           },
-          "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
+          "content": "일단 브리핑 뜰때까지 숫자놀이는 의미없을듯",
           "deleted": false
         }
       ],
@@ -30146,61 +30407,61 @@
         {
           "id": "c-2033-000011-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-14T18:46:44+09:00",
+          "timestamp": "2033-09-14T18:42:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.41"
           },
-          "content": "한성 지원서버 터질만하다",
+          "content": "아니 저거 뭐임? 실화임?",
           "deleted": false
         },
         {
           "id": "c-2033-000011-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-14T18:55:57+09:00",
+          "timestamp": "2033-09-14T18:46:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.197"
           },
-          "content": "사람 움직임 맞냐 저거ㅋㅋ",
+          "content": "개지리네 ㅋㅋㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000011-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-14T19:04:18+09:00",
+          "timestamp": "2033-09-14T18:50:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.41"
           },
-          "content": "S 위에 등급 새로 만든다는게 제일 미친부분임",
+          "content": "대시율 그저 대시율",
           "deleted": false
         },
         {
           "id": "c-2033-000011-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-14T19:13:54+09:00",
+          "timestamp": "2033-09-14T18:54:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.58"
           },
-          "content": "SS는 몇배보다 아예 다른 급으로 보는게 맞는듯",
+          "content": "아니 ㅋㅋㅋㅋㅋ 저게 저렇게 뜨는게 맞음?",
           "deleted": false
         },
         {
           "id": "c-2033-000011-b1-005",
-          "parentId": "c-2033-000011-b1-004",
-          "timestamp": "2033-09-14T19:21:34+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-14T18:58:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.58"
           },
-          "content": "S 몇명분 계산은 진짜 의미없어보임",
+          "content": "계측기 고장난게 아니라 상한을 넘긴거라네 미친",
           "deleted": false
         }
       ],
@@ -30254,7 +30515,7 @@
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
+          "content": "이때 댓글들 다 비웃고있는게 제일 웃김ㅋㅋ",
           "deleted": false
         },
         {
@@ -30266,7 +30527,7 @@
             "name": "ㅇㅇ",
             "ip": "118.235"
           },
-          "content": "S 셋 묶어서 비교하는 글 한동안 계속 올라올듯",
+          "content": "작성자 지금 이거 보고있냐",
           "deleted": false
         },
         {
@@ -30278,7 +30539,7 @@
             "name": "ㅇㅇ",
             "ip": "59.10"
           },
-          "content": "S 위에 등급 새로 만든다는게 제일 미친부분임",
+          "content": "저때는 SS가 진짜 허세등급 취급이었네",
           "deleted": false
         },
         {
@@ -30290,7 +30551,7 @@
             "name": "ㅇㅇ",
             "ip": "118.47"
           },
-          "content": "한성 지원서버 터질만하다",
+          "content": "옛날글 발굴하는놈들 집념 뭐냐ㅋㅋ",
           "deleted": false
         },
         {
@@ -31007,20 +31268,20 @@
       "timestamp": "2033-09-16T17:46:00+09:00",
       "year": 2033,
       "era": "SS_ERA",
-      "internalCategory": "시장·구인",
-      "displayCategory": "정보",
+      "internalCategory": "갈드컵·랭킹",
+      "displayCategory": "길드",
       "event": {
         "tag": "LEE_SIYUL_SS",
         "phase": "CONFIRMED",
         "related": true
       },
-      "title": "한성 몸값 미쳤겠네",
+      "title": "한성 폼 미쳤네",
       "author": {
         "type": "fixed",
         "name": "틀헌터",
         "ip": null
       },
-      "content": "스폰서랑 장비업체 전부 줄섰을듯",
+      "content": "창설한지 얼마됐다고 기사 지분 이게 맞냐ㅋㅋ",
       "attachments": [],
       "stats": {
         "views": 57146,
@@ -31038,55 +31299,104 @@
         {
           "id": "c-2033-000016-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-16T17:52:50+09:00",
+          "timestamp": "2033-09-16T17:52:17+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "공략권 입찰에서도 한성 이름값 더 세지겠네",
+          "content": "창설 이틀됐는데 기사 지분 뭐냐",
           "deleted": false
         },
         {
           "id": "c-2033-000016-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-16T18:02:52+09:00",
+          "timestamp": "2033-09-16T17:56:34+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.47"
           },
-          "content": "이시율 하나로 브랜드가치 미친듯",
+          "content": "스폰서 발표만 몇개째임ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000016-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-16T18:08:29+09:00",
+          "timestamp": "2033-09-16T18:00:51+09:00",
           "author": {
             "type": "fixed",
             "name": "짐꾼3년차",
             "ip": null
           },
-          "content": "장비업체/보험사 다 한성에 붙겠네",
+          "content": "장비업체 줄선다는 말 과장인줄 알았는데 진짜네",
           "deleted": false
         },
         {
           "id": "c-2033-000016-b1-004",
-          "parentId": "c-2033-000016-b1-002",
-          "timestamp": "2033-09-16T18:14:30+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-16T18:04:08+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "39.125"
+            "ip": "211.234"
           },
-          "content": "SS 보유길드 프리미엄이 숫자로 얼마인진 모르겠음",
+          "content": "이시율 하나로 브랜드 완성된게 제일 사기",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000016-manual-005",
+          "parentId": "c-2033-000016-b1-004",
+          "timestamp": "2033-09-16T18:06:25+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "조직 실적은 이제부터 봐야지",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000016-manual-006",
+          "parentId": "c-2033-000016-manual-005",
+          "timestamp": "2033-09-16T18:08:42+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.101"
+          },
+          "content": "그건 맞는데 첫날 체급은 이미 미쳤음ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000016-manual-007",
+          "parentId": null,
+          "timestamp": "2033-09-16T18:11:59+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "59.10"
+          },
+          "content": "백호 네뷸라가 갑자기 구길드 느낌남",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000016-manual-008",
+          "parentId": null,
+          "timestamp": "2033-09-16T18:14:16+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.140"
+          },
+          "content": "한성 폼 미쳤다 진짜",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
-          "한성"
+          "한성",
+          "이시율"
         ],
         "forbiddenKnowledge": []
       }
@@ -31128,61 +31438,61 @@
         {
           "id": "c-2033-000020-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-16T21:00:51+09:00",
+          "timestamp": "2033-09-16T21:00:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "182.214"
           },
-          "content": "이제 강무혁 강주아 김채연 다 끌려오겠네",
+          "content": "끝난거 맞대",
           "deleted": false
         },
         {
           "id": "c-2033-000020-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-16T21:12:00+09:00",
+          "timestamp": "2033-09-16T21:04:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "125.180"
           },
-          "content": "S로도 설명 안돼서 등급을 하나 더 만든게 핵심임",
+          "content": "ㅇㅇ",
           "deleted": false
         },
         {
           "id": "c-2033-000020-b1-003",
-          "parentId": "c-2033-000020-b1-001",
-          "timestamp": "2033-09-16T21:18:59+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-16T21:08:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "이시율 영상은 다른각도도 보고싶다",
+          "content": "예정시간보다 빨리 끝났다는게 더 웃김",
           "deleted": false
         },
         {
           "id": "c-2033-000020-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-16T21:22:56+09:00",
+          "timestamp": "2033-09-16T21:12:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "182.214"
           },
-          "content": "이시율 능력명은 복잡하게 안가서 좋다",
+          "content": "기사 오보아님?",
           "deleted": false
         },
         {
           "id": "c-2033-000020-b1-005",
-          "parentId": null,
-          "timestamp": "2033-09-16T21:29:57+09:00",
+          "parentId": "c-2033-000020-b1-004",
+          "timestamp": "2033-09-16T21:16:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "검 휘두르는 장면부터 체급감각 이상해짐",
+          "content": "협회도 종료 확인 올림",
           "deleted": false
         }
       ],
@@ -31230,61 +31540,61 @@
         {
           "id": "c-2033-000023-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-16T22:24:58+09:00",
+          "timestamp": "2033-09-16T22:22:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.41"
           },
-          "content": "이걸 숫자 하나로 정리하려는게 제일 웃김",
+          "content": "네뷸라가 거기 왜붙음ㅋ 백호랑 비교해야하는거 아님?",
           "deleted": false
         },
         {
           "id": "c-2033-000023-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-16T22:36:03+09:00",
+          "timestamp": "2033-09-16T22:26:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.41"
           },
-          "content": "검신 두글자에 설명 다들어있네",
+          "content": "전투력만 보면 한성인데 창설 이틀차잖아",
           "deleted": false
         },
         {
           "id": "c-2033-000023-b1-003",
           "parentId": "c-2033-000023-b1-002",
-          "timestamp": "2033-09-16T22:43:08+09:00",
+          "timestamp": "2033-09-16T22:30:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "SS 신설 자체가 답인듯",
+          "content": "그 이틀차에 세계최초 SS가 있음ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000023-b1-004",
-          "parentId": "c-2033-000023-b1-003",
-          "timestamp": "2033-09-16T22:52:29+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-16T22:34:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.41"
           },
-          "content": "한성 지원서버 터질만함",
+          "content": "네뷸라는 마법계 풀하고 연구쪽이 본체라 비교축이 다름",
           "deleted": false
         },
         {
           "id": "c-2033-000023-b1-005",
           "parentId": null,
-          "timestamp": "2033-09-16T22:56:35+09:00",
+          "timestamp": "2033-09-16T22:38:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "발표 뜨자마자 줄세우는 속도 존나빠름ㅋㅋ",
+          "content": "백호가 오히려 조직력 기준으로 비교하기 맞는듯",
           "deleted": false
         }
       ],
@@ -31478,61 +31788,61 @@
         {
           "id": "c-2033-000026-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-17T10:10:56+09:00",
+          "timestamp": "2033-09-17T10:11:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "59.10"
           },
-          "content": "SS를 S 몇명으로 환산하는건 의미없지 않냐",
+          "content": "어제 부산이라던 사진 원본은 지난달거더라",
           "deleted": false
         },
         {
           "id": "c-2033-000026-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-17T10:19:04+09:00",
+          "timestamp": "2033-09-17T10:15:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.194"
           },
-          "content": "당분간 S 셋 vs 이시율 글 도배각",
+          "content": "서울 찍혔다고 한 계정이 제주썰도 같이 올림ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000026-b1-003",
-          "parentId": "c-2033-000026-b1-002",
-          "timestamp": "2033-09-17T10:23:22+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-17T10:19:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "59.10"
           },
-          "content": "한성 지원서버 터질만함",
+          "content": "부산에서 서울 갔다가 밤에 제주면 순간이동도 쓰냐",
           "deleted": false
         },
         {
           "id": "c-2033-000026-b1-004",
-          "parentId": "c-2033-000026-b1-002",
-          "timestamp": "2033-09-17T10:32:12+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-17T10:23:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "S 몇명분 계산은 진짜 의미없어보임",
+          "content": "목격썰은 웃긴데 신상캐는건 선넘지",
           "deleted": false
         },
         {
           "id": "c-2033-000026-b1-005",
           "parentId": null,
-          "timestamp": "2033-09-17T10:39:18+09:00",
+          "timestamp": "2033-09-17T10:27:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "59.10"
           },
-          "content": "저걸 S랑 같은 칸에 넣긴 좀 그렇다",
+          "content": "같은 사진 좌우반전해서 또 올린거 보고 걍 차단함",
           "deleted": false
         }
       ],
@@ -31580,61 +31890,73 @@
         {
           "id": "c-2033-000019-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-17T12:55:50+09:00",
+          "timestamp": "2033-09-17T12:53:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "125.180"
           },
-          "content": "이시율 영상 보고 S 위 등급 만든거 납득함",
+          "content": "와 이걸 실시간으로 푸네",
           "deleted": false
         },
         {
           "id": "c-2033-000019-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-17T13:02:00+09:00",
+          "timestamp": "2033-09-17T12:57:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "112.171"
           },
-          "content": "등급표를 바꾸게 만든 사람이 나왔다는게 더 무섭다",
+          "content": "세계에서 다 보고있는거 아님?",
           "deleted": false
         },
         {
           "id": "c-2033-000019-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-17T13:06:42+09:00",
+          "timestamp": "2033-09-17T13:01:26+09:00",
           "author": {
             "type": "fixed",
             "name": "백호복지팀",
             "ip": null
           },
-          "content": "지원서 넣기도 전에 서버부터 뚫어야되네ㅋㅋ",
+          "content": "중국이 부러워하고 미국이 덜덜 떠는중 ㄷㄷ",
           "deleted": false
         },
         {
           "id": "c-2033-000019-b1-004",
-          "parentId": "c-2033-000019-b1-001",
-          "timestamp": "2033-09-17T13:11:06+09:00",
+          "parentId": "c-2033-000019-b1-003",
+          "timestamp": "2033-09-17T13:05:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "125.180"
           },
-          "content": "S 몇명분 계산은 진짜 의미없어보임",
+          "content": "국뽕 ㄴ",
           "deleted": false
         },
         {
           "id": "c-2033-000019-b1-005",
           "parentId": null,
-          "timestamp": "2033-09-17T13:20:08+09:00",
+          "timestamp": "2033-09-17T13:09:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.47"
           },
-          "content": "누가 지었는지 몰라도 검신은 잘붙였음",
+          "content": "시율눈나 나 죽어~~",
+          "deleted": false
+        },
+        {
+          "id": "c-2033-000019-v10-006",
+          "parentId": "c-2033-000019-b1-005",
+          "timestamp": "2033-09-17T13:13:15+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.235"
+          },
+          "content": "진짜 죽음",
           "deleted": false
         }
       ],
@@ -31682,85 +32004,85 @@
         {
           "id": "c-2033-000018-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-17T14:25:33+09:00",
+          "timestamp": "2033-09-17T14:19:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.197"
           },
-          "content": "이시율을 S 두명 세명으로 계산하는게 더 이상함",
+          "content": "오전부터 시작하네",
           "deleted": false
         },
         {
           "id": "c-2033-000018-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-17T14:33:42+09:00",
+          "timestamp": "2033-09-17T14:23:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.223"
           },
-          "content": "이시율 뜨고 한성 지원자 몰리는건 당연하지",
+          "content": "통제범위 왜 저렇게 넓게 잡음?",
           "deleted": false
         },
         {
           "id": "c-2033-000018-b1-003",
-          "parentId": "c-2033-000018-b1-002",
-          "timestamp": "2033-09-17T14:42:51+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-17T14:27:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.234"
           },
-          "content": "S 몇명분 계산은 진짜 의미없어보임",
+          "content": "근처 도로 우회공지까지 떴더라",
           "deleted": false
         },
         {
           "id": "c-2033-000018-b1-004",
-          "parentId": "c-2033-000018-b1-002",
-          "timestamp": "2033-09-17T14:48:26+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-17T14:31:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "58.29"
           },
-          "content": "한성 지원서버 터질만함",
+          "content": "이거 생중계도 함?",
           "deleted": false
         },
         {
           "id": "c-2033-000018-b1-005",
-          "parentId": "c-2033-000018-b1-003",
-          "timestamp": "2033-09-17T14:56:30+09:00",
+          "parentId": "c-2033-000018-b1-004",
+          "timestamp": "2033-09-17T14:35:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.234"
           },
-          "content": "이시율 영상은 다른각도도 보고싶다",
+          "content": "공식은 일부만 공개한다는 말 있던데",
           "deleted": false
         },
         {
           "id": "c-2033-000018-b1-006",
           "parentId": null,
-          "timestamp": "2033-09-17T15:07:27+09:00",
+          "timestamp": "2033-09-17T14:39:15+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.197"
           },
-          "content": "이제 강무혁 강주아 김채연 다 끌려오겠네",
+          "content": "현장 구경가겠다는놈들은 제발 집에 있어라",
           "deleted": false
         },
         {
           "id": "c-2033-000018-b1-007",
           "parentId": null,
-          "timestamp": "2033-09-17T15:12:29+09:00",
+          "timestamp": "2033-09-17T14:43:28+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "58.29"
           },
-          "content": "이시율 영상 보고 S 위 등급 만든거 납득함",
+          "content": "이런건 통제 빡세게 하는게 굿",
           "deleted": false
         }
       ],
@@ -31886,49 +32208,49 @@
         {
           "id": "c-2033-000028-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-17T20:39:22+09:00",
+          "timestamp": "2033-09-17T20:32:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "14.32"
           },
-          "content": "검 휘두르는 장면부터 체급감각 이상해짐",
+          "content": "A급이 평범한게 아니라 우리 눈이 망가진거임ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000028-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-17T20:44:23+09:00",
+          "timestamp": "2033-09-17T20:36:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.7"
           },
-          "content": "이시율 능력명은 복잡하게 안가서 좋다",
+          "content": "A도 현장가면 다들 쳐다보는 급인데",
           "deleted": false
         },
         {
           "id": "c-2033-000028-b1-003",
-          "parentId": "c-2033-000028-b1-001",
-          "timestamp": "2033-09-17T20:52:16+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-17T20:40:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.245"
           },
-          "content": "S 몇명분 계산은 진짜 의미없어보임",
+          "content": "SS 한번 보고오니까 S도 익숙해보이는게 문제",
           "deleted": false
         },
         {
           "id": "c-2033-000028-b1-004",
-          "parentId": "c-2033-000028-b1-003",
-          "timestamp": "2033-09-17T21:00:38+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-17T20:44:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.7"
           },
-          "content": "이시율 영상은 다른각도도 보고싶다",
+          "content": "며칠 지나면 정신차릴듯",
           "deleted": false
         }
       ],
@@ -32108,37 +32430,37 @@
         {
           "id": "c-2033-000040-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-18T08:34:52+09:00",
+          "timestamp": "2033-09-18T08:32:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.221"
           },
-          "content": "한성 서버 담당자 오늘 야근각",
+          "content": "존나 세고 존나 예쁘니까 조회수 안나올수가없음",
           "deleted": false
         },
         {
           "id": "c-2033-000040-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-18T08:43:40+09:00",
+          "timestamp": "2033-09-18T08:36:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.41"
           },
-          "content": "S 상한을 넘었다는 말이 아직도 감이 안옴",
+          "content": "썸네일 얼굴부터 치트키인데 영상은 더 미침",
           "deleted": false
         },
         {
           "id": "c-2033-000040-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-18T08:50:08+09:00",
+          "timestamp": "2033-09-18T08:40:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.245"
           },
-          "content": "영상만 보면 왜 SS 새로 만들었는지 알겠음",
+          "content": "전투장면 보러갔다가 얼굴만 보고있는 내가 싫다ㅋㅋ",
           "deleted": false
         }
       ],
@@ -32276,37 +32598,37 @@
         {
           "id": "c-2033-000037-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-18T20:31:20+09:00",
+          "timestamp": "2033-09-18T20:26:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "117.111"
           },
-          "content": "이걸 숫자 하나로 정리하려는게 제일 웃김",
+          "content": "어제까지 김채연 강주아로 천플 싸우던놈들 다 어디감ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000037-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-18T20:40:36+09:00",
+          "timestamp": "2033-09-18T20:30:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.62"
           },
-          "content": "SS랑 S를 단순 배수로 묶기 어려워보임",
+          "content": "SS 한방에 떡밥 싹 초기화됨",
           "deleted": false
         },
         {
           "id": "c-2033-000037-b1-003",
-          "parentId": "c-2033-000037-b1-002",
-          "timestamp": "2033-09-18T20:45:15+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-18T20:34:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "117.111"
           },
-          "content": "SS 신설 자체가 답인듯",
+          "content": "걔네 팬덤도 지금은 이시율 영상 보고있을듯",
           "deleted": false
         }
       ],
@@ -32356,49 +32678,49 @@
         {
           "id": "c-2033-000044-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-19T03:04:13+09:00",
+          "timestamp": "2033-09-19T02:58:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "저걸 S랑 같은 칸에 넣긴 좀 그렇다",
+          "content": "잔류마나 처리시간도 평소보다 길었다는거임?",
           "deleted": false
         },
         {
           "id": "c-2033-000044-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-19T03:13:59+09:00",
+          "timestamp": "2033-09-19T03:02:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "112.171"
           },
-          "content": "기존 최고등급 위를 새로 팠다는게 제일 큼",
+          "content": "정리팀 장비 오염수치 높게 나왔다는 말은 기사에 있더라",
           "deleted": false
         },
         {
           "id": "c-2033-000044-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-19T03:17:58+09:00",
+          "timestamp": "2033-09-19T03:06:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "누가 지었는지 몰라도 검신은 잘붙였음",
+          "content": "전투 끝난뒤 후처리도 규격이 달라지는구나",
           "deleted": false
         },
         {
           "id": "c-2033-000044-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-19T03:24:02+09:00",
+          "timestamp": "2033-09-19T03:10:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "14.32"
           },
-          "content": "SS를 S 몇명으로 환산하는건 의미없지 않냐",
+          "content": "직접 싸우는 장면보다 이런 현장후기가 더 체감됨",
           "deleted": false
         }
       ],
@@ -32512,7 +32834,7 @@
             "name": "ㅇㅇ",
             "ip": "175.194"
           },
-          "content": "S 몇명분 계산은 진짜 의미없어보임",
+          "content": "조건 저정도면 경력자들 몰릴만하지",
           "deleted": false
         }
       ],
@@ -32561,49 +32883,49 @@
         {
           "id": "c-2033-000030-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-19T14:22:20+09:00",
+          "timestamp": "2033-09-19T14:17:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "등급표를 바꾸게 만든 사람이 나왔다는게 더 무섭다",
+          "content": "오늘 검 쓰는 B급들 단톡 조용하겠다ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000030-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-19T14:26:18+09:00",
+          "timestamp": "2033-09-19T14:21:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "182.214"
           },
-          "content": "능력명 검신은 너무 정직해서 웃김",
+          "content": "같은 검이라고 비교하는 순간부터 너무 잔인함",
           "deleted": false
         },
         {
           "id": "c-2033-000030-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-19T14:35:39+09:00",
+          "timestamp": "2033-09-19T14:25:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "S 셋 묶어서 비교하는 글 한동안 계속 올라올듯",
+          "content": "오히려 이시율 보고 검배우겠다는 애들 늘었다는데",
           "deleted": false
         },
         {
           "id": "c-2033-000030-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-19T14:44:12+09:00",
+          "timestamp": "2033-09-19T14:29:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "182.214"
           },
-          "content": "한성 지원자 수 기사 뜨면 볼만하겠다",
+          "content": "학원 광고에 검신 따라잡기 이런거 뜨면 바로 신고함ㅋㅋ",
           "deleted": false
         }
       ],
@@ -32649,73 +32971,73 @@
         {
           "id": "c-2033-000032-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-19T19:11:45+09:00",
+          "timestamp": "2033-09-19T19:09:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "220.79"
           },
-          "content": "이시율을 S 두명 세명으로 계산하는게 더 이상함",
+          "content": "미국댓글도 국가전력 얘기부터 하네ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000032-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-19T19:23:04+09:00",
+          "timestamp": "2033-09-19T19:13:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "SS 신설 자체가 이시율 체급 설명 끝내는거같음",
+          "content": "중국쪽 번역은 한국이 SS 독점했다고 써놨더라",
           "deleted": false
         },
         {
           "id": "c-2033-000032-b1-003",
-          "parentId": "c-2033-000032-b1-002",
-          "timestamp": "2033-09-19T19:33:28+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-19T19:17:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "이시율 영상은 다른각도도 보고싶다",
+          "content": "대한민국 1승",
           "deleted": false
         },
         {
           "id": "c-2033-000032-b1-004",
-          "parentId": "c-2033-000032-b1-001",
-          "timestamp": "2033-09-19T19:38:33+09:00",
+          "parentId": "c-2033-000032-b1-003",
+          "timestamp": "2033-09-19T19:21:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "1.239"
           },
-          "content": "S 몇명분 계산은 진짜 의미없어보임",
+          "content": "국뽕 그만먹어라ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000032-b1-005",
           "parentId": null,
-          "timestamp": "2033-09-19T19:43:05+09:00",
+          "timestamp": "2033-09-19T19:25:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "검신 두글자에 설명 다들어있네",
+          "content": "해외에서 K-헌터 이러는거 개웃김",
           "deleted": false
         },
         {
           "id": "c-2033-000032-b1-006",
           "parentId": null,
-          "timestamp": "2033-09-19T19:52:51+09:00",
+          "timestamp": "2033-09-19T19:29:15+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "1.239"
           },
-          "content": "한성 서버 담당자 오늘 야근각",
+          "content": "오늘만큼은 국뽕 좀 취하자 ㅅㅂ",
           "deleted": false
         }
       ],
@@ -32931,37 +33253,37 @@
         {
           "id": "c-2033-000031-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-20T12:41:05+09:00",
+          "timestamp": "2033-09-20T12:40:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "새장비라고 현장에서 바로 편한건 아니더라",
+          "content": "기존 센서 상한부터 다시 잡아야겠네",
           "deleted": false
         },
         {
           "id": "c-2033-000031-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-20T12:50:42+09:00",
+          "timestamp": "2033-09-20T12:44:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.214"
           },
-          "content": "누가 지었는지 몰라도 검신은 잘붙였음",
+          "content": "새 규격 나오면 구형 장비는 재교정해서 쓰는건가",
           "deleted": false
         },
         {
           "id": "c-2033-000031-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-20T12:59:12+09:00",
+          "timestamp": "2033-09-20T12:48:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "S 상한을 넘었다는 말이 아직도 감이 안옴",
+          "content": "현장측정팀 교육도 다시해야될듯",
           "deleted": false
         }
       ],
@@ -33009,49 +33331,49 @@
         {
           "id": "c-2033-000041-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-20T22:13:21+09:00",
+          "timestamp": "2033-09-20T22:06:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "SS는 몇배보다 아예 다른 급으로 보는게 맞는듯",
+          "content": "S도 처음엔 한명뿐이었으니까 늘긴 늘겠지",
           "deleted": false
         },
         {
           "id": "c-2033-000041-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-20T22:23:19+09:00",
+          "timestamp": "2033-09-20T22:10:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.223"
           },
-          "content": "SS 하나 떴다고 기존 S들 전부 재평가 들어감ㅋㅋ",
+          "content": "10년뒤 SSS 나오면 진짜 게임임ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000041-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-20T22:33:15+09:00",
+          "timestamp": "2033-09-20T22:14:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.223"
           },
-          "content": "이시율 능력명은 복잡하게 안가서 좋다",
+          "content": "그때가서 SS 평범하다고 하는거 아니냐",
           "deleted": false
         },
         {
           "id": "c-2033-000041-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-20T22:43:35+09:00",
+          "timestamp": "2033-09-20T22:18:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.44"
           },
-          "content": "이시율 뜨고 한성 지원자 몰리는건 당연하지",
+          "content": "일단 S부터 더 나오는지 보자",
           "deleted": false
         }
       ],
@@ -33194,13 +33516,13 @@
         "phase": "AFTERMATH",
         "related": true
       },
-      "title": "이시율 계약금 숫자 돌아다니는거 믿지마라",
+      "title": "한성 스폰서 계약금 숫자 돌아다니는거 믿지마라",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.38"
       },
-      "content": "공식 공개도 안됐는데 0이 자꾸 늘어남",
+      "content": "공식 공개도 안됐는데\n투자금이니 광고단가니 장비협찬이니 0이 자꾸 늘어남",
       "attachments": [],
       "stats": {
         "views": 161894,
@@ -33218,43 +33540,45 @@
         {
           "id": "c-2033-000033-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-22T22:25:10+09:00",
+          "timestamp": "2033-09-22T22:25:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "계약금 숫자 출처가 죄다 지인썰임ㅋㅋ",
+          "content": "투자금 숫자 출처가 죄다 지인썰임ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000033-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-22T22:34:06+09:00",
+          "timestamp": "2033-09-22T22:29:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "121.140"
           },
-          "content": "계약금만 있고 공략지분/장비지원은 쏙 빼고 비교함",
+          "content": "광고계약이랑 장비협찬이랑 투자금 다 섞어서 말하더라",
           "deleted": false
         },
         {
           "id": "c-2033-000033-b1-003",
           "parentId": null,
-          "timestamp": "2033-09-22T22:43:09+09:00",
+          "timestamp": "2033-09-22T22:33:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.101"
           },
-          "content": "한성-이시율 계약은 비공개라 공식숫자 없잖아",
+          "content": "공식 발표 전까지 0 늘어나는거 구경이나 해야지",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
-          "이시율"
+          "한성",
+          "스폰서",
+          "계약"
         ],
         "forbiddenKnowledge": []
       }
@@ -33296,61 +33620,61 @@
         {
           "id": "c-2033-000036-b1-001",
           "parentId": null,
-          "timestamp": "2033-09-22T23:56:48+09:00",
+          "timestamp": "2033-09-22T23:52:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.102"
           },
-          "content": "사람 움직임 맞냐 저거ㅋㅋ",
+          "content": "몇배냐고 묻는 순간부터 답없음ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2033-000036-b1-002",
           "parentId": null,
-          "timestamp": "2033-09-23T00:01:10+09:00",
+          "timestamp": "2033-09-22T23:56:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.58"
           },
-          "content": "능력명 검신은 너무 정직해서 웃김",
+          "content": "강무혁 전성기 영상부터 다시 보고와라",
           "deleted": false
         },
         {
           "id": "c-2033-000036-b1-003",
-          "parentId": "c-2033-000036-b1-001",
-          "timestamp": "2033-09-23T00:06:07+09:00",
+          "parentId": null,
+          "timestamp": "2033-09-23T00:00:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "SS 신설 자체가 답인듯",
+          "content": "시대도 다르고 공개된 자료량도 달라서 숫자로 못잼",
           "deleted": false
         },
         {
           "id": "c-2033-000036-b1-004",
           "parentId": null,
-          "timestamp": "2033-09-23T00:11:11+09:00",
+          "timestamp": "2033-09-23T00:04:39+09:00",
           "author": {
             "type": "fixed",
             "name": "틀헌터",
             "ip": null
           },
-          "content": "이시율 뜨자마자 국내 S 전부 소환되네ㅋㅋ",
+          "content": "그래도 지금 기준 체급은 이시율이 위라고 보는사람이 많겠지",
           "deleted": false
         },
         {
           "id": "c-2033-000036-b1-005",
           "parentId": null,
-          "timestamp": "2033-09-23T00:19:14+09:00",
+          "timestamp": "2033-09-23T00:08:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "이시율 효과로 한성 지원창 난리네",
+          "content": "강무혁팬들 이 글 보고 또 온다",
           "deleted": false
         }
       ],
@@ -39380,7 +39704,7 @@
             "name": "ㅇㅇ",
             "ip": "223.62"
           },
-          "content": "스텔라 오늘 서버 터지겠네ㅋㅋ",
+          "content": "별하나 팬카페 오늘 서버 터지겠네ㅋㅋ",
           "deleted": false
         },
         {
@@ -39404,7 +39728,7 @@
             "name": "ㅇㅇ",
             "ip": "223.38"
           },
-          "content": "나는 반대",
+          "content": "이미 터졌대ㅋㅋ",
           "deleted": false
         }
       ],
@@ -39821,23 +40145,23 @@
     {
       "id": "hg-2035-000010",
       "displayNo": 1727169,
-      "timestamp": "2035-07-12T14:34:44+09:00",
+      "timestamp": "2035-07-12T14:18:00+09:00",
       "year": 2035,
       "era": "MATURE",
       "internalCategory": "팬덤·방송",
       "displayCategory": "방송",
       "event": {
-        "tag": "BYULHANA_S_AWAKENING",
+        "tag": "STELLA_GROWTH",
         "phase": "BREAKING",
         "related": true
       },
-      "title": "[정보] 스텔라 오늘 방송 댓글창 터지겠네",
+      "title": "별하나 스텔라 공식 떴네",
       "author": {
         "type": "fixed",
         "name": "마탑첩자",
         "ip": null
       },
-      "content": "별하나 S급 관련해서 과거 공연장 사고 끌고와서 이상한 소리하는 글 너무 많아서 공개된 것만 적음.\n\n- 과거 아이돌 활동 당시 공연장 게이트 사고 생존자였던 건 공개적으로 알려진 사실.\n- 이후 활동 중단/복귀 과정도 기사 많이 남아있음.\n- 이번 측정에서 S급 확인.\n- 스텔라 쪽 공식 발표도 나옴.\n\n여기까지만 보면 됨.\n\n'그 사고 때문에 능력이 이렇게 됐다'\n'그때 이미 각성해 있었다'\n같은 소리는 근거 없음.\n\n팬이면 더더욱 옛날 사고영상 재업하면서 추억팔이 하지 좀 마라.\n좋은 소식 떴는데 왜 굳이 최악의 날 영상을 다시 퍼옴.\n\n전투영상 나오면 그때 능력 얘기하면 되지\n오늘은 그냥 축하할 일이라 봄.",
+      "content": "공식계정 올라옴\n별하나가 스텔라 길드장 맡는다고 함\n오늘 떡밥 진짜 끝이없네ㅋㅋ",
       "attachments": [],
       "stats": {
         "views": 20002,
@@ -39855,68 +40179,201 @@
         {
           "id": "c-2035-000010-b1-001",
           "parentId": null,
-          "timestamp": "2035-07-12T14:45:17+09:00",
+          "timestamp": "2035-07-12T14:20:17+09:00",
           "author": {
             "type": "fixed",
             "name": "별빛단7기",
             "ip": null
           },
-          "content": "별하나 최강논쟁은 발표 몇시간만에 시작하냐",
+          "content": "진짜 스텔라였네 ㅅㅂ",
           "deleted": false
         },
         {
           "id": "c-2035-000010-b1-002",
           "parentId": null,
-          "timestamp": "2035-07-12T14:53:40+09:00",
+          "timestamp": "2035-07-12T14:22:34+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.33"
           },
-          "content": "공식 인터뷰 원본부터 보고싶다",
+          "content": "S급 뜨고 소속까지 하루에 다뜨네",
           "deleted": false
         },
         {
           "id": "c-2035-000010-b1-003",
-          "parentId": "c-2035-000010-b1-001",
-          "timestamp": "2035-07-12T14:59:58+09:00",
-          "author": {
-            "type": "fixed",
-            "name": "별빛단7기",
-            "ip": null
-          },
-          "content": "편집 잘하긴했네",
-          "deleted": false
-        },
-        {
-          "id": "c-2035-000010-b1-004",
           "parentId": null,
-          "timestamp": "2035-07-12T15:07:44+09:00",
+          "timestamp": "2035-07-12T14:24:51+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.223"
           },
-          "content": "{{con:heehee}}",
+          "content": "방송하던 사람이 진짜 길드장 되는 날이 오네ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-b1-004",
+          "parentId": null,
+          "timestamp": "2035-07-12T14:26:08+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.234"
+          },
+          "content": "스텔라 이름이 별하나랑 너무 잘맞아서 오히려 수상했음",
           "deleted": false
         },
         {
           "id": "c-2035-000010-b1-005",
           "parentId": null,
-          "timestamp": "2035-07-12T15:12:23+09:00",
+          "timestamp": "2035-07-12T14:28:25+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "별빛단7기",
+            "ip": null
+          },
+          "content": "{{con:kwah}}",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-006",
+          "parentId": "c-2035-000010-b1-005",
+          "timestamp": "2035-07-12T14:29:42+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "223.33"
+            "ip": "39.7"
           },
-          "content": "과거 사고영상 다시 퍼오는건 진짜 그만했으면",
+          "content": "콘 나오자마자 쓰네ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-007",
+          "parentId": null,
+          "timestamp": "2035-07-12T14:31:59+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.41"
+          },
+          "content": "백호 네뷸라랑 결이 아예 다르겠다",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-008",
+          "parentId": null,
+          "timestamp": "2035-07-12T14:33:16+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.101"
+          },
+          "content": "공략영상 조회수는 걱정없겠네",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-009",
+          "parentId": null,
+          "timestamp": "2035-07-12T14:35:33+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.202"
+          },
+          "content": "팬덤 그대로 길드팬덤 되는건 좀 무섭다",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-010",
+          "parentId": "c-2035-000010-manual-009",
+          "timestamp": "2035-07-12T14:36:50+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "별빛단7기",
+            "ip": null
+          },
+          "content": "이미 됐는데?",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-011",
+          "parentId": null,
+          "timestamp": "2035-07-12T14:38:07+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "길드 굿즈부터 나오는거 아니냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-012",
+          "parentId": "c-2035-000010-manual-011",
+          "timestamp": "2035-07-12T14:39:24+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "59.10"
+          },
+          "content": "그걸 누가삼",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-013",
+          "parentId": "c-2035-000010-manual-012",
+          "timestamp": "2035-07-12T14:40:41+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "별빛단7기",
+            "ip": null
+          },
+          "content": "{{con:real}}",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-014",
+          "parentId": null,
+          "timestamp": "2035-07-12T14:42:58+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.140"
+          },
+          "content": "별하나 길드장이면 인터뷰마다 댓글창 터지겠네",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-015",
+          "parentId": null,
+          "timestamp": "2035-07-12T14:45:15+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "틀헌터",
+            "ip": null
+          },
+          "content": "전투쪽은 아직 자료 없으니까 그건 나중에 보자",
+          "deleted": false
+        },
+        {
+          "id": "c-2035-000010-manual-016",
+          "parentId": null,
+          "timestamp": "2035-07-12T14:48:32+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.235"
+          },
+          "content": "그래도 스텔라 이름 오늘부터 헌터기사에서 계속 보겠네",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
           "별하나",
-          "스텔라"
+          "스텔라",
+          "길드장"
         ],
         "forbiddenKnowledge": []
       }
@@ -42258,7 +42715,7 @@
         "name": "ㅇㅇ",
         "ip": "1.239"
       },
-      "content": "스텔라 관련해서 방금 본거 가져옴.\n오늘 이 얘기만 몇번째인지 모르겠다ㅋㅋ",
+      "content": "오늘 장비점 갔는데 진짜 체감됨\n\n- 스텔라 영상에 나온 장갑/보호대 같은 모델 문의 계속 들어옴\n- 렌탈은 주말 물량부터 빠지는중\n- 이상하게 같은 색상만 먼저 품절남\n\n성능보고 사는건지 팬심인지 모르겠는데\n직원 말로는 별하나 영상 뜬 뒤 문의 확 늘었다고 함",
       "attachments": [],
       "stats": {
         "views": 35944,
@@ -42276,67 +42733,67 @@
         {
           "id": "c-2035-000032-b1-001",
           "parentId": null,
-          "timestamp": "2035-07-13T08:13:17+09:00",
+          "timestamp": "2035-07-13T08:10:29+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "1.239"
           },
-          "content": "수요 몰릴때 렌탈상태 더 잘봐야됨",
+          "content": "영상에 나온 장갑 같은모델 문의 존나 많다더라",
           "deleted": false
         },
         {
           "id": "c-2035-000032-b1-002",
           "parentId": null,
-          "timestamp": "2035-07-13T08:23:10+09:00",
+          "timestamp": "2035-07-13T08:14:42+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.202"
           },
-          "content": "예비배터리도 실제로 켜봐야됨",
+          "content": "그거 원래부터 비쌌음ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2035-000032-b1-003",
           "parentId": null,
-          "timestamp": "2035-07-13T08:29:19+09:00",
+          "timestamp": "2035-07-13T08:18:55+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "1.239"
           },
-          "content": "공식 인터뷰 원본부터 보고싶다",
+          "content": "렌탈부터 먼저 빠지는게 제일 체감됨",
           "deleted": false
         },
         {
           "id": "c-2035-000032-b1-004",
           "parentId": null,
-          "timestamp": "2035-07-13T08:33:40+09:00",
+          "timestamp": "2035-07-13T08:23:08+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "182.214"
           },
-          "content": "광고 붙는 속도 진짜 빠르다ㅋㅋ",
+          "content": "같은 색상만 품절된거 보면 팬심도 섞인듯",
           "deleted": false
         },
         {
           "id": "c-2035-000032-b1-005",
           "parentId": null,
-          "timestamp": "2035-07-13T08:44:08+09:00",
+          "timestamp": "2035-07-13T08:26:31+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "렌탈은 받자마자 버클이랑 스트랩부터 봄",
+          "content": "성능보고 사는건 좋은데 얼굴보고 장비사는건 좀ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2035-000032-b1-006",
           "parentId": null,
-          "timestamp": "2035-07-13T08:54:08+09:00",
+          "timestamp": "2035-07-13T08:30:44+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
@@ -42348,25 +42805,25 @@
         {
           "id": "c-2035-000032-b1-007",
           "parentId": null,
-          "timestamp": "2035-07-13T09:02:26+09:00",
+          "timestamp": "2035-07-13T08:34:57+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.33"
           },
-          "content": "뉴스 하나 뜨면 관련 업계 가격부터 움직이는거 체감됨",
+          "content": "직원이 별하나 영상 뜬 뒤 문의 확 늘었다고 함",
           "deleted": false
         },
         {
           "id": "c-2035-000032-b1-008",
           "parentId": null,
-          "timestamp": "2035-07-13T09:13:24+09:00",
+          "timestamp": "2035-07-13T08:39:10+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "{{con:heehee}}",
+          "content": "존나 비싸긴함",
           "deleted": false
         }
       ],
@@ -42670,7 +43127,7 @@
             "name": "ㅇㅇ",
             "ip": "106.248"
           },
-          "content": "스텔라 오늘 서버 터지겠네ㅋㅋ",
+          "content": "통제선 넓어진거면 근처 사람들은 그냥 우회하는게 맞음",
           "deleted": false
         },
         {
@@ -42764,7 +43221,7 @@
         "phase": "BREAKING",
         "related": true
       },
-      "title": "[정리] 각성발표 새 기사 올라옴",
+      "title": "[정리] 별하나 S급 관련 확인된 것만 모음",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
@@ -42842,7 +43299,7 @@
             "name": "ㅇㅇ",
             "ip": "106.248"
           },
-          "content": "ㅇㅇ 그부분은 맞음",
+          "content": "확인된거랑 썰 구분하자는건 맞음",
           "deleted": false
         },
         {
@@ -42866,7 +43323,7 @@
             "name": "ㅇㅇ",
             "ip": "210.178"
           },
-          "content": "흠 그건 좀",
+          "content": "신상썰까지 가는건 선넘지",
           "deleted": false
         },
         {
@@ -42897,7 +43354,9 @@
       "canon": {
         "keywords": [
           "별하나",
-          "스텔라"
+          "S급",
+          "공연장 사고",
+          "팩트체크"
         ],
         "forbiddenKnowledge": []
       }
@@ -42969,7 +43428,7 @@
             "name": "ㅇㅇ",
             "ip": "125.180"
           },
-          "content": "공식 인터뷰 원본부터 보고싶다",
+          "content": "그 짤 원본 누가 만든거냐ㅋㅋ",
           "deleted": false
         },
         {
@@ -43355,7 +43814,7 @@
             "name": "ㅇㅇ",
             "ip": "106.245"
           },
-          "content": "최근 실적도 봐야지",
+          "content": "밈 만드는 속도는 팬덤이 제일 빠름ㅋㅋ",
           "deleted": false
         },
         {
@@ -43389,13 +43848,13 @@
         "phase": "BREAKING",
         "related": true
       },
-      "title": "[후기] 측정결과 영상 보고 따라하면 안되는 부분",
+      "title": "[정보] 공략영상만 보고 따라하면 안되는 이유",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.36"
       },
-      "content": "지난달부터 비슷한 유형 세번 갔다와서 적어봄.\n공략법이라기보다 하지 말아야 할 것 위주임.\n\n- 초입 안전하다고 장비 풀지 말기\n- 선두 멈췄는데 뒤에서 밀고 들어가지 말기\n- 미확인 통로 혼자 확인하겠다고 빠지지 말기\n- 짐 위치 계속 바꾸지 말기. 급할때 물건 못찾음\n- 마석/드랍 정산은 현장에서 말로 끝내지 말기\n- 철수 결정 나왔는데 한 번만 더 보자는 소리 하지 말기\n\n특히 마지막거.\n한 명이 욕심내기 시작하면 나머지가 거절하기 애매해지는 순간이 있음.\n철수 콜 나오면 일단 나오는 문화가 진짜 중요함.\n\n뉴비 데려가면 설명 길게 하지말고\n'멈춰 / 따라와 / 손대지마' 세개부터 확실히 알아듣게 하는게 낫더라.\n\n내 경험 기준이라 반박은 받음.",
+      "content": "스텔라 영상 보고 그대로 따라해도 되냐는 뉴비글 보여서 씀.\n\n공략영상은 말 그대로 영상임.\n실제 현장에선 사전 브리핑, 대기, 정찰, 신호, 지원인력, 실패한 시도, 철수 판단 같은게 훨씬 많은데 편집본에는 대부분 안 나옴.\n\n특히 조심할거\n- 화면에서 한명이 먼저 들어간다고 너도 혼자 먼저 들어가지 말기\n- 초입이 조용해 보여도 장비 풀지 말기\n- 영상에 안보인다고 지원인력이 없는거라고 생각하지 말기\n- 하이라이트 동선 그대로 외워서 현장에 대입하지 말기\n- 팀장이 멈추라면 영상에서 뭐 봤든 그냥 멈추기\n\n뉴비면 유명헌터 영상 백개 보는것보다 협회 안전수칙이 먼저임.\n영상은 참고만 하고 현장에서는 현장 지시 따라라.",
       "attachments": [],
       "stats": {
         "views": 135607,
@@ -43413,91 +43872,91 @@
         {
           "id": "c-2035-000054-b1-001",
           "parentId": null,
-          "timestamp": "2035-07-14T08:46:11+09:00",
+          "timestamp": "2035-07-14T08:44:00+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "과거 사고영상 다시 퍼오는건 진짜 그만했으면",
+          "content": "뉴비들 하이라이트만 보고 나대다가 뒤짐 ㄹㅇ",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-002",
           "parentId": null,
-          "timestamp": "2035-07-14T08:50:04+09:00",
+          "timestamp": "2035-07-14T08:48:13+09:00",
           "author": {
             "type": "fixed",
             "name": "짐꾼3년차",
             "ip": null
           },
-          "content": "현장에선 카메라 밖 역할이 더 많을때 있음",
+          "content": "영상엔 브리핑이랑 대기시간 다 잘려있잖아",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-003",
           "parentId": null,
-          "timestamp": "2035-07-14T08:55:39+09:00",
+          "timestamp": "2035-07-14T08:52:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.58"
           },
-          "content": "{{con:Intelligence}}",
+          "content": "협회 안전수칙이나 따라라",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-004",
-          "parentId": "c-2035-000054-b1-001",
-          "timestamp": "2035-07-14T09:03:10+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-14T08:56:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "ㅇㅇ 그부분은 맞음",
+          "content": "개추",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-005",
           "parentId": null,
-          "timestamp": "2035-07-14T09:10:11+09:00",
+          "timestamp": "2035-07-14T09:00:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "초입 좀 편하다고 장비부터 푸는거 진짜 비추",
+          "content": "초입 편해보인다고 장비 푸는게 제일 위험함",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-006",
           "parentId": null,
-          "timestamp": "2035-07-14T09:21:15+09:00",
+          "timestamp": "2035-07-14T09:04:15+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.58"
           },
-          "content": "영상에서 잘린 대기/철수구간도 봐야됨",
+          "content": "카메라 밖에서 신호주는 사람 있는것도 생각해야됨",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-007",
           "parentId": null,
-          "timestamp": "2035-07-14T09:29:23+09:00",
+          "timestamp": "2035-07-14T09:08:28+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "측정결과 확인된 부분만 보면 되는걸 왜 신상썰까지 가냐",
+          "content": "철수콜 나온 장면은 편집하면 통째로 빠질수도 있음",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-008",
-          "parentId": "c-2035-000054-b1-005",
-          "timestamp": "2035-07-14T09:38:12+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-14T09:12:41+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
@@ -43508,56 +43967,58 @@
         },
         {
           "id": "c-2035-000054-b1-009",
-          "parentId": "c-2035-000054-b1-005",
-          "timestamp": "2035-07-14T09:47:35+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-14T09:16:04+09:00",
           "author": {
             "type": "fixed",
             "name": "짐꾼3년차",
             "ip": null
           },
-          "content": "그말은 이해됨",
+          "content": "영상 따라할 시간에 팀장 말부터 잘들어",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-010",
           "parentId": null,
-          "timestamp": "2035-07-14T09:54:38+09:00",
+          "timestamp": "2035-07-14T09:20:17+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "초보가 하이라이트만 보고 따라하면 위험함",
+          "content": "공략영상은 참고지 매뉴얼이 아님",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-011",
-          "parentId": "c-2035-000054-b1-010",
-          "timestamp": "2035-07-14T10:04:14+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-14T09:24:30+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.221"
           },
-          "content": "맞는말인데 그걸로 다설명되진 않지",
+          "content": "{{con:good}}",
           "deleted": false
         },
         {
           "id": "c-2035-000054-b1-012",
           "parentId": null,
-          "timestamp": "2035-07-14T10:11:27+09:00",
+          "timestamp": "2035-07-14T09:28:43+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "선두 멈추면 이유부터 확인하고 따라 멈추는게 맞음",
+          "content": "이런글은 뉴비공지에 박아놔야됨",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
-          "마석"
+          "공략영상",
+          "뉴비",
+          "안전수칙"
         ],
         "forbiddenKnowledge": []
       }
@@ -44448,7 +44909,7 @@
             "name": "ㅇㅇ",
             "ip": "211.202"
           },
-          "content": "나는 반대",
+          "content": "잡았다 이새끼",
           "deleted": false
         },
         {
@@ -44460,7 +44921,7 @@
             "name": "ㅇㅇ",
             "ip": "223.38"
           },
-          "content": "흠 그건 좀",
+          "content": "자는척하지마ㅋㅋ",
           "deleted": false
         },
         {
@@ -44472,7 +44933,7 @@
             "name": "ㅇㅇ",
             "ip": "223.38"
           },
-          "content": "그부분은 동의하는데 전부는 아님",
+          "content": "도로롱은 왜 여기서 자냐",
           "deleted": false
         },
         {
@@ -44496,7 +44957,7 @@
             "name": "ㅇㅇ",
             "ip": "211.202"
           },
-          "content": "ㅇㅇ 그럴수는 있음",
+          "content": "오늘만 벌써 몇페이지째냐ㅋㅋ",
           "deleted": false
         }
       ],
@@ -45210,7 +45671,7 @@
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "이거 관련해서 방금 본거 가져옴.\n기사마다 표현이 달라서 확인된 것만 보는게 맞을듯.",
+      "content": "스텔라 영상 뜬 뒤로\n거기 나온 장비들 가격 바로 오른거 맞음?\n\n검색량만 오른건지 실제 거래가도 뛴건지 궁금함",
       "attachments": [],
       "stats": {
         "views": 34772,
@@ -45228,31 +45689,31 @@
         {
           "id": "c-2035-000050-b1-001",
           "parentId": null,
-          "timestamp": "2035-07-15T19:15:45+09:00",
+          "timestamp": "2035-07-15T19:08:07+09:00",
           "author": {
             "type": "fixed",
             "name": "계약서읽자",
             "ip": null
           },
-          "content": "기사마다 말 다르면 공통으로 겹치는 부분부터 봐야지",
+          "content": "그 장비 원래부터 비쌌음ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2035-000050-b1-002",
           "parentId": null,
-          "timestamp": "2035-07-15T19:20:21+09:00",
+          "timestamp": "2035-07-15T19:12:20+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "실제 거래가 오른건지 판매자가 가격만 올린건지 봐야됨",
+          "content": "존나 비싸긴함",
           "deleted": false
         },
         {
           "id": "c-2035-000050-b1-003",
           "parentId": null,
-          "timestamp": "2035-07-15T19:28:11+09:00",
+          "timestamp": "2035-07-15T19:16:33+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
@@ -45264,61 +45725,61 @@
         {
           "id": "c-2035-000050-b1-004",
           "parentId": null,
-          "timestamp": "2035-07-15T19:36:04+09:00",
+          "timestamp": "2035-07-15T19:20:46+09:00",
           "author": {
             "type": "fixed",
             "name": "계약서읽자",
             "ip": null
           },
-          "content": "며칠 지나면 다시 내려갈수도 있음",
+          "content": "영상 뜬날 판매자들이 제목에 스텔라 붙인거 개웃김",
           "deleted": false
         },
         {
           "id": "c-2035-000050-b1-005",
           "parentId": null,
-          "timestamp": "2035-07-15T19:42:52+09:00",
+          "timestamp": "2035-07-15T19:24:09+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "210.178"
           },
-          "content": "{{con:dororong}}",
+          "content": "검색량 오른거랑 실제 거래가 오른건 따로 봐야됨",
           "deleted": false
         },
         {
           "id": "c-2035-000050-b1-006",
           "parentId": null,
-          "timestamp": "2035-07-15T19:51:32+09:00",
+          "timestamp": "2035-07-15T19:28:22+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "14.32"
           },
-          "content": "스텔라 영상에 나온 장비부터 검색량 튄듯",
+          "content": "스텔라 영상에 나온 장비부터 검색량 튄건 맞는듯",
           "deleted": false
         },
         {
           "id": "c-2035-000050-b1-007",
           "parentId": null,
-          "timestamp": "2035-07-15T20:01:33+09:00",
+          "timestamp": "2035-07-15T19:32:35+09:00",
           "author": {
             "type": "fixed",
             "name": "계약서읽자",
             "ip": null
           },
-          "content": "이슈장비 따라사는건 진짜 조심",
+          "content": "팬심으로 따라살 가격은 아닌데 사는놈은 사더라",
           "deleted": false
         },
         {
           "id": "c-2035-000050-b1-008",
-          "parentId": "c-2035-000050-b1-006",
-          "timestamp": "2035-07-15T20:06:43+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-15T19:36:48+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "210.178"
           },
-          "content": "그건 실제 계약서/공지 봐야됨",
+          "content": "며칠 지나면 가격 다시 내려오는지 봐야지",
           "deleted": false
         }
       ],
@@ -45454,7 +45915,7 @@
             "name": "ㅇㅇ",
             "ip": "175.223"
           },
-          "content": "광고 붙는 속도 보면 미디어팀이 진짜 빠름",
+          "content": "영상에서 잘린 철수구간이 오히려 제일 중요할때 많음",
           "deleted": false
         },
         {
@@ -45466,7 +45927,7 @@
             "name": "ㅇㅇ",
             "ip": "106.102"
           },
-          "content": "{{con:kwah}}",
+          "content": "{{con:good}}",
           "deleted": false
         }
       ],
@@ -45705,7 +46166,7 @@
         "phase": "BREAKING",
         "related": true
       },
-      "title": "[정보] 콘텐츠 기사마다 말 다른데 뭐가 맞음",
+      "title": "스텔라가 다른 대형길드랑 뭐가 다름?",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
@@ -45729,67 +46190,67 @@
         {
           "id": "c-2035-000041-b1-001",
           "parentId": null,
-          "timestamp": "2035-07-15T21:21:44+09:00",
+          "timestamp": "2035-07-15T21:16:13+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "광고 붙는 속도 보면 미디어팀이 진짜 빠름",
+          "content": "한성은 전투력 네뷸라는 마법계 백호는 조직 스텔라는 미디어 이런 느낌",
           "deleted": false
         },
         {
           "id": "c-2035-000041-b1-002",
           "parentId": null,
-          "timestamp": "2035-07-15T21:28:58+09:00",
+          "timestamp": "2035-07-15T21:20:26+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "124.53"
           },
-          "content": "기사마다 제목은 다른데 본문 겹치는 부분만 보면 될듯",
+          "content": "스텔라는 공략보다 일반인한테 얼굴 알리는 속도가 압도적임",
           "deleted": false
         },
         {
           "id": "c-2035-000041-b1-003",
-          "parentId": "c-2035-000041-b1-002",
-          "timestamp": "2035-07-15T21:35:15+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-15T21:24:39+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "나는 반대",
+          "content": "방송 싫어하는 헌터는 오히려 안맞을듯",
           "deleted": false
         },
         {
           "id": "c-2035-000041-b1-004",
           "parentId": null,
-          "timestamp": "2035-07-15T21:39:21+09:00",
+          "timestamp": "2035-07-15T21:28:52+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.125"
           },
-          "content": "새 내용 있으면 출처 같이 올려줘",
+          "content": "광고 붙는 속도는 진짜 다른길드랑 결이 다름ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2035-000041-b1-005",
           "parentId": null,
-          "timestamp": "2035-07-15T21:49:35+09:00",
+          "timestamp": "2035-07-15T21:32:15+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "39.7"
           },
-          "content": "스텔라는 전투영상도 콘텐츠처럼 뽑는게 확실히 다름",
+          "content": "전투영상도 그냥 기록이 아니라 콘텐츠처럼 뽑는게 큼",
           "deleted": false
         },
         {
           "id": "c-2035-000041-b1-006",
           "parentId": null,
-          "timestamp": "2035-07-15T21:57:48+09:00",
+          "timestamp": "2035-07-15T21:36:28+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
@@ -45801,8 +46262,11 @@
       ],
       "canon": {
         "keywords": [
-          "별하나",
-          "스텔라"
+          "스텔라",
+          "한성",
+          "네뷸라",
+          "백호",
+          "길드 비교"
         ],
         "forbiddenKnowledge": []
       }
@@ -45820,13 +46284,13 @@
         "phase": "BREAKING",
         "related": true
       },
-      "title": "[후기] 콘텐츠 공식 발표 떴다",
+      "title": "스텔라 콘텐츠 운영 공식 발표 떴다",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.201"
       },
-      "content": "스텔라가 다른 대형길드랑 뭐가 다르냐 묻는 글 많아서 체감만 적음.\n\n한성 = 실적/최상위 전력 이미지\n네뷸라 = 마법계 엘리트, 연구/교육 이미지\n백호 = 조직/장비/복지, 기업형 이미지\n\n스텔라는 좀 다름.\n방송, 광고, 영상, 팬덤을 길드 운영이랑 처음부터 같이 엮는 느낌이 강함.\n별하나가 중심에 있는 건 맞는데 소속 헌터들 촬영이나 브랜드 관리도 적극적인 편이고.\n\n그래서 업계 사람들은 공략실적으로 싸우고\n일반인들은 체감 인지도가 훨씬 높게 느껴지는 듯.\n\n장점은 홍보, 스폰, 대중성.\n단점은 뭘 해도 팬덤싸움으로 번짐ㅋㅋ\n\n공략글에서 별하나 얘기로 댓글 백개 달리는거 보면 이해됨.",
+      "content": "스텔라 공식계정 공지 올라옴.\n\n- 길드 공식채널에서 공략/훈련 영상 정기 공개\n- 촬영 참여 여부는 소속 헌터별로 선택 가능\n- 실시간 위치나 미공개 공략정보는 공개 안함\n- 광고/방송 참여 조건은 별도 계약\n\n진짜 헌터길드에 엔터 시스템을 통째로 붙이네ㅋㅋ",
       "attachments": [],
       "stats": {
         "views": 151329,
@@ -45844,104 +46308,105 @@
         {
           "id": "c-2035-000046-b1-001",
           "parentId": null,
-          "timestamp": "2035-07-15T23:36:59+09:00",
+          "timestamp": "2035-07-15T23:36:18+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "125.180"
           },
-          "content": "새 내용 있으면 출처 같이 올려줘",
+          "content": "공략영상 정기적으로 올린다는거 개좋네",
           "deleted": false
         },
         {
           "id": "c-2035-000046-b1-002",
           "parentId": null,
-          "timestamp": "2035-07-15T23:45:49+09:00",
+          "timestamp": "2035-07-15T23:40:31+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "121.140"
           },
-          "content": "광고 붙는 속도 보면 미디어팀이 진짜 빠름",
+          "content": "촬영 참여 선택이면 방송 싫은 헌터도 들어갈수 있겠네",
           "deleted": false
         },
         {
           "id": "c-2035-000046-b1-003",
-          "parentId": "c-2035-000046-b1-001",
-          "timestamp": "2035-07-15T23:53:05+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-15T23:44:44+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "210.178"
           },
-          "content": "그말은 이해됨",
+          "content": "현장정보는 바로 안푸는게 당연하지",
           "deleted": false
         },
         {
           "id": "c-2035-000046-b1-004",
-          "parentId": "c-2035-000046-b1-001",
-          "timestamp": "2035-07-16T00:00:14+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-15T23:48:57+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "125.180"
           },
-          "content": "방송 싫어하는 헌터는 여기 호불호 크겠다",
+          "content": "미디어팀 진짜 따로 굴리는구나",
           "deleted": false
         },
         {
           "id": "c-2035-000046-b1-005",
           "parentId": null,
-          "timestamp": "2035-07-16T00:04:10+09:00",
+          "timestamp": "2035-07-15T23:52:20+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "125.180"
           },
-          "content": "지금 확인된거랑 커뮤썰 섞여서 도는게 제일 문제임",
+          "content": "광고수익 배분은 세부계약이라는데 그건 공개 안하겠지",
           "deleted": false
         },
         {
           "id": "c-2035-000046-b1-006",
           "parentId": null,
-          "timestamp": "2035-07-16T00:11:21+09:00",
+          "timestamp": "2035-07-15T23:56:33+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.102"
           },
-          "content": "{{con:idk}}",
+          "content": "{{con:good}}",
           "deleted": false
         },
         {
           "id": "c-2035-000046-b1-007",
           "parentId": null,
-          "timestamp": "2035-07-16T00:22:07+09:00",
+          "timestamp": "2035-07-16T00:00:46+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "210.178"
           },
-          "content": "영상 프레임만 보고 실전공략 따라하면 안되는건 맞음",
+          "content": "팬덤은 좋아죽겠네ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2035-000046-b1-008",
           "parentId": null,
-          "timestamp": "2035-07-16T00:28:50+09:00",
+          "timestamp": "2035-07-16T00:04:59+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "125.180"
           },
-          "content": "기사마다 제목은 다른데 본문 겹치는 부분만 보면 될듯",
+          "content": "공략보다 편집영상 기다리는 사람도 생기겠다",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
-          "별하나",
-          "스텔라"
+          "스텔라",
+          "콘텐츠",
+          "공식 발표"
         ],
         "forbiddenKnowledge": []
       }
@@ -45959,13 +46424,13 @@
         "phase": "BREAKING",
         "related": true
       },
-      "title": "방송길드 관련 추가 브리핑 나옴",
+      "title": "스텔라 콘텐츠 관련 추가 브리핑 나옴",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.33"
       },
-      "content": "스텔라가 다른 대형길드랑 뭐가 다르냐 묻는 글 많아서 체감만 적음.\n\n한성 = 실적/최상위 전력 이미지\n네뷸라 = 마법계 엘리트, 연구/교육 이미지\n백호 = 조직/장비/복지, 기업형 이미지\n\n스텔라는 좀 다름.\n방송, 광고, 영상, 팬덤을 길드 운영이랑 처음부터 같이 엮는 느낌이 강함.\n별하나가 중심에 있는 건 맞는데 소속 헌터들 촬영이나 브랜드 관리도 적극적인 편이고.\n\n그래서 업계 사람들은 공략실적으로 싸우고\n일반인들은 체감 인지도가 훨씬 높게 느껴지는 듯.\n\n장점은 홍보, 스폰, 대중성.\n단점은 뭘 해도 팬덤싸움으로 번짐ㅋㅋ\n\n공략글에서 별하나 얘기로 댓글 백개 달리는거 보면 이해됨.",
+      "content": "아까 공지 뒤에 질문 많이 들어왔는지 추가 안내 올라옴.\n\n- 진행중 공략 실시간 송출 안함\n- 위치/동선 정보는 시간차 두고 공개\n- 촬영팀은 현장 지휘체계 따름\n- 소속 헌터 출연은 선택\n\n팬들이 현장 찾아오는 문제 제일 신경쓰는듯.",
       "attachments": [],
       "stats": {
         "views": 132578,
@@ -45983,104 +46448,105 @@
         {
           "id": "c-2035-000072-b1-001",
           "parentId": null,
-          "timestamp": "2035-07-16T00:26:54+09:00",
+          "timestamp": "2035-07-16T00:19:53+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "스텔라는 전투영상도 콘텐츠처럼 뽑는게 확실히 다름",
+          "content": "실시간 송출 안한다는건 잘한듯",
           "deleted": false
         },
         {
           "id": "c-2035-000072-b1-002",
           "parentId": null,
-          "timestamp": "2035-07-16T00:34:40+09:00",
+          "timestamp": "2035-07-16T00:24:06+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "별하나 들어오고 스텔라 검색량 미쳤네",
+          "content": "현장 위치 몇시간 뒤에 푸는 방식이면 그나마 안전하겠네",
           "deleted": false
         },
         {
           "id": "c-2035-000072-b1-003",
-          "parentId": "c-2035-000072-b1-002",
-          "timestamp": "2035-07-16T00:40:37+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-16T00:28:19+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "58.29"
           },
-          "content": "{{con:dororong}}",
+          "content": "{{con:real}}",
           "deleted": false
         },
         {
           "id": "c-2035-000072-b1-004",
           "parentId": null,
-          "timestamp": "2035-07-16T00:51:24+09:00",
+          "timestamp": "2035-07-16T00:32:32+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.235"
           },
-          "content": "{{con:real}}",
+          "content": "촬영팀도 공략팀 지휘 따라간다는 문구 굳이 넣은거보면 질문 존나 받았나봄ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2035-000072-b1-005",
-          "parentId": "c-2035-000072-b1-001",
-          "timestamp": "2035-07-16T01:01:01+09:00",
+          "parentId": null,
+          "timestamp": "2035-07-16T00:35:55+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.221"
           },
-          "content": "흠 그건 좀",
+          "content": "출연 싫으면 빠질수 있다는거 다시 박았네",
           "deleted": false
         },
         {
           "id": "c-2035-000072-b1-006",
           "parentId": null,
-          "timestamp": "2035-07-16T01:09:55+09:00",
+          "timestamp": "2035-07-16T00:40:08+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.235"
           },
-          "content": "광고 붙는 속도 보면 미디어팀이 진짜 빠름",
+          "content": "팬들이 현장 찾아가는건 진짜 막아야됨",
           "deleted": false
         },
         {
           "id": "c-2035-000072-b1-007",
           "parentId": null,
-          "timestamp": "2035-07-16T01:15:33+09:00",
+          "timestamp": "2035-07-16T00:44:21+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "211.36"
           },
-          "content": "방송 싫어하는 헌터는 여기 호불호 크겠다",
+          "content": "{{con:stop}}",
           "deleted": false
         },
         {
           "id": "c-2035-000072-b1-008",
           "parentId": null,
-          "timestamp": "2035-07-16T01:27:08+09:00",
+          "timestamp": "2035-07-16T00:48:34+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.221"
           },
-          "content": "지금 확인된거랑 커뮤썰 섞여서 도는게 제일 문제임",
+          "content": "처음부터 이정도 선은 그어두는게 맞지",
           "deleted": false
         }
       ],
       "canon": {
         "keywords": [
-          "별하나",
-          "스텔라"
+          "스텔라",
+          "콘텐츠",
+          "현장 보안"
         ],
         "forbiddenKnowledge": []
       }
@@ -46264,7 +46730,7 @@
             "name": "ㅇㅇ",
             "ip": "182.214"
           },
-          "content": "풀버전도 보고싶음",
+          "content": "짧은 클립만 보고 벌써 최강 박는게 더 웃김ㅋㅋ",
           "deleted": false
         },
         {
@@ -46638,7 +47104,7 @@
             "name": "별빛단7기",
             "ip": null
           },
-          "content": "별하나 들어오고 스텔라 검색량 미쳤네",
+          "content": "프레임 몇장으로 순위 박는건 무리지",
           "deleted": false
         },
         {
@@ -117586,7 +118052,7 @@
             "name": "ㅇㅇ",
             "ip": "223.38"
           },
-          "content": "네뷸라 공채널에서 이채린 검색하고 업로드순 보면 찾기편함",
+          "content": "네뷸라 공채널에서 이채린 검색하고 업로드순 보면 좀 나옴",
           "deleted": false
         },
         {
@@ -117598,19 +118064,67 @@
             "name": "ㅇㅇ",
             "ip": "121.140"
           },
-          "content": "최신 원본 있으면 나도 링크 궁금함",
+          "content": "짤만 보면 맨날 새영상같음ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2042-000181-b2m-004",
-          "parentId": null,
+          "parentId": "c-2042-000181-b2m-003",
           "timestamp": "2042-09-17T08:08:20+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "돌아다니는 짤 몇개는 예전 합동영상 재편집본이더라",
+          "content": "그거 몇개는 예전 합동영상 재편집본임",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000181-front-005",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:11:05+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "이채린 요즘 존나 예쁘던데 단독좀 내줘라",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000181-front-006",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:13:44+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.101"
+          },
+          "content": "네뷸라는 얼굴되는 애를 왜 이렇게 아껴쓰냐ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000181-front-007",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:16:08+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "마탑첩자",
+            "ip": null
+          },
+          "content": "연구팀 영상엔 은근 자주 비침. 단독이 없는거지",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000181-front-008",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:18:33+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.234"
+          },
+          "content": "{{con:wait}}",
           "deleted": false
         }
       ],
@@ -117654,7 +118168,56 @@
         "locked": false
       },
       "deletedStatus": null,
-      "comments": [],
+      "comments": [
+        {
+          "id": "c-2042-000182-front-001",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:09:18+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.44"
+          },
+          "content": "다음달: 또 다음달",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000182-front-002",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:10:02+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "일단 오늘 치킨먹고 생각하자",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000182-front-003",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:12:11+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "{{con:dororong}}",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000182-front-004",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:14:36+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.202"
+          },
+          "content": "다이어트보다 퇴근이 먼저다 ㄹㅇ",
+          "deleted": false
+        }
+      ],
       "canon": {
         "keywords": [],
         "forbiddenKnowledge": []
@@ -117703,7 +118266,43 @@
             "name": "ㅇㅇ",
             "ip": "211.246"
           },
-          "content": "ㅋㅋㅋㅋ",
+          "content": "뜨끈한탕 ㄹㅇ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000183-front-002",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:19:47+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.102"
+          },
+          "content": "오늘같은날 들어가면 못나옴ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000183-front-003",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:21:08+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "59.10"
+          },
+          "content": "물은 마시고 들어가라",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000183-front-004",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:22:31+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.41"
+          },
+          "content": "{{con:good}}",
           "deleted": false
         }
       ],
@@ -117755,11 +118354,23 @@
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "C급 이상이 국가재난급에서 대상될수 있다는거지 평소마다 끌려가는거 아님",
+          "content": "C급 이상이 대상될수 있는건 맞는데 국가재난급 같은 비상상황 전제임",
           "deleted": false
         },
         {
           "id": "c-2042-000184-b2m-002",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:27:13+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "협회노예",
+            "ip": null
+          },
+          "content": "평소 게이트마다 C부터 끌고가는 제도 아님ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000184-b2m-003",
           "parentId": null,
           "timestamp": "2042-09-17T08:29:08+09:00",
           "author": {
@@ -117767,35 +118378,47 @@
             "name": "ㅇㅇ",
             "ip": "223.52"
           },
-          "content": "민간/길드 대응으로 감당 안될때 나오는 비상제도에 가까움",
+          "content": "C급 찍은게 죄냐 ㅅㅂ",
           "deleted": false
         },
         {
-          "id": "c-2042-000184-b2m-003",
+          "id": "c-2042-000184-b2m-004",
           "parentId": null,
+          "timestamp": "2042-09-17T08:30:27+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.235"
+          },
+          "content": "거부하면 무조건 징역간다는 댓글은 또 뭐냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000184-b2m-005",
+          "parentId": "c-2042-000184-b2m-004",
           "timestamp": "2042-09-17T08:32:05+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "223.62"
           },
-          "content": "S급도 법밖에 있는건 아닌데 실제 운용은 또 다를수밖에 없음",
+          "content": "그건 상황이랑 처분 따로 봐야지 숫자 하나로 못박는 글은 걸러",
           "deleted": false
         },
         {
-          "id": "c-2042-000184-b2m-004",
+          "id": "c-2042-000184-front-006",
           "parentId": null,
           "timestamp": "2042-09-17T08:33:42+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "223.52"
+            "ip": "118.47"
           },
-          "content": "거부 처분을 벌금 얼마 징역 몇년으로 한줄에 못박기는 어려움",
+          "content": "임무중이거나 부상중인 사람까지 무지성으로 끌고가진 않겠지",
           "deleted": false
         },
         {
-          "id": "c-2042-000184-b2m-005",
+          "id": "c-2042-000184-front-007",
           "parentId": null,
           "timestamp": "2042-09-17T08:35:52+09:00",
           "author": {
@@ -117803,7 +118426,19 @@
             "name": "ㅇㅇ",
             "ip": "106.248"
           },
-          "content": "부상/임무중 같은 사정은 당연히 개별판단 들어가겠지",
+          "content": "결론 C부터 '대상 가능'이지 C되면 자동소집 아님",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000184-front-008",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:37:14+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "{{con:Intelligence}}",
           "deleted": false
         }
       ],
@@ -117875,29 +118510,53 @@
         {
           "id": "c-2042-000185-b2m-003",
           "parentId": null,
-          "timestamp": "2042-09-17T08:40:46+09:00",
+          "timestamp": "2042-09-17T08:39:06+09:00",
           "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "210.178"
+            "type": "fixed",
+            "name": "계약서읽자",
+            "ip": null
           },
-          "content": "{{con:dororong}}",
+          "content": "횟수 부풀리지마라 면접에서 어디 갔냐 물어보면 바로 꼬임",
           "deleted": false
         },
         {
           "id": "c-2042-000185-b2m-004",
           "parentId": null,
-          "timestamp": "2042-09-17T08:43:18+09:00",
+          "timestamp": "2042-09-17T08:40:46+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.38"
+          },
+          "content": "2회인데 적어도됨?",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000185-b2m-005",
+          "parentId": "c-2042-000185-b2m-004",
+          "timestamp": "2042-09-17T08:42:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.250"
           },
-          "content": "괜히 횟수 부풀렸다가 면접에서 어디 갔냐 물어보면 바로 꼬임",
+          "content": "왜 안됨 역할 제대로 적으면 되지",
           "deleted": false
         },
         {
-          "id": "c-2042-000185-b2m-005",
+          "id": "c-2042-000185-front-006",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:43:18+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.41"
+          },
+          "content": "0회면 교육/보조경력이라도 써라 빈칸보단 나음",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000185-front-007",
           "parentId": null,
           "timestamp": "2042-09-17T08:46:55+09:00",
           "author": {
@@ -117905,7 +118564,7 @@
             "name": "ㅇㅇ",
             "ip": "210.178"
           },
-          "content": "0~2회면 그냥 신입이라고 쓰고 교육/보조경력 같이 적는 사람도 있음",
+          "content": "{{con:dororong}}",
           "deleted": false
         }
       ],
@@ -117957,7 +118616,7 @@
             "name": "ㅇㅇ",
             "ip": "118.41"
           },
-          "content": "최근 영상 없다고 약해졌다고 단정하는것도 이상함",
+          "content": "최근 실전영상이 적어서 상위 몇등 박기는 애매함",
           "deleted": false
         },
         {
@@ -117965,15 +118624,27 @@
           "parentId": null,
           "timestamp": "2042-09-17T08:39:58+09:00",
           "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "61.79"
+            "type": "fixed",
+            "name": "틀헌터",
+            "ip": null
           },
-          "content": "전성기 자료 들고 현재순위 박는건 좀 애매함",
+          "content": "그래도 강무혁인데 S 상위권은 봐야지",
           "deleted": false
         },
         {
           "id": "c-2042-000186-b2m-003",
+          "parentId": "c-2042-000186-b2m-002",
+          "timestamp": "2042-09-17T08:41:06+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "61.79"
+          },
+          "content": "틀헌터 입갤ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000186-b2m-004",
           "parentId": null,
           "timestamp": "2042-09-17T08:43:17+09:00",
           "author": {
@@ -117981,19 +118652,67 @@
             "name": "ㅇㅇ",
             "ip": "210.178"
           },
-          "content": "협회장 된뒤 실전영상 적어진건 맞음",
+          "content": "협회장 된뒤 실전영상 줄어든건 맞잖아",
           "deleted": false
         },
         {
-          "id": "c-2042-000186-b2m-004",
-          "parentId": null,
+          "id": "c-2042-000186-front-005",
+          "parentId": "c-2042-000186-b2m-004",
           "timestamp": "2042-09-17T08:45:52+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "61.79"
+            "ip": "223.62"
           },
-          "content": "첫 S 짬을 무시하긴 어렵지",
+          "content": "영상 없다고 약해졌다고 하는것도 뇌피셜이지",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000186-front-006",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:47:20+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "첫 S 짬이 어디가겠냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000186-front-007",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:49:03+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.101"
+          },
+          "content": "강주아 김채연이랑 붙여보자는 댓글 곧 나온다",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000186-front-008",
+          "parentId": "c-2042-000186-front-007",
+          "timestamp": "2042-09-17T08:50:11+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.202"
+          },
+          "content": "이미 위에 팬심 빼라 써있는데 못참음ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000186-front-009",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:52:44+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.163"
+          },
+          "content": "{{con:real}}",
           "deleted": false
         }
       ],
@@ -118037,7 +118756,80 @@
         "locked": false
       },
       "deletedStatus": null,
-      "comments": [],
+      "comments": [
+        {
+          "id": "c-2042-000187-front-001",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:43:11+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.38"
+          },
+          "content": "방수니까 세탁기도 막겠지 ㄱㄱ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000187-front-002",
+          "parentId": "c-2042-000187-front-001",
+          "timestamp": "2042-09-17T08:44:02+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.47"
+          },
+          "content": "장갑 죽이려고?ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000187-front-003",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:45:34+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "61.79"
+          },
+          "content": "제품 라벨부터 봐라 인간아",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000187-front-004",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:47:09+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "{{con:idk}}",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000187-front-005",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:48:41+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.235"
+          },
+          "content": "돌리고 후기좀",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000187-front-006",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:50:06+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.102"
+          },
+          "content": "{{con:heehee}}",
+          "deleted": false
+        }
+      ],
       "canon": {
         "keywords": [],
         "forbiddenKnowledge": []
@@ -118098,19 +118890,43 @@
             "name": "ㅇㅇ",
             "ip": "211.246"
           },
-          "content": "처음이면 거래소 접수절차 확인하고 가",
+          "content": "팀 정산물건이면 혼자 들고가지마라 분배합의 먼저",
           "deleted": false
         },
         {
           "id": "c-2042-000188-b2m-003",
-          "parentId": "c-2042-000188-b2m-002",
-          "timestamp": "2042-09-17T08:53:34+09:00",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:52:02+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "124.53"
+            "ip": "39.7"
           },
-          "content": "팀 정산물건이면 혼자 들고가면 안되고 분배합의 먼저",
+          "content": "마석 쇼핑백에 넣고 거래소 가는 상상함ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000188-front-004",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:53:34+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "마석눈팅",
+            "ip": null
+          },
+          "content": "처음이면 접수창구에 전화 한통 하고 가는게 제일 편함",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000188-front-005",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:55:03+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "{{con:idk}}",
           "deleted": false
         }
       ],
@@ -118164,19 +118980,55 @@
             "name": "ㅇㅇ",
             "ip": "61.79"
           },
-          "content": "기준상 C급 이상이 대상될수 있다는 얘기 맞음",
+          "content": "바로 아래 똑같은 글 있잖아 ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2042-000189-b2m-002",
           "parentId": null,
-          "timestamp": "2042-09-17T08:54:47+09:00",
+          "timestamp": "2042-09-17T08:53:12+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "175.194"
           },
-          "content": "평소 게이트마다 C부터 부르는건 아니고 국가재난급 전제임",
+          "content": "검색기능 압수",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000189-front-003",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:54:47+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.52"
+          },
+          "content": "C부터 대상될수 있는건 맞는데 국가재난급 전제임",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000189-front-004",
+          "parentId": "c-2042-000189-front-003",
+          "timestamp": "2042-09-17T08:56:01+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.41"
+          },
+          "content": "매번 C부터 끌려가는줄 알았네",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000189-front-005",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:57:22+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "106.101"
+          },
+          "content": "{{con:Intelligence}}",
           "deleted": false
         }
       ],
@@ -118230,43 +119082,79 @@
             "name": "ㅇㅇ",
             "ip": "117.111"
           },
-          "content": "공용가방은 누가 들고 누가 꺼내는지부터 정해",
+          "content": "세번 해봤으면 니가 후기 풀어야지 왜 물어봄ㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2042-000190-b2m-002",
+          "parentId": "c-2042-000190-b2m-001",
+          "timestamp": "2042-09-17T08:54:41+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.41"
+          },
+          "content": "나만 그런가 궁금해서ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000190-b2m-003",
           "parentId": null,
-          "timestamp": "2042-09-17T08:54:59+09:00",
+          "timestamp": "2042-09-17T08:55:12+09:00",
           "author": {
             "type": "fixed",
             "name": "계약서읽자",
             "ip": null
           },
-          "content": "개인비상분까지 공용으로 다묶는건 비추",
+          "content": "공용가방은 누가 들고 누가 꺼내는지부터 정해",
           "deleted": false
         },
         {
-          "id": "c-2042-000190-b2m-003",
-          "parentId": "c-2042-000190-b2m-001",
+          "id": "c-2042-000190-b2m-004",
+          "parentId": null,
           "timestamp": "2042-09-17T08:55:59+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "121.163"
           },
-          "content": "사용량 기록 안하면 후반에 부족해짐",
+          "content": "개인 비상분까지 공용으로 다묶는건 비추",
           "deleted": false
         },
         {
-          "id": "c-2042-000190-b2m-004",
-          "parentId": "c-2042-000190-b2m-001",
+          "id": "c-2042-000190-front-005",
+          "parentId": "c-2042-000190-b2m-004",
+          "timestamp": "2042-09-17T08:56:31+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.38"
+          },
+          "content": "담당자 뻗으면 답없어서 개인분은 따로 있어야됨 ㄹㅇ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000190-front-006",
+          "parentId": null,
           "timestamp": "2042-09-17T08:57:01+09:00",
           "author": {
             "type": "fixed",
             "name": "계약서읽자",
             "ip": null
           },
-          "content": "철수할때 남은수량 한번 세는 습관 들이면 정산편함",
+          "content": "사용량 체크 귀찮아도 해야 후반에 안모자람",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000190-front-007",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:58:10+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "{{con:good}}",
           "deleted": false
         }
       ],
@@ -118318,7 +119206,7 @@
             "name": "ㅇㅇ",
             "ip": "59.10"
           },
-          "content": "등록 안된 팀이 들어간거면 입장절차부터 문제지",
+          "content": "무등록으로 들어갈 깡은 어디서 나오냐ㅋㅋ",
           "deleted": false
         },
         {
@@ -118330,23 +119218,47 @@
             "name": "ㅇㅇ",
             "ip": "118.221"
           },
-          "content": "기사에 나온 적발내용 이상으로 멤버신상 캐는건 하지마라",
+          "content": "보험도 안된거면 진짜 미친건데",
           "deleted": false
         },
         {
           "id": "c-2042-000191-b2m-003",
           "parentId": null,
+          "timestamp": "2042-09-17T08:57:29+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "협회노예",
+            "ip": null
+          },
+          "content": "무등록이랑 부정등록은 다른 케이스임 이건 구분해야됨",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000191-b2m-004",
+          "parentId": null,
           "timestamp": "2042-09-17T08:57:49+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.234"
+          },
+          "content": "공략권은 어디서 난거냐",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000191-front-005",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:58:05+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "118.221"
           },
-          "content": "무등록=부정등록이랑은 다른 케이스임",
+          "content": "기사 나온거 이상으로 멤버 신상캐는건 하지마라",
           "deleted": false
         },
         {
-          "id": "c-2042-000191-b2m-004",
+          "id": "c-2042-000191-front-006",
           "parentId": null,
           "timestamp": "2042-09-17T08:58:18+09:00",
           "author": {
@@ -118354,7 +119266,43 @@
             "name": "ㅇㅇ",
             "ip": "59.10"
           },
-          "content": "보험/공략권까지 정상인지 같이 조사하겠네",
+          "content": "들어가기전에 걸린건지 나오고 걸린건지 그게 궁금함",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000191-front-007",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:58:31+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "협회노예 일거리 추가 ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000191-front-008",
+          "parentId": "c-2042-000191-front-007",
+          "timestamp": "2042-09-17T08:58:44+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "협회노예",
+            "ip": null
+          },
+          "content": "{{con:sad}}",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000191-front-009",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:59:06+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "{{con:arrest}}",
           "deleted": false
         }
       ],
@@ -118408,67 +119356,187 @@
             "name": "ㅇㅇ",
             "ip": "118.41"
           },
-          "content": "별하나 짤 벌써 팬계정 다돌았네ㅋㅋ",
+          "content": "별빛단7기 닉달고 팬아닌데 ㅇㅈㄹㅋㅋ",
           "deleted": false
         },
         {
           "id": "c-2042-000192-b2m-002",
-          "parentId": null,
-          "timestamp": "2042-09-17T08:58:49+09:00",
+          "parentId": "c-2042-000192-b2m-001",
+          "timestamp": "2042-09-17T08:58:48+09:00",
           "author": {
-            "type": "anonymous",
-            "name": "ㅇㅇ",
-            "ip": "106.101"
+            "type": "fixed",
+            "name": "별빛단7기",
+            "ip": null
           },
-          "content": "원본콜 버전도 풀어주면 공부용으로 괜찮을듯",
+          "content": "오늘부터 탈퇴함",
           "deleted": false
         },
         {
           "id": "c-2042-000192-b2m-003",
           "parentId": null,
-          "timestamp": "2042-09-17T08:58:59+09:00",
+          "timestamp": "2042-09-17T08:58:52+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "121.163"
+            "ip": "106.101"
           },
-          "content": "별하나 장면은 짤로 먼저 도는게 국룰ㅋㅋ",
+          "content": "5분대 편집 진짜 미쳤더라",
           "deleted": false
         },
         {
           "id": "c-2042-000192-b2m-004",
           "parentId": null,
-          "timestamp": "2042-09-17T08:59:11+09:00",
+          "timestamp": "2042-09-17T08:58:56+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "118.41"
+            "ip": "121.163"
           },
-          "content": "5분대 편집 진짜 잘했더라",
+          "content": "원본콜 버전도 풀어줘라 공부용으로 보게",
           "deleted": false
         },
         {
           "id": "c-2042-000192-b2m-005",
           "parentId": null,
+          "timestamp": "2042-09-17T08:59:00+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.38"
+          },
+          "content": "별하나 얼굴 잡는 카메라맨 상줘야됨",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-b2m-006",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:59:04+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
+          },
+          "content": "개이쁘네 진짜",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-front-007",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:59:08+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "118.47"
+          },
+          "content": "5분 12초 뭐냐 카메라맨 사심있지",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-front-008",
+          "parentId": "c-2042-000192-front-007",
+          "timestamp": "2042-09-17T08:59:12+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.202"
+          },
+          "content": "{{con:heehee}}",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-front-009",
+          "parentId": "c-2042-000192-front-008",
           "timestamp": "2042-09-17T08:59:16+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
             "ip": "106.101"
           },
-          "content": "편집본에서 이동/대기시간 엄청 잘리는 편임",
+          "content": "잡았다 이새끼",
           "deleted": false
         },
         {
-          "id": "c-2042-000192-b2m-006",
+          "id": "c-2042-000192-front-010",
           "parentId": null,
-          "timestamp": "2042-09-17T08:59:26+09:00",
+          "timestamp": "2042-09-17T08:59:20+09:00",
           "author": {
             "type": "anonymous",
             "name": "ㅇㅇ",
-            "ip": "118.41"
+            "ip": "59.10"
+          },
+          "content": "썸네일 누가 골랐냐 클릭 안할수가없네ㅋㅋ",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-front-011",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:59:24+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "121.140"
+          },
+          "content": "{{con:good}}",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-front-012",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:59:28+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "현장밥차",
+            "ip": null
+          },
+          "content": "편집본만 보고 공략 따라하진 마라 대기랑 콜 많이 잘림",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-front-013",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:59:32+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "223.62"
+          },
+          "content": "팬계정 짤 퍼지는 속도 개웃김 영상보다 먼저봄",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-front-014",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:59:36+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "211.235"
+          },
+          "content": "스텔라 영상팀 월급 올려라",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-front-015",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:59:40+09:00",
+          "author": {
+            "type": "anonymous",
+            "name": "ㅇㅇ",
+            "ip": "39.7"
           },
           "content": "{{con:real}}",
+          "deleted": false
+        },
+        {
+          "id": "c-2042-000192-front-016",
+          "parentId": null,
+          "timestamp": "2042-09-17T08:59:44+09:00",
+          "author": {
+            "type": "fixed",
+            "name": "별빛단7기",
+            "ip": null
+          },
+          "content": "팬아님 아무튼 아님",
           "deleted": false
         }
       ],

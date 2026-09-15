@@ -4,20 +4,20 @@
   "timestamp": "2033-09-16T17:46:00+09:00",
   "year": 2033,
   "era": "SS_ERA",
-  "internalCategory": "시장·구인",
-  "displayCategory": "정보",
+  "internalCategory": "갈드컵·랭킹",
+  "displayCategory": "길드",
   "event": {
     "tag": "LEE_SIYUL_SS",
     "phase": "CONFIRMED",
     "related": true
   },
-  "title": "한성 몸값 미쳤겠네",
+  "title": "한성 폼 미쳤네",
   "author": {
     "type": "fixed",
     "name": "틀헌터",
     "ip": null
   },
-  "content": "스폰서랑 장비업체 전부 줄섰을듯",
+  "content": "창설한지 얼마됐다고 기사 지분 이게 맞냐ㅋㅋ",
   "attachments": [],
   "stats": {
     "views": 57146,
@@ -35,49 +35,97 @@
     {
       "id": "c-2033-000016-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-16T17:52:50+09:00",
+      "timestamp": "2033-09-16T17:52:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.125"
       },
-      "content": "공략권 입찰에서도 한성 이름값 더 세지겠네",
+      "content": "창설 이틀됐는데 기사 지분 뭐냐",
       "deleted": false
     },
     {
       "id": "c-2033-000016-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-16T18:02:52+09:00",
+      "timestamp": "2033-09-16T17:56:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.47"
       },
-      "content": "이시율 하나로 브랜드가치 미친듯",
+      "content": "스폰서 발표만 몇개째임ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2033-000016-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-16T18:08:29+09:00",
+      "timestamp": "2033-09-16T18:00:51+09:00",
       "author": {
         "type": "fixed",
         "name": "짐꾼3년차",
         "ip": null
       },
-      "content": "장비업체/보험사 다 한성에 붙겠네",
+      "content": "장비업체 줄선다는 말 과장인줄 알았는데 진짜네",
       "deleted": false
     },
     {
       "id": "c-2033-000016-b1-004",
-      "parentId": "c-2033-000016-b1-002",
-      "timestamp": "2033-09-16T18:14:30+09:00",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:04:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "39.125"
+        "ip": "211.234"
       },
-      "content": "SS 보유길드 프리미엄이 숫자로 얼마인진 모르겠음",
+      "content": "이시율 하나로 브랜드 완성된게 제일 사기",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000016-manual-005",
+      "parentId": "c-2033-000016-b1-004",
+      "timestamp": "2033-09-16T18:06:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "조직 실적은 이제부터 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000016-manual-006",
+      "parentId": "c-2033-000016-manual-005",
+      "timestamp": "2033-09-16T18:08:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "그건 맞는데 첫날 체급은 이미 미쳤음ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000016-manual-007",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:11:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "백호 네뷸라가 갑자기 구길드 느낌남",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000016-manual-008",
+      "parentId": null,
+      "timestamp": "2033-09-16T18:14:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "한성 폼 미쳤다 진짜",
       "deleted": false
     }
   ],

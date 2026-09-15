@@ -1,7 +1,7 @@
 {
   "id": "hg-2033-000005",
   "displayNo": 1288900,
-  "timestamp": "2033-09-14T10:32:00+09:00",
+  "timestamp": "2033-09-14T12:08:00+09:00",
   "year": 2033,
   "era": "SS_ERA",
   "internalCategory": "질문·뉴비",
@@ -35,49 +35,49 @@
     {
       "id": "c-2033-000005-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-14T10:41:36+09:00",
+      "timestamp": "2033-09-14T12:12:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "220.79"
       },
-      "content": "상성까지 생각하면 숫자놀이 더 의미없음",
+      "content": "아직 몇배 이런건 아무도 모름",
       "deleted": false
     },
     {
       "id": "c-2033-000005-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-14T10:51:39+09:00",
+      "timestamp": "2033-09-14T12:16:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.246"
       },
-      "content": "SS 신설한 이유 자체가 기존 S 상한으로 설명 안돼서잖아",
+      "content": "협회가 기존 S로 분류 못해서 새 등급 판거까지만 오피셜",
       "deleted": false
     },
     {
       "id": "c-2033-000005-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-14T10:56:13+09:00",
+      "timestamp": "2033-09-14T12:20:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "220.79"
       },
-      "content": "S 몇명분으로 환산하는 급은 아닌거같음",
+      "content": "영상만 보면 2배 3배로 재는 느낌은 아닌데",
       "deleted": false
     },
     {
       "id": "c-2033-000005-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-14T11:03:56+09:00",
+      "timestamp": "2033-09-14T12:24:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "117.111"
       },
-      "content": "이시율 영상만 봐도 단순 2배 3배 느낌은 아님",
+      "content": "걍 S 몇명분 계산 멈춰ㅋㅋ",
       "deleted": false
     }
   ],

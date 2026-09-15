@@ -41,11 +41,23 @@
         "name": "ㅇㅇ",
         "ip": "223.52"
       },
-      "content": "C급 이상이 국가재난급에서 대상될수 있다는거지 평소마다 끌려가는거 아님",
+      "content": "C급 이상이 대상될수 있는건 맞는데 국가재난급 같은 비상상황 전제임",
       "deleted": false
     },
     {
       "id": "c-2042-000184-b2m-002",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:27:13+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "협회노예",
+        "ip": null
+      },
+      "content": "평소 게이트마다 C부터 끌고가는 제도 아님ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000184-b2m-003",
       "parentId": null,
       "timestamp": "2042-09-17T08:29:08+09:00",
       "author": {
@@ -53,35 +65,47 @@
         "name": "ㅇㅇ",
         "ip": "223.52"
       },
-      "content": "민간/길드 대응으로 감당 안될때 나오는 비상제도에 가까움",
+      "content": "C급 찍은게 죄냐 ㅅㅂ",
       "deleted": false
     },
     {
-      "id": "c-2042-000184-b2m-003",
+      "id": "c-2042-000184-b2m-004",
       "parentId": null,
+      "timestamp": "2042-09-17T08:30:27+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "거부하면 무조건 징역간다는 댓글은 또 뭐냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000184-b2m-005",
+      "parentId": "c-2042-000184-b2m-004",
       "timestamp": "2042-09-17T08:32:05+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.62"
       },
-      "content": "S급도 법밖에 있는건 아닌데 실제 운용은 또 다를수밖에 없음",
+      "content": "그건 상황이랑 처분 따로 봐야지 숫자 하나로 못박는 글은 걸러",
       "deleted": false
     },
     {
-      "id": "c-2042-000184-b2m-004",
+      "id": "c-2042-000184-front-006",
       "parentId": null,
       "timestamp": "2042-09-17T08:33:42+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "223.52"
+        "ip": "118.47"
       },
-      "content": "거부 처분을 벌금 얼마 징역 몇년으로 한줄에 못박기는 어려움",
+      "content": "임무중이거나 부상중인 사람까지 무지성으로 끌고가진 않겠지",
       "deleted": false
     },
     {
-      "id": "c-2042-000184-b2m-005",
+      "id": "c-2042-000184-front-007",
       "parentId": null,
       "timestamp": "2042-09-17T08:35:52+09:00",
       "author": {
@@ -89,7 +113,19 @@
         "name": "ㅇㅇ",
         "ip": "106.248"
       },
-      "content": "부상/임무중 같은 사정은 당연히 개별판단 들어가겠지",
+      "content": "결론 C부터 '대상 가능'이지 C되면 자동소집 아님",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000184-front-008",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:37:14+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "{{con:Intelligence}}",
       "deleted": false
     }
   ],

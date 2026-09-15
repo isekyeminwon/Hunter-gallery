@@ -1,11 +1,11 @@
 {
   "id": "hg-2033-000007",
   "displayNo": 1295891,
-  "timestamp": "2033-09-14T09:45:00+09:00",
+  "timestamp": "2033-09-14T14:48:00+09:00",
   "year": 2033,
   "era": "SS_ERA",
   "internalCategory": "뻘글·잡담",
-  "displayCategory": "일반",
+  "displayCategory": "길드",
   "event": {
     "tag": "LEE_SIYUL_SS",
     "phase": "CONFIRMED",
@@ -17,7 +17,7 @@
     "name": "ㅇㅇ",
     "ip": "58.29"
   },
-  "content": "SS 하나 들어가니까 브랜드가 하루아침에 바뀌네",
+  "content": "창설 발표 뜨자마자 지원페이지 먹통됨ㅋㅋ",
   "attachments": [],
   "stats": {
     "views": 17213,
@@ -35,61 +35,97 @@
     {
       "id": "c-2033-000007-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-14T09:52:58+09:00",
+      "timestamp": "2033-09-14T14:50:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "61.79"
       },
-      "content": "이시율 영상은 사람 체급으로 안보이는데ㅋㅋ",
+      "content": "지원페이지 열리자마자 502뜸ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2033-000007-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-14T09:59:44+09:00",
+      "timestamp": "2033-09-14T14:53:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "211.234"
       },
-      "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
+      "content": "창설 발표 몇시간됐다고 벌써 이러냐",
       "deleted": false
     },
     {
       "id": "c-2033-000007-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-14T10:05:41+09:00",
+      "timestamp": "2033-09-14T14:56:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "118.41"
       },
-      "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
+      "content": "헌터만 뽑는줄 알았는데 분석 장비 지원직도 열렸더라",
       "deleted": false
     },
     {
       "id": "c-2033-000007-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-14T10:11:37+09:00",
+      "timestamp": "2033-09-14T14:59:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "58.29"
       },
-      "content": "한성 지원서버 터질만하다",
+      "content": "A급 아니어도 실무직은 지원 가능하네",
       "deleted": false
     },
     {
       "id": "c-2033-000007-b1-005",
-      "parentId": "c-2033-000007-b1-004",
-      "timestamp": "2033-09-14T10:21:37+09:00",
+      "parentId": null,
+      "timestamp": "2033-09-14T15:01:25+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "211.234"
+        "ip": "223.62"
       },
-      "content": "이시율 영상은 다른각도도 보고싶다",
+      "content": "서버가 SS를 못버티네",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000007-manual-006",
+      "parentId": "c-2033-000007-b1-005",
+      "timestamp": "2033-09-14T15:02:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.101"
+      },
+      "content": "이시율은 버텨도 nginx는 못버팀ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000007-manual-007",
+      "parentId": null,
+      "timestamp": "2033-09-14T15:05:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "백호 채용팀 오늘 야근하겠네",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000007-manual-008",
+      "parentId": null,
+      "timestamp": "2033-09-14T15:08:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "지원자 절반은 이시율 한번 보려고 넣는거 아니냐ㅋㅋ",
       "deleted": false
     }
   ],

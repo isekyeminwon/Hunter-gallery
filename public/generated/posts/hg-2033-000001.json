@@ -1,7 +1,7 @@
 {
   "id": "hg-2033-000001",
   "displayNo": 1274805,
-  "timestamp": "2033-09-14T15:33:00+09:00",
+  "timestamp": "2033-09-14T11:18:00+09:00",
   "year": 2033,
   "era": "SS_ERA",
   "internalCategory": "사건·속보",
@@ -17,7 +17,7 @@
     "name": "마탑첩자",
     "ip": null
   },
-  "content": "협회 브리핑 예고 떴음\n기존 S 기준으로 분류 안된다는 말 나옴",
+  "content": "협회 긴급 브리핑 예고 떴음\n기존 S 계측 상한을 넘겼다는 말 나오는중",
   "attachments": [],
   "stats": {
     "views": 34042,
@@ -35,61 +35,61 @@
     {
       "id": "c-2033-000001-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-14T15:42:55+09:00",
+      "timestamp": "2033-09-14T11:22:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "110.70"
       },
-      "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
+      "content": "S 상한 넘었다는게 뭔말임 계측기 최대치 찍었다는거?",
       "deleted": false
     },
     {
       "id": "c-2033-000001-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-14T15:48:07+09:00",
+      "timestamp": "2033-09-14T11:26:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.44"
       },
-      "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
+      "content": "측정오류 아니냐 처음엔 그생각부터 듦",
       "deleted": false
     },
     {
       "id": "c-2033-000001-b1-003",
-      "parentId": "c-2033-000001-b1-001",
-      "timestamp": "2033-09-14T15:52:50+09:00",
+      "parentId": "c-2033-000001-b1-002",
+      "timestamp": "2033-09-14T11:30:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "110.70"
       },
-      "content": "이시율 영상은 다른각도도 보고싶다",
+      "content": "협회가 브리핑까지 잡은거보면 오류는 아닌가본데",
       "deleted": false
     },
     {
       "id": "c-2033-000001-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-14T15:56:46+09:00",
+      "timestamp": "2033-09-14T11:34:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.44"
       },
-      "content": "S 위에 등급 새로 만든다는게 제일 미친부분임",
+      "content": "이러다 등급 하나 더 파는거 아니냐ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2033-000001-b1-005",
       "parentId": null,
-      "timestamp": "2033-09-14T16:03:08+09:00",
+      "timestamp": "2033-09-14T11:38:02+09:00",
       "author": {
         "type": "fixed",
         "name": "협회노예",
         "ip": null
       },
-      "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
+      "content": "일단 브리핑 뜰때까지 숫자놀이는 의미없을듯",
       "deleted": false
     }
   ],

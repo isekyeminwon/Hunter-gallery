@@ -59,29 +59,53 @@
     {
       "id": "c-2042-000185-b2m-003",
       "parentId": null,
-      "timestamp": "2042-09-17T08:40:46+09:00",
+      "timestamp": "2042-09-17T08:39:06+09:00",
       "author": {
-        "type": "anonymous",
-        "name": "ㅇㅇ",
-        "ip": "210.178"
+        "type": "fixed",
+        "name": "계약서읽자",
+        "ip": null
       },
-      "content": "{{con:dororong}}",
+      "content": "횟수 부풀리지마라 면접에서 어디 갔냐 물어보면 바로 꼬임",
       "deleted": false
     },
     {
       "id": "c-2042-000185-b2m-004",
       "parentId": null,
-      "timestamp": "2042-09-17T08:43:18+09:00",
+      "timestamp": "2042-09-17T08:40:46+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "2회인데 적어도됨?",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000185-b2m-005",
+      "parentId": "c-2042-000185-b2m-004",
+      "timestamp": "2042-09-17T08:42:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.250"
       },
-      "content": "괜히 횟수 부풀렸다가 면접에서 어디 갔냐 물어보면 바로 꼬임",
+      "content": "왜 안됨 역할 제대로 적으면 되지",
       "deleted": false
     },
     {
-      "id": "c-2042-000185-b2m-005",
+      "id": "c-2042-000185-front-006",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:43:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "0회면 교육/보조경력이라도 써라 빈칸보단 나음",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000185-front-007",
       "parentId": null,
       "timestamp": "2042-09-17T08:46:55+09:00",
       "author": {
@@ -89,7 +113,7 @@
         "name": "ㅇㅇ",
         "ip": "210.178"
       },
-      "content": "0~2회면 그냥 신입이라고 쓰고 교육/보조경력 같이 적는 사람도 있음",
+      "content": "{{con:dororong}}",
       "deleted": false
     }
   ],

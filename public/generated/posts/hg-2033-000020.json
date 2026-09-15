@@ -35,61 +35,61 @@
     {
       "id": "c-2033-000020-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-16T21:00:51+09:00",
+      "timestamp": "2033-09-16T21:00:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "182.214"
       },
-      "content": "이제 강무혁 강주아 김채연 다 끌려오겠네",
+      "content": "끝난거 맞대",
       "deleted": false
     },
     {
       "id": "c-2033-000020-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-16T21:12:00+09:00",
+      "timestamp": "2033-09-16T21:04:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "125.180"
       },
-      "content": "S로도 설명 안돼서 등급을 하나 더 만든게 핵심임",
+      "content": "ㅇㅇ",
       "deleted": false
     },
     {
       "id": "c-2033-000020-b1-003",
-      "parentId": "c-2033-000020-b1-001",
-      "timestamp": "2033-09-16T21:18:59+09:00",
+      "parentId": null,
+      "timestamp": "2033-09-16T21:08:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.52"
       },
-      "content": "이시율 영상은 다른각도도 보고싶다",
+      "content": "예정시간보다 빨리 끝났다는게 더 웃김",
       "deleted": false
     },
     {
       "id": "c-2033-000020-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-16T21:22:56+09:00",
+      "timestamp": "2033-09-16T21:12:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "182.214"
       },
-      "content": "이시율 능력명은 복잡하게 안가서 좋다",
+      "content": "기사 오보아님?",
       "deleted": false
     },
     {
       "id": "c-2033-000020-b1-005",
-      "parentId": null,
-      "timestamp": "2033-09-16T21:29:57+09:00",
+      "parentId": "c-2033-000020-b1-004",
+      "timestamp": "2033-09-16T21:16:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.52"
       },
-      "content": "검 휘두르는 장면부터 체급감각 이상해짐",
+      "content": "협회도 종료 확인 올림",
       "deleted": false
     }
   ],

@@ -258,7 +258,7 @@
     "year": 2035,
     "internalCategory": "사건·속보",
     "displayCategory": "사건",
-    "title": "방송길드 관련 추가 브리핑 나옴",
+    "title": "스텔라 콘텐츠 관련 추가 브리핑 나옴",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -286,7 +286,7 @@
     "year": 2035,
     "internalCategory": "사건·속보",
     "displayCategory": "사건",
-    "title": "[후기] 콘텐츠 공식 발표 떴다",
+    "title": "스텔라 콘텐츠 운영 공식 발표 떴다",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -314,7 +314,7 @@
     "year": 2035,
     "internalCategory": "질문·뉴비",
     "displayCategory": "질문",
-    "title": "[정보] 콘텐츠 기사마다 말 다른데 뭐가 맞음",
+    "title": "스텔라가 다른 대형길드랑 뭐가 다름?",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -846,7 +846,7 @@
     "year": 2035,
     "internalCategory": "공략·실무",
     "displayCategory": "공략",
-    "title": "[후기] 측정결과 영상 보고 따라하면 안되는 부분",
+    "title": "[정보] 공략영상만 보고 따라하면 안되는 이유",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -986,7 +986,7 @@
     "year": 2035,
     "internalCategory": "사건·속보",
     "displayCategory": "사건",
-    "title": "[정리] 각성발표 새 기사 올라옴",
+    "title": "[정리] 별하나 S급 관련 확인된 것만 모음",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -1512,34 +1512,6 @@
     "popularityScore": 39
   },
   {
-    "id": "hg-2035-000010",
-    "displayNo": 1727169,
-    "timestamp": "2035-07-12T14:34:44+09:00",
-    "year": 2035,
-    "internalCategory": "팬덤·방송",
-    "displayCategory": "방송",
-    "title": "[정보] 스텔라 오늘 방송 댓글창 터지겠네",
-    "author": {
-      "type": "fixed",
-      "name": "마탑첩자",
-      "ip": null
-    },
-    "stats": {
-      "views": 20002,
-      "recommend": 943
-    },
-    "flags": {
-      "notice": false,
-      "concept": false,
-      "classic": false,
-      "deleted": false,
-      "locked": false
-    },
-    "deletedStatus": null,
-    "commentCount": 5,
-    "popularityScore": 1891
-  },
-  {
     "id": "hg-2035-000008",
     "displayNo": 1717994,
     "timestamp": "2035-07-12T14:25:30+09:00",
@@ -1594,6 +1566,34 @@
     "deletedStatus": null,
     "commentCount": 6,
     "popularityScore": 24
+  },
+  {
+    "id": "hg-2035-000010",
+    "displayNo": 1727169,
+    "timestamp": "2035-07-12T14:18:00+09:00",
+    "year": 2035,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "별하나 스텔라 공식 떴네",
+    "author": {
+      "type": "fixed",
+      "name": "마탑첩자",
+      "ip": null
+    },
+    "stats": {
+      "views": 20002,
+      "recommend": 943
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 16,
+    "popularityScore": 1902
   },
   {
     "id": "hg-2035-000005",

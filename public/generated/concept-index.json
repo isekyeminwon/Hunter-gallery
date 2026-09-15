@@ -2134,7 +2134,7 @@
     "year": 2035,
     "internalCategory": "사건·속보",
     "displayCategory": "사건",
-    "title": "방송길드 관련 추가 브리핑 나옴",
+    "title": "스텔라 콘텐츠 관련 추가 브리핑 나옴",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -2162,7 +2162,7 @@
     "year": 2035,
     "internalCategory": "사건·속보",
     "displayCategory": "사건",
-    "title": "[후기] 콘텐츠 공식 발표 떴다",
+    "title": "스텔라 콘텐츠 운영 공식 발표 떴다",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -2218,7 +2218,7 @@
     "year": 2035,
     "internalCategory": "공략·실무",
     "displayCategory": "공략",
-    "title": "[후기] 측정결과 영상 보고 따라하면 안되는 부분",
+    "title": "[정보] 공략영상만 보고 따라하면 안되는 이유",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -2246,7 +2246,7 @@
     "year": 2035,
     "internalCategory": "사건·속보",
     "displayCategory": "사건",
-    "title": "[정리] 각성발표 새 기사 올라옴",
+    "title": "[정리] 별하나 S급 관련 확인된 것만 모음",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -2774,11 +2774,11 @@
   {
     "id": "hg-2033-000002",
     "displayNo": 1279120,
-    "timestamp": "2033-09-14T12:49:00+09:00",
+    "timestamp": "2033-09-14T13:52:00+09:00",
     "year": 2033,
-    "internalCategory": "사건·속보",
-    "displayCategory": "사건",
-    "title": "SS급 신설 실화냐",
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "길드",
+    "title": "이시율 길드 만든거 실화냐",
     "author": {
       "type": "fixed",
       "name": "짐꾼3년차",
@@ -2798,6 +2798,34 @@
     "deletedStatus": null,
     "commentCount": 26,
     "popularityScore": 2940
+  },
+  {
+    "id": "hg-2033-000006",
+    "displayNo": 1293987,
+    "timestamp": "2033-09-14T12:55:00+09:00",
+    "year": 2033,
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "이시율 길드 만드는거 아님?",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.38"
+    },
+    "stats": {
+      "views": 578634,
+      "recommend": 1899
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 24,
+    "popularityScore": 3822
   },
   {
     "id": "hg-2033-000003",
@@ -2826,34 +2854,6 @@
     "deletedStatus": null,
     "commentCount": 34,
     "popularityScore": 2968
-  },
-  {
-    "id": "hg-2033-000006",
-    "displayNo": 1293987,
-    "timestamp": "2033-09-14T08:10:00+09:00",
-    "year": 2033,
-    "internalCategory": "사건·속보",
-    "displayCategory": "사건",
-    "title": "이시율 한성 간다네",
-    "author": {
-      "type": "anonymous",
-      "name": "ㅇㅇ",
-      "ip": "223.38"
-    },
-    "stats": {
-      "views": 578634,
-      "recommend": 1899
-    },
-    "flags": {
-      "notice": false,
-      "concept": true,
-      "classic": true,
-      "deleted": false,
-      "locked": false
-    },
-    "deletedStatus": null,
-    "commentCount": 24,
-    "popularityScore": 3822
   },
   {
     "id": "hg-2032-000029",

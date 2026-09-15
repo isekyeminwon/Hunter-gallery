@@ -11,13 +11,13 @@
     "phase": "BREAKING",
     "related": true
   },
-  "title": "[후기] 콘텐츠 공식 발표 떴다",
+  "title": "스텔라 콘텐츠 운영 공식 발표 떴다",
   "author": {
     "type": "anonymous",
     "name": "ㅇㅇ",
     "ip": "211.201"
   },
-  "content": "스텔라가 다른 대형길드랑 뭐가 다르냐 묻는 글 많아서 체감만 적음.\n\n한성 = 실적/최상위 전력 이미지\n네뷸라 = 마법계 엘리트, 연구/교육 이미지\n백호 = 조직/장비/복지, 기업형 이미지\n\n스텔라는 좀 다름.\n방송, 광고, 영상, 팬덤을 길드 운영이랑 처음부터 같이 엮는 느낌이 강함.\n별하나가 중심에 있는 건 맞는데 소속 헌터들 촬영이나 브랜드 관리도 적극적인 편이고.\n\n그래서 업계 사람들은 공략실적으로 싸우고\n일반인들은 체감 인지도가 훨씬 높게 느껴지는 듯.\n\n장점은 홍보, 스폰, 대중성.\n단점은 뭘 해도 팬덤싸움으로 번짐ㅋㅋ\n\n공략글에서 별하나 얘기로 댓글 백개 달리는거 보면 이해됨.",
+  "content": "스텔라 공식계정 공지 올라옴.\n\n- 길드 공식채널에서 공략/훈련 영상 정기 공개\n- 촬영 참여 여부는 소속 헌터별로 선택 가능\n- 실시간 위치나 미공개 공략정보는 공개 안함\n- 광고/방송 참여 조건은 별도 계약\n\n진짜 헌터길드에 엔터 시스템을 통째로 붙이네ㅋㅋ",
   "attachments": [],
   "stats": {
     "views": 151329,
@@ -35,97 +35,97 @@
     {
       "id": "c-2035-000046-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T23:36:59+09:00",
+      "timestamp": "2035-07-15T23:36:18+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "125.180"
       },
-      "content": "새 내용 있으면 출처 같이 올려줘",
+      "content": "공략영상 정기적으로 올린다는거 개좋네",
       "deleted": false
     },
     {
       "id": "c-2035-000046-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-15T23:45:49+09:00",
+      "timestamp": "2035-07-15T23:40:31+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "121.140"
       },
-      "content": "광고 붙는 속도 보면 미디어팀이 진짜 빠름",
+      "content": "촬영 참여 선택이면 방송 싫은 헌터도 들어갈수 있겠네",
       "deleted": false
     },
     {
       "id": "c-2035-000046-b1-003",
-      "parentId": "c-2035-000046-b1-001",
-      "timestamp": "2035-07-15T23:53:05+09:00",
+      "parentId": null,
+      "timestamp": "2035-07-15T23:44:44+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "210.178"
       },
-      "content": "그말은 이해됨",
+      "content": "현장정보는 바로 안푸는게 당연하지",
       "deleted": false
     },
     {
       "id": "c-2035-000046-b1-004",
-      "parentId": "c-2035-000046-b1-001",
-      "timestamp": "2035-07-16T00:00:14+09:00",
+      "parentId": null,
+      "timestamp": "2035-07-15T23:48:57+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "125.180"
       },
-      "content": "방송 싫어하는 헌터는 여기 호불호 크겠다",
+      "content": "미디어팀 진짜 따로 굴리는구나",
       "deleted": false
     },
     {
       "id": "c-2035-000046-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-16T00:04:10+09:00",
+      "timestamp": "2035-07-15T23:52:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "125.180"
       },
-      "content": "지금 확인된거랑 커뮤썰 섞여서 도는게 제일 문제임",
+      "content": "광고수익 배분은 세부계약이라는데 그건 공개 안하겠지",
       "deleted": false
     },
     {
       "id": "c-2035-000046-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-16T00:11:21+09:00",
+      "timestamp": "2035-07-15T23:56:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.102"
       },
-      "content": "{{con:idk}}",
+      "content": "{{con:good}}",
       "deleted": false
     },
     {
       "id": "c-2035-000046-b1-007",
       "parentId": null,
-      "timestamp": "2035-07-16T00:22:07+09:00",
+      "timestamp": "2035-07-16T00:00:46+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "210.178"
       },
-      "content": "영상 프레임만 보고 실전공략 따라하면 안되는건 맞음",
+      "content": "팬덤은 좋아죽겠네ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2035-000046-b1-008",
       "parentId": null,
-      "timestamp": "2035-07-16T00:28:50+09:00",
+      "timestamp": "2035-07-16T00:04:59+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "125.180"
       },
-      "content": "기사마다 제목은 다른데 본문 겹치는 부분만 보면 될듯",
+      "content": "공략보다 편집영상 기다리는 사람도 생기겠다",
       "deleted": false
     }
   ],

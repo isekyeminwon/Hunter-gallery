@@ -17,7 +17,7 @@
     "name": "ㅇㅇ",
     "ip": "211.234"
   },
-  "content": "이거 관련해서 방금 본거 가져옴.\n기사마다 표현이 달라서 확인된 것만 보는게 맞을듯.",
+  "content": "스텔라 영상 뜬 뒤로\n거기 나온 장비들 가격 바로 오른거 맞음?\n\n검색량만 오른건지 실제 거래가도 뛴건지 궁금함",
   "attachments": [],
   "stats": {
     "views": 34772,
@@ -35,31 +35,31 @@
     {
       "id": "c-2035-000050-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T19:15:45+09:00",
+      "timestamp": "2035-07-15T19:08:07+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "기사마다 말 다르면 공통으로 겹치는 부분부터 봐야지",
+      "content": "그 장비 원래부터 비쌌음ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2035-000050-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-15T19:20:21+09:00",
+      "timestamp": "2035-07-15T19:12:20+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.125"
       },
-      "content": "실제 거래가 오른건지 판매자가 가격만 올린건지 봐야됨",
+      "content": "존나 비싸긴함",
       "deleted": false
     },
     {
       "id": "c-2035-000050-b1-003",
       "parentId": null,
-      "timestamp": "2035-07-15T19:28:11+09:00",
+      "timestamp": "2035-07-15T19:16:33+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
@@ -71,61 +71,61 @@
     {
       "id": "c-2035-000050-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-15T19:36:04+09:00",
+      "timestamp": "2035-07-15T19:20:46+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "며칠 지나면 다시 내려갈수도 있음",
+      "content": "영상 뜬날 판매자들이 제목에 스텔라 붙인거 개웃김",
       "deleted": false
     },
     {
       "id": "c-2035-000050-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-15T19:42:52+09:00",
+      "timestamp": "2035-07-15T19:24:09+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "210.178"
       },
-      "content": "{{con:dororong}}",
+      "content": "검색량 오른거랑 실제 거래가 오른건 따로 봐야됨",
       "deleted": false
     },
     {
       "id": "c-2035-000050-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-15T19:51:32+09:00",
+      "timestamp": "2035-07-15T19:28:22+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "14.32"
       },
-      "content": "스텔라 영상에 나온 장비부터 검색량 튄듯",
+      "content": "스텔라 영상에 나온 장비부터 검색량 튄건 맞는듯",
       "deleted": false
     },
     {
       "id": "c-2035-000050-b1-007",
       "parentId": null,
-      "timestamp": "2035-07-15T20:01:33+09:00",
+      "timestamp": "2035-07-15T19:32:35+09:00",
       "author": {
         "type": "fixed",
         "name": "계약서읽자",
         "ip": null
       },
-      "content": "이슈장비 따라사는건 진짜 조심",
+      "content": "팬심으로 따라살 가격은 아닌데 사는놈은 사더라",
       "deleted": false
     },
     {
       "id": "c-2035-000050-b1-008",
-      "parentId": "c-2035-000050-b1-006",
-      "timestamp": "2035-07-15T20:06:43+09:00",
+      "parentId": null,
+      "timestamp": "2035-07-15T19:36:48+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "210.178"
       },
-      "content": "그건 실제 계약서/공지 봐야됨",
+      "content": "며칠 지나면 가격 다시 내려오는지 봐야지",
       "deleted": false
     }
   ],

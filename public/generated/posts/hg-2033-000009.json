@@ -4,20 +4,20 @@
   "timestamp": "2033-09-14T13:33:00+09:00",
   "year": 2033,
   "era": "SS_ERA",
-  "internalCategory": "질문·뉴비",
-  "displayCategory": "질문",
+  "internalCategory": "사건·속보",
+  "displayCategory": "길드",
   "event": {
     "tag": "LEE_SIYUL_SS",
     "phase": "CONFIRMED",
     "related": true
   },
-  "title": "SS 하나면 S 몇명분임?",
+  "title": "이시율 한성 길드 창설 공식 떴다",
   "author": {
     "type": "anonymous",
     "name": "ㅇㅇ",
     "ip": "14.32"
   },
-  "content": "수치로 환산하는게 가능한지도 모르겠음",
+  "content": "공식 기사 떴음\n이시율이 직접 길드 만든다고 함\n이름은 한성",
   "attachments": [],
   "stats": {
     "views": 205282,
@@ -35,49 +35,193 @@
     {
       "id": "c-2033-000009-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-14T13:41:22+09:00",
+      "timestamp": "2033-09-14T13:35:17+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "118.47"
       },
-      "content": "SS 신설한 이유 자체가 기존 S 상한으로 설명 안돼서잖아",
+      "content": "진짜 지가 만들었네ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2033-000009-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-14T13:46:22+09:00",
+      "timestamp": "2033-09-14T13:37:34+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.47"
+        "ip": "211.234"
       },
-      "content": "이시율 영상만 봐도 단순 2배 3배 느낌은 아님",
+      "content": "아까 길드 만들거라던 글 성지됐네",
       "deleted": false
     },
     {
       "id": "c-2033-000009-b1-003",
-      "parentId": null,
-      "timestamp": "2033-09-14T13:52:15+09:00",
+      "parentId": "c-2033-000009-b1-002",
+      "timestamp": "2033-09-14T13:38:51+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "118.41"
+        "ip": "39.7"
       },
-      "content": "S 몇명분으로 환산하는 급은 아닌거같음",
+      "content": "글쓴새끼 개같이 개념감ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2033-000009-b1-004",
       "parentId": null,
-      "timestamp": "2033-09-14T13:59:51+09:00",
+      "timestamp": "2033-09-14T13:40:08+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "106.101"
       },
-      "content": "상성까지 생각하면 숫자놀이 더 의미없음",
+      "content": "한성 이름은 생각보다 정직하네",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-005",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:42:25+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.38"
+      },
+      "content": "백호 네뷸라 영입설 기사들 하루만에 폐지됨ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-006",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:45:42+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.140"
+      },
+      "content": "길드장이 이시율이면 지원자 감당되냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-007",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:48:59+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "창설부터 SS 보유길드 ㅅㅂ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-008",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:51:16+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "175.223"
+      },
+      "content": "이게 스타트업이냐 국가프로젝트냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-009",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:54:33+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "틀헌터",
+        "ip": null
+      },
+      "content": "이시율 혼자 센거랑 조직이 센건 별개라 첫 반년은 운영 봐야지",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-010",
+      "parentId": "c-2033-000009-manual-009",
+      "timestamp": "2033-09-14T13:56:50+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "59.10"
+      },
+      "content": "그 별개를 존나 작게 만드는게 SS 한명 아니냐ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-011",
+      "parentId": null,
+      "timestamp": "2033-09-14T13:59:07+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.41"
+      },
+      "content": "A급들 어디서 데려오나가 더 궁금함",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-012",
+      "parentId": "c-2033-000009-manual-011",
+      "timestamp": "2033-09-14T14:01:24+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.235"
+      },
+      "content": "이시율 보고 오는애들만 해도 줄설듯",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-013",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:04:41+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "장비업체 스폰서 전화 불나겠다",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-014",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:08:58+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "106.102"
+      },
+      "content": "한성 첫 공략 언제냐",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-015",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:12:15+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "121.163"
+      },
+      "content": "로고는 아직 안뜬거 맞지?",
+      "deleted": false
+    },
+    {
+      "id": "c-2033-000009-manual-016",
+      "parentId": null,
+      "timestamp": "2033-09-14T14:17:32+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.201"
+      },
+      "content": "이제 진짜 길드판 갈아엎어지겠네",
       "deleted": false
     }
   ],

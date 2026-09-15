@@ -35,61 +35,61 @@
     {
       "id": "c-2033-000004-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-14T14:54:47+09:00",
+      "timestamp": "2033-09-14T14:50:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.214"
       },
-      "content": "국내 S 셋이랑 비교하는 글은 당분간 끝도없겠네",
+      "content": "존나 세다",
       "deleted": false
     },
     {
       "id": "c-2033-000004-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-14T15:05:59+09:00",
+      "timestamp": "2033-09-14T14:54:13+09:00",
       "author": {
         "type": "fixed",
         "name": "틀헌터",
         "ip": null
       },
-      "content": "SS 하나면 S 몇명분 이런 계산 자체가 의미없어보임",
+      "content": "근데 개이쁜데?",
       "deleted": false
     },
     {
       "id": "c-2033-000004-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-14T15:14:17+09:00",
+      "timestamp": "2033-09-14T14:58:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "59.5"
       },
-      "content": "한성 지원서버 터질만하다",
+      "content": "내 여친임 ㅇㅇ",
       "deleted": false
     },
     {
       "id": "c-2033-000004-b1-004",
-      "parentId": "c-2033-000004-b1-002",
-      "timestamp": "2033-09-14T15:25:19+09:00",
+      "parentId": "c-2033-000004-b1-003",
+      "timestamp": "2033-09-14T15:02:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "61.79"
       },
-      "content": "SS 신설 자체가 답인듯",
+      "content": "약먹을 시간이다",
       "deleted": false
     },
     {
       "id": "c-2033-000004-b1-005",
       "parentId": null,
-      "timestamp": "2033-09-14T15:34:44+09:00",
+      "timestamp": "2033-09-14T15:06:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.214"
       },
-      "content": "검신이라는 능력명 너무 직관적이라 오히려 좋음",
+      "content": "카메라가 못따라가는게 제일 어이없음ㅋㅋ",
       "deleted": false
     }
   ],

@@ -11,7 +11,7 @@
     "phase": "BREAKING",
     "related": true
   },
-  "title": "[정보] 콘텐츠 기사마다 말 다른데 뭐가 맞음",
+  "title": "스텔라가 다른 대형길드랑 뭐가 다름?",
   "author": {
     "type": "anonymous",
     "name": "ㅇㅇ",
@@ -35,67 +35,67 @@
     {
       "id": "c-2035-000041-b1-001",
       "parentId": null,
-      "timestamp": "2035-07-15T21:21:44+09:00",
+      "timestamp": "2035-07-15T21:16:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.125"
       },
-      "content": "광고 붙는 속도 보면 미디어팀이 진짜 빠름",
+      "content": "한성은 전투력 네뷸라는 마법계 백호는 조직 스텔라는 미디어 이런 느낌",
       "deleted": false
     },
     {
       "id": "c-2035-000041-b1-002",
       "parentId": null,
-      "timestamp": "2035-07-15T21:28:58+09:00",
+      "timestamp": "2035-07-15T21:20:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "124.53"
       },
-      "content": "기사마다 제목은 다른데 본문 겹치는 부분만 보면 될듯",
+      "content": "스텔라는 공략보다 일반인한테 얼굴 알리는 속도가 압도적임",
       "deleted": false
     },
     {
       "id": "c-2035-000041-b1-003",
-      "parentId": "c-2035-000041-b1-002",
-      "timestamp": "2035-07-15T21:35:15+09:00",
+      "parentId": null,
+      "timestamp": "2035-07-15T21:24:39+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.52"
       },
-      "content": "나는 반대",
+      "content": "방송 싫어하는 헌터는 오히려 안맞을듯",
       "deleted": false
     },
     {
       "id": "c-2035-000041-b1-004",
       "parentId": null,
-      "timestamp": "2035-07-15T21:39:21+09:00",
+      "timestamp": "2035-07-15T21:28:52+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.125"
       },
-      "content": "새 내용 있으면 출처 같이 올려줘",
+      "content": "광고 붙는 속도는 진짜 다른길드랑 결이 다름ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2035-000041-b1-005",
       "parentId": null,
-      "timestamp": "2035-07-15T21:49:35+09:00",
+      "timestamp": "2035-07-15T21:32:15+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "39.7"
       },
-      "content": "스텔라는 전투영상도 콘텐츠처럼 뽑는게 확실히 다름",
+      "content": "전투영상도 그냥 기록이 아니라 콘텐츠처럼 뽑는게 큼",
       "deleted": false
     },
     {
       "id": "c-2035-000041-b1-006",
       "parentId": null,
-      "timestamp": "2035-07-15T21:57:48+09:00",
+      "timestamp": "2035-07-15T21:36:28+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",

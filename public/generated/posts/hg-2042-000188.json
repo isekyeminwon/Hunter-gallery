@@ -53,19 +53,43 @@
         "name": "ㅇㅇ",
         "ip": "211.246"
       },
-      "content": "처음이면 거래소 접수절차 확인하고 가",
+      "content": "팀 정산물건이면 혼자 들고가지마라 분배합의 먼저",
       "deleted": false
     },
     {
       "id": "c-2042-000188-b2m-003",
-      "parentId": "c-2042-000188-b2m-002",
-      "timestamp": "2042-09-17T08:53:34+09:00",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:52:02+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
-        "ip": "124.53"
+        "ip": "39.7"
       },
-      "content": "팀 정산물건이면 혼자 들고가면 안되고 분배합의 먼저",
+      "content": "마석 쇼핑백에 넣고 거래소 가는 상상함ㅋㅋ",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000188-front-004",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:53:34+09:00",
+      "author": {
+        "type": "fixed",
+        "name": "마석눈팅",
+        "ip": null
+      },
+      "content": "처음이면 접수창구에 전화 한통 하고 가는게 제일 편함",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000188-front-005",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:55:03+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "{{con:idk}}",
       "deleted": false
     }
   ],

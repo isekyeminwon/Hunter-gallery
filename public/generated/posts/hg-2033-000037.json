@@ -35,37 +35,37 @@
     {
       "id": "c-2033-000037-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-18T20:31:20+09:00",
+      "timestamp": "2033-09-18T20:26:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "117.111"
       },
-      "content": "이걸 숫자 하나로 정리하려는게 제일 웃김",
+      "content": "어제까지 김채연 강주아로 천플 싸우던놈들 다 어디감ㅋㅋ",
       "deleted": false
     },
     {
       "id": "c-2033-000037-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-18T20:40:36+09:00",
+      "timestamp": "2033-09-18T20:30:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.62"
       },
-      "content": "SS랑 S를 단순 배수로 묶기 어려워보임",
+      "content": "SS 한방에 떡밥 싹 초기화됨",
       "deleted": false
     },
     {
       "id": "c-2033-000037-b1-003",
-      "parentId": "c-2033-000037-b1-002",
-      "timestamp": "2033-09-18T20:45:15+09:00",
+      "parentId": null,
+      "timestamp": "2033-09-18T20:34:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "117.111"
       },
-      "content": "SS 신설 자체가 답인듯",
+      "content": "걔네 팬덤도 지금은 이시율 영상 보고있을듯",
       "deleted": false
     }
   ],

@@ -35,37 +35,37 @@
     {
       "id": "c-2033-000031-b1-001",
       "parentId": null,
-      "timestamp": "2033-09-20T12:41:05+09:00",
+      "timestamp": "2033-09-20T12:40:00+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.52"
       },
-      "content": "새장비라고 현장에서 바로 편한건 아니더라",
+      "content": "기존 센서 상한부터 다시 잡아야겠네",
       "deleted": false
     },
     {
       "id": "c-2033-000031-b1-002",
       "parentId": null,
-      "timestamp": "2033-09-20T12:50:42+09:00",
+      "timestamp": "2033-09-20T12:44:13+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "175.214"
       },
-      "content": "누가 지었는지 몰라도 검신은 잘붙였음",
+      "content": "새 규격 나오면 구형 장비는 재교정해서 쓰는건가",
       "deleted": false
     },
     {
       "id": "c-2033-000031-b1-003",
       "parentId": null,
-      "timestamp": "2033-09-20T12:59:12+09:00",
+      "timestamp": "2033-09-20T12:48:26+09:00",
       "author": {
         "type": "anonymous",
         "name": "ㅇㅇ",
         "ip": "223.52"
       },
-      "content": "S 상한을 넘었다는 말이 아직도 감이 안옴",
+      "content": "현장측정팀 교육도 다시해야될듯",
       "deleted": false
     }
   ],

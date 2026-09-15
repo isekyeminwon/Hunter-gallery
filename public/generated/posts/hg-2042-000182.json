@@ -31,7 +31,56 @@
     "locked": false
   },
   "deletedStatus": null,
-  "comments": [],
+  "comments": [
+    {
+      "id": "c-2042-000182-front-001",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:09:18+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "118.44"
+      },
+      "content": "다음달: 또 다음달",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000182-front-002",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:10:02+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "223.62"
+      },
+      "content": "일단 오늘 치킨먹고 생각하자",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000182-front-003",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:12:11+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "39.7"
+      },
+      "content": "{{con:dororong}}",
+      "deleted": false
+    },
+    {
+      "id": "c-2042-000182-front-004",
+      "parentId": null,
+      "timestamp": "2042-09-17T08:14:36+09:00",
+      "author": {
+        "type": "anonymous",
+        "name": "ㅇㅇ",
+        "ip": "211.202"
+      },
+      "content": "다이어트보다 퇴근이 먼저다 ㄹㅇ",
+      "deleted": false
+    }
+  ],
   "canon": {
     "keywords": [],
     "forbiddenKnowledge": []

@@ -24,8 +24,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 6,
-    "popularityScore": 166
+    "commentCount": 16,
+    "popularityScore": 176
   },
   {
     "id": "hg-2042-000191",
@@ -52,8 +52,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 4,
-    "popularityScore": 102
+    "commentCount": 9,
+    "popularityScore": 107
   },
   {
     "id": "hg-2042-000190",
@@ -80,8 +80,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 4,
-    "popularityScore": 34
+    "commentCount": 7,
+    "popularityScore": 37
   },
   {
     "id": "hg-2042-000189",
@@ -108,8 +108,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 2,
-    "popularityScore": 30
+    "commentCount": 5,
+    "popularityScore": 33
   },
   {
     "id": "hg-2042-000188",
@@ -136,8 +136,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 3,
-    "popularityScore": 3
+    "commentCount": 5,
+    "popularityScore": 5
   },
   {
     "id": "hg-2042-000187",
@@ -164,8 +164,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 0,
-    "popularityScore": 148
+    "commentCount": 6,
+    "popularityScore": 154
   },
   {
     "id": "hg-2042-000186",
@@ -192,8 +192,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 4,
-    "popularityScore": 48
+    "commentCount": 9,
+    "popularityScore": 53
   },
   {
     "id": "hg-2042-000185",
@@ -220,8 +220,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 5,
-    "popularityScore": 55
+    "commentCount": 7,
+    "popularityScore": 57
   },
   {
     "id": "hg-2042-000184",
@@ -248,8 +248,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 5,
-    "popularityScore": 151
+    "commentCount": 8,
+    "popularityScore": 154
   },
   {
     "id": "hg-2042-000183",
@@ -276,8 +276,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 1,
-    "popularityScore": 19
+    "commentCount": 4,
+    "popularityScore": 22
   },
   {
     "id": "hg-2042-000182",
@@ -304,8 +304,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 0,
-    "popularityScore": 2
+    "commentCount": 4,
+    "popularityScore": 6
   },
   {
     "id": "hg-2042-000181",
@@ -332,8 +332,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 4,
-    "popularityScore": 12
+    "commentCount": 8,
+    "popularityScore": 16
   },
   {
     "id": "hg-2042-000180",
@@ -19578,7 +19578,7 @@
     "year": 2035,
     "internalCategory": "사건·속보",
     "displayCategory": "사건",
-    "title": "방송길드 관련 추가 브리핑 나옴",
+    "title": "스텔라 콘텐츠 관련 추가 브리핑 나옴",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -19606,7 +19606,7 @@
     "year": 2035,
     "internalCategory": "사건·속보",
     "displayCategory": "사건",
-    "title": "[후기] 콘텐츠 공식 발표 떴다",
+    "title": "스텔라 콘텐츠 운영 공식 발표 떴다",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -19634,7 +19634,7 @@
     "year": 2035,
     "internalCategory": "질문·뉴비",
     "displayCategory": "질문",
-    "title": "[정보] 콘텐츠 기사마다 말 다른데 뭐가 맞음",
+    "title": "스텔라가 다른 대형길드랑 뭐가 다름?",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -20166,7 +20166,7 @@
     "year": 2035,
     "internalCategory": "공략·실무",
     "displayCategory": "공략",
-    "title": "[후기] 측정결과 영상 보고 따라하면 안되는 부분",
+    "title": "[정보] 공략영상만 보고 따라하면 안되는 이유",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -20306,7 +20306,7 @@
     "year": 2035,
     "internalCategory": "사건·속보",
     "displayCategory": "사건",
-    "title": "[정리] 각성발표 새 기사 올라옴",
+    "title": "[정리] 별하나 S급 관련 확인된 것만 모음",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -20832,34 +20832,6 @@
     "popularityScore": 39
   },
   {
-    "id": "hg-2035-000010",
-    "displayNo": 1727169,
-    "timestamp": "2035-07-12T14:34:44+09:00",
-    "year": 2035,
-    "internalCategory": "팬덤·방송",
-    "displayCategory": "방송",
-    "title": "[정보] 스텔라 오늘 방송 댓글창 터지겠네",
-    "author": {
-      "type": "fixed",
-      "name": "마탑첩자",
-      "ip": null
-    },
-    "stats": {
-      "views": 20002,
-      "recommend": 943
-    },
-    "flags": {
-      "notice": false,
-      "concept": false,
-      "classic": false,
-      "deleted": false,
-      "locked": false
-    },
-    "deletedStatus": null,
-    "commentCount": 5,
-    "popularityScore": 1891
-  },
-  {
     "id": "hg-2035-000008",
     "displayNo": 1717994,
     "timestamp": "2035-07-12T14:25:30+09:00",
@@ -20914,6 +20886,34 @@
     "deletedStatus": null,
     "commentCount": 6,
     "popularityScore": 24
+  },
+  {
+    "id": "hg-2035-000010",
+    "displayNo": 1727169,
+    "timestamp": "2035-07-12T14:18:00+09:00",
+    "year": 2035,
+    "internalCategory": "팬덤·방송",
+    "displayCategory": "방송",
+    "title": "별하나 스텔라 공식 떴네",
+    "author": {
+      "type": "fixed",
+      "name": "마탑첩자",
+      "ip": null
+    },
+    "stats": {
+      "views": 20002,
+      "recommend": 943
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 16,
+    "popularityScore": 1902
   },
   {
     "id": "hg-2035-000005",
@@ -22994,7 +22994,7 @@
     "year": 2033,
     "internalCategory": "시장·구인",
     "displayCategory": "정보",
-    "title": "이시율 계약금 숫자 돌아다니는거 믿지마라",
+    "title": "한성 스폰서 계약금 숫자 돌아다니는거 믿지마라",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -23544,8 +23544,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 5,
-    "popularityScore": 1155
+    "commentCount": 6,
+    "popularityScore": 1156
   },
   {
     "id": "hg-2033-000026",
@@ -23692,9 +23692,9 @@
     "displayNo": 1324212,
     "timestamp": "2033-09-16T17:46:00+09:00",
     "year": 2033,
-    "internalCategory": "시장·구인",
-    "displayCategory": "정보",
-    "title": "한성 몸값 미쳤겠네",
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "한성 폼 미쳤네",
     "author": {
       "type": "fixed",
       "name": "틀헌터",
@@ -23712,8 +23712,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 4,
-    "popularityScore": 1174
+    "commentCount": 8,
+    "popularityScore": 1178
   },
   {
     "id": "hg-2033-000017",
@@ -23940,21 +23940,21 @@
     "popularityScore": 1011
   },
   {
-    "id": "hg-2033-000001",
-    "displayNo": 1274805,
-    "timestamp": "2033-09-14T15:33:00+09:00",
+    "id": "hg-2033-000007",
+    "displayNo": 1295891,
+    "timestamp": "2033-09-14T14:48:00+09:00",
     "year": 2033,
-    "internalCategory": "사건·속보",
-    "displayCategory": "사건",
-    "title": "[속보] 이시율 S 상한 넘었다는데",
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "길드",
+    "title": "한성 오늘 지원서버 터짐ㅋㅋ",
     "author": {
-      "type": "fixed",
-      "name": "마탑첩자",
-      "ip": null
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "58.29"
     },
     "stats": {
-      "views": 34042,
-      "recommend": 398
+      "views": 17213,
+      "recommend": 95
     },
     "flags": {
       "notice": false,
@@ -23964,8 +23964,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 5,
-    "popularityScore": 801
+    "commentCount": 8,
+    "popularityScore": 198
   },
   {
     "id": "hg-2033-000004",
@@ -23996,13 +23996,41 @@
     "popularityScore": 1139
   },
   {
+    "id": "hg-2033-000002",
+    "displayNo": 1279120,
+    "timestamp": "2033-09-14T13:52:00+09:00",
+    "year": 2033,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "길드",
+    "title": "이시율 길드 만든거 실화냐",
+    "author": {
+      "type": "fixed",
+      "name": "짐꾼3년차",
+      "ip": null
+    },
+    "stats": {
+      "views": 98904,
+      "recommend": 1457
+    },
+    "flags": {
+      "notice": false,
+      "concept": true,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 26,
+    "popularityScore": 2940
+  },
+  {
     "id": "hg-2033-000009",
     "displayNo": 1304023,
     "timestamp": "2033-09-14T13:33:00+09:00",
     "year": 2033,
-    "internalCategory": "질문·뉴비",
-    "displayCategory": "질문",
-    "title": "SS 하나면 S 몇명분임?",
+    "internalCategory": "사건·속보",
+    "displayCategory": "길드",
+    "title": "이시율 한성 길드 창설 공식 떴다",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -24020,8 +24048,8 @@
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 4,
-    "popularityScore": 2996
+    "commentCount": 16,
+    "popularityScore": 3008
   },
   {
     "id": "hg-2033-000013",
@@ -24052,32 +24080,88 @@
     "popularityScore": 2410
   },
   {
-    "id": "hg-2033-000002",
-    "displayNo": 1279120,
-    "timestamp": "2033-09-14T12:49:00+09:00",
+    "id": "hg-2033-000006",
+    "displayNo": 1293987,
+    "timestamp": "2033-09-14T12:55:00+09:00",
     "year": 2033,
-    "internalCategory": "사건·속보",
-    "displayCategory": "사건",
-    "title": "SS급 신설 실화냐",
+    "internalCategory": "갈드컵·랭킹",
+    "displayCategory": "길드",
+    "title": "이시율 길드 만드는거 아님?",
     "author": {
-      "type": "fixed",
-      "name": "짐꾼3년차",
-      "ip": null
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.38"
     },
     "stats": {
-      "views": 98904,
-      "recommend": 1457
+      "views": 578634,
+      "recommend": 1899
     },
     "flags": {
       "notice": false,
       "concept": true,
+      "classic": true,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 24,
+    "popularityScore": 3822
+  },
+  {
+    "id": "hg-2033-000012",
+    "displayNo": 1311852,
+    "timestamp": "2033-09-14T12:20:00+09:00",
+    "year": 2033,
+    "internalCategory": "뻘글·잡담",
+    "displayCategory": "일반",
+    "title": "세계 최초라는게 더 무섭네",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "125.180"
+    },
+    "stats": {
+      "views": 34035,
+      "recommend": 299
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
       "classic": false,
       "deleted": false,
       "locked": false
     },
     "deletedStatus": null,
-    "commentCount": 26,
-    "popularityScore": 2940
+    "commentCount": 10,
+    "popularityScore": 608
+  },
+  {
+    "id": "hg-2033-000005",
+    "displayNo": 1288900,
+    "timestamp": "2033-09-14T12:08:00+09:00",
+    "year": 2033,
+    "internalCategory": "질문·뉴비",
+    "displayCategory": "질문",
+    "title": "SS가 S보다 얼마나 센거임",
+    "author": {
+      "type": "anonymous",
+      "name": "ㅇㅇ",
+      "ip": "223.38"
+    },
+    "stats": {
+      "views": 21138,
+      "recommend": 174
+    },
+    "flags": {
+      "notice": false,
+      "concept": false,
+      "classic": false,
+      "deleted": false,
+      "locked": false
+    },
+    "deletedStatus": null,
+    "commentCount": 4,
+    "popularityScore": 352
   },
   {
     "id": "hg-2033-000010",
@@ -24136,77 +24220,21 @@
     "popularityScore": 2968
   },
   {
-    "id": "hg-2033-000005",
-    "displayNo": 1288900,
-    "timestamp": "2033-09-14T10:32:00+09:00",
+    "id": "hg-2033-000001",
+    "displayNo": 1274805,
+    "timestamp": "2033-09-14T11:18:00+09:00",
     "year": 2033,
-    "internalCategory": "질문·뉴비",
-    "displayCategory": "질문",
-    "title": "SS가 S보다 얼마나 센거임",
+    "internalCategory": "사건·속보",
+    "displayCategory": "사건",
+    "title": "[속보] 이시율 S 상한 넘었다는데",
     "author": {
-      "type": "anonymous",
-      "name": "ㅇㅇ",
-      "ip": "223.38"
+      "type": "fixed",
+      "name": "마탑첩자",
+      "ip": null
     },
     "stats": {
-      "views": 21138,
-      "recommend": 174
-    },
-    "flags": {
-      "notice": false,
-      "concept": false,
-      "classic": false,
-      "deleted": false,
-      "locked": false
-    },
-    "deletedStatus": null,
-    "commentCount": 4,
-    "popularityScore": 352
-  },
-  {
-    "id": "hg-2033-000012",
-    "displayNo": 1311852,
-    "timestamp": "2033-09-14T10:25:00+09:00",
-    "year": 2033,
-    "internalCategory": "뻘글·잡담",
-    "displayCategory": "일반",
-    "title": "세계 최초라는게 더 무섭네",
-    "author": {
-      "type": "anonymous",
-      "name": "ㅇㅇ",
-      "ip": "125.180"
-    },
-    "stats": {
-      "views": 34035,
-      "recommend": 299
-    },
-    "flags": {
-      "notice": false,
-      "concept": false,
-      "classic": false,
-      "deleted": false,
-      "locked": false
-    },
-    "deletedStatus": null,
-    "commentCount": 4,
-    "popularityScore": 602
-  },
-  {
-    "id": "hg-2033-000007",
-    "displayNo": 1295891,
-    "timestamp": "2033-09-14T09:45:00+09:00",
-    "year": 2033,
-    "internalCategory": "뻘글·잡담",
-    "displayCategory": "일반",
-    "title": "한성 오늘 지원서버 터짐ㅋㅋ",
-    "author": {
-      "type": "anonymous",
-      "name": "ㅇㅇ",
-      "ip": "58.29"
-    },
-    "stats": {
-      "views": 17213,
-      "recommend": 95
+      "views": 34042,
+      "recommend": 398
     },
     "flags": {
       "notice": false,
@@ -24217,35 +24245,7 @@
     },
     "deletedStatus": null,
     "commentCount": 5,
-    "popularityScore": 195
-  },
-  {
-    "id": "hg-2033-000006",
-    "displayNo": 1293987,
-    "timestamp": "2033-09-14T08:10:00+09:00",
-    "year": 2033,
-    "internalCategory": "사건·속보",
-    "displayCategory": "사건",
-    "title": "이시율 한성 간다네",
-    "author": {
-      "type": "anonymous",
-      "name": "ㅇㅇ",
-      "ip": "223.38"
-    },
-    "stats": {
-      "views": 578634,
-      "recommend": 1899
-    },
-    "flags": {
-      "notice": false,
-      "concept": true,
-      "classic": true,
-      "deleted": false,
-      "locked": false
-    },
-    "deletedStatus": null,
-    "commentCount": 24,
-    "popularityScore": 3822
+    "popularityScore": 801
   },
   {
     "id": "hg-2033-000059",
@@ -24506,7 +24506,7 @@
     "year": 2033,
     "internalCategory": "갈드컵·랭킹",
     "displayCategory": "길드",
-    "title": "한성 네뷸라 백호 어디가 제일 빡셈",
+    "title": "네뷸라 백호 어디가 제일 빡셈",
     "author": {
       "type": "anonymous",
       "name": "ㅇㅇ",
@@ -29630,7 +29630,7 @@
     "year": 2029,
     "internalCategory": "갈드컵·랭킹",
     "displayCategory": "길드",
-    "title": "한성 들어가면 이름값 하나는 확실하네",
+    "title": "대형길드 들어가면 이름값 하나는 확실하네",
     "author": {
       "type": "fixed",
       "name": "공략대막내",
